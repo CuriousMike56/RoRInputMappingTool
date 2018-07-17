@@ -1,0 +1,1069 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=22730
+msgid "zoom into the overview map in interactive mode"
+msgstr "التكبير في نظرة عامة على الخريطة في الوضع التبادلي"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=22731
+msgid "zoom camera out faster"
+msgstr "الكاميرا الزوم من أسرع"
+
+# | communitytranslateid=14186
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Your network name. الحد الأقصى 20 حرفا"
+
+# | communitytranslateid=13409
+msgid "Your Forum User Token."
+msgstr "رمز المستخدم الخاص بك في المنتدي ID"
+
+# | communitytranslateid=13413
+msgid "You must save and restart the program to activate the new language!"
+msgstr "يجب تسجيل واعادة تشغيل البرنامج لاعتماد اللغة الجديدة"
+
+# | communitytranslateid=14185
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "أنت لا تحتاج لتغيير هذه الإعدادات إلا إذا كنت تعاني من مشاكل"
+
+# | communitytranslateid=14183
+msgid "wrote screenshot:"
+msgstr "تم التقاط خلفية الشاشة"
+
+# | communitytranslateid=13406
+msgid "Worst FPS: "
+msgstr "اقل FPS:"
+
+# | communitytranslateid=13411
+msgid "Wheels: "
+msgstr "العجلات"
+
+# | communitytranslateid=13416
+msgid "Water type:"
+msgstr "نوعية المياه"
+
+# | communitytranslateid=13467
+msgid "Water spray"
+msgstr "تناثر المياه"
+
+# | communitytranslateid=13843
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "تناثر المياه يسبب بطئ الكمبيوتر واهتزاز مفرط في الكاميرا  و يتطلب معالج ذو قدرة عالية"
+
+# | communitytranslateid=14182
+msgid "VSync"
+msgstr "VSync"
+
+# | communitytranslateid=13569
+msgid "Visual effects"
+msgstr "تأثيرات بصرية"
+
+# | communitytranslateid=14181
+msgid "Video mode:"
+msgstr "نمط الفيديو"
+
+# | communitytranslateid=13481
+msgid "Vehicle Type: "
+msgstr "نوع العربة"
+
+# | communitytranslateid=13419
+msgid "Vegetation:"
+msgstr "الغطاء النباتي"
+
+# | communitytranslateid=14180
+msgid "User Token: "
+msgstr "المستخدمID"
+
+# | communitytranslateid=14179
+msgid "Upper"
+msgstr "الاعلى"
+
+# | communitytranslateid=13395
+msgid "Update"
+msgstr "تحديث"
+
+# | communitytranslateid=13917
+msgid "unkown encoding problem"
+msgstr "unkown encoding problem"
+
+# | communitytranslateid=13661
+msgid "unknown.dds"
+msgstr "غير معروف.dds"
+
+# | communitytranslateid=14177
+msgid "Uncheck in case you have a fog problem"
+msgstr "يمكنك الغاء التحديد في هذا المربع اذا كانت لديك مشاكل في الضباب"
+
+# | communitytranslateid=14176
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "الاتصال بالسيرفر غير ممكن .يمكن ان يكون خارج الخدمة او توجد لديك مشاكل في الشبكة"
+
+# | communitytranslateid=15646
+msgid "Unable to connect to server"
+msgstr "الاتصال بالسيرفر غير ممكن"
+
+# | communitytranslateid=13489
+msgid "Type"
+msgstr "النوع"
+
+# | communitytranslateid=15647
+msgid "Trying to connect to server ..."
+msgstr "محاولة الاتصال بالخادم"
+
+# | communitytranslateid=13549
+msgid "Truck"
+msgstr "شاحنة"
+
+# | communitytranslateid=14178
+msgid "Triangle Count: "
+msgstr "عدد المثلثات"
+
+# | communitytranslateid=14184
+msgid "tracks/CreditsOverlay"
+msgstr "tracks/CreditsOverlay"
+
+# | communitytranslateid=13486
+msgid "Torque: "
+msgstr "عزم الدوران"
+
+# | communitytranslateid=13414
+msgid "tons"
+msgstr "طن"
+
+# | communitytranslateid=13916
+msgid "Thread number:"
+msgstr "عدد المعالجات"
+
+# | communitytranslateid=14175
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "استعادة اللغة الافتراضية .يجب اعادة تشغيل برنامج التعديل لتطبيق التغيرات"
+
+# | communitytranslateid=14174
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "جميلة جدا.ولكنها تسبب بطئ الصورة بالنسبة للحواسيب القديمة"
+
+# | communitytranslateid=14173
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "تحديد نسبة الاشجار والاعشاب الممكن مشاهدتها"
+
+# | communitytranslateid=14170
+msgid "The server password, if required."
+msgstr "كلمة مرور السيرفر .إذا اقتضى الأمر"
+
+# | communitytranslateid=14172
+msgid "Texture filtering:"
+msgstr "فلتر Texture"
+
+# | communitytranslateid=13425
+msgid "Test"
+msgstr "تجربة"
+
+# | communitytranslateid=13579
+msgid "Terrain not found: "
+msgstr "التضاريس غير متوفرة"
+
+# | communitytranslateid=13665
+msgid "Terrain loading error"
+msgstr "خطأ في تحميل التضاريس"
+
+# | communitytranslateid=13915
+msgid "Sunburn"
+msgstr "اشعة الشمس قوية"
+
+# | communitytranslateid=13913
+msgid "Startup error"
+msgstr "خطا في بداية التشغيل"
+
+# | communitytranslateid=15726
+msgid "SPECIAL_CHARACTERS"
+msgstr "احرف خاصة"
+
+# | communitytranslateid=13918
+msgid "Special effects"
+msgstr "المؤثرات الخاصة"
+
+# | communitytranslateid=13590
+msgid "Sounds"
+msgstr "الصوت"
+
+# | communitytranslateid=14171
+msgid "Sound rendering:"
+msgstr "محرك الصوت"
+
+# | communitytranslateid=13491
+msgid "Sky type:"
+msgstr "نوعية السماء"
+
+# | communitytranslateid=13911
+msgid "Simple Settings"
+msgstr "تعديل بسيط"
+
+# | communitytranslateid=14169
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "مشاهدة المرايا العاكسة للرؤية من موقع للشخص الاول .يمكن ان تسبب مشاكل نظرا لعدم تطابقها مع كروت الفيديو القديمة"
+
+# | communitytranslateid=14168
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "مشاهدة لوحة القيادة الدينامكية من موقع الشخص الاول .يمكن ان تسبب مشاكل نظرا لعدم تطابقها مع كروت الفيديو القديمة"
+
+# | communitytranslateid=14167
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "مشاهدة اصطدمات الماش بالون الاحمر لكي تتمكن من وضعها بطرقة صحيحة .تستعمل في حالة تصحيح الاخطاء فقط"
+
+# | communitytranslateid=13920
+msgid "Shadow type:"
+msgstr "نوعية الظل"
+
+# | communitytranslateid=14014
+msgid "Sets all settings in a simple way"
+msgstr "جعل كل التعديلات عادية"
+
+# | communitytranslateid=14013
+msgid "Server port number: "
+msgstr "عدد منافذ السيرفر"
+
+# | communitytranslateid=14012
+msgid "Server password: "
+msgstr "كلمة مرور السيرفر"
+
+# | communitytranslateid=14011
+msgid "Server host name: "
+msgstr "اسم السيرفر"
+
+# | communitytranslateid=13487
+msgid "Search"
+msgstr "بحث"
+
+# | communitytranslateid=14010
+msgid "Screenshot Format:"
+msgstr "نوعية خلفية الشاشة"
+
+# | communitytranslateid=14009
+msgid "Screen configuration"
+msgstr "تعديل الشاشة"
+
+# | communitytranslateid=13929
+msgid "Save the current configuration and start RoR."
+msgstr "ROR حفظ التعديل الحالي وتشغيل"
+
+# | communitytranslateid=14008
+msgid "Save the current configuration and close the configuration program."
+msgstr "حفظ التعديل الحالي والخروج من برنامج التعديل"
+
+# | communitytranslateid=13914
+msgid "Save and Play"
+msgstr "الحفظ ثم اللعب"
+
+# | communitytranslateid=13680
+msgid "Save and Exit"
+msgstr "حفظ مع الخروج"
+
+# | communitytranslateid=14007
+msgid "RTT Mode:"
+msgstr "RTT نمط"
+
+# | communitytranslateid=13912
+msgid "Rigs of Rods configuration"
+msgstr "Rigs of Rods تعديل"
+
+# | communitytranslateid=14006
+msgid "reverse axis"
+msgstr "محور الرجوع الي الوراء"
+
+# | communitytranslateid=13557
+msgid "Reverse"
+msgstr "الرجوع الي الوراء"
+
+# | communitytranslateid=13853
+msgid "Restore the default configuration."
+msgstr "إعادة التهيئة الافتراضية"
+
+# | communitytranslateid=13584
+msgid "Restore Defaults"
+msgstr "استعادة الإعدادات الافتراضية"
+
+# | communitytranslateid=14005
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "تتطلب بطاقة فيديو الأخيرة. ويضيف اضطرابات في نقاوة الصورة"
+
+# | communitytranslateid=14004
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "تتطلب بطاقة فيديو الأخيرة. ويضيف اضطرابات في الاضائة"
+
+# | communitytranslateid=14003
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "تتطلب بطاقة فيديو الأخيرة. ويضيف اضطرابات في الالوان"
+
+# | communitytranslateid=14001
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "نمط اعادة اللعب .(يمكن ان يؤثر علي جودة الصورة"
+
+# | communitytranslateid=14002
+msgid "Replay Mode"
+msgstr "نمط اعادة اللعب"
+
+# # | translated from communitytranslateid=17333
+# | communitytranslateid=22736
+msgid "reloads the roads (experimental)"
+msgstr "تعيد تحميل الطرق (تجريبية)"
+
+# | communitytranslateid=13546
+msgid "Region"
+msgstr "المنطقة"
+
+# | communitytranslateid=14000
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "RoR.logيظهر وزن العقد .يستخدم فقط في صورة الكشف من"
+
+# | communitytranslateid=13999
+msgid "Please select an input event."
+msgstr "الرجاء تحديد حدث الدخول"
+
+# | communitytranslateid=13551
+msgid "Please clear the place first"
+msgstr "الرجاء اخلاء المكان اولا"
+
+# | communitytranslateid=13998
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "جزئيات تتناثر مع مدافع الماء الرشاشة  للشاحنات والمجرورات"
+
+# | communitytranslateid=13847
+msgid "Particle systems"
+msgstr "نظام الجزئيات"
+
+# | communitytranslateid=13474
+msgid "Options"
+msgstr "خيارات"
+
+# | communitytranslateid=13852
+msgid "ok (end test)"
+msgstr "ok (نهاية التجربة)"
+
+# | communitytranslateid=13479
+msgid "OK"
+msgstr "OK"
+
+# | communitytranslateid=14203
+msgid "Ogre config validation error"
+msgstr "Ogre لا يمكن الموافقة علي التعديل"
+
+# | communitytranslateid=14202
+msgid "Ogre config error"
+msgstr "Ogre خطأ في تعديل"
+
+# | communitytranslateid=13854
+msgid "Not much impact on speed."
+msgstr "لا تأثير كبير على سرعة"
+
+# | communitytranslateid=13997
+msgid "normal camera"
+msgstr "كاميرا عادية"
+
+# # | translated from communitytranslateid=17162
+# | communitytranslateid=22733
+msgid "normal brake for an aircraft"
+msgstr "الفرامل العادية للطائرة"
+
+# | communitytranslateid=13862
+msgid "Non-Driveable"
+msgstr "القيادة غير ممكنة"
+
+# | communitytranslateid=13673
+msgid "Nodes: "
+msgstr "العقدة"
+
+# | communitytranslateid=13996
+msgid "node count: "
+msgstr "عدد العقد"
+
+# | communitytranslateid=13995
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "لا مؤثرات الا في صورة اللعب في الماء وايضا منظر انعكاس الماء جميل"
+
+# | communitytranslateid=13994
+msgid "no deadzone"
+msgstr "لا توجد زاوية ميتة"
+
+# | communitytranslateid=13831
+msgid "no author information available"
+msgstr "لا تتوفر معلومات عن الصانع"
+
+# | communitytranslateid=13993
+msgid "Nickname: "
+msgstr "اسم المستخدم"
+
+# | communitytranslateid=13586
+msgid "new Language selected"
+msgstr "اختيار لغة جديدة"
+
+# | communitytranslateid=13849
+msgid "Network"
+msgstr "Network"
+
+# # | translated from communitytranslateid=17344
+# | communitytranslateid=22268
+msgid "move replay fast backward"
+msgstr "اعادتها الى الوراء بسرعة"
+
+# # | translated from communitytranslateid=17337
+# | communitytranslateid=22734
+msgid "move left mirror to the left"
+msgstr "مرآة تحرك اليسار إلى اليمين"
+
+# | communitytranslateid=14205
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# | communitytranslateid=14208
+msgid "Motion blur"
+msgstr "Motion blur"
+
+# | communitytranslateid=13850
+msgid "Mirrors"
+msgstr "المراياالعاكسة"
+
+# | communitytranslateid=13992
+msgid "minimum visibility range in percent"
+msgstr "نسبة الحد الأدنى لمجال الرؤية"
+
+# | communitytranslateid=13668
+msgid "max Speed:"
+msgstr "السرعة القصوي"
+
+# | communitytranslateid=13488
+msgid "Mass: "
+msgstr "الوزن"
+
+# | communitytranslateid=13466
+msgid "Manual shift - Auto clutch"
+msgstr "تغير يدوي لدرجات السرعة -امبرياج اوتوماتيكي"
+
+# | communitytranslateid=13446
+msgid "Machine"
+msgstr "الآلة"
+
+# | communitytranslateid=13991
+msgid "Lower"
+msgstr "منخفض"
+
+# | communitytranslateid=15704
+msgid "loading...\n"
+msgstr "تحميل...\n"
+
+# | communitytranslateid=15648
+msgid "Loading zips in group "
+msgstr "تحميل الملفات المضغوطة في المجموعة"
+
+# | communitytranslateid=15645
+msgid "Loading Terrain"
+msgstr "تحميل تضاريس"
+
+# | communitytranslateid=15705
+msgid "Loading directory\n"
+msgstr "تحميل directory\n"
+
+# | communitytranslateid=13442
+msgid "Loader"
+msgstr "شحن"
+
+# | communitytranslateid=13457
+msgid "List"
+msgstr "قائمة"
+
+# | communitytranslateid=13988
+msgid "Light source effects:"
+msgstr "مؤثرات مصدر الضوء"
+
+# | communitytranslateid=13437
+msgid "Language:"
+msgstr "اللغة"
+
+# | communitytranslateid=14207
+msgid "keyboardcfg.bmp"
+msgstr "لوحة المفاتيحcfg.bmp"
+
+# | communitytranslateid=13848
+msgid "Keyboard"
+msgstr "لوحة المفاتيح"
+
+# | communitytranslateid=13989
+msgid "Key/Axis"
+msgstr "المحور/الزر"
+
+# | communitytranslateid=13987
+msgid "Joystick Options"
+msgstr "خيارات عصا التسلية"
+
+# | communitytranslateid=13986
+msgid "Joystick Axis Region"
+msgstr "محور منطقة عصا التسلية"
+
+# | communitytranslateid=13985
+msgid "Joystick Axis Deadzones"
+msgstr "محور الزاوية الميتة لعصا التسلية"
+
+# | communitytranslateid=14206
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# | communitytranslateid=13919
+msgid "Input Type: "
+msgstr "نوعية الدخول"
+
+# | communitytranslateid=15706
+msgid "incremental check: processing changed zips\n"
+msgstr "incremental check:  تغيير الملف المضغوط\n"
+
+# | communitytranslateid=15707
+msgid "incremental check: new files\n"
+msgstr "incremental check: ملف جديد\n"
+
+# | communitytranslateid=15708
+msgid "incremental check: new content\n"
+msgstr "incremental check: محتوي جديد\n"
+
+# | communitytranslateid=15709
+msgid "incremental check: duplicates\n"
+msgstr "incremental check: نسخة\n"
+
+# | communitytranslateid=15710
+msgid "incremental check: deleted and changed files\n"
+msgstr "incremental check: حذف وتغيير الملف\n"
+
+# | communitytranslateid=15711
+msgid "incremental check: deleted and changed files"
+msgstr "incremental check: حذف وتغيير الملف"
+
+# | communitytranslateid=13984
+msgid "In what Format should screenshots be saved?"
+msgstr "?باي نوع من الصور يمكن تسجيل خلفية الشاشة"
+
+# | communitytranslateid=13983
+msgid "Import Keymap"
+msgstr "جلب مفتاح خريطة"
+
+# | communitytranslateid=13982
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr ".يمكنك تشغيل هذا الخيار لتوليد مزيد من التفاصيل علي العبة .XFireعند استعمال"
+
+# | communitytranslateid=13981
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "تعطيل الكاميرا الخارجية من هنا"
+
+# | communitytranslateid=14204
+msgid "Hydrax Water System"
+msgstr "Hydrax Water System"
+
+# | communitytranslateid=13472
+msgid "High quality reflective effects"
+msgstr "انعكاس الصورة بجودة عالية"
+
+# | communitytranslateid=13453
+msgid "High Quality"
+msgstr "جودة فائقة"
+
+# | communitytranslateid=13440
+msgid "High Performance"
+msgstr "عالية الأداء"
+
+# | communitytranslateid=13456
+msgid "here you can get help"
+msgstr "هنا يمكنك الحصول علي مساعدة"
+
+# | communitytranslateid=13980
+msgid "HeatHaze"
+msgstr "مؤثرات الحرارة"
+
+# | communitytranslateid=13979
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "مؤثرات حرارة المحرك .تبطئ بشكل كبير الحاسوب .تشتغل في الحواسيب الجديدة فقط"
+
+# | communitytranslateid=13436
+msgid "health: "
+msgstr "الحالة الصحية"
+
+# | communitytranslateid=13846
+msgid "Graphics Settings"
+msgstr "تعديل الرسومات"
+
+# | communitytranslateid=13844
+msgid "Graphics"
+msgstr "الرسومات"
+
+# | communitytranslateid=13448
+msgid "Fully Manual shift"
+msgstr "تغيير يدوي لدرجات السرعة"
+
+# | communitytranslateid=13659
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "تكبير الشاشة بدون استنزاف كبير للذاكرة"
+
+# | communitytranslateid=13420
+msgid "Full screen"
+msgstr "تكبير الشاشة"
+
+# | communitytranslateid=13845
+msgid "Full"
+msgstr "كلي"
+
+# | communitytranslateid=13978
+msgid "free camera"
+msgstr "كاميرا خارجية"
+
+# | communitytranslateid=13432
+msgid "Fog"
+msgstr "ضباب"
+
+# | communitytranslateid=13977
+msgid "fixed free camera"
+msgstr "تثبيت الكاميراالخارجية"
+
+# | communitytranslateid=13976
+msgid "Export Keymap"
+msgstr "تصدير مفتاح الخريطة"
+
+# | communitytranslateid=14201
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "قيمة الحدث (left = 0%, right = 100%)"
+
+# | communitytranslateid=13876
+msgid "Event Name: "
+msgstr "اسم الحدث"
+
+# | communitytranslateid=13874
+msgid "Event Name"
+msgstr "اسم الحدث"
+
+# | communitytranslateid=13872
+msgid "Event Description: "
+msgstr "وصف الحدث"
+
+# | communitytranslateid=13870
+msgid "Event"
+msgstr "الحدث"
+
+# | communitytranslateid=13975
+msgid "Error while retrieving user space path"
+msgstr "خطا في العثور علي مسار المستخدم"
+
+# | communitytranslateid=13974
+msgid "Error while retrieving program space path"
+msgstr "خطا في العثور علي مسار البرنامج"
+
+# | communitytranslateid=13433
+msgid "Engine smoke"
+msgstr "دخان العادم"
+
+# | communitytranslateid=13973
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "تشغيل الامواج يزيد في نسبة الاستمتاع في قيادة السفن .ولكنه يقلص من سرعة الحاسوب"
+
+# | communitytranslateid=13972
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "تشغيل نظام الماء الجديد .التجريبي.يحل محل اي تعديل اخر للمياه"
+
+# | communitytranslateid=13971
+msgid "Enable XFire Extension"
+msgstr "الاضافيXFire تشغيل"
+
+# | communitytranslateid=13455
+msgid "Enable waves"
+msgstr "تشغيل الامواج"
+
+# | communitytranslateid=13970
+msgid "Enable Visual Beam Debug"
+msgstr "تشغيل استخراج الاعمدة المرئية"
+
+# | communitytranslateid=13909
+msgid "Enable network mode"
+msgstr "network تشغيل"
+
+# | communitytranslateid=13777
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "استخدام انعكاس الصورة بجودة فائقة -يبطئ الحاسوب"
+
+# | communitytranslateid=13882
+msgid "Enable advanced wheel model"
+msgstr "تشغيل خاصية العجلات المتقدم"
+
+# | communitytranslateid=13429
+msgid "Dust"
+msgstr "الغبار"
+
+# | communitytranslateid=13969
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "مشاهدة عدد العقد و مزيد المعلومات حول العقد و الاعمدة"
+
+# | communitytranslateid=13968
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "FPSتعطيل الخارطة .لغرض التجربة فقط.وهي لا تمكن من زيادة نسبة"
+
+# | communitytranslateid=13967
+msgid "Disable Overview Map"
+msgstr "تعطيل مشاهدة الخارطة"
+
+# | communitytranslateid=13966
+msgid "Disable Camera Pitching"
+msgstr "ايقاف تحرك الكاميرا"
+
+# | communitytranslateid=13796
+msgid "Device:"
+msgstr "الجهاز"
+
+# | communitytranslateid=13434
+msgid "destruction: "
+msgstr "درجة التحطم"
+
+# | communitytranslateid=13639
+msgid "Delete selected"
+msgstr "حذف الاختيار"
+
+# | communitytranslateid=13396
+msgid "deformed: "
+msgstr "الاعوجاج"
+
+# | communitytranslateid=13615
+msgid "Debug Truck Mass"
+msgstr "اظهار الوزن"
+
+# | communitytranslateid=13965
+msgid "Debug Collision Meshes"
+msgstr "اظهار اصطدامات الماش"
+
+# | communitytranslateid=13958
+msgid "Deadzone"
+msgstr "الزاوية الميتة"
+
+# | communitytranslateid=13821
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# | communitytranslateid=13851
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# | communitytranslateid=13956
+msgid "data/config.bmp"
+msgstr "bmp.بيانات/خصائص"
+
+# | communitytranslateid=13803
+msgid "data/"
+msgstr "data/"
+
+# | communitytranslateid=13427
+msgid "Dashboard"
+msgstr "لوحة القيادة"
+
+# | communitytranslateid=13435
+msgid "Custom Particles"
+msgstr "تناثر الجزئيات"
+
+# | communitytranslateid=13431
+msgid "current Speed:"
+msgstr "السرعة الحالية"
+
+# | communitytranslateid=13405
+msgid "current RPM:"
+msgstr "الحالي RPM"
+
+# | communitytranslateid=13422
+msgid "current mass:"
+msgstr "الوزن الحالي"
+
+# | communitytranslateid=13345
+msgid "Current FPS: "
+msgstr "حالي FPS:"
+
+# | communitytranslateid=13957
+msgid "CPU Settings"
+msgstr "تعديل المعالج"
+
+# | communitytranslateid=13910
+msgid "CPU"
+msgstr "المعالج"
+
+# | communitytranslateid=13955
+msgid "Could not write config file"
+msgstr "لا يمكن كتابة ملف التعديل"
+
+# | communitytranslateid=13934
+msgid "Could not open Rendering device"
+msgstr "لا يمكن فتح محرك الجهاز"
+
+# | communitytranslateid=13426
+msgid "Controls"
+msgstr "التحكم"
+
+# | communitytranslateid=13933
+msgid "Configure error"
+msgstr "خطأ في التعديل"
+
+# | communitytranslateid=14198
+msgid "Community / Support"
+msgstr "Community / Support"
+
+# | communitytranslateid=13823
+msgid "Commands:"
+msgstr "ازرار التحكم"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=18082
+msgid "Command 9"
+msgstr "القيادة تحرير 9"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=22732
+msgid "Command 48"
+msgstr "الأمر 48"
+
+# # | translated from communitytranslateid=17211
+# | communitytranslateid=22270
+msgid "Command 2"
+msgstr "2 القيادة"
+
+# | communitytranslateid=13428
+msgid "Cockpit options"
+msgstr "خيارات قمرة القيادة"
+
+# | communitytranslateid=13888
+msgid "close this dialog"
+msgstr "إغلاق هذا الحوار"
+
+# | communitytranslateid=13749
+msgid "Clear cache"
+msgstr "مسح cache"
+
+# | communitytranslateid=15649
+msgid "checking for new zips in "
+msgstr "التحقق من وجود ملفات مضغوطة جديدة"
+
+# | communitytranslateid=15712
+msgid "checking for new directories in "
+msgstr "جديدdirectoriesالتحقق من وجود"
+
+# | communitytranslateid=13907
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "الغاء التغييرات والخروج من برنامج التعديل"
+
+# | communitytranslateid=13401
+msgid "Cancel"
+msgstr "خروج"
+
+# | communitytranslateid=13954
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "النجوم في السماء جميلة .ولكن تتطلب بطاقة رسومات عالية الاداء"
+
+# | communitytranslateid=13468
+msgid "broken: "
+msgstr "محطم"
+
+# | communitytranslateid=13398
+msgid "Boat"
+msgstr "سفينة"
+
+# | communitytranslateid=13951
+msgid "Bloom"
+msgstr "Bloom"
+
+# | communitytranslateid=13399
+msgid "Best FPS: "
+msgstr "اعلي  FPS"
+
+# | communitytranslateid=13950
+msgid "beam count: "
+msgstr "عدد الاعمدة"
+
+# | communitytranslateid=13402
+msgid "Balanced"
+msgstr "التوازن"
+
+# | communitytranslateid=13826
+msgid "Bad server port"
+msgstr "منفذ لا يشتغل"
+
+# | communitytranslateid=13949
+msgid "average stress: "
+msgstr "معدل الاجهاد"
+
+# | communitytranslateid=13394
+msgid "Average FPS: "
+msgstr "متوسط FPS"
+
+# | communitytranslateid=13906
+msgid "average deformation: "
+msgstr "معدل الاعوجاج"
+
+# | communitytranslateid=13430
+msgid "Automatic shift"
+msgstr "تغيير اوتوماتيكي لدرجات السرعة"
+
+# | communitytranslateid=13908
+msgid "Authors: "
+msgstr "الصانع"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=22735
+msgid "Author: "
+msgstr "الكاتب :"
+
+# | communitytranslateid=13789
+msgid "Anti-aliasing:"
+msgstr "Anti-aliasing:"
+
+# | communitytranslateid=13948
+msgid "Anonymous"
+msgstr "مجهول"
+
+# | communitytranslateid=13397
+msgid "Altitude:"
+msgstr "الارتفاع"
+
+# | communitytranslateid=13400
+msgid "Airplane"
+msgstr "طائرة"
+
+# | communitytranslateid=13404
+msgid "Advanced"
+msgstr "المتقدمة"
+
+# | communitytranslateid=13905
+msgid "Add the key"
+msgstr "إضافة زر"
+
+# | communitytranslateid=13403
+msgid "Add"
+msgstr "اضافة"
+
+# | communitytranslateid=13898
+msgid "A network error occured"
+msgstr "networkحدث خطأ في"
+
+# | communitytranslateid=13947
+msgid "5% deadzone"
+msgstr "5% زاوية ميتة"
+
+# | communitytranslateid=13944
+msgid "5 %"
+msgstr "5 %"
+
+# | communitytranslateid=13946
+msgid "30% deadzone"
+msgstr "30% زاوية ميتة"
+
+# | communitytranslateid=13943
+msgid "30 %"
+msgstr "30 %"
+
+# | communitytranslateid=13945
+msgid "20% deadzone"
+msgstr "20% زاوية ميتة"
+
+# | communitytranslateid=13942
+msgid "20 %"
+msgstr "20 %"
+
+# | communitytranslateid=13941
+msgid "15% deadzone"
+msgstr "15% زاوية ميتة"
+
+# | communitytranslateid=13940
+msgid "15 %"
+msgstr "15 %"
+
+# | communitytranslateid=13939
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# | communitytranslateid=13938
+msgid "12333"
+msgstr "12333"
+
+# | communitytranslateid=13937
+msgid "10% deadzone"
+msgstr "10% زاوية ميتة"
+
+# | communitytranslateid=13936
+msgid "10 %"
+msgstr "10 %"
+
+# | communitytranslateid=13935
+msgid "0 % (No deadzone)"
+msgstr "0 % (لا توجد :زاوية ميتة)"
+
+# | communitytranslateid=14197
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>كيفية تشغيل Multiplayer:</p><br><ol><li>اضغط علي <b>تحديث</b> لمشاهدة السيرفرات المتوفرة هنا .</li><li>اضغط علي اي سيرفر  تحته سطر في القائمة.</li><li>لتشغيل اللعبة <b> </b> اضغط علي زر الحفظ وبدا اللعب .</li></ol>"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=22269
+msgid "+25 %"
+msgstr "+25 ٪"
+
+# | communitytranslateid=13930
+msgid "(Please press a key)"
+msgstr "الرجاء اضغط علي الزر"
+
+# | communitytranslateid=14196
+msgid "(Please press a Joystick Button)"
+msgstr "الرجاء ضغط زر عصا التسلية"
+
+# | communitytranslateid=14195
+msgid "(Please move an Axis)\n"
+msgstr "(الرجاء حرك المحور )\n"
+
+# | communitytranslateid=14194
+msgid "(No Languages found)"
+msgstr "لا توجد لغة"
+
+# | communitytranslateid=14193
+msgid "(no author information available)"
+msgstr "no author information available"
+
+# | communitytranslateid=14192
+msgid "^8 Player: ^7"
+msgstr "^8 Player: ^7"
+
+# | communitytranslateid=14191
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 usage: /rcmd [command] [optional arguments]"
+
+# | communitytranslateid=13931
+msgid "^1 unkown Command: "
+msgstr "^1 زر تحكم غير معروف"
+
+# | communitytranslateid=14190
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 ERROR: you must use /rlogin [password] first"
+
+# | communitytranslateid=14189
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 ERROR: protocol error while trying to send command to RCON:"
+
+# | communitytranslateid=14188
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 ERROR: protocol error while trying to log into RCON:"
+
+# | communitytranslateid=13932
+msgid "^1 ERROR: not in network mode"
+msgstr "غير ممكن في حالة اللعب الجماعي عبر الشبكة: ERROR^1"
+
+# | communitytranslateid=14187
+msgid "^1 Error Parsing command"
+msgstr "^1 Error تحليل الاوامر"
+
+# | communitytranslateid=15703
+msgid " not existing"
+msgstr "غير متوفر"
+
+# | communitytranslateid=15702
+msgid " changed"
+msgstr "تغيير"
+

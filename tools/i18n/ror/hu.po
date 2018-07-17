@@ -1,0 +1,2635 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=20644
+msgid "zoom into the overview map in interactive mode"
+msgstr "felülnézeti térkép nagyítása interaktív módban"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=20652
+msgid "zoom camera out faster"
+msgstr "kicsinyítés gyorsabban"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=20635
+msgid "zoom camera out"
+msgstr "kicsinyítés"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=20778
+msgid "zoom camera in faster"
+msgstr "nagyítás gyorsabban"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=20893
+msgid "zoom camera in"
+msgstr "nagyítás"
+
+# | communitytranslateid=12636
+msgid "Your network name. Maximum 20 Characters."
+msgstr "A hálózaton használt neved. Maximum 20 karakter."
+
+# | communitytranslateid=14247
+msgid "Your Forum User Token."
+msgstr "A fórum felhasználói azonosítód."
+
+# | communitytranslateid=14600
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Mentsd el majd indítsd újra a játékot a nyelv érvénybe léptettéséhez!"
+
+# : source/configurator.cpp:1167
+# | communitytranslateid=11381
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Nem kell ezeket az adatokat megvátoztasd amíg hibát nem észlelsz."
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=22068
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Ezzel a jelölőnégyzettel kikapcsolhatod az alap nyikorgás hangot"
+
+# | communitytranslateid=14259
+msgid "wrote screenshot:"
+msgstr "fénykép neve:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=19453
+msgid "Write error"
+msgstr "Írási hiba"
+
+# # | translated from communitytranslateid=17265
+# | communitytranslateid=20896
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr "Az aktuális pozíciót kiírja a log fájlba. (Későbbi megnyitásra és felhasználásra.)"
+
+# | communitytranslateid=14251
+msgid "Worst FPS: "
+msgstr "Legkisebb FPS:"
+
+# | communitytranslateid=14284
+msgid "Wheels: "
+msgstr "Kerekek:"
+
+# : source/configurator.cpp:1068
+# | communitytranslateid=11341
+msgid "Water type:"
+msgstr "Víz tipusa:"
+
+# : source/configurator.cpp:1074
+# | communitytranslateid=11345
+msgid "Water spray"
+msgstr "Víz spray"
+
+# : source/configurator.cpp:1070
+# | communitytranslateid=11342
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "A vízvisszatükröződés lassabb, és igényel egy jó Processzor-t."
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=20891
+msgid "Warning"
+msgstr "Figyelmeztetés"
+
+# : source/configurator.cpp:1044
+# : source/configurator.cpp:1046
+# | communitytranslateid=11336
+msgid "VSync"
+msgstr "Virtuális szinkronizáció"
+
+# : source/configurator.cpp:1098
+# | communitytranslateid=11357
+msgid "Visual effects"
+msgstr "Vizuális effektek"
+
+# : source/configurator.cpp:1023
+# : source/configurator.cpp:1025
+# | communitytranslateid=11331
+msgid "Video mode:"
+msgstr "Videó Mód:"
+
+# | communitytranslateid=14293
+msgid "Vehicle Type: "
+msgstr "Jármű típusa:"
+
+# : source/configurator.cpp:1082
+# | communitytranslateid=11347
+msgid "Vegetation:"
+msgstr "Növényzet:"
+
+# | communitytranslateid=14617
+msgid "User Token: "
+msgstr "Felhasználó jele:"
+
+# # | translated from communitytranslateid=17145
+# | communitytranslateid=20920
+msgid "Use this to remove the whole cache and force the generation from ground up."
+msgstr "Használd ezt hogy törlődjön a teljes gyorsítótár (cache), és alapból újragenerálódjon."
+
+# # | translated from communitytranslateid=17144
+# | communitytranslateid=21708
+msgid "Use this to regenerate the cache outside of RoR. If this does not work, use the clear cache button."
+msgstr "A RoR-on kívüli cache újrakészítéshez használd ezt. Ha nem működik, akkor használd a cache törlése gombot."
+
+# : source/configurator.cpp:1956
+# | communitytranslateid=11418
+msgid "Upper"
+msgstr "Fenti"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=19477
+msgid "Updates"
+msgstr "Frissítések"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=21704
+msgid "Update now"
+msgstr "Frissítés most"
+
+# : source/configurator.cpp:1165
+# | communitytranslateid=11380
+msgid "Update"
+msgstr "Frissítés"
+
+# | communitytranslateid=14294
+msgid "unkown encoding problem"
+msgstr "ismeretlen kódolási probléma"
+
+# | communitytranslateid=14281
+msgid "unknown.dds"
+msgstr "ismeretlen.dds"
+
+# : source/configurator.cpp:1189
+# | communitytranslateid=11387
+msgid "Uncheck in case you have a fog problem"
+msgstr "Abban az esetben távolítsd el ha problemát észlelsz a köddel"
+
+# | communitytranslateid=14256
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Nem lehet csatlakozni a szerverhez. Jelenleg nem működik vagy hálózati problémáid lehetnek."
+
+# | communitytranslateid=15994
+msgid "Unable to connect to server"
+msgstr "Nem lehet kapcsolódni a szerverre"
+
+# : source/configurator.cpp:1300
+# | communitytranslateid=11406
+msgid "Type"
+msgstr "Típus"
+
+# | communitytranslateid=16013
+msgid "Trying to connect to server ..."
+msgstr "Csatlakozás a szerverre ..."
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=21705
+msgid "truck horn"
+msgstr "duda"
+
+# | communitytranslateid=14289
+msgid "Truck"
+msgstr "Kamion"
+
+# | communitytranslateid=14253
+msgid "Triangle Count: "
+msgstr "Háromszög szám:"
+
+# | communitytranslateid=14266
+msgid "tracks/CreditsOverlay"
+msgstr "zeneszámok/KészítőiÖsszefoglaló"
+
+# # | translated from communitytranslateid=19404
+# | communitytranslateid=22946
+msgid "Total Linear"
+msgstr "Folytonosság teljes"
+
+# | communitytranslateid=14287
+msgid "Torque: "
+msgstr "Forgatónyomaték:"
+
+# | communitytranslateid=12634
+msgid "tons"
+msgstr "tonna"
+
+# # | translated from communitytranslateid=17282
+# | communitytranslateid=22709
+msgid "toggle truck HUD"
+msgstr "műszerfal bekapcsolása"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=22857
+msgid "toggle truck front lights"
+msgstr "Első lámpa be/ki kapcsolás"
+
+# # | translated from communitytranslateid=17280
+# | communitytranslateid=22881
+msgid "toggle truck beacons"
+msgstr "Megkülönböztető jelzés be/ki"
+
+# # | translated from communitytranslateid=17264
+# | communitytranslateid=22928
+msgid "toggle translucency of overview-map"
+msgstr "felülnézeti térkép átlátszóság ki/be"
+
+# # | translated from communitytranslateid=17273
+# | communitytranslateid=22859
+msgid "toggle skeleton display mode"
+msgstr "Váltás sturktúra megjelenítés módra"
+
+# # | translated from communitytranslateid=17310
+# | communitytranslateid=20895
+msgid "toggle right direction indicator (blinker)"
+msgstr "jobb oldali irányjelző (index) ki/bekapcsolás"
+
+# # | translated from communitytranslateid=17277
+# | communitytranslateid=20897
+msgid "toggle render mode (solid, wireframe and points)"
+msgstr "render mód váltás (normál, háló, pontok)"
+
+# # | translated from communitytranslateid=17275
+# | communitytranslateid=20890
+msgid "toggle particle cannon"
+msgstr "részecske ágyú ki/bekapcsolás"
+
+# # | translated from communitytranslateid=17325
+# | communitytranslateid=22720
+msgid "toggle parking brake"
+msgstr "kézifék be"
+
+# # | translated from communitytranslateid=17292
+# | communitytranslateid=22537
+msgid "toggle overview map interactive mode"
+msgstr "váltás felülnézeti térképre interaktív módban"
+
+# # | translated from communitytranslateid=17279
+# | communitytranslateid=20645
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr "Ogre statisztikák mutatása (FPS, stb.)"
+
+# # | translated from communitytranslateid=17283
+# | communitytranslateid=20937
+msgid "toggle map modes"
+msgstr "váltás térképmódok között"
+
+# # | translated from communitytranslateid=17309
+# | communitytranslateid=20939
+msgid "toggle left direction indicator (blinker)"
+msgstr "bal oldali irányjelző (index) ki/bekapcsolása"
+
+# # | translated from communitytranslateid=17331
+# | communitytranslateid=22710
+msgid "toggle ignition"
+msgstr "gyújtás"
+
+# # | translated from communitytranslateid=17323
+# | communitytranslateid=22873
+msgid "toggle custom light 9"
+msgstr "Egyedi fény 9 be/ki"
+
+# # | translated from communitytranslateid=17322
+# | communitytranslateid=22874
+msgid "toggle custom light 8"
+msgstr "Egyedi fény 8 be/ki"
+
+# # | translated from communitytranslateid=17321
+# | communitytranslateid=20913
+msgid "toggle custom light 7"
+msgstr "Egyedi fény 7 be/ki"
+
+# # | translated from communitytranslateid=17320
+# | communitytranslateid=20906
+msgid "toggle custom light 6"
+msgstr "Egyedi fény 6 be/ki"
+
+# # | translated from communitytranslateid=17319
+# | communitytranslateid=22875
+msgid "toggle custom light 5"
+msgstr "Egyedi fény 5 be/ki"
+
+# # | translated from communitytranslateid=17318
+# | communitytranslateid=22876
+msgid "toggle custom light 4"
+msgstr "Egyedi fény 4 be/ki"
+
+# # | translated from communitytranslateid=17317
+# | communitytranslateid=22879
+msgid "toggle custom light 3"
+msgstr "Egyedi fény 3 be/ki"
+
+# # | translated from communitytranslateid=17316
+# | communitytranslateid=22871
+msgid "toggle custom light 2"
+msgstr "Egyedi fény 2 be/ki"
+
+# # | translated from communitytranslateid=17315
+# | communitytranslateid=22880
+msgid "toggle custom light 10"
+msgstr "Egyedi fény 10 be/ki"
+
+# # | translated from communitytranslateid=17314
+# | communitytranslateid=22870
+msgid "toggle custom light 1"
+msgstr "Egyedi fény 1 be/ki"
+
+# # | translated from communitytranslateid=17334
+# | communitytranslateid=20926
+msgid "toggle between windowed and fullscreen mode"
+msgstr "váltás ablak- és teljes képernyős mód között"
+
+# # | translated from communitytranslateid=17330
+# | communitytranslateid=22855
+msgid "toggle between transmission modes"
+msgstr "Váltás sebességváltó módok között"
+
+# # | translated from communitytranslateid=17352
+# | communitytranslateid=22864
+msgid "toggle between net chat display modes"
+msgstr "Váltás net chat megjelenítési módok között"
+
+# # | translated from communitytranslateid=17305
+# | communitytranslateid=22858
+msgid "toggle between available road types"
+msgstr "Elérhető úttipusok közötti váltás"
+
+# # | translated from communitytranslateid=17304
+# | communitytranslateid=22882
+msgid "toggle between available objects"
+msgstr "Használható feladatok/tárgyak közötti váltás"
+
+# # | translated from communitytranslateid=17259
+# | communitytranslateid=22929
+msgid "toggle appearance of console"
+msgstr "konzol külső megjelenítése"
+
+# # | translated from communitytranslateid=17311
+# | communitytranslateid=20908
+msgid "toggle all direction indicators"
+msgstr "Minden irányjelző ki/bekapcsolása"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=22860
+msgid "tie a load to the truck"
+msgstr "Teher hozzákötése a járműhöz"
+
+# # | translated from communitytranslateid=17174
+# | communitytranslateid=22935
+msgid "throttle axis. Only use this if you have fitting hardware :) (i.e. a Slider)"
+msgstr "tolóerő tengelyek. Csak akkor használható ha van hozzá megfelelő vezérlőd :) (pl.: egy Slider)"
+
+# : source/configurator.cpp:1121
+# : source/configurator.cpp:1122
+# | communitytranslateid=11367
+msgid "Thread number:"
+msgstr "Processzor magok száma:"
+
+# | communitytranslateid=14620
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Ez a beállítás helyettesíti a rendszer alapártelmezett nyelvét. Ujra kell indítanod a beállításokat hogy jóváhgyd a beállításokat."
+
+# : source/configurator.cpp:1089
+# | communitytranslateid=11351
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Fps rovására mehet régebbi rendszereken, de jól néz ki."
+
+# # | translated from communitytranslateid=17147
+# | communitytranslateid=20901
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr "Engedélyezi a hiányzó modok automatikus letöltését többjátékos módban."
+
+# : source/configurator.cpp:1085
+# | communitytranslateid=11348
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Ez befolyásolja a növényzet (fű, fák, stb.) megjelenítendő mennyiségét."
+
+# # | translated from communitytranslateid=17152
+# | communitytranslateid=22455
+msgid "The update service is currently only available for windows users."
+msgstr "A frissítés szolgáltatás jelenleg csak a Windows felhasználók számára."
+
+# : source/configurator.cpp:1161
+# | communitytranslateid=11379
+msgid "The server password, if required."
+msgstr "A szerverjelszó, ha igényelt."
+
+# : source/configurator.cpp:1035
+# : source/configurator.cpp:1037
+# | communitytranslateid=11333
+msgid "Texture filtering:"
+msgstr "Textúra szűrés:"
+
+# : source/configurator.cpp:994
+# | communitytranslateid=11325
+msgid "Test"
+msgstr "Teszt"
+
+# | communitytranslateid=14257
+msgid "Terrain not found: "
+msgstr "A terep nem található:"
+
+# | communitytranslateid=14258
+msgid "Terrain loading error"
+msgstr "Terep betöltési probléma"
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=20933
+msgid "teleport to rescue truck"
+msgstr "teleportálás az autómentőhöz"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=22927
+msgid "take a screenshot"
+msgstr "fénykép készítése"
+
+# # | translated from communitytranslateid=17303
+# | communitytranslateid=22861
+msgid "switch to road laying mode"
+msgstr "Váltás úttervező módra"
+
+# # | translated from communitytranslateid=17179
+# | communitytranslateid=22712
+msgid "switch all engines on / off"
+msgstr "összes motor ki/be kapcsolása"
+
+# : source/configurator.cpp:1099
+# | communitytranslateid=11358
+msgid "Sunburn"
+msgstr "Hőjelenség"
+
+# # | translated from communitytranslateid=17203
+# | communitytranslateid=22903
+msgid "step forward with the character"
+msgstr "előre lépni a karakterrel"
+
+# # | translated from communitytranslateid=17202
+# | communitytranslateid=22904
+msgid "step backwards with the character"
+msgstr "hátra lépni a karakterrel"
+
+# # | translated from communitytranslateid=17183
+# | communitytranslateid=19482
+msgid "steer right a step"
+msgstr "kormányzás egy egységgel jobbra"
+
+# # | translated from communitytranslateid=17184
+# | communitytranslateid=22939
+msgid "steer right (analog value!)"
+msgstr "kormányzás jobbra (analog érték!)"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=20658
+msgid "steer right"
+msgstr "kormányzás jobbra"
+
+# # | translated from communitytranslateid=17181
+# | communitytranslateid=22938
+msgid "steer left a step"
+msgstr "kormányzás egy egységgel balra"
+
+# # | translated from communitytranslateid=17182
+# | communitytranslateid=22940
+msgid "steer left (analog value!)"
+msgstr "kormányzás balra (analog érték!)"
+
+# # | translated from communitytranslateid=17173
+# | communitytranslateid=22711
+msgid "steer left"
+msgstr "balra kanyarodás"
+
+# | communitytranslateid=14295
+msgid "Startup error"
+msgstr "Indítási hiba"
+
+# # | translated from communitytranslateid=17274
+# | communitytranslateid=22933
+msgid "start the old truck editor"
+msgstr "régi járműtervező elindítása"
+
+# | communitytranslateid=16016
+msgid "SPECIAL_CHARACTERS"
+msgstr "SPECIÁLIS_KARAKTEREK"
+
+# : source/configurator.cpp:1048
+# | communitytranslateid=11337
+msgid "Special effects"
+msgstr "Speciális effektek:"
+
+# : source/configurator.cpp:938
+# | communitytranslateid=11319
+msgid "Sounds"
+msgstr "Hangok"
+
+# : source/configurator.cpp:1114
+# : source/configurator.cpp:1117
+# | communitytranslateid=11366
+msgid "Sound rendering:"
+msgstr "Hang minőség:"
+
+# : source/configurator.cpp:1052
+# | communitytranslateid=11338
+msgid "Sky type:"
+msgstr "Égbolt tipusa:"
+
+# # | translated from communitytranslateid=17157
+# | communitytranslateid=20916
+msgid "Skins"
+msgstr "Textúrák"
+
+# | communitytranslateid=14608
+msgid "Simple Settings"
+msgstr "Egyszerű beállítások"
+
+# # | translated from communitytranslateid=17209
+# | communitytranslateid=22908
+msgid "sidestep to the right"
+msgstr "oldalazás jobbra"
+
+# # | translated from communitytranslateid=17208
+# | communitytranslateid=20907
+msgid "sidestep to the left"
+msgstr "oldalazás balra"
+
+# : source/configurator.cpp:1097
+# | communitytranslateid=11356
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Az oldalso tükrököt aktiválja.A regi videókártyák esetében hibák eszlelhetőek."
+
+# : source/configurator.cpp:1198
+# | communitytranslateid=11393
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Megjeleníti a műszerfalatban található kijelzőket. Komplikációkat okozhat régebbi videókártyáknál."
+
+# : source/configurator.cpp:1207
+# | communitytranslateid=11399
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Vörössel mutatja az összes ütköző elemet, hogy helyes pozícióba helyezhető legyen. Csak nyomonkövetésre használható."
+
+# # | translated from communitytranslateid=17332
+# | communitytranslateid=22910
+msgid "show truck tool"
+msgstr "jármű felszereléseinek mutatása"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=22862
+msgid "show / hide the console"
+msgstr "Konzol mutatása/elrejtése"
+
+# # | translated from communitytranslateid=17327
+# | communitytranslateid=20919
+msgid "shift to neutral gear in manual transmission mode"
+msgstr "üresbe váltás manuális váltó módban"
+
+# # | translated from communitytranslateid=17328
+# | communitytranslateid=22538
+msgid "shift one gear up in manual transmission mode"
+msgstr "Feljebb váltani egyet manulális sebességváltó üzemmódban"
+
+# # | translated from communitytranslateid=17326
+# | communitytranslateid=22865
+msgid "shift one gear down in manual transmission mode"
+msgstr "Visszaváltani egyet manulális sebességváltó üzemmódban"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=20914
+msgid "shift directly to third gear"
+msgstr "3. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19432
+# | communitytranslateid=22878
+msgid "shift directly to second gear"
+msgstr "2. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=22895
+msgid "shift directly to reverse gear"
+msgstr "hátramenet fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19434
+# | communitytranslateid=20648
+msgid "shift directly to fourth gear"
+msgstr "4. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19431
+# | communitytranslateid=22877
+msgid "shift directly to first gear"
+msgstr "1. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19439
+# | communitytranslateid=22894
+msgid "shift directly to 9th gear"
+msgstr "9. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19438
+# | communitytranslateid=22896
+msgid "shift directly to 8th gear"
+msgstr "8. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19437
+# | communitytranslateid=22536
+msgid "shift directly to 7th gear"
+msgstr "7. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19436
+# | communitytranslateid=22452
+msgid "shift directly to 6th gear"
+msgstr "6. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19435
+# | communitytranslateid=22897
+msgid "shift directly to 5th gear"
+msgstr "5. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19448
+# | communitytranslateid=22898
+msgid "shift directly to 18th gear"
+msgstr "18. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19447
+# | communitytranslateid=22899
+msgid "shift directly to 17th gear"
+msgstr "17. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19446
+# | communitytranslateid=20636
+msgid "shift directly to 16th gear"
+msgstr "16. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19445
+# | communitytranslateid=22900
+msgid "shift directly to 15th gear"
+msgstr "15. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19444
+# | communitytranslateid=20639
+msgid "shift directly to 14th gear"
+msgstr "14. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19443
+# | communitytranslateid=22901
+msgid "shift directly to 13th gear"
+msgstr "13. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19442
+# | communitytranslateid=22872
+msgid "shift directly to 12th gear"
+msgstr "12. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19441
+# | communitytranslateid=20643
+msgid "shift directly to 11th gear"
+msgstr "11. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=19440
+# | communitytranslateid=22902
+msgid "shift directly to 10th gear"
+msgstr "10. fokozat közvetlen választása"
+
+# # | translated from communitytranslateid=17308
+# | communitytranslateid=22923
+msgid "shift automatic transmission one gear up"
+msgstr "automata sebességváltó: egy sebességet fel"
+
+# # | translated from communitytranslateid=17307
+# | communitytranslateid=22924
+msgid "shift automatic transmission one gear down"
+msgstr "automata sebességváltó: egy sebességet vissza"
+
+# : source/configurator.cpp:1059
+# : source/configurator.cpp:1061
+# | communitytranslateid=11340
+msgid "Shadow type:"
+msgstr "Árnyék tipusa:"
+
+# # | translated from communitytranslateid=19450
+# | communitytranslateid=22925
+msgid "sets middle range (7-12) for H-shaft"
+msgstr "középső tartomány (7-12 fokozatok) kiválasztása"
+
+# # | translated from communitytranslateid=19449
+# | communitytranslateid=22926
+msgid "sets low range (1-6) for H-shaft"
+msgstr "alsó tartomány (1-6 fokozatok) kiválasztása"
+
+# # | translated from communitytranslateid=19451
+# | communitytranslateid=20657
+msgid "sets high range (13-18) for H-shaft"
+msgstr "felső tartomány (13-18 fokozatok) kiválasztása"
+
+# | communitytranslateid=14611
+msgid "Sets all settings in a simple way"
+msgstr "Egyszerűbb beállítás"
+
+# : source/configurator.cpp:1148
+# : source/configurator.cpp:1507
+# | communitytranslateid=11376
+msgid "Server port number: "
+msgstr "Szerver kapu száma:"
+
+# : source/configurator.cpp:1154
+# | communitytranslateid=11378
+msgid "Server password: "
+msgstr "Szerver jelszava:"
+
+# : source/configurator.cpp:1144
+# : source/configurator.cpp:1505
+# | communitytranslateid=11374
+msgid "Server host name: "
+msgstr "Szerver host neve:"
+
+# # | translated from communitytranslateid=17297
+# | communitytranslateid=22909
+msgid "select previous element in current category"
+msgstr "előző elem kiválasztása a jelenlegi kategóriában"
+
+# # | translated from communitytranslateid=17294
+# | communitytranslateid=20905
+msgid "select previous category"
+msgstr "előző kategória kiválasztása"
+
+# # | translated from communitytranslateid=17293
+# | communitytranslateid=20909
+msgid "select next element in current category"
+msgstr "következő elem kiválasztása az aktuális kategóriából"
+
+# # | translated from communitytranslateid=17295
+# | communitytranslateid=20642
+msgid "select next category"
+msgstr "következő kategóra"
+
+# # | translated from communitytranslateid=17296
+# | communitytranslateid=20935
+msgid "select focussed item and close menu"
+msgstr "kijelölt elem kiválasztása, és menü bezárása"
+
+# | communitytranslateid=14280
+msgid "Search"
+msgstr "Keresés"
+
+# : source/configurator.cpp:1171
+# | communitytranslateid=11382
+msgid "Screenshot Format:"
+msgstr "Fenykép Típusa:"
+
+# : source/configurator.cpp:1007
+# | communitytranslateid=11328
+msgid "Screen configuration"
+msgstr "Képernyő Beállítások"
+
+# : source/configurator.cpp:920
+# | communitytranslateid=11314
+msgid "Save the current configuration and start RoR."
+msgstr "Mentsd el a jelenlegi konfigurációkat és indítsd a RoR-t."
+
+# : source/configurator.cpp:924
+# | communitytranslateid=11316
+msgid "Save the current configuration and close the configuration program."
+msgstr "Mentsd el a jelenlegi konfigurációkat és zárd be a konfiguráló programot."
+
+# # | translated from communitytranslateid=19420
+# | communitytranslateid=22947
+msgid "Save Mapping to File"
+msgstr "Kiosztás mentése file-ba"
+
+# : source/configurator.cpp:918
+# : source/configurator.cpp:927
+# | communitytranslateid=11313
+msgid "Save and Play"
+msgstr "Mentés és Indítás"
+
+# : source/configurator.cpp:921
+# | communitytranslateid=11315
+msgid "Save and Exit"
+msgstr "Mentés és Kilepes"
+
+# # | translated from communitytranslateid=17172
+# | communitytranslateid=22892
+msgid "rudder right"
+msgstr "kormánylapát jobbra"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=22893
+msgid "rudder left"
+msgstr "kormánylapát balra"
+
+# : source/configurator.cpp:1014
+# : source/configurator.cpp:1019
+# : source/configurator.cpp:1021
+# | communitytranslateid=11330
+msgid "RTT Mode:"
+msgstr "RTT mód:"
+
+# # | translated from communitytranslateid=17353
+# | communitytranslateid=22906
+msgid "rotate view up"
+msgstr "látószög forgatása felfelé"
+
+# # | translated from communitytranslateid=17354
+# | communitytranslateid=20646
+msgid "rotate view down"
+msgstr "látószög forgatása lefelé"
+
+# # | translated from communitytranslateid=17302
+# | communitytranslateid=22905
+msgid "rotate object right"
+msgstr "tárgy forgatása jobbra"
+
+# # | translated from communitytranslateid=17301
+# | communitytranslateid=19481
+msgid "rotate object left"
+msgstr "tárgy forgatása balra"
+
+# # | translated from communitytranslateid=17206
+# | communitytranslateid=22715
+msgid "rotate character right"
+msgstr "karakter forgatása jobbra"
+
+# # | translated from communitytranslateid=17205
+# | communitytranslateid=22717
+msgid "rotate character left"
+msgstr "karakter forgatása balra"
+
+# # | translated from communitytranslateid=17197
+# | communitytranslateid=22883
+msgid "rotate camera up"
+msgstr "Kamera forgatása felfelé"
+
+# # | translated from communitytranslateid=17196
+# | communitytranslateid=22884
+msgid "rotate camera right"
+msgstr "Kamera forgatása jobbra"
+
+# # | translated from communitytranslateid=17195
+# | communitytranslateid=22885
+msgid "rotate camera left"
+msgstr "Kamera forgatása balra"
+
+# # | translated from communitytranslateid=17194
+# | communitytranslateid=22886
+msgid "rotate camera down"
+msgstr "Kamera forgatása lefelé"
+
+# : source/configurator.cpp:897
+# | communitytranslateid=11308
+msgid "Rigs of Rods configuration"
+msgstr "Rigs of Rods beállítása"
+
+# # | translated from communitytranslateid=17170
+# | communitytranslateid=22914
+msgid "reverse the turboprops"
+msgstr "turbólégcsavarok visszamenetbe"
+
+# : source/configurator.cpp:1953
+# | communitytranslateid=11416
+msgid "reverse axis"
+msgstr "ellentétes tengely"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=11415
+msgid "Reverse"
+msgstr "Hátra"
+
+# : source/configurator.cpp:917
+# : source/configurator.cpp:926
+# | communitytranslateid=11312
+msgid "Restore the default configuration."
+msgstr "Eredeti konfigurációk visszaállítása."
+
+# : source/configurator.cpp:915
+# | communitytranslateid=11311
+msgid "Restore Defaults"
+msgstr "Eredeti Visszaállítása"
+
+# # | translated from communitytranslateid=17270
+# | communitytranslateid=20637
+msgid "reset truck to original starting position"
+msgstr "jármű visszaállítása az eredeti pozícióba"
+
+# # | translated from communitytranslateid=17193
+# | communitytranslateid=22907
+msgid "reset the camera position"
+msgstr "kamera helyzetének visszaállítása"
+
+# : source/configurator.cpp:1105
+# | communitytranslateid=11363
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Jó videókártyat igényel. Motion blur effektet kölcsönöz."
+
+# : source/configurator.cpp:1102
+# | communitytranslateid=11361
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Jó videókártyát igényel. Egy könnyed homályosodást okoz."
+
+# : source/configurator.cpp:1100
+# | communitytranslateid=11359
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Jó videókártyát igényel. Kékes vakító fényeffektet csinál."
+
+# : source/configurator.cpp:1201
+# | communitytranslateid=11395
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Visszajátszás mód. (befolyásolhatja az fps-t)"
+
+# : source/configurator.cpp:1199
+# | communitytranslateid=11394
+msgid "Replay Mode"
+msgstr "Visszajátszás mód"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=22912
+msgid "Render System"
+msgstr "Társító rendszer"
+
+# # | translated from communitytranslateid=17333
+# | communitytranslateid=20912
+msgid "reloads the roads (experimental)"
+msgstr "újratölti az utakat (kísérleti funkció)"
+
+# : source/configurator.cpp:1962
+# | communitytranslateid=11421
+msgid "Region"
+msgstr "Terület"
+
+# # | translated from communitytranslateid=17143
+# | communitytranslateid=22932
+msgid "Regen cache"
+msgstr "Gyorsítótár (cache) újragenerálása"
+
+# # | translated from communitytranslateid=17164
+# | communitytranslateid=22891
+msgid "pull the elevator up in an aircraft."
+msgstr "magassági kormánylap felhúzása repülőnél"
+
+# # | translated from communitytranslateid=17163
+# | communitytranslateid=20650
+msgid "pull the elevator down in an aircraft."
+msgstr "magassági kormánylap leengedése repülőnél"
+
+# : source/configurator.cpp:1204
+# | communitytranslateid=11397
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "A csomópontok tömegét kiíratja a RoR.log-ba. Járművek hibajavításához használandó!"
+
+# # | translated from communitytranslateid=19386
+# | communitytranslateid=22949
+msgid "Please use any mapped input device in order to test."
+msgstr "Kérem csatlakoztassa az beviteli eszközt tesztelésre."
+
+# # | translated from communitytranslateid=19418
+# | communitytranslateid=22948
+msgid "Please select what type of device to export"
+msgstr "Kérem válassza ki milyen tipusú eszközt kíván exportálni"
+
+# : source/configurator.cpp:316
+# | communitytranslateid=11290
+msgid "Please select an input event."
+msgstr "Válassz ki egy bemeneti eseményt."
+
+# | communitytranslateid=14276
+msgid "Please clear the place first"
+msgstr "Kérlek ürítsd ki a helyet előszőr"
+
+# # | translated from communitytranslateid=17298
+# | communitytranslateid=22911
+msgid "place currently selected object at current position"
+msgstr "jelenleg kiválasztott tárgy elhelyezése a jelenlegi pozición"
+
+# # | translated from communitytranslateid=17300
+# | communitytranslateid=22950
+msgid "pitch object foreward"
+msgstr "tárgy dőlésszöge előre"
+
+# # | translated from communitytranslateid=17299
+# | communitytranslateid=22951
+msgid "pitch object backward"
+msgstr "tárgy dőlésszöge hátra"
+
+# : source/configurator.cpp:1195
+# | communitytranslateid=11391
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Lassithatja a teljesítmenyt Többjátékos módban."
+
+# : source/configurator.cpp:1086
+# | communitytranslateid=11349
+msgid "Particle systems"
+msgstr "Részecske rendszer"
+
+# : source/configurator.cpp:1833
+# | communitytranslateid=11408
+msgid "Options"
+msgstr "Beállítások"
+
+# # | translated from communitytranslateid=17167
+# | communitytranslateid=22918
+msgid "one step more flaps."
+msgstr "fékezőszárny fel egy lépéssel"
+
+# # | translated from communitytranslateid=17166
+# | communitytranslateid=22919
+msgid "one step less flaps."
+msgstr "fékezőszárny vissza egy lépéssel"
+
+# : source/configurator.cpp:494
+# : source/configurator.cpp:500
+# | communitytranslateid=11299
+msgid "ok (end test)"
+msgstr "rendben (teszt vége)"
+
+# | communitytranslateid=14277
+msgid "OK"
+msgstr "OK"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=11409
+msgid "Ogre config validation error"
+msgstr "Ogre konfig érvenyesítési hiba"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=11411
+msgid "Ogre config error"
+msgstr "Ogre konfig hiba"
+
+# : source/configurator.cpp:1192
+# | communitytranslateid=11389
+msgid "Not much impact on speed."
+msgstr "Nem nagyon befojásolja a sebességet."
+
+# | communitytranslateid=14262
+msgid "normal camera"
+msgstr "normális kamera"
+
+# # | translated from communitytranslateid=17162
+# | communitytranslateid=22890
+msgid "normal brake for an aircraft"
+msgstr "Normál fék repülőnek"
+
+# | communitytranslateid=14288
+msgid "Non-Driveable"
+msgstr "Nem-vezethető"
+
+# | communitytranslateid=14286
+msgid "Nodes: "
+msgstr "Csomópontok:"
+
+# | communitytranslateid=14601
+msgid "node count: "
+msgstr "Csomópontok száma:"
+
+# # | translated from communitytranslateid=17177
+# | communitytranslateid=20918
+msgid "no thrust"
+msgstr "nincs tolóerő"
+
+# # | translated from communitytranslateid=17168
+# | communitytranslateid=20649
+msgid "no flaps."
+msgstr "fékezőszárnyak síkban"
+
+# : source/configurator.cpp:1076
+# | communitytranslateid=11346
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Nincs effekt amíg vízzel nem találkozol, ugyancsak jól néz ki."
+
+# # | translated from communitytranslateid=19427
+# | communitytranslateid=22856
+msgid "No differential installed on current vehicle!"
+msgstr "Nincs differenciálmű a jelenlegi járművön"
+
+# : source/configurator.cpp:1966
+# | communitytranslateid=11424
+msgid "no deadzone"
+msgstr "nincs holtpont"
+
+# | communitytranslateid=14282
+msgid "no author information available"
+msgstr "nincs készitői információ"
+
+# # | translated from communitytranslateid=17345
+# | communitytranslateid=22719
+msgid "no airbrakes"
+msgstr "nincs légfék"
+
+# : source/configurator.cpp:1133
+# : source/configurator.cpp:1503
+# | communitytranslateid=11370
+msgid "Nickname: "
+msgstr "Nicknév:"
+
+# | communitytranslateid=14628
+msgid "new Language selected"
+msgstr "új nyelv kiválasztása"
+
+# : source/configurator.cpp:997
+# | communitytranslateid=11326
+msgid "Network"
+msgstr "Hálózat"
+
+# # | translated from communitytranslateid=17340
+# | communitytranslateid=22887
+msgid "move right mirror to the right"
+msgstr "Jobb oldali tükör jobbra mozdítása"
+
+# # | translated from communitytranslateid=17343
+# | communitytranslateid=22456
+msgid "move replay fast forward"
+msgstr "visszajátszás gyors előretekerése"
+
+# # | translated from communitytranslateid=17344
+# | communitytranslateid=22937
+msgid "move replay fast backward"
+msgstr "visszajátszás gyors visszatekerése"
+
+# # | translated from communitytranslateid=17338
+# | communitytranslateid=20936
+msgid "move left mirror to the right"
+msgstr "bal oldali tükör jobbra mozdítása"
+
+# # | translated from communitytranslateid=17337
+# | communitytranslateid=22888
+msgid "move left mirror to the left"
+msgstr "Bal oldali tükör balra mozdítása"
+
+# # | translated from communitytranslateid=17355
+# | communitytranslateid=22453
+msgid "move character up"
+msgstr "karakter felfele mozgatása"
+
+# # | translated from communitytranslateid=17356
+# | communitytranslateid=22930
+msgid "move character down"
+msgstr "karakter lefele mozgatása"
+
+# : source/configurator.cpp:498
+# | communitytranslateid=11301
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# : source/configurator.cpp:1103
+# | communitytranslateid=11362
+msgid "Motion blur"
+msgstr "Elmosódás"
+
+# # | translated from communitytranslateid=17339
+# | communitytranslateid=22889
+msgid "more right mirror to the left"
+msgstr "Jobb oldali tükör balra mozdítása"
+
+# # | translated from communitytranslateid=17341
+# | communitytranslateid=22952
+msgid "more replay forward"
+msgstr "visszajátszás előre"
+
+# # | translated from communitytranslateid=17342
+# | communitytranslateid=22953
+msgid "more replay backward"
+msgstr "visszajátszás hátrafelé"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=22713
+msgid "more airbrakes"
+msgstr "több légfék"
+
+# : source/configurator.cpp:1095
+# | communitytranslateid=11355
+msgid "Mirrors"
+msgstr "Tükrök"
+
+# : source/configurator.cpp:1216
+# : source/configurator.cpp:1296
+# | communitytranslateid=11404
+msgid "minimum visibility range in percent"
+msgstr "Minimum láthatósági távolság százalékban"
+
+# # | translated from communitytranslateid=19425
+# | communitytranslateid=22920
+msgid "Mid range selected"
+msgstr "Középtáv kiválasztva"
+
+# | communitytranslateid=14605
+msgid "max Speed:"
+msgstr "max Sebesség:"
+
+# | communitytranslateid=14285
+msgid "Mass: "
+msgstr "Tömeg:"
+
+# | communitytranslateid=14264
+msgid "Manual shift - Auto clutch"
+msgstr "Manuális sebességváltó - Automata kuplung"
+
+# # | translated from communitytranslateid=17324
+# | communitytranslateid=20929
+msgid "manual clutch (for manual transmission)"
+msgstr "manuális kuplung (manuális váltóhoz)"
+
+# | communitytranslateid=14292
+msgid "Machine"
+msgstr "Gépezet"
+
+# : source/configurator.cpp:1960
+# | communitytranslateid=11420
+msgid "Lower"
+msgstr "Lentebb"
+
+# # | translated from communitytranslateid=19424
+# | communitytranslateid=22942
+msgid "Low range selected"
+msgstr "Kis távolság kiválasztva"
+
+# # | translated from communitytranslateid=17192
+# | communitytranslateid=22931
+msgid "look back (toggles between normal and lookback)"
+msgstr "hátranéz (váltás előre és hátranézés között)"
+
+# | communitytranslateid=16006
+msgid "loading...\n"
+msgstr "betöltés...\n"
+
+# | communitytranslateid=16007
+msgid "Loading zips in group "
+msgstr "ZIP-ek betoltése a csoportba"
+
+# | communitytranslateid=16014
+msgid "Loading Terrain"
+msgstr "Térkép betöltése"
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=22718
+msgid "loading new zip: "
+msgstr "új zip fájl betöltése"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=20899
+msgid "loading new directory: "
+msgstr "Új könyvtár betöltése:"
+
+# | communitytranslateid=16008
+msgid "Loading directory\n"
+msgstr "Konyvtár megnyitása\n"
+
+# | communitytranslateid=14278
+msgid "Loader"
+msgstr "Rakodó"
+
+# | communitytranslateid=14279
+msgid "List"
+msgstr "Lista"
+
+# # | translated from communitytranslateid=19417
+# | communitytranslateid=22945
+msgid "Linearity"
+msgstr "Folytonosság"
+
+# : source/configurator.cpp:1180
+# : source/configurator.cpp:1182
+# : source/configurator.cpp:1184
+# | communitytranslateid=11384
+msgid "Light source effects:"
+msgstr "Fényforrás effektek:"
+
+# # | translated from communitytranslateid=17207
+# | communitytranslateid=22915
+msgid "let the character run"
+msgstr "futás a karakterrel"
+
+# # | translated from communitytranslateid=17204
+# | communitytranslateid=22916
+msgid "let the character jump"
+msgstr "ugrás a karakterrel"
+
+# # | translated from communitytranslateid=17347
+# | communitytranslateid=22922
+msgid "less airbrakes"
+msgstr "kevesebb légfék"
+
+# | communitytranslateid=14618
+msgid "Language:"
+msgstr "Nyelv:"
+
+# : source/configurator.cpp:504
+# | communitytranslateid=11302
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# : source/configurator.cpp:312
+# | communitytranslateid=11289
+msgid "Keyboard"
+msgstr "Billenytűzet"
+
+# : source/configurator.cpp:1302
+# | communitytranslateid=11407
+msgid "Key/Axis"
+msgstr "Gomb/Kezelőszerv"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=11414
+msgid "Joystick Options"
+msgstr "Joystick Beállítások"
+
+# : source/configurator.cpp:1954
+# | communitytranslateid=11417
+msgid "Joystick Axis Region"
+msgstr "Joystick tengely terület"
+
+# # | translated from communitytranslateid=19390
+# | communitytranslateid=22941
+msgid "Joystick Axis Linearity"
+msgstr "Joystick tengely egyeneség"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=11422
+msgid "Joystick Axis Deadzones"
+msgstr "Joystick tengely holtpont"
+
+# : source/configurator.cpp:496
+# | communitytranslateid=11300
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# : source/configurator.cpp:323
+# : source/configurator.cpp:976
+# | communitytranslateid=11291
+msgid "Input Type: "
+msgstr "Bemenetei Típus:"
+
+# | communitytranslateid=16001
+msgid "incremental check: processing changed zips\n"
+msgstr "növekvő ellenörzés: megváltoztatott ZIP-ek feldolgozasa\n"
+
+# | communitytranslateid=16004
+msgid "incremental check: new files\n"
+msgstr "növekvő ellenörzés: új fájlok\n"
+
+# | communitytranslateid=16003
+msgid "incremental check: new content\n"
+msgstr "növekvő ellenörzés: új tartalom\n"
+
+# | communitytranslateid=16005
+msgid "incremental check: duplicates\n"
+msgstr "növekvő ellenörzés: duplikátumok\n"
+
+# | communitytranslateid=15998
+msgid "incremental check: deleted and changed files\n"
+msgstr "növekvő ellenörzés: a filok törölve és megváltoztatva\n"
+
+# | communitytranslateid=15997
+msgid "incremental check: deleted and changed files"
+msgstr "növekvő ellenörzés: a filok törölve és megváltoztatva"
+
+# # | translated from communitytranslateid=17267
+# | communitytranslateid=21707
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr "Keréknyomás növelése (csak néhány jármű támogatja)"
+
+# # | translated from communitytranslateid=17186
+# | communitytranslateid=22869
+msgid "increase throttle"
+msgstr "Tolóerő növelése"
+
+# # | translated from communitytranslateid=17285
+# | communitytranslateid=22913
+msgid "increase the current FOV value"
+msgstr "jelenlegi FOV érték növelése"
+
+# # | translated from communitytranslateid=17178
+# | communitytranslateid=22454
+msgid "increase the airplane thrust"
+msgstr "növeli a repülőgép tolóerő"
+
+# # | translated from communitytranslateid=17190
+# | communitytranslateid=22921
+msgid "increase day-time a lot faster"
+msgstr "napi idő hosszabbítása nagy mértékben"
+
+# # | translated from communitytranslateid=17189
+# | communitytranslateid=19454
+msgid "increase day-time"
+msgstr "napi idő hosszabbítása"
+
+# : source/configurator.cpp:1173
+# | communitytranslateid=11383
+msgid "In what Format should screenshots be saved?"
+msgstr "Mielyen formátumba legyenek a képeid elmentve?"
+
+# : source/configurator.cpp:983
+# | communitytranslateid=11323
+msgid "Import Keymap"
+msgstr "Billentyűbeállítás importálása"
+
+# | communitytranslateid=14624
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Ha Xfire-t használasz, bekapcsolhatod ezt a tulajdonságot hogy részletesebb információkat kapj."
+
+# | communitytranslateid=14622
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Ha nem szereted a rázkodást a külső kamerában, itt kikapcsolhatod."
+
+# : source/configurator.cpp:1208
+# | communitytranslateid=11400
+msgid "Hydrax Water System"
+msgstr "Hzdrax víz rendszer"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=22714
+msgid "hold to start the engine"
+msgstr "tartsd nyomva, hogy elinduljon a motor"
+
+# # | translated from communitytranslateid=19426
+# | communitytranslateid=22943
+msgid "High range selected"
+msgstr "Nagy távolság kiválasztva"
+
+# : source/configurator.cpp:1106
+# | communitytranslateid=11364
+msgid "High quality reflective effects"
+msgstr "Magas minőségű tükröződési effektek"
+
+# | communitytranslateid=14614
+msgid "High Quality"
+msgstr "Legjobb minőség"
+
+# | communitytranslateid=14612
+msgid "High Performance"
+msgstr "Magas Teljesítmény"
+
+# # | translated from communitytranslateid=17262
+# | communitytranslateid=22868
+msgid "hide all GUI elements"
+msgstr "Összes GUI elem elrejtése"
+
+# | communitytranslateid=14627
+msgid "here you can get help"
+msgstr "itt találhatsz segítséget"
+
+# : source/configurator.cpp:1090
+# | communitytranslateid=11352
+msgid "HeatHaze"
+msgstr "Hő-köd"
+
+# : source/configurator.cpp:1093
+# | communitytranslateid=11353
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Hő-köd a motrokból, jelentős lelassulást okoz."
+
+# | communitytranslateid=14301
+msgid "health: "
+msgstr "egésszség:"
+
+# | communitytranslateid=14615
+msgid "Graphics Settings"
+msgstr "Grafikai Beállítások"
+
+# : source/configurator.cpp:935
+# | communitytranslateid=11318
+msgid "Graphics"
+msgstr "Grafika"
+
+# # | translated from communitytranslateid=19423
+# | communitytranslateid=22936
+msgid "Fully Manual: stick shift with ranges"
+msgstr "Teljesen kézi: bot váltó fokozatokkal"
+
+# # | translated from communitytranslateid=19422
+# | communitytranslateid=22716
+msgid "Fully manual: stick shift"
+msgstr "Teljesen kézi: bot váltó"
+
+# # | translated from communitytranslateid=19421
+# | communitytranslateid=20892
+msgid "Fully Manual: sequencial shift"
+msgstr "Teljesen Manuális: Szekvenciális váltó"
+
+# | communitytranslateid=14265
+msgid "Fully Manual shift"
+msgstr "Teljesen manuális sebességváltás"
+
+# # | translated from communitytranslateid=17176
+# | communitytranslateid=20927
+msgid "full thrust"
+msgstr "teljes tolóerő"
+
+# : source/configurator.cpp:1043
+# | communitytranslateid=11335
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Teljes képernyő mód kevesebb memoria forrást használ."
+
+# : source/configurator.cpp:1041
+# | communitytranslateid=11334
+msgid "Full screen"
+msgstr "Teljes képernyő:"
+
+# # | translated from communitytranslateid=17165
+# | communitytranslateid=22917
+msgid "full flaps in an aircraft."
+msgstr "teljes fékezőszárny-beállítása repülőn"
+
+# # | translated from communitytranslateid=17346
+# | communitytranslateid=22866
+msgid "full airbrakes"
+msgstr "Teljes légfék"
+
+# : source/configurator.cpp:1958
+# | communitytranslateid=11419
+msgid "Full"
+msgstr "Teljes"
+
+# | communitytranslateid=14261
+msgid "free camera"
+msgstr "szabad kamera"
+
+# # | translated from communitytranslateid=17156
+# | communitytranslateid=22344
+msgid "FOV: "
+msgstr "FOV:"
+
+# : source/configurator.cpp:1187
+# | communitytranslateid=11386
+msgid "Fog"
+msgstr "Köd"
+
+# | communitytranslateid=14260
+msgid "fixed free camera"
+msgstr "rogzített szabad kamera"
+
+# # | translated from communitytranslateid=17335
+# | communitytranslateid=22863
+msgid "fix the camera to a position"
+msgstr "Kamera rögzítése"
+
+# # | translated from communitytranslateid=19419
+# | communitytranslateid=22944
+msgid "Export selection"
+msgstr "Kiválasztott elem exportálása"
+
+# : source/configurator.cpp:986
+# | communitytranslateid=11324
+msgid "Export Keymap"
+msgstr "Billentyűzetbeállítások exportálása"
+
+# # | translated from communitytranslateid=17288
+# | communitytranslateid=22867
+msgid "EXPERIMENTAL: set maximum amount of grass"
+msgstr "Kísérleti: maximális mennyiségű fű beállítása"
+
+# # | translated from communitytranslateid=17290
+# | communitytranslateid=22934
+msgid "EXPERIMENTAL: save changes to the grass density image"
+msgstr "Kísérleti: változások mentése a fű sűrűséget leíró adatbázisba"
+
+# # | translated from communitytranslateid=17286
+# | communitytranslateid=22347
+msgid "EXPERIMENTAL: remove some grass"
+msgstr "Kísérleti: néhány fű eltávolítása"
+
+# # | translated from communitytranslateid=17289
+# | communitytranslateid=22346
+msgid "EXPERIMENTAL: remove grass completely"
+msgstr "Kísérleti: az összes fű eltávolítása"
+
+# # | translated from communitytranslateid=17287
+# | communitytranslateid=22345
+msgid "EXPERIMENTAL: add some grass"
+msgstr "Kísérleti: hozzáadni egy bizonyos mennyiségű fű-t"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=22343
+msgid "exit the game"
+msgstr "kilépés a játékból"
+
+# : source/configurator.cpp:394
+# | communitytranslateid=11298
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Esemény Érték(bal = 0%, jobb = 100%)"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# : source/configurator.cpp:298
+# : source/configurator.cpp:308
+# : source/configurator.cpp:321
+# | communitytranslateid=11288
+msgid "Event Name: "
+msgstr "Esemény Neve:"
+
+# : source/configurator.cpp:393
+# | communitytranslateid=11297
+msgid "Event Name"
+msgstr "Esemény neve"
+
+# : source/configurator.cpp:392
+# | communitytranslateid=11296
+msgid "Event Description: "
+msgstr "Esemény leírása"
+
+# : source/configurator.cpp:1298
+# | communitytranslateid=11405
+msgid "Event"
+msgstr "Esemény"
+
+# | communitytranslateid=14296
+msgid "Error while retrieving user space path"
+msgstr "Hiba a felhasználo hely szerzése közben"
+
+# | communitytranslateid=12637
+msgid "Error while retrieving program space path"
+msgstr "Hiba a program hely szerzése közben"
+
+# # | translated from communitytranslateid=17260
+# | communitytranslateid=22342
+msgid "enter the chat"
+msgstr "belépés a chatbe"
+
+# # | translated from communitytranslateid=17261
+# | communitytranslateid=20930
+msgid "enter or exit a truck"
+msgstr "be/kiszállás a járműből"
+
+# : source/configurator.cpp:1190
+# | communitytranslateid=11388
+msgid "Engine smoke"
+msgstr "Kipufogó füst"
+
+# : source/configurator.cpp:1073
+# | communitytranslateid=11344
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Hullámzás engedélyezése, sok élvezetet kölcsönöz a hajóknál, de nagyban befolyásolhatja a számítógép sebességét."
+
+# : source/configurator.cpp:1210
+# | communitytranslateid=11401
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Engedélyezi az új viz alkoto rendszert."
+
+# | communitytranslateid=14623
+msgid "Enable XFire Extension"
+msgstr "XFire kiterjesztés engedélyezése"
+
+# : source/configurator.cpp:1071
+# | communitytranslateid=11343
+msgid "Enable waves"
+msgstr "Hullámok engedélyezése"
+
+# | communitytranslateid=14625
+msgid "Enable Visual Beam Debug"
+msgstr "Láthato tartórudak bekapcsolása"
+
+# # | translated from communitytranslateid=19429
+# | communitytranslateid=20902
+msgid "enable or disable replay mode"
+msgstr "Visszajátszás mód engedélyezése vagy letiltása"
+
+# # | translated from communitytranslateid=17278
+# | communitytranslateid=20917
+msgid "enable of disable replay mode"
+msgstr "Visszajátszás mód engedélyezése / letiltása"
+
+# : source/configurator.cpp:1129
+# : source/configurator.cpp:1132
+# | communitytranslateid=11369
+msgid "Enable network mode"
+msgstr "Network mód engedélyezése"
+
+# : source/configurator.cpp:1109
+# | communitytranslateid=11365
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Magas minőségű tükröződési effektek engedélyezése. Lassulást eredményez."
+
+# # | translated from communitytranslateid=17146
+# | communitytranslateid=20900
+msgid "Enable Auto-Downloader"
+msgstr "Automatikus letöltés engedélyezése"
+
+# : source/configurator.cpp:1123
+# : source/configurator.cpp:1128
+# | communitytranslateid=11368
+msgid "Enable advanced wheel model"
+msgstr "Engedélyezi az egyedi kerék módot"
+
+# # | translated from communitytranslateid=17336
+# | communitytranslateid=22341
+msgid "enable / disable free camera mode"
+msgstr "szabad kamera mód bekapcsolása \\ kikapcsolása"
+
+# : source/configurator.cpp:1087
+# | communitytranslateid=11350
+msgid "Dust"
+msgstr "Pór"
+
+# | communitytranslateid=14626
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Csomópontok száma és egyéb információ megjelenítése a csomópontok és tartórudak mentén."
+
+# # | translated from communitytranslateid=17351
+# | communitytranslateid=19480
+msgid "display or hide net chat"
+msgstr "hálózati csevegés megjelenítése vagy elrejtése"
+
+# : source/configurator.cpp:1213
+# | communitytranslateid=11403
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "A térkép letíltása.Semmilyen teljesítmeny növekvés nem érhető el ezáltal."
+
+# : source/configurator.cpp:1211
+# | communitytranslateid=11402
+msgid "Disable Overview Map"
+msgstr "Felülnézeti Térkép Letiltása"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=20656
+msgid "disable creak sound"
+msgstr "karosszéria csikorgásának letiltása"
+
+# | communitytranslateid=14621
+msgid "Disable Camera Pitching"
+msgstr "Kamerarázkódás kikapcsolása"
+
+# # | translated from communitytranslateid=19428
+# | communitytranslateid=20932
+msgid "Differentials switched to: "
+msgstr "Differenciálok beállítása:"
+
+# : source/configurator.cpp:1009
+# : source/configurator.cpp:1012
+# : source/configurator.cpp:1017
+# | communitytranslateid=11329
+msgid "Device:"
+msgstr "Berendezés:"
+
+# | communitytranslateid=14302
+msgid "destruction: "
+msgstr "romlás:"
+
+# # | translated from communitytranslateid=17160
+# | communitytranslateid=20903
+msgid "Description: "
+msgstr "Leírás:"
+
+# : source/configurator.cpp:981
+# | communitytranslateid=11322
+msgid "Delete selected"
+msgstr "Kijelölt törlése"
+
+# # | translated from communitytranslateid=17350
+# | communitytranslateid=22340
+msgid "delete current truck"
+msgstr "jelenlegi kamion törlése"
+
+# | communitytranslateid=14303
+msgid "deformed: "
+msgstr "deformáltság:"
+
+# # | translated from communitytranslateid=17158
+# | communitytranslateid=20640
+msgid "Default Skin"
+msgstr "Alapértelmezett kinézet"
+
+# # | translated from communitytranslateid=17284
+# | communitytranslateid=22339
+msgid "decreases the current FOV value"
+msgstr "a jelenlegi FOV értékének csökkentése"
+
+# # | translated from communitytranslateid=17175
+# | communitytranslateid=22338
+msgid "decreases the airplane thrust"
+msgstr "a repülőgép tolóerejének csökkentése"
+
+# # | translated from communitytranslateid=17266
+# | communitytranslateid=22337
+msgid "decrease tire pressure (note: only very few trucks support this)"
+msgstr "gumiabroncs nyomásának csökkentése (csak nagyon kevés járműnél lehetséges)"
+
+# # | translated from communitytranslateid=17185
+# | communitytranslateid=22336
+msgid "decrease throttle"
+msgstr "tolóerő csökkentése"
+
+# # | translated from communitytranslateid=17188
+# | communitytranslateid=22335
+msgid "decrease day-time a lot faster"
+msgstr "napi idő csökkentése nagymértékben"
+
+# # | translated from communitytranslateid=17187
+# | communitytranslateid=20924
+msgid "decrease day-time"
+msgstr "napi idő csökkentése"
+
+# : source/configurator.cpp:1202
+# | communitytranslateid=11396
+msgid "Debug Truck Mass"
+msgstr "Jármű súlyának nyomonkövetése"
+
+# # | translated from communitytranslateid=17276
+# | communitytranslateid=20925
+msgid "debug purpose - dont use"
+msgstr "Cél nyomon követése - ne használd"
+
+# : source/configurator.cpp:1205
+# | communitytranslateid=11398
+msgid "Debug Collision Meshes"
+msgstr "Nyomon követett ütközési hálózat"
+
+# : source/configurator.cpp:2276
+# : source/configurator.cpp:2287
+# | communitytranslateid=11435
+msgid "Deadzone"
+msgstr "Holtpont"
+
+# : source/configurator.cpp:900
+# : source/configurator.cpp:902
+# : source/configurator.cpp:908
+# | communitytranslateid=11309
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# : source/configurator.cpp:507
+# : source/configurator.cpp:510
+# | communitytranslateid=11303
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# : source/configurator.cpp:914
+# | communitytranslateid=11310
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# : source/configurator.cpp:565
+# | communitytranslateid=11304
+msgid "data/"
+msgstr "data/"
+
+# : source/configurator.cpp:1196
+# | communitytranslateid=11392
+msgid "Dashboard"
+msgstr "Műszerfal"
+
+# # | translated from communitytranslateid=19452
+# | communitytranslateid=22334
+msgid "Cycle between available differental models"
+msgstr "Időszakok közötti elérhető modellek"
+
+# : source/configurator.cpp:1193
+# | communitytranslateid=11390
+msgid "Custom Particles"
+msgstr "Sajátos elemek"
+
+# | communitytranslateid=14604
+msgid "current Speed:"
+msgstr "jelenlegi sebesség:"
+
+# | communitytranslateid=14603
+msgid "current RPM:"
+msgstr "jelenlegi RPM:"
+
+# | communitytranslateid=14602
+msgid "current mass:"
+msgstr "jelenlegi tömeg:"
+
+# | communitytranslateid=14248
+msgid "Current FPS: "
+msgstr "Jelenlegi FPS-ed:"
+
+# | communitytranslateid=14610
+msgid "CPU Settings"
+msgstr "Processzor Beállítások"
+
+# : source/configurator.cpp:941
+# | communitytranslateid=11320
+msgid "CPU"
+msgstr "Processzor"
+
+# # | translated from communitytranslateid=19388
+# | communitytranslateid=22333
+msgid "Could not write to input.map file"
+msgstr "Nem lehetséges az input.map fájl írása"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=11412
+msgid "Could not write config file"
+msgstr "Nem lehetséges a config file írása"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=11410
+msgid "Could not open Rendering device"
+msgstr "Nem lehet megnyitani a rendering devicet"
+
+# : source/configurator.cpp:977
+# | communitytranslateid=11321
+msgid "Controls"
+msgstr "Irányítás"
+
+# # | translated from communitytranslateid=17263
+# | communitytranslateid=19462
+msgid "connect hook node to a node in close proximity"
+msgstr "összekapcsolja a csatlakozópontot egy közeli ponttal"
+
+# : source/configurator.cpp:1948
+# | communitytranslateid=11413
+msgid "Configure error"
+msgstr "Konfigurációs probléma"
+
+# | communitytranslateid=14609
+msgid "Community / Support"
+msgstr "Közösség / Segítség"
+
+# | communitytranslateid=14607
+msgid "Commands:"
+msgstr "Parancsok:"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=22332
+msgid "Command 9"
+msgstr "9-es Parancs"
+
+# # | translated from communitytranslateid=17217
+# | communitytranslateid=22331
+msgid "Command 8"
+msgstr "8-as Parancs"
+
+# # | translated from communitytranslateid=17216
+# | communitytranslateid=22330
+msgid "Command 7"
+msgstr "7-es Parancs"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=19483
+msgid "Command 6"
+msgstr "6-os Parancs"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=22329
+msgid "Command 5"
+msgstr "5-ös Parancs"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=20910
+msgid "Command 48"
+msgstr "48-as Parancs"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=20915
+msgid "Command 47"
+msgstr "47-es Parancs"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=22328
+msgid "Command 46"
+msgstr "46-os Parancs"
+
+# # | translated from communitytranslateid=17254
+# | communitytranslateid=20928
+msgid "Command 45"
+msgstr "45-ös Parancs"
+
+# # | translated from communitytranslateid=17253
+# | communitytranslateid=22327
+msgid "Command 44"
+msgstr "44-es Parancs"
+
+# # | translated from communitytranslateid=17252
+# | communitytranslateid=20931
+msgid "Command 43"
+msgstr "43-as Parancs"
+
+# # | translated from communitytranslateid=17251
+# | communitytranslateid=20934
+msgid "Command 42"
+msgstr "42-es Parancs"
+
+# # | translated from communitytranslateid=17250
+# | communitytranslateid=22326
+msgid "Command 41"
+msgstr "41-es Parancs"
+
+# # | translated from communitytranslateid=17249
+# | communitytranslateid=22325
+msgid "Command 40"
+msgstr "40-es Parancs"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=22324
+msgid "Command 4"
+msgstr "4-es Parancs"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=19455
+msgid "Command 39"
+msgstr "Parancs 39"
+
+# # | translated from communitytranslateid=17247
+# | communitytranslateid=22323
+msgid "Command 38"
+msgstr "38-as Parancs"
+
+# # | translated from communitytranslateid=17246
+# | communitytranslateid=22322
+msgid "Command 37"
+msgstr "37-es Parancs"
+
+# # | translated from communitytranslateid=17245
+# | communitytranslateid=22321
+msgid "Command 36"
+msgstr "36-os Parancs"
+
+# # | translated from communitytranslateid=17244
+# | communitytranslateid=20922
+msgid "Command 35"
+msgstr "35-ös Parancs"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=22320
+msgid "Command 34"
+msgstr "34-es Parancs"
+
+# # | translated from communitytranslateid=17242
+# | communitytranslateid=22319
+msgid "Command 33"
+msgstr "33-as Parancs"
+
+# # | translated from communitytranslateid=17241
+# | communitytranslateid=22318
+msgid "Command 32"
+msgstr "32-es Parancs"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=22317
+msgid "Command 31"
+msgstr "31-es Parancs"
+
+# # | translated from communitytranslateid=17239
+# | communitytranslateid=22316
+msgid "Command 30"
+msgstr "30-as Parancs"
+
+# # | translated from communitytranslateid=17212
+# | communitytranslateid=22315
+msgid "Command 3"
+msgstr "3-as Parancs"
+
+# # | translated from communitytranslateid=17238
+# | communitytranslateid=20651
+msgid "Command 29"
+msgstr "Parancs 29"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=22314
+msgid "Command 28"
+msgstr "28-as Parancs"
+
+# # | translated from communitytranslateid=17236
+# | communitytranslateid=22313
+msgid "Command 27"
+msgstr "27-es Parancs"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=22312
+msgid "Command 26"
+msgstr "26-as Parancs"
+
+# # | translated from communitytranslateid=17234
+# | communitytranslateid=22311
+msgid "Command 25"
+msgstr "25-ös Parancs"
+
+# # | translated from communitytranslateid=17233
+# | communitytranslateid=22310
+msgid "Command 24"
+msgstr "24-es Parancs"
+
+# # | translated from communitytranslateid=17232
+# | communitytranslateid=22309
+msgid "Command 23"
+msgstr "23-as Parancs"
+
+# # | translated from communitytranslateid=17231
+# | communitytranslateid=22308
+msgid "Command 22"
+msgstr "22-es Parancs"
+
+# # | translated from communitytranslateid=17230
+# | communitytranslateid=20898
+msgid "Command 21"
+msgstr "21-es Parancs"
+
+# # | translated from communitytranslateid=17229
+# | communitytranslateid=22307
+msgid "Command 20"
+msgstr "20-as Parancs"
+
+# # | translated from communitytranslateid=17211
+# | communitytranslateid=22306
+msgid "Command 2"
+msgstr "2-es Parancs"
+
+# # | translated from communitytranslateid=17228
+# | communitytranslateid=22305
+msgid "Command 19"
+msgstr "19-es Parancs"
+
+# # | translated from communitytranslateid=17227
+# | communitytranslateid=22304
+msgid "Command 18"
+msgstr "18-as Parancs"
+
+# # | translated from communitytranslateid=17226
+# | communitytranslateid=22303
+msgid "Command 17"
+msgstr "17-es Parancs"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=20638
+msgid "Command 16"
+msgstr "Parancs 16"
+
+# # | translated from communitytranslateid=17224
+# | communitytranslateid=22302
+msgid "Command 15"
+msgstr "15-ös Parancs"
+
+# # | translated from communitytranslateid=17223
+# | communitytranslateid=22301
+msgid "Command 14"
+msgstr "14-es Parancs"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=22300
+msgid "Command 13"
+msgstr "13-as Parancs"
+
+# # | translated from communitytranslateid=17221
+# | communitytranslateid=22299
+msgid "Command 12"
+msgstr "12-es Parancs"
+
+# # | translated from communitytranslateid=17220
+# | communitytranslateid=20904
+msgid "Command 11"
+msgstr "11-es Parancs"
+
+# # | translated from communitytranslateid=17219
+# | communitytranslateid=20921
+msgid "Command 10"
+msgstr "10-es Parancs"
+
+# # | translated from communitytranslateid=17210
+# | communitytranslateid=20894
+msgid "Command 1"
+msgstr "1-es Parancs"
+
+# : source/configurator.cpp:1094
+# | communitytranslateid=11354
+msgid "Cockpit options"
+msgstr "Pilótafülke beállításai"
+
+# : source/configurator.cpp:336
+# | communitytranslateid=11295
+msgid "close this dialog"
+msgstr "ablak bezárása"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=21706
+msgid "Click on blue hyperlinks to select a server."
+msgstr "Egy szerver kiválasztásához kattints a kék linkek valamelyikére."
+
+# : source/configurator.cpp:1186
+# | communitytranslateid=11385
+msgid "Clear cache"
+msgstr "Gyorsítótár (cache) ürítése"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=22298
+msgid "Choose a file"
+msgstr "Válassz egy fájlt"
+
+# | communitytranslateid=16011
+msgid "checking for new zips in "
+msgstr "új ZIP-ek keresése a"
+
+# | communitytranslateid=16012
+msgid "checking for new directories in "
+msgstr "új konyvtárak keresése a"
+
+# # | translated from communitytranslateid=17191
+# | communitytranslateid=22297
+msgid "change camera mode"
+msgstr "kamera mód változtatása"
+
+# # | translated from communitytranslateid=17180
+# | communitytranslateid=22296
+msgid "center the rudder"
+msgstr "a kormánylapát középre vitele"
+
+# : source/configurator.cpp:932
+# | communitytranslateid=11317
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Konfigurációk visszavonása és kilépés a beállításokból."
+
+# : source/configurator.cpp:327
+# | communitytranslateid=11294
+msgid "Cancel"
+msgstr "Mégsem"
+
+# : source/configurator.cpp:1054
+# | communitytranslateid=11339
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Caelum égbolt jól néz ki, de lassú ha nincs nagyteljesítményű processzorod."
+
+# # | translated from communitytranslateid=17155
+# | communitytranslateid=20647
+msgid "Cache regeneration done.\n"
+msgstr "Gyorsítótár frissítése befejezve.\n"
+
+# | communitytranslateid=14300
+msgid "broken: "
+msgstr "törött:"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=22295
+msgid "brake"
+msgstr "fék"
+
+# | communitytranslateid=14291
+msgid "Boat"
+msgstr "Csónak"
+
+# : source/configurator.cpp:1101
+# | communitytranslateid=11360
+msgid "Bloom"
+msgstr "Hamvasság"
+
+# | communitytranslateid=14250
+msgid "Best FPS: "
+msgstr "Legjobb FPS:"
+
+# | communitytranslateid=14298
+msgid "beam count: "
+msgstr "rudak száma:"
+
+# | communitytranslateid=14613
+msgid "Balanced"
+msgstr "Kiegyensúlyozott"
+
+# | communitytranslateid=14254
+msgid "Bad server port"
+msgstr "Rossz szerver port"
+
+# | communitytranslateid=14305
+msgid "average stress: "
+msgstr "átlagos erő:"
+
+# | communitytranslateid=14249
+msgid "Average FPS: "
+msgstr "Átlag FPS:"
+
+# | communitytranslateid=14304
+msgid "average deformation: "
+msgstr "átlagos deformáció:"
+
+# | communitytranslateid=14263
+msgid "Automatic shift"
+msgstr "Automata sebességvaltó"
+
+# | communitytranslateid=14283
+msgid "Authors: "
+msgstr "Készítők:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=22294
+msgid "Author: "
+msgstr "Szerző:"
+
+# : source/configurator.cpp:1027
+# : source/configurator.cpp:1029
+# | communitytranslateid=11332
+msgid "Anti-aliasing:"
+msgstr "Élsimítás:"
+
+# : source/configurator.cpp:1134
+# | communitytranslateid=11371
+msgid "Anonymous"
+msgstr "Ismeretlen"
+
+# | communitytranslateid=14606
+msgid "Altitude:"
+msgstr "Magasság:"
+
+# # | translated from communitytranslateid=17349
+# | communitytranslateid=22293
+msgid "airplane throttle"
+msgstr "repülőgép tolóerő"
+
+# # | translated from communitytranslateid=17169
+# | communitytranslateid=22292
+msgid "airplane parking brake."
+msgstr "repülőgép parkoló fék-e"
+
+# | communitytranslateid=14290
+msgid "Airplane"
+msgstr "Repülőgép"
+
+# : source/configurator.cpp:1003
+# | communitytranslateid=11327
+msgid "Advanced"
+msgstr "Haladó"
+
+# : source/configurator.cpp:326
+# : source/configurator.cpp:923
+# | communitytranslateid=11293
+msgid "Add the key"
+msgstr "Add hozzá a billentyűt"
+
+# : source/configurator.cpp:324
+# | communitytranslateid=11292
+msgid "Add"
+msgstr "Hozzáadás"
+
+# # | translated from communitytranslateid=17306
+# | communitytranslateid=22291
+msgid "accelerate the truck"
+msgstr "jármű gyorsítása"
+
+# | communitytranslateid=14255
+msgid "A network error occured"
+msgstr "Egy hálózati hiba lépett fel"
+
+# : source/configurator.cpp:1969
+# | communitytranslateid=11426
+msgid "5% deadzone"
+msgstr "5 % holtpont"
+
+# : source/configurator.cpp:1966
+# , c-format
+# | communitytranslateid=11425
+msgid "5 %"
+msgstr "5 %"
+
+# : source/configurator.cpp:1981
+# | communitytranslateid=11434
+msgid "30% deadzone"
+msgstr "30% holtpont"
+
+# : source/configurator.cpp:1978
+# , c-format
+# | communitytranslateid=11433
+msgid "30 %"
+msgstr "30 %"
+
+# : source/configurator.cpp:1978
+# | communitytranslateid=11432
+msgid "20% deadzone"
+msgstr "20 % holtpont"
+
+# : source/configurator.cpp:1975
+# , c-format
+# | communitytranslateid=11431
+msgid "20 %"
+msgstr "20 %"
+
+# : source/configurator.cpp:1975
+# | communitytranslateid=11430
+msgid "15% deadzone"
+msgstr "15 % holtpont"
+
+# : source/configurator.cpp:1972
+# , c-format
+# | communitytranslateid=11429
+msgid "15 %"
+msgstr "15 %"
+
+# : source/configurator.cpp:1145
+# : source/configurator.cpp:1149
+# : source/configurator.cpp:1147
+# | communitytranslateid=11375
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# : source/configurator.cpp:1152
+# | communitytranslateid=11377
+msgid "12333"
+msgstr "12333"
+
+# : source/configurator.cpp:1972
+# | communitytranslateid=11428
+msgid "10% deadzone"
+msgstr "10 % holtpont"
+
+# : source/configurator.cpp:1969
+# , c-format
+# | communitytranslateid=11427
+msgid "10 %"
+msgstr "10 %"
+
+# # | translated from communitytranslateid=19403
+# | communitytranslateid=22290
+msgid "0 % (Total Linear)"
+msgstr "0 % (Teljesen egyenes)"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=11423
+msgid "0 % (No deadzone)"
+msgstr "0% (nincs holtpont)"
+
+# | communitytranslateid=14616
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Hogyan kell játszani többjátékos módban:</p><br><ol><li>Kattints a <b>Frissítés</b> gombra, hogy lásd a lehetséges szervereket.</li><li>Kattints bármelyik aláhúzott szerverre a listából.</li><li>Kattints a <b>Mentés és indítás</b> gombra hogy indítsd a játékot.</li></ol>"
+
+# | communitytranslateid=15995
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Legfrisebb hírek</h2>Nincsen jelenleg<h2>Támogatások / Közösség</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>oktatások</a><p/> (ez az oldal még fejlesztés alatt áll ...)"
+
+# # | translated from communitytranslateid=19402
+# | communitytranslateid=22289
+msgid "+5% multiplication"
+msgstr "+5%-os szorzás"
+
+# # | translated from communitytranslateid=19401
+# | communitytranslateid=22288
+msgid "+5 %"
+msgstr "+5 %"
+
+# # | translated from communitytranslateid=19392
+# | communitytranslateid=22287
+msgid "+30% multiplication"
+msgstr "+30%-os szorzás"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=22286
+msgid "+30 %"
+msgstr "+30 %"
+
+# # | translated from communitytranslateid=19394
+# | communitytranslateid=22285
+msgid "+25% multiplication"
+msgstr "+25%-os szorzás"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=22284
+msgid "+25 %"
+msgstr "+25 %"
+
+# # | translated from communitytranslateid=19396
+# | communitytranslateid=22283
+msgid "+20% multiplication"
+msgstr "+20%-os szorzás"
+
+# # | translated from communitytranslateid=19395
+# | communitytranslateid=22282
+msgid "+20 %"
+msgstr "+20 %"
+
+# # | translated from communitytranslateid=19398
+# | communitytranslateid=20654
+msgid "+15% multiplication"
+msgstr "+15%-al több"
+
+# # | translated from communitytranslateid=19397
+# | communitytranslateid=22281
+msgid "+15 %"
+msgstr "+15 %"
+
+# # | translated from communitytranslateid=19400
+# | communitytranslateid=22280
+msgid "+10% multiplication"
+msgstr "+10%-os szorzás"
+
+# # | translated from communitytranslateid=19399
+# | communitytranslateid=22279
+msgid "+10 %"
+msgstr "+10 %"
+
+# : source/configurator.cpp:587
+# | communitytranslateid=11305
+msgid "(Please press a key)"
+msgstr "(Kérlek nyomj le egy gombot)"
+
+# : source/configurator.cpp:613
+# | communitytranslateid=11306
+msgid "(Please press a Joystick Button)"
+msgstr "(Kérlek nyomj le egy Joystick Gombot)"
+
+# : source/configurator.cpp:829
+# | communitytranslateid=11307
+msgid "(Please move an Axis)\n"
+msgstr "(Kérlek mozdíts meg egy érzékelőszervet)\n"
+
+# # | translated from communitytranslateid=19387
+# | communitytranslateid=20641
+msgid "(Please move a Slider)\n"
+msgstr "(Kérlek mozgasd meg a csúszkát)\n"
+
+# | communitytranslateid=14619
+msgid "(No Languages found)"
+msgstr "(Nyelvek nem találhatók)"
+
+# | communitytranslateid=14297
+msgid "(no author information available)"
+msgstr "(nincs készítői informáació)"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=20911
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "... betöltés ... (Lehet ellenőrizned kéne az internet kapcsolatod)"
+
+# # | translated from communitytranslateid=19406
+# | communitytranslateid=20938
+msgid "-5% multiplication"
+msgstr "-5% szorzó"
+
+# # | translated from communitytranslateid=19405
+# | communitytranslateid=20923
+msgid "-5 %"
+msgstr "-5 %"
+
+# # | translated from communitytranslateid=19416
+# | communitytranslateid=22278
+msgid "-30% multiplication"
+msgstr "-30%-os szorzás"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=22277
+msgid "-30 %"
+msgstr "-30 %"
+
+# # | translated from communitytranslateid=19414
+# | communitytranslateid=20655
+msgid "-25% multiplication"
+msgstr "-25%-al kevesebb"
+
+# # | translated from communitytranslateid=19413
+# | communitytranslateid=22276
+msgid "-25 %"
+msgstr "-25 %"
+
+# # | translated from communitytranslateid=19412
+# | communitytranslateid=22275
+msgid "-20% multiplication"
+msgstr "-20%-os szorzás"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=22274
+msgid "-20 %"
+msgstr "-20 %"
+
+# # | translated from communitytranslateid=19410
+# | communitytranslateid=22273
+msgid "-15% multiplication"
+msgstr "-15%-os szorzás"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=20653
+msgid "-15 %"
+msgstr "-15 %"
+
+# # | translated from communitytranslateid=19408
+# | communitytranslateid=22272
+msgid "-10% multiplication"
+msgstr "-10%-os szorzás"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=22271
+msgid "-10 %"
+msgstr "-10 %"
+
+# | communitytranslateid=14267
+msgid "^8 Player: ^7"
+msgstr "^8 Játékos: ^7"
+
+# | communitytranslateid=14271
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 használat: /rcmd [command] [optional arguments]"
+
+# | communitytranslateid=14274
+msgid "^1 unkown Command: "
+msgstr "^1 ismeretlen parancs:"
+
+# | communitytranslateid=14269
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 HIBA: használnod kell / belépés [jelszó] előszőr"
+
+# | communitytranslateid=14272
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 HIBA: protokoll hiba az RCON-nak való utasítás közben:"
+
+# | communitytranslateid=14268
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 HIBA: protocol hiba az RCON kapcsolódása közben:"
+
+# | communitytranslateid=14273
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 HIBA: nem hálózati mód"
+
+# | communitytranslateid=14275
+msgid "^1 Error Parsing command"
+msgstr "^1 HIBA a parancs elemzése közben"
+
+# | communitytranslateid=15999
+msgid " not existing"
+msgstr "nem létezik"
+
+# | communitytranslateid=16000
+msgid " changed"
+msgstr "megváltoztatva"
+

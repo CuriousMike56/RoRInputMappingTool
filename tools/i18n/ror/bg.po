@@ -1,0 +1,1508 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# | communitytranslateid=14693
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Your мрежа име. Максимум 20 Характер."
+
+# | communitytranslateid=14695
+msgid "Your Forum User Token."
+msgstr "Your Форум Потребител Знак."
+
+# | communitytranslateid=14702
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Трябва да запазите и да рестартирате програмата за да се активира новият зададен от вас език!"
+
+# | communitytranslateid=14705
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Ти правя не нужда към промяна тези обстановка ако не ти опит проблема"
+
+# | communitytranslateid=14708
+msgid "wrote screenshot:"
+msgstr "написа на екрана:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=23515
+msgid "Write error"
+msgstr "Грешка в синтаксиса"
+
+# | communitytranslateid=14697
+msgid "Worst FPS: "
+msgstr "Най-лош FPS :"
+
+# | communitytranslateid=14706
+msgid "Wheels: "
+msgstr "колело:"
+
+# | communitytranslateid=14707
+msgid "Water type:"
+msgstr "Вода вид :"
+
+# | communitytranslateid=14709
+msgid "Water spray"
+msgstr "Вода ръся"
+
+# | communitytranslateid=14747
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Вода размисъл е бавна и изисква добра GPU. При скорост оптимизиран режим може да се опита прекомерно камера разклащане"
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=23508
+msgid "Warning"
+msgstr "Предупреждение"
+
+# | communitytranslateid=14822
+msgid "VSync"
+msgstr "вертикална синхронизация"
+
+# | communitytranslateid=14710
+msgid "Visual effects"
+msgstr "Зрителен вещи"
+
+# | communitytranslateid=14711
+msgid "Video mode:"
+msgstr "Видео режим:"
+
+# | communitytranslateid=14712
+msgid "Vehicle Type: "
+msgstr "Превозно средство Вид :"
+
+# | communitytranslateid=14713
+msgid "Vegetation:"
+msgstr "растителност"
+
+# | communitytranslateid=14714
+msgid "User Token: "
+msgstr "потребител знак:"
+
+# | communitytranslateid=14715
+msgid "Upper"
+msgstr "горница на обувка"
+
+# | communitytranslateid=14730
+msgid "Update"
+msgstr "актуализирам"
+
+# | communitytranslateid=14716
+msgid "unkown encoding problem"
+msgstr "неизвестно Кодиране проблем"
+
+# | communitytranslateid=14759
+msgid "unknown.dds"
+msgstr "неизвестен.dds"
+
+# | communitytranslateid=14717
+msgid "Uncheck in case you have a fog problem"
+msgstr "махнете отметката в случай, че имате проблем мъгла"
+
+# | communitytranslateid=14701
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Неспособен към съединявам към определителен член служа. То е разбира се голо възвишение или ти имам мрежа проблема."
+
+# | communitytranslateid=15351
+msgid "Unable to connect to server"
+msgstr "Не може да се свърже със сървъра"
+
+# | communitytranslateid=14718
+msgid "Type"
+msgstr "тип"
+
+# | communitytranslateid=15353
+msgid "Trying to connect to server ..."
+msgstr "Опитвате се да се свърже със сървъра ..."
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=23514
+msgid "truck horn"
+msgstr "клаксон"
+
+# | communitytranslateid=14719
+msgid "Truck"
+msgstr "камион"
+
+# | communitytranslateid=14698
+msgid "Triangle Count: "
+msgstr "Триъгълник Броя :"
+
+# | communitytranslateid=14743
+msgid "tracks/CreditsOverlay"
+msgstr "писти / кредити покритие"
+
+# | communitytranslateid=14720
+msgid "Torque: "
+msgstr "Въртящ момент:"
+
+# | communitytranslateid=14765
+msgid "tons"
+msgstr "т"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=23532
+msgid "tie a load to the truck"
+msgstr "вържи товар за камиона"
+
+# | communitytranslateid=14721
+msgid "Thread number:"
+msgstr "конец число:"
+
+# | communitytranslateid=14729
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Тази настройка Заменя системата на език по подразбиране. Трябва да рестартирате конфигуратор да прилага промени"
+
+# | communitytranslateid=14722
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Този мога повреждам оформям цена a късче на стар система , но то вид хубав добър."
+
+# | communitytranslateid=14723
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Това определя колко трева и колко дръвчета (и такъв вещ ) трябва да се покаже."
+
+# | communitytranslateid=14724
+msgid "The server password, if required."
+msgstr "Определителен член служа парола , ако изисквам."
+
+# | communitytranslateid=14725
+msgid "Texture filtering:"
+msgstr "текстура филтър:"
+
+# | communitytranslateid=14726
+msgid "Test"
+msgstr "тест"
+
+# | communitytranslateid=14703
+msgid "Terrain not found: "
+msgstr "терен не основавам:"
+
+# | communitytranslateid=14704
+msgid "Terrain loading error"
+msgstr "терен товаря грешка"
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=23533
+msgid "teleport to rescue truck"
+msgstr "телепортиране до спасителния камион"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=23507
+msgid "take a screenshot"
+msgstr "направи снимка"
+
+# | communitytranslateid=14727
+msgid "Sunburn"
+msgstr "изгаряне от слънце"
+
+# | communitytranslateid=14728
+msgid "Startup error"
+msgstr "стартиране грешка"
+
+# | communitytranslateid=15721
+msgid "SPECIAL_CHARACTERS"
+msgstr "Б б Г г Д д Ж ж З з И и Й й К к Л л П п Ф ф Х х Ц ц Ч ч Ш ш Щ щ Ъ ъ ь Ю ю Я я"
+
+# | communitytranslateid=14732
+msgid "Special effects"
+msgstr "Особен вещи"
+
+# | communitytranslateid=14733
+msgid "Sounds"
+msgstr "звуци"
+
+# | communitytranslateid=14734
+msgid "Sound rendering:"
+msgstr "Звук оказване:"
+
+# | communitytranslateid=14735
+msgid "Sky type:"
+msgstr "Небе вид :"
+
+# | communitytranslateid=14736
+msgid "Simple Settings"
+msgstr "прости настройки"
+
+# | communitytranslateid=14762
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Показва огледала за обратно виждане в 1-во лице, панорама. Съвместимост може да причини проблеми за много стари видео карти."
+
+# | communitytranslateid=14763
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Показвам определителен член динамичен dashboard in 1st лице преглед. Мога причина съвместимост проблема за много стар виж карта."
+
+# | communitytranslateid=14797
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Показвам цял Сблъскване дупка на мрежа in Червен към бъда способен към положение тях правилен. Единствен употреба за отстраняване на грешки!"
+
+# # | translated from communitytranslateid=17332
+# | communitytranslateid=23513
+msgid "show truck tool"
+msgstr "покажи инструмента на камиона"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=23540
+msgid "show / hide the console"
+msgstr "покажи/скрий конзолата"
+
+# # | translated from communitytranslateid=19437
+# | communitytranslateid=23537
+msgid "shift directly to 7th gear"
+msgstr "директна смяна към 7-ма предавка"
+
+# | communitytranslateid=14816
+msgid "Shadow type:"
+msgstr "Сянка вид:"
+
+# | communitytranslateid=14817
+msgid "Sets all settings in a simple way"
+msgstr "Комплекти всички настройки по прост начин"
+
+# | communitytranslateid=14818
+msgid "Server port number: "
+msgstr "Сървърен порт номер:"
+
+# | communitytranslateid=14819
+msgid "Server password: "
+msgstr "Служа парола:"
+
+# | communitytranslateid=14820
+msgid "Server host name: "
+msgstr "Служа тълпа име:"
+
+# | communitytranslateid=14758
+msgid "Search"
+msgstr "търся"
+
+# | communitytranslateid=14823
+msgid "Screenshot Format:"
+msgstr "параван сачми формат:"
+
+# | communitytranslateid=14824
+msgid "Screen configuration"
+msgstr "Екран конфигурация"
+
+# | communitytranslateid=14807
+msgid "Save the current configuration and start RoR."
+msgstr "Запазване на текущата конфигурация и започнете RoR."
+
+# | communitytranslateid=14809
+msgid "Save the current configuration and close the configuration program."
+msgstr "Запазване на текущата конфигурация и затворите конфигурация програма."
+
+# | communitytranslateid=14806
+msgid "Save and Play"
+msgstr "запазваш и започваш играта"
+
+# | communitytranslateid=14808
+msgid "Save and Exit"
+msgstr "Спасявам и Излизане"
+
+# | communitytranslateid=14825
+msgid "RTT Mode:"
+msgstr "RTT Режим:"
+
+# # | translated from communitytranslateid=17354
+# | communitytranslateid=23536
+msgid "rotate view down"
+msgstr "завърти изгледа надолу"
+
+# # | translated from communitytranslateid=17206
+# | communitytranslateid=23543
+msgid "rotate character right"
+msgstr "завърти човека надясно"
+
+# | communitytranslateid=14803
+msgid "Rigs of Rods configuration"
+msgstr "Rigs of Rods конфигурация"
+
+# | communitytranslateid=14826
+msgid "reverse axis"
+msgstr "обратната ос"
+
+# | communitytranslateid=14827
+msgid "Reverse"
+msgstr "обратен"
+
+# | communitytranslateid=14805
+msgid "Restore the default configuration."
+msgstr "Възстановяване на стандартната конфигурация."
+
+# | communitytranslateid=14804
+msgid "Restore Defaults"
+msgstr "Възстановявам Неявяване"
+
+# | communitytranslateid=14842
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Изисква скорошна видео карта. Добавя движение мъгла ефект."
+
+# | communitytranslateid=14843
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Изисква скорошна видео карта. Добавя светлината размива ефект."
+
+# | communitytranslateid=14830
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Изисквам a неотдавнашен виж карта. Прибавям a синкав сляп последствие."
+
+# | communitytranslateid=14828
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "замествам готовност. (Могат да засегнат вашата рамка ставка)"
+
+# | communitytranslateid=14829
+msgid "Replay Mode"
+msgstr "замествам режим"
+
+# | communitytranslateid=14844
+msgid "Region"
+msgstr "Регион"
+
+# | communitytranslateid=14845
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Разпечатки всички единица маси да RoR.log. да бъда се използват само за отстраняване на грешки!"
+
+# | communitytranslateid=14790
+msgid "Please select an input event."
+msgstr "Харесвам отбран an input събитие."
+
+# | communitytranslateid=14753
+msgid "Please clear the place first"
+msgstr "Моля, махнете возилото първо"
+
+# | communitytranslateid=14879
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Частиците като вода оръдия или обикновена пътеки. Може да бъде по-използвани в Групова игра."
+
+# | communitytranslateid=14846
+msgid "Particle systems"
+msgstr "Частици системи"
+
+# | communitytranslateid=14847
+msgid "Options"
+msgstr "Опции"
+
+# | communitytranslateid=14799
+msgid "ok (end test)"
+msgstr "ОК (края тест)"
+
+# | communitytranslateid=14754
+msgid "OK"
+msgstr "OK"
+
+# | communitytranslateid=14848
+msgid "Ogre config validation error"
+msgstr "Ogre конфиг валидиране грешка"
+
+# | communitytranslateid=14899
+msgid "Ogre config error"
+msgstr "Orge конфиг грешка"
+
+# | communitytranslateid=14877
+msgid "Not much impact on speed."
+msgstr "Не много влияние върху скоростта."
+
+# | communitytranslateid=14739
+msgid "normal camera"
+msgstr "нормална камера"
+
+# | communitytranslateid=14767
+msgid "Non-Driveable"
+msgstr "не карам способен"
+
+# | communitytranslateid=14766
+msgid "Nodes: "
+msgstr "възли:"
+
+# | communitytranslateid=14781
+msgid "node count: "
+msgstr "възел броене:"
+
+# | communitytranslateid=14855
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Никакъв ефект, освен ако не сте каша с вода, изглежда доста добре също."
+
+# | communitytranslateid=14908
+msgid "no deadzone"
+msgstr "не мъртва зона"
+
+# | communitytranslateid=14760
+msgid "no author information available"
+msgstr "Авторът не информация  налична"
+
+# | communitytranslateid=14867
+msgid "Nickname: "
+msgstr "Псевдоним:"
+
+# | communitytranslateid=14895
+msgid "new Language selected"
+msgstr "нов език избрани"
+
+# | communitytranslateid=14832
+msgid "Network"
+msgstr "мрежа"
+
+# # | translated from communitytranslateid=17340
+# | communitytranslateid=23542
+msgid "move right mirror to the right"
+msgstr "премести дясното огледало на дясно"
+
+# # | translated from communitytranslateid=17356
+# | communitytranslateid=23589
+msgid "move character down"
+msgstr "премести човека надолу"
+
+# | communitytranslateid=14921
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# | communitytranslateid=14862
+msgid "Motion blur"
+msgstr "Предложение мъгла"
+
+# # | translated from communitytranslateid=17339
+# | communitytranslateid=23587
+msgid "more right mirror to the left"
+msgstr "премести дясното огледало наляво"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=23534
+msgid "more airbrakes"
+msgstr "повече въздушни спирачки"
+
+# | communitytranslateid=14860
+msgid "Mirrors"
+msgstr "Огледала"
+
+# | communitytranslateid=14893
+msgid "minimum visibility range in percent"
+msgstr "минимален обхват на видимост в на сто"
+
+# | communitytranslateid=14785
+msgid "max Speed:"
+msgstr "Максимална скорост:"
+
+# | communitytranslateid=14764
+msgid "Mass: "
+msgstr "маса количество:"
+
+# | communitytranslateid=14741
+msgid "Manual shift - Auto clutch"
+msgstr "Ръчен премествам - Автомобил сграбчвам"
+
+# | communitytranslateid=14770
+msgid "Machine"
+msgstr "машинен"
+
+# | communitytranslateid=14905
+msgid "Lower"
+msgstr "Долен"
+
+# | communitytranslateid=15362
+msgid "loading...\n"
+msgstr "товарене...\n"
+
+# | communitytranslateid=15363
+msgid "Loading zips in group "
+msgstr "зареждане на файлове в групи"
+
+# | communitytranslateid=15367
+msgid "Loading Terrain"
+msgstr "товарене терен"
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=23517
+msgid "loading new zip: "
+msgstr "зареждане на нов zip архив"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=23588
+msgid "loading new directory: "
+msgstr "зареждане на нова директория:"
+
+# | communitytranslateid=15364
+msgid "Loading directory\n"
+msgstr "товарене директория\n"
+
+# | communitytranslateid=14756
+msgid "Loader"
+msgstr "товарач"
+
+# | communitytranslateid=14757
+msgid "List"
+msgstr "Списък"
+
+# | communitytranslateid=14872
+msgid "Light source effects:"
+msgstr "Светлинен източник ефекти:"
+
+# | communitytranslateid=14874
+msgid "Language:"
+msgstr "Език:"
+
+# | communitytranslateid=14922
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# | communitytranslateid=14789
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+# | communitytranslateid=14897
+msgid "Key/Axis"
+msgstr "Ключови/Ос"
+
+# | communitytranslateid=14902
+msgid "Joystick Options"
+msgstr "Джойстик Опции"
+
+# | communitytranslateid=14903
+msgid "Joystick Axis Region"
+msgstr "Джойстик ос Регион"
+
+# | communitytranslateid=14906
+msgid "Joystick Axis Deadzones"
+msgstr "Джойстик ос Мъртви зони"
+
+# | communitytranslateid=14920
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# | communitytranslateid=14791
+msgid "Input Type: "
+msgstr "Входно Тип:"
+
+# | communitytranslateid=15358
+msgid "incremental check: processing changed zips\n"
+msgstr "им проверка: обработка променя ципове\n"
+
+# | communitytranslateid=15360
+msgid "incremental check: new files\n"
+msgstr "им проверка: нови файлове\n"
+
+# | communitytranslateid=15359
+msgid "incremental check: new content\n"
+msgstr "им проверка: ново съдържание\n"
+
+# | communitytranslateid=15361
+msgid "incremental check: duplicates\n"
+msgstr "им проверка: дубликати\n"
+
+# | communitytranslateid=15355
+msgid "incremental check: deleted and changed files\n"
+msgstr "им проверка: заличава и променени файлове\n"
+
+# | communitytranslateid=15354
+msgid "incremental check: deleted and changed files"
+msgstr "им проверка: заличава и променени файлове"
+
+# | communitytranslateid=14871
+msgid "In what Format should screenshots be saved?"
+msgstr "в какъв формат трябва да направите снимка се спаси?"
+
+# | communitytranslateid=14815
+msgid "Import Keymap"
+msgstr "внасям ключ географска карта"
+
+# | communitytranslateid=14890
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Ако ти употреба XFire , ти мога шибалка на този избор към пораждам a повече подробен игра уведомявам."
+
+# | communitytranslateid=14888
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Ако не харесвате на Накланяме външно средство камера, можеш да я извадим от тук."
+
+# | communitytranslateid=14883
+msgid "Hydrax Water System"
+msgstr "Hydrax водите система"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=23539
+msgid "hold to start the engine"
+msgstr "задръж, за да запалиш двигателят"
+
+# | communitytranslateid=14863
+msgid "High quality reflective effects"
+msgstr "Високо качество на огледални ефекти"
+
+# | communitytranslateid=14838
+msgid "High Quality"
+msgstr "Висок Качество"
+
+# | communitytranslateid=14836
+msgid "High Performance"
+msgstr "Висок Изпълнение"
+
+# | communitytranslateid=14894
+msgid "here you can get help"
+msgstr "Тук можете да получите помощ"
+
+# | communitytranslateid=14857
+msgid "HeatHaze"
+msgstr "Топло мараня"
+
+# | communitytranslateid=14858
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Топло мараня от двигатели, големи забавяне. (единствен активизирам с неотдавнашен железария)"
+
+# | communitytranslateid=14776
+msgid "health: "
+msgstr "здраве:"
+
+# | communitytranslateid=14839
+msgid "Graphics Settings"
+msgstr "графичните настройки"
+
+# | communitytranslateid=14811
+msgid "Graphics"
+msgstr "графики"
+
+# | communitytranslateid=14742
+msgid "Fully Manual shift"
+msgstr "Пълно Ръчен премествам"
+
+# | communitytranslateid=14851
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Пълен екран използва малко по-малко памет ресурси"
+
+# | communitytranslateid=14850
+msgid "Full screen"
+msgstr "Цял екран"
+
+# | communitytranslateid=14904
+msgid "Full"
+msgstr "Пълен"
+
+# | communitytranslateid=14738
+msgid "free camera"
+msgstr "свободна камера"
+
+# | communitytranslateid=14875
+msgid "Fog"
+msgstr "Мъгла"
+
+# | communitytranslateid=14737
+msgid "fixed free camera"
+msgstr "Твърда свободна камера"
+
+# | communitytranslateid=14831
+msgid "Export Keymap"
+msgstr "изнасям ключ географска карта"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=23524
+msgid "exit the game"
+msgstr "изход от играта"
+
+# | communitytranslateid=14798
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Събитие Ценност ( ляв = 0%, прав = 100%)"
+
+# | communitytranslateid=14788
+msgid "Event Name: "
+msgstr "Събитие Име:"
+
+# | communitytranslateid=14796
+msgid "Event Name"
+msgstr "Събитие Име"
+
+# | communitytranslateid=14795
+msgid "Event Description: "
+msgstr "Събитие Описание:"
+
+# | communitytranslateid=14896
+msgid "Event"
+msgstr "Събитие"
+
+# | communitytranslateid=14772
+msgid "Error while retrieving user space path"
+msgstr "Грешка при изтегляне на потребителя пространство пътека"
+
+# | communitytranslateid=14771
+msgid "Error while retrieving program space path"
+msgstr "Грешка при изтегляне на Програмата място пътека"
+
+# # | translated from communitytranslateid=17260
+# | communitytranslateid=23590
+msgid "enter the chat"
+msgstr "влез в чата"
+
+# # | translated from communitytranslateid=17261
+# | communitytranslateid=23604
+msgid "enter or exit a truck"
+msgstr "вход в/изход от  камион"
+
+# | communitytranslateid=14876
+msgid "Engine smoke"
+msgstr "Двигател дим"
+
+# | communitytranslateid=14854
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Разрешаването на вълни добавя доста забавно в лодки, но може да има голямо влияние върху ефективността на някои специфични хардуерни"
+
+# | communitytranslateid=14884
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Позволява новите вода оказване система. Експериментални. Заменя вода настройки."
+
+# | communitytranslateid=14889
+msgid "Enable XFire Extension"
+msgstr "Разрешаване XFire Разширение"
+
+# | communitytranslateid=14853
+msgid "Enable waves"
+msgstr "Разрешаване на вълни"
+
+# | communitytranslateid=14891
+msgid "Enable Visual Beam Debug"
+msgstr "позволяват визуална лъч трасирате"
+
+# | communitytranslateid=14866
+msgid "Enable network mode"
+msgstr "Давам възможност на мрежа Режим"
+
+# | communitytranslateid=14864
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Разрешаване на висококачествени огледални ефекти. Причините забавяне."
+
+# | communitytranslateid=14865
+msgid "Enable advanced wheel model"
+msgstr "Разрешаване на напредналите колело модел"
+
+# | communitytranslateid=14856
+msgid "Dust"
+msgstr "мръсотия"
+
+# | communitytranslateid=14892
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Показва възел номера и повече информация по възли и греди."
+
+# # | translated from communitytranslateid=17351
+# | communitytranslateid=23509
+msgid "display or hide net chat"
+msgstr "покажи / скрий чата"
+
+# | communitytranslateid=14886
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "въртя на разстояние от географска карта. Това е само за тестови цели, вие не трябва да спечелят всички FPS с това."
+
+# | communitytranslateid=14885
+msgid "Disable Overview Map"
+msgstr "правя неспособен географска карта"
+
+# | communitytranslateid=14887
+msgid "Disable Camera Pitching"
+msgstr "Деактивиране Камера Накланяме"
+
+# | communitytranslateid=14840
+msgid "Device:"
+msgstr "устройство"
+
+# | communitytranslateid=14777
+msgid "destruction: "
+msgstr "разрушение:"
+
+# | communitytranslateid=14814
+msgid "Delete selected"
+msgstr "Изтривам отбран"
+
+# | communitytranslateid=14778
+msgid "deformed: "
+msgstr "деформирани:"
+
+# | communitytranslateid=14881
+msgid "Debug Truck Mass"
+msgstr "Трасиране Камион Маса"
+
+# | communitytranslateid=14882
+msgid "Debug Collision Meshes"
+msgstr "Трасиране Сблъсък Отворите"
+
+# | communitytranslateid=14919
+msgid "Deadzone"
+msgstr "мъртва зона"
+
+# | communitytranslateid=14925
+msgid "data\\\\config.bmp"
+msgstr "данни\\\\config.bmp"
+
+# | communitytranslateid=14923
+msgid "data\\\\"
+msgstr "данни\\\\"
+
+# | communitytranslateid=14926
+msgid "data/config.bmp"
+msgstr "данни/config.bmp"
+
+# | communitytranslateid=14924
+msgid "data/"
+msgstr "данни /"
+
+# | communitytranslateid=14880
+msgid "Dashboard"
+msgstr "Табло"
+
+# | communitytranslateid=14878
+msgid "Custom Particles"
+msgstr "Персонализирано Частиците"
+
+# | communitytranslateid=14784
+msgid "current Speed:"
+msgstr "текущ Бързина:"
+
+# | communitytranslateid=14783
+msgid "current RPM:"
+msgstr "текущата RPM:"
+
+# | communitytranslateid=14782
+msgid "current mass:"
+msgstr "текущата маса:"
+
+# | communitytranslateid=14599
+msgid "Current FPS: "
+msgstr "Текущ FPS :"
+
+# | communitytranslateid=14835
+msgid "CPU Settings"
+msgstr "CPU настройки"
+
+# | communitytranslateid=14812
+msgid "CPU"
+msgstr "CPU"
+
+# | communitytranslateid=14900
+msgid "Could not write config file"
+msgstr "Не можа да напиша конфиг файл"
+
+# | communitytranslateid=14898
+msgid "Could not open Rendering device"
+msgstr "не може да отворите Оказване устройство"
+
+# | communitytranslateid=14813
+msgid "Controls"
+msgstr "Контроли"
+
+# | communitytranslateid=14901
+msgid "Configure error"
+msgstr "Конфигурирайте грешка"
+
+# | communitytranslateid=14834
+msgid "Community / Support"
+msgstr "Общност / Поддръжка"
+
+# | communitytranslateid=14787
+msgid "Commands:"
+msgstr "Команди:"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=23548
+msgid "Command 9"
+msgstr "Команда 9"
+
+# # | translated from communitytranslateid=17217
+# | communitytranslateid=23550
+msgid "Command 8"
+msgstr "Команда 8"
+
+# # | translated from communitytranslateid=17216
+# | communitytranslateid=23552
+msgid "Command 7"
+msgstr "Команда 7"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=23553
+msgid "Command 6"
+msgstr "Команда 6"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=23554
+msgid "Command 5"
+msgstr "Команда 5"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=23586
+msgid "Command 48"
+msgstr "Команда 48"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=23585
+msgid "Command 47"
+msgstr "Команда 47"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=23516
+msgid "Command 46"
+msgstr "Команда 46"
+
+# # | translated from communitytranslateid=17254
+# | communitytranslateid=23584
+msgid "Command 45"
+msgstr "Команда 45"
+
+# # | translated from communitytranslateid=17253
+# | communitytranslateid=23583
+msgid "Command 44"
+msgstr "Команда 44"
+
+# # | translated from communitytranslateid=17252
+# | communitytranslateid=23582
+msgid "Command 43"
+msgstr "Команда 43"
+
+# # | translated from communitytranslateid=17251
+# | communitytranslateid=23581
+msgid "Command 42"
+msgstr "Команда 42"
+
+# # | translated from communitytranslateid=17250
+# | communitytranslateid=23580
+msgid "Command 41"
+msgstr "Команда 41"
+
+# # | translated from communitytranslateid=17249
+# | communitytranslateid=23579
+msgid "Command 40"
+msgstr "Команда 40"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=23555
+msgid "Command 4"
+msgstr "Команда 4"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=23578
+msgid "Command 39"
+msgstr "Команда 39"
+
+# # | translated from communitytranslateid=17247
+# | communitytranslateid=23576
+msgid "Command 38"
+msgstr "Команда 38"
+
+# # | translated from communitytranslateid=17246
+# | communitytranslateid=23577
+msgid "Command 37"
+msgstr "Команда 37"
+
+# # | translated from communitytranslateid=17245
+# | communitytranslateid=23574
+msgid "Command 36"
+msgstr "Команда 36"
+
+# # | translated from communitytranslateid=17244
+# | communitytranslateid=23512
+msgid "Command 35"
+msgstr "Команда 35"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=23523
+msgid "Command 34"
+msgstr "Команда 34"
+
+# # | translated from communitytranslateid=17242
+# | communitytranslateid=23575
+msgid "Command 33"
+msgstr "Команда 33"
+
+# # | translated from communitytranslateid=17241
+# | communitytranslateid=23546
+msgid "Command 32"
+msgstr "Команда 32"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=23573
+msgid "Command 31"
+msgstr "Команда 31"
+
+# # | translated from communitytranslateid=17239
+# | communitytranslateid=23572
+msgid "Command 30"
+msgstr "Команда 30"
+
+# # | translated from communitytranslateid=17212
+# | communitytranslateid=23549
+msgid "Command 3"
+msgstr "Команда 3"
+
+# # | translated from communitytranslateid=17238
+# | communitytranslateid=23571
+msgid "Command 29"
+msgstr "Команда 29"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=23570
+msgid "Command 28"
+msgstr "Команда 28"
+
+# # | translated from communitytranslateid=17236
+# | communitytranslateid=23568
+msgid "Command 27"
+msgstr "Команда 27"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=23569
+msgid "Command 26"
+msgstr "Команда 26"
+
+# # | translated from communitytranslateid=17234
+# | communitytranslateid=23567
+msgid "Command 25"
+msgstr "Команда 25"
+
+# # | translated from communitytranslateid=17233
+# | communitytranslateid=23566
+msgid "Command 24"
+msgstr "Команда 24"
+
+# # | translated from communitytranslateid=17232
+# | communitytranslateid=23541
+msgid "Command 23"
+msgstr "Команда 23"
+
+# # | translated from communitytranslateid=17231
+# | communitytranslateid=23565
+msgid "Command 22"
+msgstr "Команда 22"
+
+# # | translated from communitytranslateid=17230
+# | communitytranslateid=23564
+msgid "Command 21"
+msgstr "Команда 21"
+
+# # | translated from communitytranslateid=17229
+# | communitytranslateid=23563
+msgid "Command 20"
+msgstr "Команда 20"
+
+# # | translated from communitytranslateid=17211
+# | communitytranslateid=23562
+msgid "Command 2"
+msgstr "Команда 2"
+
+# # | translated from communitytranslateid=17228
+# | communitytranslateid=23545
+msgid "Command 19"
+msgstr "Команда 19"
+
+# # | translated from communitytranslateid=17227
+# | communitytranslateid=23561
+msgid "Command 18"
+msgstr "Команда 18"
+
+# # | translated from communitytranslateid=17226
+# | communitytranslateid=23535
+msgid "Command 17"
+msgstr "Команда 17"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=23560
+msgid "Command 16"
+msgstr "Команда 16"
+
+# # | translated from communitytranslateid=17224
+# | communitytranslateid=23559
+msgid "Command 15"
+msgstr "Команда 15"
+
+# # | translated from communitytranslateid=17223
+# | communitytranslateid=23558
+msgid "Command 14"
+msgstr "Команда 14"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=23557
+msgid "Command 13"
+msgstr "Команда 13"
+
+# # | translated from communitytranslateid=17221
+# | communitytranslateid=23556
+msgid "Command 12"
+msgstr "Команда 12"
+
+# # | translated from communitytranslateid=17220
+# | communitytranslateid=23538
+msgid "Command 11"
+msgstr "Команда 11"
+
+# # | translated from communitytranslateid=17219
+# | communitytranslateid=23551
+msgid "Command 10"
+msgstr "Команда 10"
+
+# # | translated from communitytranslateid=17210
+# | communitytranslateid=23547
+msgid "Command 1"
+msgstr "Команда 1"
+
+# | communitytranslateid=14859
+msgid "Cockpit options"
+msgstr "Пилотите опции"
+
+# | communitytranslateid=14794
+msgid "close this dialog"
+msgstr "Затворете този диалогов"
+
+# | communitytranslateid=14873
+msgid "Clear cache"
+msgstr "Изчистване на кеш паметта"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=23603
+msgid "Choose a file"
+msgstr "Избор на фаил"
+
+# | communitytranslateid=15365
+msgid "checking for new zips in "
+msgstr "проверка за нови файлове в"
+
+# | communitytranslateid=15366
+msgid "checking for new directories in "
+msgstr "проверка за нови директории"
+
+# | communitytranslateid=14810
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "излизане от конфигурация промените и затворете конфигурация програма."
+
+# | communitytranslateid=14755
+msgid "Cancel"
+msgstr "отмените"
+
+# | communitytranslateid=14852
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Caelum небето е хубаво, но доста бавен, освен ако имате високо захранва GPU."
+
+# | communitytranslateid=14775
+msgid "broken: "
+msgstr "разбит:"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=23510
+msgid "brake"
+msgstr "спирачка"
+
+# | communitytranslateid=14769
+msgid "Boat"
+msgstr "лодка"
+
+# | communitytranslateid=14861
+msgid "Bloom"
+msgstr "Блум"
+
+# | communitytranslateid=14696
+msgid "Best FPS: "
+msgstr "Най-добър FPS :"
+
+# | communitytranslateid=14774
+msgid "beam count: "
+msgstr "лъч брои:"
+
+# | communitytranslateid=14837
+msgid "Balanced"
+msgstr "уравновесен"
+
+# | communitytranslateid=14699
+msgid "Bad server port"
+msgstr "Лош служа пристанище"
+
+# | communitytranslateid=14780
+msgid "average stress: "
+msgstr "Средната стрес:"
+
+# | communitytranslateid=14694
+msgid "Average FPS: "
+msgstr "Средно число FPS :"
+
+# | communitytranslateid=14779
+msgid "average deformation: "
+msgstr "средно число обезобразяване :"
+
+# | communitytranslateid=14740
+msgid "Automatic shift"
+msgstr "Автоматична смяна"
+
+# | communitytranslateid=14761
+msgid "Authors: "
+msgstr "Авторите :"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=23531
+msgid "Author: "
+msgstr "Автор:"
+
+# | communitytranslateid=14849
+msgid "Anti-aliasing:"
+msgstr "Anit-aliasing"
+
+# | communitytranslateid=14868
+msgid "Anonymous"
+msgstr "Анонимен"
+
+# | communitytranslateid=14786
+msgid "Altitude:"
+msgstr "Надморска височина:"
+
+# | communitytranslateid=14768
+msgid "Airplane"
+msgstr "самолет"
+
+# | communitytranslateid=14833
+msgid "Advanced"
+msgstr "напреднал"
+
+# | communitytranslateid=14793
+msgid "Add the key"
+msgstr "Прибавям определителен член ключ"
+
+# | communitytranslateid=14792
+msgid "Add"
+msgstr "Добавям"
+
+# | communitytranslateid=14700
+msgid "A network error occured"
+msgstr "A мрежа грешка срещам се"
+
+# | communitytranslateid=14910
+msgid "5% deadzone"
+msgstr "5% мъртва зона"
+
+# | communitytranslateid=14909
+msgid "5 %"
+msgstr "5%"
+
+# | communitytranslateid=14918
+msgid "30% deadzone"
+msgstr "30% мъртва зона"
+
+# | communitytranslateid=14917
+msgid "30 %"
+msgstr "30 %"
+
+# | communitytranslateid=14916
+msgid "20% deadzone"
+msgstr "20 % мъртва зона"
+
+# | communitytranslateid=14915
+msgid "20 %"
+msgstr "20 %"
+
+# | communitytranslateid=14914
+msgid "15% deadzone"
+msgstr "15 % мъртва зона"
+
+# | communitytranslateid=14913
+msgid "15 %"
+msgstr "15 %"
+
+# | communitytranslateid=14869
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# | communitytranslateid=14870
+msgid "12333"
+msgstr "12333"
+
+# | communitytranslateid=14912
+msgid "10% deadzone"
+msgstr "10% мъртва зона"
+
+# | communitytranslateid=14911
+msgid "10 %"
+msgstr "10 %"
+
+# # | translated from communitytranslateid=19403
+# | communitytranslateid=23544
+msgid "0 % (Total Linear)"
+msgstr "0 % (Общо Линейни)"
+
+# | communitytranslateid=14907
+msgid "0 % (No deadzone)"
+msgstr "0% (не мъртва зона)"
+
+# | communitytranslateid=14731
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Как да играят в мултиплейър:</p><br><ol><li>Щракване на определителен член<b>актуализирам </b> бутона, за да видите наличните сървъри тук. </li><li>Щракнете върху някоя подчертан  Server в списъка.</li><li>щракване от<b>Спасявам и Играя</b> бутон за стартиране на играта.</li></ol>"
+
+# | communitytranslateid=15352
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Последни новини</h2>Нито един банкомат<h2>	Поддръжка / Общността</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>уроци</a><p/> (този сайт е да се засили ...)"
+
+# # | translated from communitytranslateid=19402
+# | communitytranslateid=23598
+msgid "+5% multiplication"
+msgstr "+5% умножение"
+
+# # | translated from communitytranslateid=19401
+# | communitytranslateid=23530
+msgid "+5 %"
+msgstr "+5 %"
+
+# # | translated from communitytranslateid=19392
+# | communitytranslateid=23602
+msgid "+30% multiplication"
+msgstr "+30% умножение"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=23529
+msgid "+30 %"
+msgstr "+30 %"
+
+# # | translated from communitytranslateid=19394
+# | communitytranslateid=23601
+msgid "+25% multiplication"
+msgstr "+25% умножение"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=23528
+msgid "+25 %"
+msgstr "+25 %"
+
+# # | translated from communitytranslateid=19396
+# | communitytranslateid=23600
+msgid "+20% multiplication"
+msgstr "+20% умножение"
+
+# # | translated from communitytranslateid=19395
+# | communitytranslateid=23527
+msgid "+20 %"
+msgstr "+20 %"
+
+# # | translated from communitytranslateid=19398
+# | communitytranslateid=23599
+msgid "+15% multiplication"
+msgstr "+15% умножение"
+
+# # | translated from communitytranslateid=19397
+# | communitytranslateid=23526
+msgid "+15 %"
+msgstr "+15 %"
+
+# # | translated from communitytranslateid=19400
+# | communitytranslateid=23597
+msgid "+10% multiplication"
+msgstr "+10% умножение"
+
+# # | translated from communitytranslateid=19399
+# | communitytranslateid=23511
+msgid "+10 %"
+msgstr "+10 %"
+
+# | communitytranslateid=14800
+msgid "(Please press a key)"
+msgstr "(харесвам натискам a ключ)"
+
+# | communitytranslateid=14801
+msgid "(Please press a Joystick Button)"
+msgstr "(Моля, натиснете бутона джойстик)"
+
+# | communitytranslateid=14802
+msgid "(Please move an Axis)\n"
+msgstr "(харесвам движа an Ос)\n"
+
+# | communitytranslateid=14821
+msgid "(No Languages found)"
+msgstr "(не езици намерени)"
+
+# | communitytranslateid=14773
+msgid "(no author information available)"
+msgstr "(не е автор наличната информация)"
+
+# # | translated from communitytranslateid=19406
+# | communitytranslateid=23596
+msgid "-5% multiplication"
+msgstr "-5% умножение"
+
+# # | translated from communitytranslateid=19405
+# | communitytranslateid=23518
+msgid "-5 %"
+msgstr "-5 %"
+
+# # | translated from communitytranslateid=19416
+# | communitytranslateid=23595
+msgid "-30% multiplication"
+msgstr "-30% умножение"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=23519
+msgid "-30 %"
+msgstr "-30 %"
+
+# # | translated from communitytranslateid=19414
+# | communitytranslateid=23594
+msgid "-25% multiplication"
+msgstr "-25% умножение"
+
+# # | translated from communitytranslateid=19413
+# | communitytranslateid=23520
+msgid "-25 %"
+msgstr "-25 %"
+
+# # | translated from communitytranslateid=19412
+# | communitytranslateid=23593
+msgid "-20% multiplication"
+msgstr "-20% умножение"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=23525
+msgid "-20 %"
+msgstr "-20 %"
+
+# # | translated from communitytranslateid=19410
+# | communitytranslateid=23592
+msgid "-15% multiplication"
+msgstr "-15% умножение"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=23522
+msgid "-15 %"
+msgstr "-15 %"
+
+# # | translated from communitytranslateid=19408
+# | communitytranslateid=23591
+msgid "-10% multiplication"
+msgstr "-10% умножение"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=23521
+msgid "-10 %"
+msgstr "-10 %"
+
+# | communitytranslateid=14744
+msgid "^8 Player: ^7"
+msgstr "^ 8 играча: ^ 7"
+
+# | communitytranslateid=14748
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 отнасяне : rcmd [ заповядвам ] [ незадължителен довод ]"
+
+# | communitytranslateid=14751
+msgid "^1 unkown Command: "
+msgstr "^ 1 неизвестен командване:"
+
+# | communitytranslateid=14746
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 Грешка : ти трябва употреба rlogin [ парола ] пръв"
+
+# | communitytranslateid=14749
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 Грешка : първообраз грешка време изнурителен към изпращам заповядвам към RCON :"
+
+# | communitytranslateid=14745
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 Грешка : Протокол  грешка време изнурителен към дънер в RCON :"
+
+# | communitytranslateid=14750
+msgid "^1 ERROR: not in network mode"
+msgstr "^ 1 Грешка: не по мрежова готовност"
+
+# | communitytranslateid=14752
+msgid "^1 Error Parsing command"
+msgstr "^ 1 Грешка при синтактичния анализ на командата"
+
+# | communitytranslateid=15356
+msgid " not existing"
+msgstr "не съществува"
+
+# | communitytranslateid=15357
+msgid " changed"
+msgstr "Променен"
+

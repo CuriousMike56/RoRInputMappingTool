@@ -1,0 +1,2712 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=23435
+msgid "zoom into the overview map in interactive mode"
+msgstr "zomi la mapon en la interaga moduso"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=23245
+msgid "zoom camera out faster"
+msgstr "malzomi pli rapide"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=23243
+msgid "zoom camera out"
+msgstr "malzomi"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=23244
+msgid "zoom camera in faster"
+msgstr "zomi pli rapide"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=23242
+msgid "zoom camera in"
+msgstr "zomi"
+
+# # | translated from communitytranslateid=10758
+# | communitytranslateid=23155
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Via retnomo. Maksimume 20 signoj."
+
+# # | translated from communitytranslateid=10767
+# | communitytranslateid=23268
+msgid "Your Forum User Token."
+msgstr "Via forum-kromnomo."
+
+# # | translated from communitytranslateid=10804
+# | communitytranslateid=23213
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Vi devas savi kaj restarigi la programon por aktivigi la novan lingvon!"
+
+# # | translated from communitytranslateid=10769
+# | communitytranslateid=22963
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Vi ne devas ŝanĝi ĉi tiujn agordojn krom se estas problemoj."
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=23417
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Vi povas malaktivigi la defaŭltan grincosonon per plenigi ĉi tiun kvadraton"
+
+# # | translated from communitytranslateid=10619
+# | communitytranslateid=23240
+msgid "wrote screenshot:"
+msgstr "skribis ekranbildon:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=23241
+msgid "Write error"
+msgstr "Eraro de skribo"
+
+# # | translated from communitytranslateid=17265
+# | communitytranslateid=23497
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr "skribi la aktualan pozicion al la eventhistorio (vi povas malfermi la dosieron kaj uzi la pozicion ree)"
+
+# # | translated from communitytranslateid=10612
+# | communitytranslateid=23233
+msgid "Worst FPS: "
+msgstr "Malplej bona FPS:"
+
+# # | translated from communitytranslateid=10644
+# | communitytranslateid=22972
+msgid "Wheels: "
+msgstr "Radoj:"
+
+# # | translated from communitytranslateid=10727
+# | communitytranslateid=23026
+msgid "Water type:"
+msgstr "Tipo de akvo:"
+
+# # | translated from communitytranslateid=10731
+# | communitytranslateid=23347
+msgid "Water spray"
+msgstr "Ŝpruco de akvo"
+
+# # | translated from communitytranslateid=10728
+# | communitytranslateid=23214
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Reflekto de akvo estas pli malrapida, kaj necesigas bonan grafikprocesoron. En plejbonece-rapida moduso, eble estos troa skuado de la kamerao."
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=22966
+msgid "Warning"
+msgstr "Averto"
+
+# # | translated from communitytranslateid=10722
+# | communitytranslateid=23267
+msgid "VSync"
+msgstr "VSync"
+
+# # | translated from communitytranslateid=10743
+# | communitytranslateid=23305
+msgid "Visual effects"
+msgstr "Vidaj efektoj"
+
+# # | translated from communitytranslateid=10717
+# | communitytranslateid=23416
+msgid "Video mode:"
+msgstr "Videomoduso:"
+
+# # | translated from communitytranslateid=10654
+# | communitytranslateid=22973
+msgid "Vehicle Type: "
+msgstr "Tipo de veturilo:"
+
+# # | translated from communitytranslateid=10733
+# | communitytranslateid=23161
+msgid "Vegetation:"
+msgstr "Vegetalaro:"
+
+# # | translated from communitytranslateid=10766
+# | communitytranslateid=23269
+msgid "User Token: "
+msgstr "Nomo de uzanto:"
+
+# # | translated from communitytranslateid=17145
+# | communitytranslateid=23335
+msgid "Use this to remove the whole cache and force the generation from ground up."
+msgstr "Uzu ĉi tion por forviŝi la tutan kaŝmemoron kaj devigi la regeneradon dekomence."
+
+# # | translated from communitytranslateid=17144
+# | communitytranslateid=23326
+msgid "Use this to regenerate the cache outside of RoR. If this does not work, use the clear cache button."
+msgstr "Uzu ĉi tion por regeneri la kaŝmemoron ekster RoR. Se ĉi tio ne funkcias, uzu la butonon 'Malplenigi kaŝmemoron'."
+
+# # | translated from communitytranslateid=10819
+# | communitytranslateid=23164
+msgid "Upper"
+msgstr "Supra"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=23114
+msgid "Updates"
+msgstr "Ĝisdatigoj"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=23024
+msgid "Update now"
+msgstr "Ĝisdatigi nun"
+
+# # | translated from communitytranslateid=10768
+# | communitytranslateid=23025
+msgid "Update"
+msgstr "Refreŝigi"
+
+# # | translated from communitytranslateid=10655
+# | communitytranslateid=23334
+msgid "unkown encoding problem"
+msgstr "nekonata eraro de signokodaro"
+
+# # | translated from communitytranslateid=10641
+# | communitytranslateid=22962
+msgid "unknown.dds"
+msgstr "nekonata.dds"
+
+# # | translated from communitytranslateid=10778
+# | communitytranslateid=23127
+msgid "Uncheck in case you have a fog problem"
+msgstr "Malaktivigu se estas problemoj pri nebulo"
+
+# # | translated from communitytranslateid=10616
+# | communitytranslateid=23135
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Ne povas konekti al la servilo. Ĝi certe ne funkcias aŭ vi havas retajn problemojn."
+
+# # | translated from communitytranslateid=15267
+# | communitytranslateid=23134
+msgid "Unable to connect to server"
+msgstr "Ne povas konekti al servilo"
+
+# # | translated from communitytranslateid=10807
+# | communitytranslateid=22974
+msgid "Type"
+msgstr "Tipo"
+
+# # | translated from communitytranslateid=15266
+# | communitytranslateid=23266
+msgid "Trying to connect to server ..."
+msgstr "Provanta konekti al la servilo ..."
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=22964
+msgid "truck horn"
+msgstr "hupo de kamiono"
+
+# # | translated from communitytranslateid=10650
+# | communitytranslateid=23040
+msgid "Truck"
+msgstr "Kamiono"
+
+# # | translated from communitytranslateid=10613
+# | communitytranslateid=23175
+msgid "Triangle Count: "
+msgstr "Nombro da trianguloj:"
+
+# # | translated from communitytranslateid=10626
+# | communitytranslateid=23158
+msgid "tracks/CreditsOverlay"
+msgstr "tracks/CreditsOverlay"
+
+# # | translated from communitytranslateid=19404
+# | communitytranslateid=23462
+msgid "Total Linear"
+msgstr "Tute linia"
+
+# # | translated from communitytranslateid=10648
+# | communitytranslateid=23464
+msgid "Torque: "
+msgstr "Torda momanto:"
+
+# # | translated from communitytranslateid=10646
+# | communitytranslateid=22967
+msgid "tons"
+msgstr "tunoj"
+
+# # | translated from communitytranslateid=17282
+# | communitytranslateid=23425
+msgid "toggle truck HUD"
+msgstr "baskuligi la HUD-n de la kamiono"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=23178
+msgid "toggle truck front lights"
+msgstr "baskuligi kamionajn reflektorojn"
+
+# # | translated from communitytranslateid=17280
+# | communitytranslateid=23426
+msgid "toggle truck beacons"
+msgstr "baskuligi gvidmarkilojn de la kamiono"
+
+# # | translated from communitytranslateid=17264
+# | communitytranslateid=23483
+msgid "toggle translucency of overview-map"
+msgstr "baskuligi la travideblecon de la mapo"
+
+# # | translated from communitytranslateid=17273
+# | communitytranslateid=23487
+msgid "toggle skeleton display mode"
+msgstr "baskuligi skeletovidigan moduson"
+
+# # | translated from communitytranslateid=17310
+# | communitytranslateid=23176
+msgid "toggle right direction indicator (blinker)"
+msgstr "baskuligi dekstran turnindikilon"
+
+# # | translated from communitytranslateid=17277
+# | communitytranslateid=23354
+msgid "toggle render mode (solid, wireframe and points)"
+msgstr "baskuligi moduson de bildigo (solida, linieca kaj punkta)"
+
+# # | translated from communitytranslateid=17275
+# | communitytranslateid=23265
+msgid "toggle particle cannon"
+msgstr "baskuligi la pafilon de partikloj"
+
+# # | translated from communitytranslateid=17325
+# | communitytranslateid=23212
+msgid "toggle parking brake"
+msgstr "baskuligi parkbremson"
+
+# # | translated from communitytranslateid=17292
+# | communitytranslateid=23484
+msgid "toggle overview map interactive mode"
+msgstr "baskuligi la interagan moduson de la mapo"
+
+# # | translated from communitytranslateid=17279
+# | communitytranslateid=23264
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr "baskuligi statistikaĵojn de Ogre (FPS k.s.)"
+
+# # | translated from communitytranslateid=17283
+# | communitytranslateid=23303
+msgid "toggle map modes"
+msgstr "baskuligi la mapmodusojn"
+
+# # | translated from communitytranslateid=17309
+# | communitytranslateid=23177
+msgid "toggle left direction indicator (blinker)"
+msgstr "baskuligi maldekstran turnindikilon"
+
+# # | translated from communitytranslateid=17331
+# | communitytranslateid=23234
+msgid "toggle ignition"
+msgstr "baskuligi ekbrulon"
+
+# # | translated from communitytranslateid=17323
+# | communitytranslateid=23345
+msgid "toggle custom light 9"
+msgstr "baskuligi uzantdifinitan lumon 9"
+
+# # | translated from communitytranslateid=17322
+# | communitytranslateid=23344
+msgid "toggle custom light 8"
+msgstr "baskuligi uzantdifinitan lumon 8"
+
+# # | translated from communitytranslateid=17321
+# | communitytranslateid=23343
+msgid "toggle custom light 7"
+msgstr "baskuligi uzantdifinitan lumon 7"
+
+# # | translated from communitytranslateid=17320
+# | communitytranslateid=23342
+msgid "toggle custom light 6"
+msgstr "baskuligi uzantdifinitan lumon 6"
+
+# # | translated from communitytranslateid=17319
+# | communitytranslateid=23341
+msgid "toggle custom light 5"
+msgstr "baskuligi uzantdifinitan lumon 5"
+
+# # | translated from communitytranslateid=17318
+# | communitytranslateid=23340
+msgid "toggle custom light 4"
+msgstr "baskuligi uzantdifinitan lumon 4"
+
+# # | translated from communitytranslateid=17317
+# | communitytranslateid=23339
+msgid "toggle custom light 3"
+msgstr "baskuligi uzantdifinitan lumon 3"
+
+# # | translated from communitytranslateid=17316
+# | communitytranslateid=23338
+msgid "toggle custom light 2"
+msgstr "baskuligi uzantdifinitan lumon 2"
+
+# # | translated from communitytranslateid=17315
+# | communitytranslateid=23337
+msgid "toggle custom light 10"
+msgstr "baskuligi uzantdifinitan lumon 10"
+
+# # | translated from communitytranslateid=17314
+# | communitytranslateid=23336
+msgid "toggle custom light 1"
+msgstr "baskuligi uzantdifinitan lumon 1"
+
+# # | translated from communitytranslateid=17334
+# | communitytranslateid=23356
+msgid "toggle between windowed and fullscreen mode"
+msgstr "baskuli inter fenestra kaj plenekrana modusoj"
+
+# # | translated from communitytranslateid=17330
+# | communitytranslateid=23235
+msgid "toggle between transmission modes"
+msgstr "baskuli inter modusoj de transmisio"
+
+# # | translated from communitytranslateid=17352
+# | communitytranslateid=23306
+msgid "toggle between net chat display modes"
+msgstr "baskuli inter vidigmodusoj de retbabilo"
+
+# # | translated from communitytranslateid=17305
+# | communitytranslateid=23237
+msgid "toggle between available road types"
+msgstr "baskuli inter disponeblaj tipoj de vojo"
+
+# # | translated from communitytranslateid=17304
+# | communitytranslateid=23236
+msgid "toggle between available objects"
+msgstr "baskuli inter disponeblaj objektoj"
+
+# # | translated from communitytranslateid=17259
+# | communitytranslateid=23346
+msgid "toggle appearance of console"
+msgstr "baskuligi la aspekton de la konzolo"
+
+# # | translated from communitytranslateid=17311
+# | communitytranslateid=23270
+msgid "toggle all direction indicators"
+msgstr "baskuligi ĉiujn turnindikilojn"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=23396
+msgid "tie a load to the truck"
+msgstr "ligi ŝarĝon ĉe la kamiono"
+
+# # | translated from communitytranslateid=17174
+# | communitytranslateid=23404
+msgid "throttle axis. Only use this if you have fitting hardware :) (i.e. a Slider)"
+msgstr "akso de impulso. Uzu ĉi tion nur se vi havas taŭgan aparaton"
+
+# # | translated from communitytranslateid=10753
+# | communitytranslateid=23488
+msgid "Thread number:"
+msgstr "Numero de traktataĵo:"
+
+# # | translated from communitytranslateid=10776
+# | communitytranslateid=23179
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Ĉi tiu agordo anstataŭigas la defaŭltan lingvon de la sistemo. Vi devas restarigi la agordilon por apliki ĉi tiujn ŝanĝojn."
+
+# # | translated from communitytranslateid=10737
+# | communitytranslateid=23328
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Ĉi tio eble iomete malpliigos la FPS-n ĉe malnovaj komputiloj, sed ĝi aspektas bone."
+
+# # | translated from communitytranslateid=17147
+# | communitytranslateid=23307
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr "Ĉi tio ebligas la aŭtomatan elŝuton de mankantaj modifaĵoj en multludant-moduso"
+
+# # | translated from communitytranslateid=10734
+# | communitytranslateid=23329
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Ĉi tio determinas, kiom da herbo kaj arboj (kaj tiaj objektoj) devus esti videblaj."
+
+# # | translated from communitytranslateid=17152
+# | communitytranslateid=23246
+msgid "The update service is currently only available for windows users."
+msgstr "La ĝisdatigo-servo estas aktuale disponebla nur por Vindozo-uzantoj."
+
+# # | translated from communitytranslateid=10765
+# | communitytranslateid=23174
+msgid "The server password, if required."
+msgstr "La pasvorto de la servilo, se deviga."
+
+# # | translated from communitytranslateid=10719
+# | communitytranslateid=23330
+msgid "Texture filtering:"
+msgstr "Filtrado de teksturoj:"
+
+# # | translated from communitytranslateid=10704
+# | communitytranslateid=23165
+msgid "Test"
+msgstr "Testo"
+
+# # | translated from communitytranslateid=10617
+# | communitytranslateid=23247
+msgid "Terrain not found: "
+msgstr "Tereno ne trovita:"
+
+# # | translated from communitytranslateid=10618
+# | communitytranslateid=23248
+msgid "Terrain loading error"
+msgstr "Eraro de ŝargado de tereno"
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=23463
+msgid "teleport to rescue truck"
+msgstr "aperi ĉe la savkamiono"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=23239
+msgid "take a screenshot"
+msgstr "akiri ekranbildon"
+
+# # | translated from communitytranslateid=17303
+# | communitytranslateid=23480
+msgid "switch to road laying mode"
+msgstr "baskuli al moduso de vojkreado"
+
+# # | translated from communitytranslateid=17179
+# | communitytranslateid=23173
+msgid "switch all engines on / off"
+msgstr "(mal)ŝalti ĉiujn motorojn"
+
+# # | translated from communitytranslateid=10744
+# | communitytranslateid=23215
+msgid "Sunburn"
+msgstr "Sunbrulo"
+
+# # | translated from communitytranslateid=17203
+# | communitytranslateid=23423
+msgid "step forward with the character"
+msgstr "paŝi antaŭen kun la persono"
+
+# # | translated from communitytranslateid=17202
+# | communitytranslateid=23424
+msgid "step backwards with the character"
+msgstr "paŝi malantaŭen kun la persono"
+
+# # | translated from communitytranslateid=17183
+# | communitytranslateid=23428
+msgid "steer right a step"
+msgstr "stiri dekstren unugrade"
+
+# # | translated from communitytranslateid=17184
+# | communitytranslateid=23331
+msgid "steer right (analog value!)"
+msgstr "stiri dekstren (analoga valoro!)"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=23086
+msgid "steer right"
+msgstr "stiri dekstren"
+
+# # | translated from communitytranslateid=17181
+# | communitytranslateid=23427
+msgid "steer left a step"
+msgstr "stiri maldekstren unugrade"
+
+# # | translated from communitytranslateid=17182
+# | communitytranslateid=23332
+msgid "steer left (analog value!)"
+msgstr "stiri maldekstren (analoga valoro!)"
+
+# # | translated from communitytranslateid=17173
+# | communitytranslateid=23085
+msgid "steer left"
+msgstr "stiri maldekstren"
+
+# # | translated from communitytranslateid=10657
+# | communitytranslateid=23477
+msgid "Startup error"
+msgstr "Eraro de komenciĝo"
+
+# # | translated from communitytranslateid=17274
+# | communitytranslateid=23271
+msgid "start the old truck editor"
+msgstr "starigi la malnovan kamionredaktilon"
+
+# # | translated from communitytranslateid=15714
+# | communitytranslateid=23128
+msgid "SPECIAL_CHARACTERS"
+msgstr "Ĉ Ĝ Ĥ Ĵ Ŝ Ŭ ĉ ĝ ĥ ĵ ŝ ŭ"
+
+# # | translated from communitytranslateid=10723
+# | communitytranslateid=23180
+msgid "Special effects"
+msgstr "Specialaj efektoj"
+
+# # | translated from communitytranslateid=10698
+# | communitytranslateid=23181
+msgid "Sounds"
+msgstr "Sonoj"
+
+# # | translated from communitytranslateid=10752
+# | communitytranslateid=23397
+msgid "Sound rendering:"
+msgstr "Eligo de sono:"
+
+# # | translated from communitytranslateid=10724
+# | communitytranslateid=23152
+msgid "Sky type:"
+msgstr "Tipo de ĉielo:"
+
+# # | translated from communitytranslateid=17157
+# | communitytranslateid=23418
+msgid "Skins"
+msgstr "Livreoj"
+
+# # | translated from communitytranslateid=10696
+# | communitytranslateid=23172
+msgid "Simple Settings"
+msgstr "Simplaj Agordoj"
+
+# # | translated from communitytranslateid=17209
+# | communitytranslateid=23421
+msgid "sidestep to the right"
+msgstr "flankpaŝi dekstren"
+
+# # | translated from communitytranslateid=17208
+# | communitytranslateid=23420
+msgid "sidestep to the left"
+msgstr "flankpaŝi maldekstren"
+
+# # | translated from communitytranslateid=10742
+# | communitytranslateid=23481
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Vidigas la malantaŭvidajn spegulojn en unuapersona vido. Eble kaŭzos kongruecajn problemojn por tre malnovaj vidkartoj."
+
+# # | translated from communitytranslateid=10784
+# | communitytranslateid=23482
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Vidigas la dinamikan panelon en unuapersona vido. Eble kaŭzos kongruecajn problemojn por tre malnovaj vidkartoj."
+
+# # | translated from communitytranslateid=10790
+# | communitytranslateid=23449
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Ruĝigas ĉiujn kolizio-maŝarojn por ebli ĝuste pozicii ilin. Nur uzu por malerarigado!"
+
+# # | translated from communitytranslateid=17332
+# | communitytranslateid=23262
+msgid "show truck tool"
+msgstr "vidigi kamionilon"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=23171
+msgid "show / hide the console"
+msgstr "vidigi / kaŝi la konzolon"
+
+# # | translated from communitytranslateid=17327
+# | communitytranslateid=23202
+msgid "shift to neutral gear in manual transmission mode"
+msgstr "pasi al la neŭtrala rapidumo en mana transmisiomoduso"
+
+# # | translated from communitytranslateid=17328
+# | communitytranslateid=23200
+msgid "shift one gear up in manual transmission mode"
+msgstr "pasi al la sekva rapidumo en mana transmisiomoduso"
+
+# # | translated from communitytranslateid=17326
+# | communitytranslateid=23201
+msgid "shift one gear down in manual transmission mode"
+msgstr "pasi al la antaŭa rapidumo en mana transmisiomoduso"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=23182
+msgid "shift directly to third gear"
+msgstr "pasi rekte al la 3a rapidumo"
+
+# # | translated from communitytranslateid=19432
+# | communitytranslateid=23183
+msgid "shift directly to second gear"
+msgstr "pasi rekte al la 2a rapidumo"
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=23263
+msgid "shift directly to reverse gear"
+msgstr "pasi rekte al la malantaŭa rapidumo"
+
+# # | translated from communitytranslateid=19434
+# | communitytranslateid=23184
+msgid "shift directly to fourth gear"
+msgstr "pasi rekte al la 4a rapidumo"
+
+# # | translated from communitytranslateid=19431
+# | communitytranslateid=23185
+msgid "shift directly to first gear"
+msgstr "pasi rekte al la 1a rapidumo"
+
+# # | translated from communitytranslateid=19439
+# | communitytranslateid=23186
+msgid "shift directly to 9th gear"
+msgstr "pasi rekte al la 9a rapidumo"
+
+# # | translated from communitytranslateid=19438
+# | communitytranslateid=23187
+msgid "shift directly to 8th gear"
+msgstr "pasi rekte al la 8a rapidumo"
+
+# # | translated from communitytranslateid=19437
+# | communitytranslateid=23188
+msgid "shift directly to 7th gear"
+msgstr "pasi rekte al la 7a rapidumo"
+
+# # | translated from communitytranslateid=19436
+# | communitytranslateid=23189
+msgid "shift directly to 6th gear"
+msgstr "pasi rekte al la 6a rapidumo"
+
+# # | translated from communitytranslateid=19435
+# | communitytranslateid=23190
+msgid "shift directly to 5th gear"
+msgstr "pasi rekte al la 5a rapidumo"
+
+# # | translated from communitytranslateid=19448
+# | communitytranslateid=23191
+msgid "shift directly to 18th gear"
+msgstr "pasi rekte al la 18a rapidumo"
+
+# # | translated from communitytranslateid=19447
+# | communitytranslateid=23192
+msgid "shift directly to 17th gear"
+msgstr "pasi rekte al la 17a rapidumo"
+
+# # | translated from communitytranslateid=19446
+# | communitytranslateid=23193
+msgid "shift directly to 16th gear"
+msgstr "pasi rekte al la 16a rapidumo"
+
+# # | translated from communitytranslateid=19445
+# | communitytranslateid=23194
+msgid "shift directly to 15th gear"
+msgstr "pasi rekte al la 15a rapidumo"
+
+# # | translated from communitytranslateid=19444
+# | communitytranslateid=23195
+msgid "shift directly to 14th gear"
+msgstr "pasi rekte al la 14a rapidumo"
+
+# # | translated from communitytranslateid=19443
+# | communitytranslateid=23196
+msgid "shift directly to 13th gear"
+msgstr "pasi rekte al la 13a rapidumo"
+
+# # | translated from communitytranslateid=19442
+# | communitytranslateid=23197
+msgid "shift directly to 12th gear"
+msgstr "pasi rekte al la 12a rapidumo"
+
+# # | translated from communitytranslateid=19441
+# | communitytranslateid=23198
+msgid "shift directly to 11th gear"
+msgstr "pasi rekte al la 11a rapidumo"
+
+# # | translated from communitytranslateid=19440
+# | communitytranslateid=23199
+msgid "shift directly to 10th gear"
+msgstr "pasi rekte al la 10a rapidumo"
+
+# # | translated from communitytranslateid=17308
+# | communitytranslateid=23203
+msgid "shift automatic transmission one gear up"
+msgstr "pasi al la sekva rapidumo en aŭtomata transmisiomoduso"
+
+# # | translated from communitytranslateid=17307
+# | communitytranslateid=23204
+msgid "shift automatic transmission one gear down"
+msgstr "pasi al la antaŭa rapidumo en aŭtomata transmisiomoduso"
+
+# # | translated from communitytranslateid=10726
+# | communitytranslateid=23087
+msgid "Shadow type:"
+msgstr "Tipo de ombro:"
+
+# # | translated from communitytranslateid=19450
+# | communitytranslateid=23350
+msgid "sets middle range (7-12) for H-shaft"
+msgstr "elektas mezan aron (7-12) por H-ŝafto"
+
+# # | translated from communitytranslateid=19449
+# | communitytranslateid=23349
+msgid "sets low range (1-6) for H-shaft"
+msgstr "elektas malaltan aron (1-6) por H-ŝafto"
+
+# # | translated from communitytranslateid=19451
+# | communitytranslateid=23351
+msgid "sets high range (13-18) for H-shaft"
+msgstr "elektas altan aron (12-18) por H-ŝafto"
+
+# # | translated from communitytranslateid=10709
+# | communitytranslateid=23352
+msgid "Sets all settings in a simple way"
+msgstr "Agordas ĉiujn agordojn facile"
+
+# # | translated from communitytranslateid=10762
+# | communitytranslateid=23211
+msgid "Server port number: "
+msgstr "Konektejonumero de la servilo:"
+
+# # | translated from communitytranslateid=10764
+# | communitytranslateid=23209
+msgid "Server password: "
+msgstr "Pasvorto de la servilo:"
+
+# # | translated from communitytranslateid=10760
+# | communitytranslateid=23210
+msgid "Server host name: "
+msgstr "Gastiganto de la servilo:"
+
+# # | translated from communitytranslateid=17297
+# | communitytranslateid=23302
+msgid "select previous element in current category"
+msgstr "elekti la antaŭan elementon en la aktuala kategorio"
+
+# # | translated from communitytranslateid=17294
+# | communitytranslateid=23208
+msgid "select previous category"
+msgstr "elekti la antaŭan kategorion"
+
+# # | translated from communitytranslateid=17293
+# | communitytranslateid=23301
+msgid "select next element in current category"
+msgstr "elekti la sekvan elementon en la aktuala kategorio"
+
+# # | translated from communitytranslateid=17295
+# | communitytranslateid=23207
+msgid "select next category"
+msgstr "elekti la sekvan kategorion"
+
+# # | translated from communitytranslateid=17296
+# | communitytranslateid=23348
+msgid "select focussed item and close menu"
+msgstr "elekti elektitan objekton kaj fermi la menuon"
+
+# # | translated from communitytranslateid=10640
+# | communitytranslateid=23043
+msgid "Search"
+msgstr "Serĉo"
+
+# # | translated from communitytranslateid=10770
+# | communitytranslateid=23238
+msgid "Screenshot Format:"
+msgstr "Formato de ekranbildo:"
+
+# # | translated from communitytranslateid=10714
+# | communitytranslateid=23147
+msgid "Screen configuration"
+msgstr "Agordado de la ekrano"
+
+# # | translated from communitytranslateid=10692
+# | communitytranslateid=23205
+msgid "Save the current configuration and start RoR."
+msgstr "Savi la aktualan agordon kaj starigi RoR-n."
+
+# # | translated from communitytranslateid=10694
+# | communitytranslateid=23206
+msgid "Save the current configuration and close the configuration program."
+msgstr "Savi la aktualan agordon kaj fermi la agordilon."
+
+# # | translated from communitytranslateid=19420
+# | communitytranslateid=23472
+msgid "Save Mapping to File"
+msgstr "Savi agordon en dosiero"
+
+# # | translated from communitytranslateid=10691
+# | communitytranslateid=23041
+msgid "Save and Play"
+msgstr "Savi kaj ludi"
+
+# # | translated from communitytranslateid=10693
+# | communitytranslateid=23042
+msgid "Save and Exit"
+msgstr "Savi kaj eliri"
+
+# # | translated from communitytranslateid=17172
+# | communitytranslateid=23261
+msgid "rudder right"
+msgstr "rudro dekstren"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=23260
+msgid "rudder left"
+msgstr "rudro maldekstren"
+
+# # | translated from communitytranslateid=10716
+# | communitytranslateid=23055
+msgid "RTT Mode:"
+msgstr "RTT Moduso:"
+
+# # | translated from communitytranslateid=17353
+# | communitytranslateid=23308
+msgid "rotate view up"
+msgstr "rotaciigi la vidon supren"
+
+# # | translated from communitytranslateid=17354
+# | communitytranslateid=23309
+msgid "rotate view down"
+msgstr "rotaciigi la vidon malsupren"
+
+# # | translated from communitytranslateid=17302
+# | communitytranslateid=23310
+msgid "rotate object right"
+msgstr "rotaciigi la objekton dekstren"
+
+# # | translated from communitytranslateid=17301
+# | communitytranslateid=23311
+msgid "rotate object left"
+msgstr "rotaciigi la objekton maldekstren"
+
+# # | translated from communitytranslateid=17206
+# | communitytranslateid=23312
+msgid "rotate character right"
+msgstr "rotaciigi la personon dekstren"
+
+# # | translated from communitytranslateid=17205
+# | communitytranslateid=23313
+msgid "rotate character left"
+msgstr "rotaciigi la personon maldekstren"
+
+# # | translated from communitytranslateid=17197
+# | communitytranslateid=23314
+msgid "rotate camera up"
+msgstr "rotaciigi la kameraon supren"
+
+# # | translated from communitytranslateid=17196
+# | communitytranslateid=23316
+msgid "rotate camera right"
+msgstr "rotaciigi la kameraon dekstren"
+
+# # | translated from communitytranslateid=17195
+# | communitytranslateid=23317
+msgid "rotate camera left"
+msgstr "rotaciigi la kameraon maldekstren"
+
+# # | translated from communitytranslateid=17194
+# | communitytranslateid=23315
+msgid "rotate camera down"
+msgstr "rotaciigi la kameraon malsupren"
+
+# # | translated from communitytranslateid=10688
+# | communitytranslateid=23170
+msgid "Rigs of Rods configuration"
+msgstr "Agordado de Rigs of Rods"
+
+# # | translated from communitytranslateid=17170
+# | communitytranslateid=23399
+msgid "reverse the turboprops"
+msgstr "inversigi la jetpuŝilojn"
+
+# # | translated from communitytranslateid=10817
+# | communitytranslateid=23398
+msgid "reverse axis"
+msgstr "inversigi akson"
+
+# # | translated from communitytranslateid=10816
+# | communitytranslateid=23400
+msgid "Reverse"
+msgstr "Inversigi"
+
+# # | translated from communitytranslateid=10690
+# | communitytranslateid=23429
+msgid "Restore the default configuration."
+msgstr "Restaŭri la defaŭltan agordon"
+
+# # | translated from communitytranslateid=10689
+# | communitytranslateid=23422
+msgid "Restore Defaults"
+msgstr "Restaŭri defaŭltojn"
+
+# # | translated from communitytranslateid=17270
+# | communitytranslateid=23333
+msgid "reset truck to original starting position"
+msgstr "loki la kamionon ĉe la originala komenca pozicio"
+
+# # | translated from communitytranslateid=17193
+# | communitytranslateid=23430
+msgid "reset the camera position"
+msgstr "renormaligi la pozicion de la kamerao"
+
+# # | translated from communitytranslateid=10749
+# | communitytranslateid=23218
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Necesigas freŝdatan vidkarton. Aldonas malklariĝefekton al movado."
+
+# # | translated from communitytranslateid=10747
+# | communitytranslateid=23217
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Necesigas freŝdatan vidkarton. Aldonas malpezan malklarigantan efekton."
+
+# # | translated from communitytranslateid=10745
+# | communitytranslateid=23216
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Necesigas freŝdatan vidkarton. Aldonas bluecan blindigantan efekton."
+
+# # | translated from communitytranslateid=10786
+# | communitytranslateid=23395
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Revidomoduso (povas influi la FPS-n)"
+
+# # | translated from communitytranslateid=10785
+# | communitytranslateid=23142
+msgid "Replay Mode"
+msgstr "Revidomoduso"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=23353
+msgid "Render System"
+msgstr "Sistemo de bildigo"
+
+# # | translated from communitytranslateid=17333
+# | communitytranslateid=23054
+msgid "reloads the roads (experimental)"
+msgstr "reŝargas la vojojn (eksperimenta)"
+
+# # | translated from communitytranslateid=10822
+# | communitytranslateid=23169
+msgid "Region"
+msgstr "Regiono"
+
+# # | translated from communitytranslateid=17143
+# | communitytranslateid=23324
+msgid "Regen cache"
+msgstr "Regeneri kaŝmemoron"
+
+# # | translated from communitytranslateid=17164
+# | communitytranslateid=23478
+msgid "pull the elevator up in an aircraft."
+msgstr "tiri la levilon de aviadilo supren"
+
+# # | translated from communitytranslateid=17163
+# | communitytranslateid=23479
+msgid "pull the elevator down in an aircraft."
+msgstr "tiri la levilon de aviadilo malsupren"
+
+# # | translated from communitytranslateid=10788
+# | communitytranslateid=23394
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Skribas ĉiujn verticomasojn en RoR.log. Nur uzu por malerarigo de kamionoj!"
+
+# # | translated from communitytranslateid=19386
+# | communitytranslateid=23436
+msgid "Please use any mapped input device in order to test."
+msgstr "Bonvolu uzi iun agorditan enigodisponaĵon por kontroli."
+
+# # | translated from communitytranslateid=19418
+# | communitytranslateid=23437
+msgid "Please select what type of device to export"
+msgstr "Bonvolu elekti kian disponaĵon eksporti"
+
+# # | translated from communitytranslateid=10676
+# | communitytranslateid=23304
+msgid "Please select an input event."
+msgstr "Bonvolu elekti okazon de enigo."
+
+# # | translated from communitytranslateid=10635
+# | communitytranslateid=23431
+msgid "Please clear the place first"
+msgstr "Bonvolu unue malplenigi la areon"
+
+# # | translated from communitytranslateid=17298
+# | communitytranslateid=23450
+msgid "place currently selected object at current position"
+msgstr "loki aktuale elektitan objekton ĉe la aktuala pozicio"
+
+# # | translated from communitytranslateid=17300
+# | communitytranslateid=23438
+msgid "pitch object foreward"
+msgstr "pivoti objekton antaŭen"
+
+# # | translated from communitytranslateid=17299
+# | communitytranslateid=23439
+msgid "pitch object backward"
+msgstr "pivoti objekton malantaŭen"
+
+# # | translated from communitytranslateid=10782
+# | communitytranslateid=23220
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Partikloj, kiel pafiloj de akvo aŭ spuroj de aviadiloj. Povas esti tro uzata en multludant-moduso."
+
+# # | translated from communitytranslateid=10735
+# | communitytranslateid=23219
+msgid "Particle systems"
+msgstr "Sistemoj de partikloj"
+
+# # | translated from communitytranslateid=10809
+# | communitytranslateid=23157
+msgid "Options"
+msgstr "Agordoj"
+
+# # | translated from communitytranslateid=17167
+# | communitytranslateid=23496
+msgid "one step more flaps."
+msgstr "pliigi la alteriĝajn klapojn unugrade"
+
+# # | translated from communitytranslateid=17166
+# | communitytranslateid=23495
+msgid "one step less flaps."
+msgstr "malpliigi la alteriĝajn klapojn unugrade"
+
+# # | translated from communitytranslateid=10684
+# | communitytranslateid=23162
+msgid "ok (end test)"
+msgstr "Bone (fino de testo)"
+
+# # | translated from communitytranslateid=10636
+# | communitytranslateid=23032
+msgid "OK"
+msgstr "Bone"
+
+# # | translated from communitytranslateid=10810
+# | communitytranslateid=23222
+msgid "Ogre config validation error"
+msgstr "Eraro de validigo de agordado de Ogre"
+
+# # | translated from communitytranslateid=10812
+# | communitytranslateid=23221
+msgid "Ogre config error"
+msgstr "Eraro de agordado de Ogre"
+
+# # | translated from communitytranslateid=10780
+# | communitytranslateid=23467
+msgid "Not much impact on speed."
+msgstr "Ne tre influas rapidecon."
+
+# # | translated from communitytranslateid=10622
+# | communitytranslateid=23223
+msgid "normal camera"
+msgstr "normala kamerao"
+
+# # | translated from communitytranslateid=17162
+# | communitytranslateid=23380
+msgid "normal brake for an aircraft"
+msgstr "normala bremso de aviadilo"
+
+# # | translated from communitytranslateid=10649
+# | communitytranslateid=23379
+msgid "Non-Driveable"
+msgstr "Nestirebla"
+
+# # | translated from communitytranslateid=10647
+# | communitytranslateid=23148
+msgid "Nodes: "
+msgstr "Verticoj:"
+
+# # | translated from communitytranslateid=10667
+# | communitytranslateid=23149
+msgid "node count: "
+msgstr "nombro da verticoj:"
+
+# # | translated from communitytranslateid=17177
+# | communitytranslateid=23226
+msgid "no thrust"
+msgstr "neniu potenco"
+
+# # | translated from communitytranslateid=17168
+# | communitytranslateid=23493
+msgid "no flaps."
+msgstr "neniuj alteriĝaj klapoj"
+
+# # | translated from communitytranslateid=10732
+# | communitytranslateid=23383
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Neniu efekto krom se vi influas la akvon; ankaŭ aspektas bone."
+
+# # | translated from communitytranslateid=19427
+# | communitytranslateid=23411
+msgid "No differential installed on current vehicle!"
+msgstr "Neniu diferencialo instalita en la aktuala veturilo!"
+
+# # | translated from communitytranslateid=10825
+# | communitytranslateid=23452
+msgid "no deadzone"
+msgstr "neniu mortinta zono"
+
+# # | translated from communitytranslateid=10642
+# | communitytranslateid=23168
+msgid "no author information available"
+msgstr "neniuj disponeblaj informoj pri la aŭtoro"
+
+# # | translated from communitytranslateid=17345
+# | communitytranslateid=23273
+msgid "no airbrakes"
+msgstr "neniuj aerbremsoj"
+
+# # | translated from communitytranslateid=10756
+# | communitytranslateid=23146
+msgid "Nickname: "
+msgstr "Kromnomo:"
+
+# # | translated from communitytranslateid=10805
+# | communitytranslateid=23159
+msgid "new Language selected"
+msgstr "nova lingvo elektita"
+
+# # | translated from communitytranslateid=10705
+# | communitytranslateid=23103
+msgid "Network"
+msgstr "Reto"
+
+# # | translated from communitytranslateid=17340
+# | communitytranslateid=23381
+msgid "move right mirror to the right"
+msgstr "movi la dekstran spegulon dekstren"
+
+# # | translated from communitytranslateid=17343
+# | communitytranslateid=23475
+msgid "move replay fast forward"
+msgstr "antaŭenigi la revidaĵon rapide"
+
+# # | translated from communitytranslateid=17344
+# | communitytranslateid=23476
+msgid "move replay fast backward"
+msgstr "malantaŭenigi la revidaĵon rapide"
+
+# # | translated from communitytranslateid=17338
+# | communitytranslateid=23038
+msgid "move left mirror to the right"
+msgstr "movi maldekstran spegulon dekstren"
+
+# # | translated from communitytranslateid=17337
+# | communitytranslateid=23382
+msgid "move left mirror to the left"
+msgstr "movi la maldekstran spegulon maldekstren"
+
+# # | translated from communitytranslateid=17355
+# | communitytranslateid=23377
+msgid "move character up"
+msgstr "movi la personon supren"
+
+# # | translated from communitytranslateid=17356
+# | communitytranslateid=23378
+msgid "move character down"
+msgstr "movi la personon malsupren"
+
+# # | translated from communitytranslateid=10838
+# | communitytranslateid=23141
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# # | translated from communitytranslateid=10748
+# | communitytranslateid=23298
+msgid "Motion blur"
+msgstr "Movada malklariĝefekto"
+
+# # | translated from communitytranslateid=17339
+# | communitytranslateid=23299
+msgid "more right mirror to the left"
+msgstr "movi dekstran spegulon maldekstren"
+
+# # | translated from communitytranslateid=17341
+# | communitytranslateid=23473
+msgid "more replay forward"
+msgstr "antaŭenigi la revidaĵon"
+
+# # | translated from communitytranslateid=17342
+# | communitytranslateid=23474
+msgid "more replay backward"
+msgstr "malantaŭenigi la revidaĵon"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=23274
+msgid "more airbrakes"
+msgstr "pli da aerbremsoj"
+
+# # | translated from communitytranslateid=10741
+# | communitytranslateid=23028
+msgid "Mirrors"
+msgstr "Speguloj"
+
+# # | translated from communitytranslateid=10801
+# | communitytranslateid=23300
+msgid "minimum visibility range in percent"
+msgstr "minimuma atingopovo de videbleco kiel procento"
+
+# # | translated from communitytranslateid=19425
+# | communitytranslateid=23359
+msgid "Mid range selected"
+msgstr "Meza aro elektita"
+
+# # | translated from communitytranslateid=10671
+# | communitytranslateid=23150
+msgid "max Speed:"
+msgstr "maksimuma rapido:"
+
+# # | translated from communitytranslateid=10645
+# | communitytranslateid=23143
+msgid "Mass: "
+msgstr "Maso:"
+
+# # | translated from communitytranslateid=10624
+# | communitytranslateid=23393
+msgid "Manual shift - Auto clutch"
+msgstr "Mana transmisio - aŭtomata kluĉilo"
+
+# # | translated from communitytranslateid=17324
+# | communitytranslateid=23053
+msgid "manual clutch (for manual transmission)"
+msgstr "mana kluĉilo (por mana transmisio)"
+
+# # | translated from communitytranslateid=10653
+# | communitytranslateid=23153
+msgid "Machine"
+msgstr "Maŝino"
+
+# # | translated from communitytranslateid=10821
+# | communitytranslateid=23163
+msgid "Lower"
+msgstr "Suba"
+
+# # | translated from communitytranslateid=19424
+# | communitytranslateid=23360
+msgid "Low range selected"
+msgstr "Malalta aro elektita"
+
+# # | translated from communitytranslateid=17192
+# | communitytranslateid=23468
+msgid "look back (toggles between normal and lookback)"
+msgstr "vidi malantaŭen (baskulas inter vidi normale kaj malantaŭen)"
+
+# # | translated from communitytranslateid=15261
+# | communitytranslateid=23094
+msgid "loading...\n"
+msgstr "ŝarganta...\n"
+
+# # | translated from communitytranslateid=15262
+# | communitytranslateid=23362
+msgid "Loading zips in group "
+msgstr "Ŝarganta ZIP-arkivojn en grupo"
+
+# # | translated from communitytranslateid=15268
+# | communitytranslateid=23284
+msgid "Loading Terrain"
+msgstr "Ŝarganta terenon"
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=23166
+msgid "loading new zip: "
+msgstr "ŝarganta novan ZIP-arkivon:"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=23167
+msgid "loading new directory: "
+msgstr "ŝarganta novan dosierujon:"
+
+# # | translated from communitytranslateid=15263
+# | communitytranslateid=23285
+msgid "Loading directory\n"
+msgstr "Ŝarganta dosierujon\n"
+
+# # | translated from communitytranslateid=10638
+# | communitytranslateid=23272
+msgid "Loader"
+msgstr "Ŝargilo"
+
+# # | translated from communitytranslateid=10639
+# | communitytranslateid=23144
+msgid "List"
+msgstr "Listo"
+
+# # | translated from communitytranslateid=19417
+# | communitytranslateid=23361
+msgid "Linearity"
+msgstr "Linieco"
+
+# # | translated from communitytranslateid=10772
+# | communitytranslateid=23384
+msgid "Light source effects:"
+msgstr "Efektoj de la lumfonto:"
+
+# # | translated from communitytranslateid=17207
+# | communitytranslateid=23365
+msgid "let the character run"
+msgstr "lasi la personon kuri"
+
+# # | translated from communitytranslateid=17204
+# | communitytranslateid=23366
+msgid "let the character jump"
+msgstr "lasi la personon salti"
+
+# # | translated from communitytranslateid=17347
+# | communitytranslateid=23275
+msgid "less airbrakes"
+msgstr "malpli da aerbremsoj"
+
+# # | translated from communitytranslateid=10774
+# | communitytranslateid=23130
+msgid "Language:"
+msgstr "Lingvo:"
+
+# # | translated from communitytranslateid=10839
+# | communitytranslateid=23132
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# # | translated from communitytranslateid=10675
+# | communitytranslateid=23133
+msgid "Keyboard"
+msgstr "Klavaro"
+
+# # | translated from communitytranslateid=10808
+# | communitytranslateid=23140
+msgid "Key/Axis"
+msgstr "Klavo/Akso"
+
+# # | translated from communitytranslateid=10815
+# | communitytranslateid=23145
+msgid "Joystick Options"
+msgstr "Stirstangaj Agordoj"
+
+# # | translated from communitytranslateid=10818
+# | communitytranslateid=23363
+msgid "Joystick Axis Region"
+msgstr "Regiono de akso de stirstango"
+
+# # | translated from communitytranslateid=19390
+# | communitytranslateid=23364
+msgid "Joystick Axis Linearity"
+msgstr "Linieco de akso de stirstango"
+
+# # | translated from communitytranslateid=10823
+# | communitytranslateid=23453
+msgid "Joystick Axis Deadzones"
+msgstr "Mortintaj zonoj de akso de stirstango"
+
+# # | translated from communitytranslateid=10837
+# | communitytranslateid=23131
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# # | translated from communitytranslateid=10677
+# | communitytranslateid=23160
+msgid "Input Type: "
+msgstr "Tipo de enigo:"
+
+# # | translated from communitytranslateid=15257
+# | communitytranslateid=23445
+msgid "incremental check: processing changed zips\n"
+msgstr "grada kontrolo: procezanta ŝanĝitajn ZIP-arkivojn\n"
+
+# # | translated from communitytranslateid=15259
+# | communitytranslateid=23444
+msgid "incremental check: new files\n"
+msgstr "grada kontrolo: novaj dosieroj\n"
+
+# # | translated from communitytranslateid=15258
+# | communitytranslateid=23443
+msgid "incremental check: new content\n"
+msgstr "grada kontrolo: novaj enhavoj\n"
+
+# # | translated from communitytranslateid=15260
+# | communitytranslateid=23442
+msgid "incremental check: duplicates\n"
+msgstr "grada kontrolo: duplikatoj\n"
+
+# # | translated from communitytranslateid=15254
+# | communitytranslateid=23441
+msgid "incremental check: deleted and changed files\n"
+msgstr "grada kontrolo: viŝis kaj ŝanĝis dosierojn\n"
+
+# # | translated from communitytranslateid=15253
+# | communitytranslateid=23440
+msgid "incremental check: deleted and changed files"
+msgstr "grada kontrolo: viŝis kaj ŝanĝis dosierojn"
+
+# # | translated from communitytranslateid=17267
+# | communitytranslateid=23367
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr "pliigi pneŭpremon (notu: nur tre malmulte da kamionoj ebligas ĉi tion)"
+
+# # | translated from communitytranslateid=17186
+# | communitytranslateid=23405
+msgid "increase throttle"
+msgstr "pliigi impulson"
+
+# # | translated from communitytranslateid=17285
+# | communitytranslateid=23410
+msgid "increase the current FOV value"
+msgstr "pliigi la aktualan valoron de FOV"
+
+# # | translated from communitytranslateid=17178
+# | communitytranslateid=23227
+msgid "increase the airplane thrust"
+msgstr "pliigi la potencon de la aviadilo"
+
+# # | translated from communitytranslateid=17190
+# | communitytranslateid=23486
+msgid "increase day-time a lot faster"
+msgstr "pliigi la tempon de la tago tre pli rapide"
+
+# # | translated from communitytranslateid=17189
+# | communitytranslateid=23485
+msgid "increase day-time"
+msgstr "pliigi la tempon de la tago"
+
+# # | translated from communitytranslateid=10771
+# | communitytranslateid=23283
+msgid "In what Format should screenshots be saved?"
+msgstr "Kiel kiu formato ekranbildoj devus esti savitaj?"
+
+# # | translated from communitytranslateid=10702
+# | communitytranslateid=23371
+msgid "Import Keymap"
+msgstr "Importi klavaragordon"
+
+# # | translated from communitytranslateid=10798
+# | communitytranslateid=23297
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Se vi uzas XFire-n, vi povas aktivigi ĉi tiun agordon por generi pli detalajn ludinformojn."
+
+# # | translated from communitytranslateid=10796
+# | communitytranslateid=23376
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Se vi ne ŝatas la eksteran kameraon de la veturilo, vi povas malaktivigi ĝin ĉi tie."
+
+# # | translated from communitytranslateid=10791
+# | communitytranslateid=23289
+msgid "Hydrax Water System"
+msgstr "Hydrax akvosistemo"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=23126
+msgid "hold to start the engine"
+msgstr "teni por ŝalti la motoron"
+
+# # | translated from communitytranslateid=19426
+# | communitytranslateid=23358
+msgid "High range selected"
+msgstr "Alta aro elektita"
+
+# # | translated from communitytranslateid=10750
+# | communitytranslateid=23385
+msgid "High quality reflective effects"
+msgstr "Altkvalitaj reflektaj efektoj"
+
+# # | translated from communitytranslateid=10712
+# | communitytranslateid=23084
+msgid "High Quality"
+msgstr "Alta Kvalito"
+
+# # | translated from communitytranslateid=10710
+# | communitytranslateid=23471
+msgid "High Performance"
+msgstr "Alta Farpovo"
+
+# # | translated from communitytranslateid=17262
+# | communitytranslateid=23469
+msgid "hide all GUI elements"
+msgstr "kaŝi ĉiujn elementojn de la GUI"
+
+# # | translated from communitytranslateid=10803
+# | communitytranslateid=23129
+msgid "here you can get help"
+msgstr "ĉi tie vi povas akiri helpon"
+
+# # | translated from communitytranslateid=10738
+# | communitytranslateid=23368
+msgid "HeatHaze"
+msgstr "Efekto de varmo"
+
+# # | translated from communitytranslateid=10739
+# | communitytranslateid=23369
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Efekto de varmo de motoroj; povas malrapidegigi la sistemon. (nur aktivigu kun freŝdata aparataro)"
+
+# # | translated from communitytranslateid=10662
+# | communitytranslateid=23095
+msgid "health: "
+msgstr "stato:"
+
+# # | translated from communitytranslateid=10713
+# | communitytranslateid=23123
+msgid "Graphics Settings"
+msgstr "Grafikaj agordoj"
+
+# # | translated from communitytranslateid=10697
+# | communitytranslateid=23122
+msgid "Graphics"
+msgstr "Grafiko"
+
+# # | translated from communitytranslateid=19423
+# | communitytranslateid=23389
+msgid "Fully Manual: stick shift with ranges"
+msgstr "Tute mana ŝaftotransmisio kun gamoj"
+
+# # | translated from communitytranslateid=19422
+# | communitytranslateid=23388
+msgid "Fully manual: stick shift"
+msgstr "Tute mana ŝaftotransmisio"
+
+# # | translated from communitytranslateid=19421
+# | communitytranslateid=23387
+msgid "Fully Manual: sequencial shift"
+msgstr "Tute mana sinsekva transmisio"
+
+# # | translated from communitytranslateid=10625
+# | communitytranslateid=23386
+msgid "Fully Manual shift"
+msgstr "Tute mana transmisio"
+
+# # | translated from communitytranslateid=17176
+# | communitytranslateid=23225
+msgid "full thrust"
+msgstr "maksimuma potenco"
+
+# # | translated from communitytranslateid=10721
+# | communitytranslateid=23357
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Plenekrana moduso necesigas iomete malpli da memoro"
+
+# # | translated from communitytranslateid=10720
+# | communitytranslateid=23355
+msgid "Full screen"
+msgstr "Plena ekrano"
+
+# # | translated from communitytranslateid=17165
+# | communitytranslateid=23494
+msgid "full flaps in an aircraft."
+msgstr "plenaj alteriĝaj klapoj en aviadilo"
+
+# # | translated from communitytranslateid=17346
+# | communitytranslateid=23276
+msgid "full airbrakes"
+msgstr "plenaj aerbremsoj"
+
+# # | translated from communitytranslateid=10820
+# | communitytranslateid=23027
+msgid "Full"
+msgstr "Plena"
+
+# # | translated from communitytranslateid=10621
+# | communitytranslateid=23224
+msgid "free camera"
+msgstr "libera kamerao"
+
+# # | translated from communitytranslateid=17156
+# | communitytranslateid=23408
+msgid "FOV: "
+msgstr "FOV:"
+
+# # | translated from communitytranslateid=10777
+# | communitytranslateid=23116
+msgid "Fog"
+msgstr "Nebulo"
+
+# # | translated from communitytranslateid=10620
+# | communitytranslateid=23290
+msgid "fixed free camera"
+msgstr "fiksita libera kamerao"
+
+# # | translated from communitytranslateid=17335
+# | communitytranslateid=23296
+msgid "fix the camera to a position"
+msgstr "fiksi la kameraon ĉe pozicio"
+
+# # | translated from communitytranslateid=19419
+# | communitytranslateid=23370
+msgid "Export selection"
+msgstr "Eksporti la elekton"
+
+# # | translated from communitytranslateid=10703
+# | communitytranslateid=23372
+msgid "Export Keymap"
+msgstr "Eksporti klavaragordon"
+
+# # | translated from communitytranslateid=17288
+# | communitytranslateid=23138
+msgid "EXPERIMENTAL: set maximum amount of grass"
+msgstr "EKSPERIMENTA: specifi la maksimuman kvanton da herbo"
+
+# # | translated from communitytranslateid=17290
+# | communitytranslateid=23375
+msgid "EXPERIMENTAL: save changes to the grass density image"
+msgstr "EKSPERIMENTA: savi ŝanĝojn de la bildo de denseco de herbo"
+
+# # | translated from communitytranslateid=17286
+# | communitytranslateid=23373
+msgid "EXPERIMENTAL: remove some grass"
+msgstr "EKSPERIMENTA: forviŝi iom da herbo"
+
+# # | translated from communitytranslateid=17289
+# | communitytranslateid=23374
+msgid "EXPERIMENTAL: remove grass completely"
+msgstr "EKSPERIMENTA: tute forviŝi herbon"
+
+# # | translated from communitytranslateid=17287
+# | communitytranslateid=23139
+msgid "EXPERIMENTAL: add some grass"
+msgstr "EKSPERIMENTA: aldoni iom da herbo"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=23039
+msgid "exit the game"
+msgstr "eliri el la programo"
+
+# # | translated from communitytranslateid=10683
+# | communitytranslateid=23295
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Valoro de la okazo (maldekstra = 0%, dekstra = 100%)"
+
+# # | translated from communitytranslateid=10674
+# | communitytranslateid=23294
+msgid "Event Name: "
+msgstr "Nomo de la okazo:"
+
+# # | translated from communitytranslateid=10682
+# | communitytranslateid=23293
+msgid "Event Name"
+msgstr "Nomo de okazo"
+
+# # | translated from communitytranslateid=10681
+# | communitytranslateid=23292
+msgid "Event Description: "
+msgstr "Priskribo de la okazo:"
+
+# # | translated from communitytranslateid=10806
+# | communitytranslateid=23291
+msgid "Event"
+msgstr "Okazo"
+
+# # | translated from communitytranslateid=10658
+# | communitytranslateid=23446
+msgid "Error while retrieving user space path"
+msgstr "Eraro ricevante lokon de la uzantspaco"
+
+# # | translated from communitytranslateid=10656
+# | communitytranslateid=23447
+msgid "Error while retrieving program space path"
+msgstr "Eraro ricevante lokon de la programspaco"
+
+# # | translated from communitytranslateid=17260
+# | communitytranslateid=23107
+msgid "enter the chat"
+msgstr "eniri la babilejon"
+
+# # | translated from communitytranslateid=17261
+# | communitytranslateid=23106
+msgid "enter or exit a truck"
+msgstr "eniri en aŭ eliri el kamiono"
+
+# # | translated from communitytranslateid=10779
+# | communitytranslateid=23113
+msgid "Engine smoke"
+msgstr "Motorfumo"
+
+# # | translated from communitytranslateid=10730
+# | communitytranslateid=23470
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Aktivigi ondojn aldonas multe da amuzo al boatoj, sed povas malbonege influi la farpovon de iuj specifaj aparataroj."
+
+# # | translated from communitytranslateid=10792
+# | communitytranslateid=23465
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Aktivigas la novan sistemon de akvobildigo. EKSPERIMENTA. Anstataŭigas iajn akvoagordojn."
+
+# # | translated from communitytranslateid=10797
+# | communitytranslateid=23229
+msgid "Enable XFire Extension"
+msgstr "Aktivigi kromaĵon XFire"
+
+# # | translated from communitytranslateid=10729
+# | communitytranslateid=23108
+msgid "Enable waves"
+msgstr "Aktivigi ondojn"
+
+# # | translated from communitytranslateid=10799
+# | communitytranslateid=23466
+msgid "Enable Visual Beam Debug"
+msgstr "Aktivigi malerarigon de traboj"
+
+# # | translated from communitytranslateid=19429
+# | communitytranslateid=23120
+msgid "enable or disable replay mode"
+msgstr "aktivigi aŭ malaktivigi revidomoduson"
+
+# # | translated from communitytranslateid=17278
+# | communitytranslateid=23121
+msgid "enable of disable replay mode"
+msgstr "aktivigi aŭ malaktivigi revidomoduson"
+
+# # | translated from communitytranslateid=10755
+# | communitytranslateid=23117
+msgid "Enable network mode"
+msgstr "Aktivigi retmoduson"
+
+# # | translated from communitytranslateid=10751
+# | communitytranslateid=23451
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Aktivigi altkvalitajn reflektaj efektoj. Povas kaŭzi malrapidigon de la sistemo."
+
+# # | translated from communitytranslateid=17146
+# | communitytranslateid=23277
+msgid "Enable Auto-Downloader"
+msgstr "Aktivigi aŭtomatan elŝutilon"
+
+# # | translated from communitytranslateid=10754
+# | communitytranslateid=23119
+msgid "Enable advanced wheel model"
+msgstr "Aktivigi progresintan radmodelon"
+
+# # | translated from communitytranslateid=17336
+# | communitytranslateid=23392
+msgid "enable / disable free camera mode"
+msgstr "(mal)aktivigi moduson de libera kamerao"
+
+# # | translated from communitytranslateid=10736
+# | communitytranslateid=23037
+msgid "Dust"
+msgstr "Polvo"
+
+# # | translated from communitytranslateid=10800
+# | communitytranslateid=23390
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Vidigas verticonumerojn kaj pli da informoj sur verticoj kaj traboj."
+
+# # | translated from communitytranslateid=17351
+# | communitytranslateid=23112
+msgid "display or hide net chat"
+msgstr "vidigi aŭ kaŝi retbabiladon"
+
+# # | translated from communitytranslateid=10794
+# | communitytranslateid=23433
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "Malaktivigas la mapon. Ĉi tio estas nur por kontrolado, la FPS-n ĝi ne devus pliigi."
+
+# # | translated from communitytranslateid=10793
+# | communitytranslateid=23432
+msgid "Disable Overview Map"
+msgstr "Malaktivigi la mapon"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=23154
+msgid "disable creak sound"
+msgstr "malaktivigi la grincosonon"
+
+# # | translated from communitytranslateid=10795
+# | communitytranslateid=23498
+msgid "Disable Camera Pitching"
+msgstr "Malaktivigi vertikalan rotacion de la kamerao"
+
+# # | translated from communitytranslateid=19428
+# | communitytranslateid=23412
+msgid "Differentials switched to: "
+msgstr "Diferencialoj ŝanĝitaj al:"
+
+# # | translated from communitytranslateid=10715
+# | communitytranslateid=23102
+msgid "Device:"
+msgstr "Disponaĵo:"
+
+# # | translated from communitytranslateid=10663
+# | communitytranslateid=23110
+msgid "destruction: "
+msgstr "detruo:"
+
+# # | translated from communitytranslateid=17160
+# | communitytranslateid=23111
+msgid "Description: "
+msgstr "Priskribo:"
+
+# # | translated from communitytranslateid=10701
+# | communitytranslateid=23125
+msgid "Delete selected"
+msgstr "Forviŝi elektitajn"
+
+# # | translated from communitytranslateid=17350
+# | communitytranslateid=23124
+msgid "delete current truck"
+msgstr "forviŝi la aktualan kamionon"
+
+# # | translated from communitytranslateid=10664
+# | communitytranslateid=23048
+msgid "deformed: "
+msgstr "deformitaj:"
+
+# # | translated from communitytranslateid=17158
+# | communitytranslateid=23419
+msgid "Default Skin"
+msgstr "Defaŭlta livreo"
+
+# # | translated from communitytranslateid=17284
+# | communitytranslateid=23409
+msgid "decreases the current FOV value"
+msgstr "malpliigi la aktualan valoron de FOV"
+
+# # | translated from communitytranslateid=17175
+# | communitytranslateid=23228
+msgid "decreases the airplane thrust"
+msgstr "malpliigi la potencon de la aviadilo"
+
+# # | translated from communitytranslateid=17266
+# | communitytranslateid=23391
+msgid "decrease tire pressure (note: only very few trucks support this)"
+msgstr "malpliigi pneŭpremon (notu: nur tre malmulte da kamionoj ebligas ĉi tion)"
+
+# # | translated from communitytranslateid=17185
+# | communitytranslateid=23406
+msgid "decrease throttle"
+msgstr "malpliigi impulson"
+
+# # | translated from communitytranslateid=17188
+# | communitytranslateid=23257
+msgid "decrease day-time a lot faster"
+msgstr "mallongigi la tagtempon tre pli rapide"
+
+# # | translated from communitytranslateid=17187
+# | communitytranslateid=23256
+msgid "decrease day-time"
+msgstr "mallongigi la tempon de la tago"
+
+# # | translated from communitytranslateid=10787
+# | communitytranslateid=23318
+msgid "Debug Truck Mass"
+msgstr "Malerarigi mason de kamiono"
+
+# # | translated from communitytranslateid=17276
+# | communitytranslateid=23320
+msgid "debug purpose - dont use"
+msgstr "Por malerarigado - ne uzu"
+
+# # | translated from communitytranslateid=10789
+# | communitytranslateid=23319
+msgid "Debug Collision Meshes"
+msgstr "Malerarigi kolizio-maŝarojn"
+
+# # | translated from communitytranslateid=10836
+# | communitytranslateid=23454
+msgid "Deadzone"
+msgstr "Mortinta zono"
+
+# # | translated from communitytranslateid=10842
+# | communitytranslateid=23083
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# # | translated from communitytranslateid=10840
+# | communitytranslateid=23091
+# | communitytranslateid=23500
+msgid "data\\\\\\\\config.bmp"
+msgstr "data\\\\\\\\config.bmp"
+
+# # | translated from communitytranslateid=10843
+# | communitytranslateid=23093
+# | communitytranslateid=23501
+msgid "data\\\\\\\\"
+msgstr "data\\\\\\\\"
+
+# # | translated from communitytranslateid=10840
+# | communitytranslateid=23091
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# # | translated from communitytranslateid=10843
+# | communitytranslateid=23093
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# # | translated from communitytranslateid=10841
+# | communitytranslateid=23092
+msgid "data/"
+msgstr "data/"
+
+# # | translated from communitytranslateid=10783
+# | communitytranslateid=23051
+msgid "Dashboard"
+msgstr "Panelo"
+
+# # | translated from communitytranslateid=19452
+# | communitytranslateid=23448
+msgid "Cycle between available differental models"
+msgstr "Baskuli inter disponeblaj modeloj de diferencialoj"
+
+# # | translated from communitytranslateid=10781
+# | communitytranslateid=23402
+msgid "Custom Particles"
+msgstr "Uzantdifinitaj partikloj"
+
+# # | translated from communitytranslateid=10670
+# | communitytranslateid=23035
+msgid "current Speed:"
+msgstr "aktuala rapido:"
+
+# # | translated from communitytranslateid=10669
+# | communitytranslateid=23321
+msgid "current RPM:"
+msgstr "aktuala RPM:"
+
+# # | translated from communitytranslateid=10668
+# | communitytranslateid=23036
+msgid "current mass:"
+msgstr "aktuala maso:"
+
+# # | translated from communitytranslateid=10609
+# | communitytranslateid=23280
+msgid "Current FPS: "
+msgstr "Aktuala FPS:"
+
+# # | translated from communitytranslateid=10708
+# | communitytranslateid=23034
+msgid "CPU Settings"
+msgstr "Agordoj de la ĉefprocesoro"
+
+# # | translated from communitytranslateid=10699
+# | communitytranslateid=23030
+msgid "CPU"
+msgstr "Ĉefprocesoro"
+
+# # | translated from communitytranslateid=19388
+# | communitytranslateid=23434
+msgid "Could not write to input.map file"
+msgstr "Ne sukcesis skribi al la dosiero input.map"
+
+# # | translated from communitytranslateid=10813
+# | communitytranslateid=23259
+msgid "Could not write config file"
+msgstr "Ne okazis la skribo de la agordodosiero"
+
+# # | translated from communitytranslateid=10811
+# | communitytranslateid=23407
+msgid "Could not open Rendering device"
+msgstr "Ne sukcesis malfermi la disponaĵon de bildigo"
+
+# # | translated from communitytranslateid=10700
+# | communitytranslateid=23230
+msgid "Controls"
+msgstr "Regiloj"
+
+# # | translated from communitytranslateid=17263
+# | communitytranslateid=23489
+msgid "connect hook node to a node in close proximity"
+msgstr "konekti hokverticon kun vertico en la proksimo"
+
+# # | translated from communitytranslateid=10814
+# | communitytranslateid=23156
+msgid "Configure error"
+msgstr "Eraro de agordado"
+
+# # | translated from communitytranslateid=10707
+# | communitytranslateid=23100
+msgid "Community / Support"
+msgstr "Komunumo / Subteno"
+
+# # | translated from communitytranslateid=10673
+# | communitytranslateid=22975
+msgid "Commands:"
+msgstr "Ordonoj:"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=22976
+msgid "Command 9"
+msgstr "Ordono 9"
+
+# # | translated from communitytranslateid=17217
+# | communitytranslateid=22977
+msgid "Command 8"
+msgstr "Ordono 8"
+
+# # | translated from communitytranslateid=17216
+# | communitytranslateid=22978
+msgid "Command 7"
+msgstr "Ordono 7"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=22979
+msgid "Command 6"
+msgstr "Ordono 6"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=22980
+msgid "Command 5"
+msgstr "Ordono 5"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=22981
+msgid "Command 48"
+msgstr "Ordono 48"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=22982
+msgid "Command 47"
+msgstr "Ordono 47"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=22983
+msgid "Command 46"
+msgstr "Ordono 46"
+
+# # | translated from communitytranslateid=17254
+# | communitytranslateid=22984
+msgid "Command 45"
+msgstr "Ordono 45"
+
+# # | translated from communitytranslateid=17253
+# | communitytranslateid=22985
+msgid "Command 44"
+msgstr "Ordono 44"
+
+# # | translated from communitytranslateid=17252
+# | communitytranslateid=22986
+msgid "Command 43"
+msgstr "Ordono 43"
+
+# # | translated from communitytranslateid=17251
+# | communitytranslateid=22987
+msgid "Command 42"
+msgstr "Ordono 42"
+
+# # | translated from communitytranslateid=17250
+# | communitytranslateid=22988
+msgid "Command 41"
+msgstr "Ordono 41"
+
+# # | translated from communitytranslateid=17249
+# | communitytranslateid=22989
+msgid "Command 40"
+msgstr "Ordono 40"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=22990
+msgid "Command 4"
+msgstr "Ordono 4"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=22991
+msgid "Command 39"
+msgstr "Ordono 39"
+
+# # | translated from communitytranslateid=17247
+# | communitytranslateid=22992
+msgid "Command 38"
+msgstr "Ordono 38"
+
+# # | translated from communitytranslateid=17246
+# | communitytranslateid=22993
+msgid "Command 37"
+msgstr "Ordono 37"
+
+# # | translated from communitytranslateid=17245
+# | communitytranslateid=22994
+msgid "Command 36"
+msgstr "Ordono 36"
+
+# # | translated from communitytranslateid=17244
+# | communitytranslateid=22995
+msgid "Command 35"
+msgstr "Ordono 35"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=22996
+msgid "Command 34"
+msgstr "Ordono 34"
+
+# # | translated from communitytranslateid=17242
+# | communitytranslateid=22997
+msgid "Command 33"
+msgstr "Ordono 33"
+
+# # | translated from communitytranslateid=17241
+# | communitytranslateid=22998
+msgid "Command 32"
+msgstr "Ordono 32"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=22999
+msgid "Command 31"
+msgstr "Ordono 31"
+
+# # | translated from communitytranslateid=17239
+# | communitytranslateid=23000
+msgid "Command 30"
+msgstr "Ordono 30"
+
+# # | translated from communitytranslateid=17212
+# | communitytranslateid=23001
+msgid "Command 3"
+msgstr "Ordono 3"
+
+# # | translated from communitytranslateid=17238
+# | communitytranslateid=23002
+msgid "Command 29"
+msgstr "Ordono 29"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=23003
+msgid "Command 28"
+msgstr "Ordono 28"
+
+# # | translated from communitytranslateid=17236
+# | communitytranslateid=23004
+msgid "Command 27"
+msgstr "Ordono 27"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=23005
+msgid "Command 26"
+msgstr "Ordono 26"
+
+# # | translated from communitytranslateid=17234
+# | communitytranslateid=23006
+msgid "Command 25"
+msgstr "Ordono 25"
+
+# # | translated from communitytranslateid=17233
+# | communitytranslateid=23007
+msgid "Command 24"
+msgstr "Ordono 24"
+
+# # | translated from communitytranslateid=17232
+# | communitytranslateid=23008
+msgid "Command 23"
+msgstr "Ordono 23"
+
+# # | translated from communitytranslateid=17231
+# | communitytranslateid=23009
+msgid "Command 22"
+msgstr "Ordono 22"
+
+# # | translated from communitytranslateid=17230
+# | communitytranslateid=23010
+msgid "Command 21"
+msgstr "Ordono 21"
+
+# # | translated from communitytranslateid=17229
+# | communitytranslateid=23011
+msgid "Command 20"
+msgstr "Ordono 20"
+
+# # | translated from communitytranslateid=17211
+# | communitytranslateid=23012
+msgid "Command 2"
+msgstr "Ordono 2"
+
+# # | translated from communitytranslateid=17228
+# | communitytranslateid=23013
+msgid "Command 19"
+msgstr "Ordono 19"
+
+# # | translated from communitytranslateid=17227
+# | communitytranslateid=23014
+msgid "Command 18"
+msgstr "Ordono 18"
+
+# # | translated from communitytranslateid=17226
+# | communitytranslateid=23015
+msgid "Command 17"
+msgstr "Ordono 17"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=23016
+msgid "Command 16"
+msgstr "Ordono 16"
+
+# # | translated from communitytranslateid=17224
+# | communitytranslateid=23017
+msgid "Command 15"
+msgstr "Ordono 15"
+
+# # | translated from communitytranslateid=17223
+# | communitytranslateid=23018
+msgid "Command 14"
+msgstr "Ordono 14"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=23019
+msgid "Command 13"
+msgstr "Ordono 13"
+
+# # | translated from communitytranslateid=17221
+# | communitytranslateid=23020
+msgid "Command 12"
+msgstr "Ordono 12"
+
+# # | translated from communitytranslateid=17220
+# | communitytranslateid=23021
+msgid "Command 11"
+msgstr "Ordono 11"
+
+# # | translated from communitytranslateid=17219
+# | communitytranslateid=23022
+msgid "Command 10"
+msgstr "Ordono 10"
+
+# # | translated from communitytranslateid=17210
+# | communitytranslateid=23023
+msgid "Command 1"
+msgstr "Ordono 1"
+
+# # | translated from communitytranslateid=10740
+# | communitytranslateid=23231
+msgid "Cockpit options"
+msgstr "Agordoj de la stirejo"
+
+# # | translated from communitytranslateid=10680
+# | communitytranslateid=23050
+msgid "close this dialog"
+msgstr "fermi ĉi tiun dialogujon"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=23258
+msgid "Click on blue hyperlinks to select a server."
+msgstr "Klaku sur bluaj ligiloj por elekti servilon."
+
+# # | translated from communitytranslateid=10773
+# | communitytranslateid=23323
+msgid "Clear cache"
+msgstr "Malplenigi kaŝmemoron"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=23101
+msgid "Choose a file"
+msgstr "Elektu dosieron"
+
+# # | translated from communitytranslateid=15264
+# | communitytranslateid=23414
+msgid "checking for new zips in "
+msgstr "kontrolanta novajn ZIP-arkivojn en"
+
+# # | translated from communitytranslateid=15265
+# | communitytranslateid=23413
+msgid "checking for new directories in "
+msgstr "kontrolanta novajn dosierujojn en"
+
+# # | translated from communitytranslateid=17191
+# | communitytranslateid=23287
+msgid "change camera mode"
+msgstr "ŝanĝi kameramoduson"
+
+# # | translated from communitytranslateid=17180
+# | communitytranslateid=23327
+msgid "center the rudder"
+msgstr "centri la rudron"
+
+# # | translated from communitytranslateid=10695
+# | communitytranslateid=23288
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Nuligi la agordoŝanĝojn kaj fermi la agordilon."
+
+# # | translated from communitytranslateid=10637
+# | communitytranslateid=23031
+msgid "Cancel"
+msgstr "Nuligi"
+
+# # | translated from communitytranslateid=10725
+# | communitytranslateid=23286
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Ĉielo de Caelum estas bela sed iomete malrapida krom se vi havas altpotencan grafikprocesoron."
+
+# # | translated from communitytranslateid=17155
+# | communitytranslateid=23325
+msgid "Cache regeneration done.\n"
+msgstr "Regenero de kaŝmemoro plenumita.\n"
+
+# # | translated from communitytranslateid=10661
+# | communitytranslateid=23047
+msgid "broken: "
+msgstr "rompitaj:"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=22965
+msgid "brake"
+msgstr "bremso"
+
+# # | translated from communitytranslateid=10652
+# | communitytranslateid=22971
+msgid "Boat"
+msgstr "Boato"
+
+# # | translated from communitytranslateid=10746
+# | communitytranslateid=23401
+msgid "Bloom"
+msgstr "Bloom"
+
+# # | translated from communitytranslateid=10611
+# | communitytranslateid=23232
+msgid "Best FPS: "
+msgstr "Plej bona FPS:"
+
+# # | translated from communitytranslateid=10660
+# | communitytranslateid=23049
+msgid "beam count: "
+msgstr "nombro da traboj:"
+
+# # | translated from communitytranslateid=10711
+# | communitytranslateid=23281
+msgid "Balanced"
+msgstr "Ekvilibrigita"
+
+# # | translated from communitytranslateid=10614
+# | communitytranslateid=23322
+msgid "Bad server port"
+msgstr "Malkorekta servil-konektejo"
+
+# # | translated from communitytranslateid=10666
+# | communitytranslateid=23118
+msgid "average stress: "
+msgstr "averaĝa streĉo:"
+
+# # | translated from communitytranslateid=10610
+# | communitytranslateid=23279
+msgid "Average FPS: "
+msgstr "Averaĝa FPS:"
+
+# # | translated from communitytranslateid=10665
+# | communitytranslateid=23151
+msgid "average deformation: "
+msgstr "averaĝa deformiĝo:"
+
+# # | translated from communitytranslateid=10623
+# | communitytranslateid=23278
+msgid "Automatic shift"
+msgstr "Aŭtomata transmisio"
+
+# # | translated from communitytranslateid=10643
+# | communitytranslateid=23033
+msgid "Authors: "
+msgstr "Aŭtoroj:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=23029
+msgid "Author: "
+msgstr "Aŭtoro:"
+
+# # | translated from communitytranslateid=10718
+# | communitytranslateid=23499
+msgid "Anti-aliasing:"
+msgstr "Ebenigado:"
+
+# # | translated from communitytranslateid=10757
+# | communitytranslateid=23082
+msgid "Anonymous"
+msgstr "Anonima"
+
+# # | translated from communitytranslateid=10672
+# | communitytranslateid=23088
+msgid "Altitude:"
+msgstr "Altitudo:"
+
+# # | translated from communitytranslateid=17349
+# | communitytranslateid=23403
+msgid "airplane throttle"
+msgstr "impulso de aviadilo"
+
+# # | translated from communitytranslateid=17169
+# | communitytranslateid=23282
+msgid "airplane parking brake."
+msgstr "aviadila parkbremso"
+
+# # | translated from communitytranslateid=10651
+# | communitytranslateid=23046
+msgid "Airplane"
+msgstr "Aviadilo"
+
+# # | translated from communitytranslateid=10706
+# | communitytranslateid=23255
+msgid "Advanced"
+msgstr "Progresintaj"
+
+# # | translated from communitytranslateid=10679
+# | communitytranslateid=23254
+msgid "Add the key"
+msgstr "Aldoni la klavon"
+
+# # | translated from communitytranslateid=10678
+# | communitytranslateid=23253
+msgid "Add"
+msgstr "Aldoni"
+
+# # | translated from communitytranslateid=17306
+# | communitytranslateid=23105
+msgid "accelerate the truck"
+msgstr "akceli la kamionon"
+
+# # | translated from communitytranslateid=10615
+# | communitytranslateid=23104
+msgid "A network error occured"
+msgstr "Okazis reta eraro"
+
+# # | translated from communitytranslateid=10827
+# | communitytranslateid=23455
+msgid "5% deadzone"
+msgstr "5% mortinta zono"
+
+# # | translated from communitytranslateid=10826
+# | communitytranslateid=23249
+msgid "5 %"
+msgstr "5 %"
+
+# # | translated from communitytranslateid=10835
+# | communitytranslateid=23456
+msgid "30% deadzone"
+msgstr "30% mortinta zono"
+
+# # | translated from communitytranslateid=10834
+# | communitytranslateid=23252
+msgid "30 %"
+msgstr "30 %"
+
+# # | translated from communitytranslateid=10833
+# | communitytranslateid=23457
+msgid "20% deadzone"
+msgstr "20% mortinta zono"
+
+# # | translated from communitytranslateid=10832
+# | communitytranslateid=23251
+msgid "20 %"
+msgstr "20 %"
+
+# # | translated from communitytranslateid=10831
+# | communitytranslateid=23458
+msgid "15% deadzone"
+msgstr "15% mortinta zono"
+
+# # | translated from communitytranslateid=10830
+# | communitytranslateid=23250
+msgid "15 %"
+msgstr "15 %"
+
+# # | translated from communitytranslateid=10761
+# | communitytranslateid=23045
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# # | translated from communitytranslateid=10763
+# | communitytranslateid=23096
+msgid "12333"
+msgstr "12333"
+
+# # | translated from communitytranslateid=10829
+# | communitytranslateid=23459
+msgid "10% deadzone"
+msgstr "10% mortinta zono"
+
+# # | translated from communitytranslateid=10828
+# | communitytranslateid=23044
+msgid "10 %"
+msgstr "10%"
+
+# # | translated from communitytranslateid=19403
+# | communitytranslateid=23461
+msgid "0 % (Total Linear)"
+msgstr "0% (tute linia)"
+
+# # | translated from communitytranslateid=10824
+# | communitytranslateid=23460
+msgid "0 % (No deadzone)"
+msgstr "0% (neniu mortinta zono)"
+
+# # | translated from communitytranslateid=10759
+# | communitytranslateid=23090
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Kiel ludi multludante:</p><br><ol><li>Klaku sur la butono <b>Refreŝigi</b> por vidi la disponeblajn servilojn ĉi tie.</li><li>Klaku sur iu substrekita servilo en la listo.</li><li>Klaku sur la butono <b>Savi kaj ludi</b> por komenci la ludon.</li></ol>"
+
+# # | translated from communitytranslateid=15252
+# | communitytranslateid=23089
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Lastaj Novaĵoj</h2>Neniuj ĉi-momente<h2>Subteno / Komunumo</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>lerniloj</a><p/> (ĉi tiu retpaĝaro estas plibonigota...)"
+
+# # | translated from communitytranslateid=19402
+# | communitytranslateid=23057
+msgid "+5% multiplication"
+msgstr "multipliko de +5%"
+
+# # | translated from communitytranslateid=19401
+# | communitytranslateid=23058
+msgid "+5 %"
+msgstr "+5%"
+
+# # | translated from communitytranslateid=19392
+# | communitytranslateid=23056
+msgid "+30% multiplication"
+msgstr "multipliko de +30%"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=23059
+msgid "+30 %"
+msgstr "+30%"
+
+# # | translated from communitytranslateid=19394
+# | communitytranslateid=23060
+msgid "+25% multiplication"
+msgstr "multipliko de +25%"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=23061
+msgid "+25 %"
+msgstr "+25%"
+
+# # | translated from communitytranslateid=19396
+# | communitytranslateid=23062
+msgid "+20% multiplication"
+msgstr "multipliko de +20%"
+
+# # | translated from communitytranslateid=19395
+# | communitytranslateid=23063
+msgid "+20 %"
+msgstr "+20%"
+
+# # | translated from communitytranslateid=19398
+# | communitytranslateid=23064
+msgid "+15% multiplication"
+msgstr "multipliko de +15%"
+
+# # | translated from communitytranslateid=19397
+# | communitytranslateid=23065
+msgid "+15 %"
+msgstr "+15%"
+
+# # | translated from communitytranslateid=19400
+# | communitytranslateid=23066
+msgid "+10% multiplication"
+msgstr "multipliko de +10%"
+
+# # | translated from communitytranslateid=19399
+# | communitytranslateid=23067
+msgid "+10 %"
+msgstr "+10%"
+
+# # | translated from communitytranslateid=10685
+# | communitytranslateid=23097
+msgid "(Please press a key)"
+msgstr "(Bonvolu premi klavon)"
+
+# # | translated from communitytranslateid=10686
+# | communitytranslateid=23099
+msgid "(Please press a Joystick Button)"
+msgstr "(Bonvolu premi stirstangan butonon)"
+
+# # | translated from communitytranslateid=10687
+# | communitytranslateid=23115
+msgid "(Please move an Axis)\n"
+msgstr "(Bonvolu movi akson)\n"
+
+# # | translated from communitytranslateid=19387
+# | communitytranslateid=23415
+msgid "(Please move a Slider)\n"
+msgstr "(Bonvolu movi variigilon)\n"
+
+# # | translated from communitytranslateid=10775
+# | communitytranslateid=23052
+msgid "(No Languages found)"
+msgstr "(Neniuj lingvoj trovitaj)"
+
+# # | translated from communitytranslateid=10659
+# | communitytranslateid=23081
+msgid "(no author information available)"
+msgstr "(neniuj disponeblaj informoj pri la aŭtoro)"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=22970
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "... ŝarganta ... (vi eble devus kontroli vian retkonekton)"
+
+# # | translated from communitytranslateid=19406
+# | communitytranslateid=23068
+msgid "-5% multiplication"
+msgstr "multipliko de -5%"
+
+# # | translated from communitytranslateid=19405
+# | communitytranslateid=23069
+msgid "-5 %"
+msgstr "-5%"
+
+# # | translated from communitytranslateid=19416
+# | communitytranslateid=23070
+msgid "-30% multiplication"
+msgstr "multipliko de -30%"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=23071
+msgid "-30 %"
+msgstr "-30%"
+
+# # | translated from communitytranslateid=19414
+# | communitytranslateid=23072
+msgid "-25% multiplication"
+msgstr "multipliko de -25%"
+
+# # | translated from communitytranslateid=19413
+# | communitytranslateid=23073
+msgid "-25 %"
+msgstr "-25%"
+
+# # | translated from communitytranslateid=19412
+# | communitytranslateid=23074
+msgid "-20% multiplication"
+msgstr "multipliko de -20%"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=23075
+msgid "-20 %"
+msgstr "-20%"
+
+# # | translated from communitytranslateid=19410
+# | communitytranslateid=23076
+msgid "-15% multiplication"
+msgstr "multipliko de -15%"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=23077
+msgid "-15 %"
+msgstr "-15%"
+
+# # | translated from communitytranslateid=19408
+# | communitytranslateid=23078
+msgid "-10% multiplication"
+msgstr "multipliko de -10%"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=23079
+msgid "-10 %"
+msgstr "-10%"
+
+# # | translated from communitytranslateid=10627
+# | communitytranslateid=23098
+msgid "^8 Player: ^7"
+msgstr "^8 ludantoj: ^7"
+
+# # | translated from communitytranslateid=10630
+# | communitytranslateid=23136
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 uzi: /rcmd [ordono] [nedevigaj argumentoj]"
+
+# # | translated from communitytranslateid=10633
+# | communitytranslateid=22968
+msgid "^1 unkown Command: "
+msgstr "^1 nekonata ordono:"
+
+# # | translated from communitytranslateid=10629
+# | communitytranslateid=23137
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 ERARO: vi devas unue uzi /rlogin [pasvorto]"
+
+# # | translated from communitytranslateid=10631
+# | communitytranslateid=23491
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 ERARO: protokola eraro provante sendi ordonon al RCON:"
+
+# # | translated from communitytranslateid=10628
+# | communitytranslateid=23492
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 ERARO: protokola eraro provante ensaluti en RCON:"
+
+# # | translated from communitytranslateid=10632
+# | communitytranslateid=23109
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 ERARO: retmoduso ne estas aktiva"
+
+# # | translated from communitytranslateid=10634
+# | communitytranslateid=23490
+msgid "^1 Error Parsing command"
+msgstr "^1 Eraro de sintaksa analizo de la ordono"
+
+# # | translated from communitytranslateid=15255
+# | communitytranslateid=23080
+msgid " not existing"
+msgstr "Ne ekzistas"
+
+# # | translated from communitytranslateid=15256
+# | communitytranslateid=22969
+msgid " changed"
+msgstr "ŝanĝita"
+

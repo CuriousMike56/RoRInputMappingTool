@@ -1,0 +1,817 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# : source/configurator.cpp:1140
+# | communitytranslateid=12259
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Vaš omrežni vzdevek. Maksimalno 20 znakov."
+
+# : source/configurator.cpp:1167
+# | communitytranslateid=12268
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Teh nastavitev ni potrebno spreminjati, razen ob težavah."
+
+# : source/configurator.cpp:1068
+# | communitytranslateid=12228
+msgid "Water type:"
+msgstr "Tip vode:"
+
+# : source/configurator.cpp:1074
+# | communitytranslateid=12232
+msgid "Water spray"
+msgstr "Pršenje vode"
+
+# : source/configurator.cpp:1070
+# | communitytranslateid=12229
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Vodni odsev je počasen in potrebuje dober GPU. V hitrostno optimiziranem načinu lahko občutiš tresenje kamere."
+
+# : source/configurator.cpp:1044
+# : source/configurator.cpp:1046
+# | communitytranslateid=12223
+msgid "VSync"
+msgstr "VSync"
+
+# : source/configurator.cpp:1098
+# | communitytranslateid=12244
+msgid "Visual effects"
+msgstr "Vizualni efekti"
+
+# : source/configurator.cpp:1023
+# : source/configurator.cpp:1025
+# | communitytranslateid=12218
+msgid "Video mode:"
+msgstr "Video način:"
+
+# # | translated from communitytranslateid=10654
+# | communitytranslateid=22852
+msgid "Vehicle Type: "
+msgstr "Tip Vozila"
+
+# : source/configurator.cpp:1082
+# | communitytranslateid=12234
+msgid "Vegetation:"
+msgstr "Rastlinstvo:"
+
+# : source/configurator.cpp:1956
+# | communitytranslateid=12305
+msgid "Upper"
+msgstr "Povečaj"
+
+# : source/configurator.cpp:1165
+# | communitytranslateid=12267
+msgid "Update"
+msgstr "Posodobi"
+
+# : source/configurator.cpp:1189
+# | communitytranslateid=12274
+msgid "Uncheck in case you have a fog problem"
+msgstr "V primeru težav naj ne bo kljukice"
+
+# : source/configurator.cpp:1300
+# | communitytranslateid=12293
+msgid "Type"
+msgstr "Tip"
+
+# # | translated from communitytranslateid=10650
+# | communitytranslateid=23502
+msgid "Truck"
+msgstr "Tovornjak"
+
+# : source/configurator.cpp:1121
+# : source/configurator.cpp:1122
+# | communitytranslateid=12254
+msgid "Thread number:"
+msgstr "Število niti:"
+
+# : source/configurator.cpp:1089
+# | communitytranslateid=12238
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Lahko upočasni delovanje na starejših sistemih, vendar izgleda precej dobro."
+
+# : source/configurator.cpp:1085
+# | communitytranslateid=12235
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Določa koliko trave, dreves in drugih objektov je prikazanih."
+
+# : source/configurator.cpp:1161
+# | communitytranslateid=12266
+msgid "The server password, if required."
+msgstr "Geslo strežnika, v kolikor je potrebno."
+
+# : source/configurator.cpp:1035
+# : source/configurator.cpp:1037
+# | communitytranslateid=12220
+msgid "Texture filtering:"
+msgstr "Filtriranje tekstur:"
+
+# : source/configurator.cpp:994
+# | communitytranslateid=12212
+msgid "Test"
+msgstr "Test"
+
+# : source/configurator.cpp:1099
+# | communitytranslateid=12245
+msgid "Sunburn"
+msgstr "Sončev sij"
+
+# : source/configurator.cpp:1048
+# | communitytranslateid=12224
+msgid "Special effects"
+msgstr "Posebni efekti"
+
+# : source/configurator.cpp:938
+# | communitytranslateid=12206
+msgid "Sounds"
+msgstr "Zvok"
+
+# : source/configurator.cpp:1114
+# : source/configurator.cpp:1117
+# | communitytranslateid=12253
+msgid "Sound rendering:"
+msgstr "Zvočno pospeševanje:"
+
+# : source/configurator.cpp:1052
+# | communitytranslateid=12225
+msgid "Sky type:"
+msgstr "Tip neba:"
+
+# : source/configurator.cpp:1097
+# | communitytranslateid=12243
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Prikaže vzvratna ogledala pri prvoosebnem pogledu. Lahko povzroči težave na starejših grafičnih karticah."
+
+# : source/configurator.cpp:1198
+# | communitytranslateid=12280
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Pokaže dinamično armaturko v prvoosebnem pogledu. Lahko povzroča težave na starejših sistemih."
+
+# : source/configurator.cpp:1207
+# | communitytranslateid=12286
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Razhrošči trke likov v rdečem za pravilno pozicioniranje. Samo za razhroščevanje!"
+
+# # | translated from communitytranslateid=19432
+# | communitytranslateid=23503
+msgid "shift directly to second gear"
+msgstr "prestavi direktno v drugo prestavo"
+
+# : source/configurator.cpp:1059
+# : source/configurator.cpp:1061
+# | communitytranslateid=12227
+msgid "Shadow type:"
+msgstr "Tip senc:"
+
+# : source/configurator.cpp:1148
+# : source/configurator.cpp:1507
+# | communitytranslateid=12263
+msgid "Server port number: "
+msgstr "Vrata strežnika:"
+
+# : source/configurator.cpp:1154
+# | communitytranslateid=12265
+msgid "Server password: "
+msgstr "Geslo strežnika"
+
+# : source/configurator.cpp:1144
+# : source/configurator.cpp:1505
+# | communitytranslateid=12261
+msgid "Server host name: "
+msgstr "Ime gostiteljskega strežnika:"
+
+# : source/configurator.cpp:1171
+# | communitytranslateid=12269
+msgid "Screenshot Format:"
+msgstr "Format zajema slike:"
+
+# : source/configurator.cpp:1007
+# | communitytranslateid=12215
+msgid "Screen configuration"
+msgstr "Nastavitev zaslona"
+
+# : source/configurator.cpp:920
+# | communitytranslateid=12201
+msgid "Save the current configuration and start RoR."
+msgstr "Shrani trenutno konfiguracijo in zaženi RoR."
+
+# : source/configurator.cpp:924
+# | communitytranslateid=12203
+msgid "Save the current configuration and close the configuration program."
+msgstr "Shrani trenutno konfiguracijo in zapri konfiguracijski program."
+
+# : source/configurator.cpp:918
+# : source/configurator.cpp:927
+# | communitytranslateid=12200
+msgid "Save and Play"
+msgstr "Shrani in igraj"
+
+# : source/configurator.cpp:921
+# | communitytranslateid=12202
+msgid "Save and Exit"
+msgstr "Shrani in zapusti"
+
+# : source/configurator.cpp:1014
+# : source/configurator.cpp:1019
+# : source/configurator.cpp:1021
+# | communitytranslateid=12217
+msgid "RTT Mode:"
+msgstr "RTT način:"
+
+# : source/configurator.cpp:897
+# | communitytranslateid=12195
+msgid "Rigs of Rods configuration"
+msgstr "Rigs of Rods configuration"
+
+# : source/configurator.cpp:1953
+# | communitytranslateid=12303
+msgid "reverse axis"
+msgstr "vzvratna os"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=12302
+msgid "Reverse"
+msgstr "Vzvratno"
+
+# : source/configurator.cpp:917
+# : source/configurator.cpp:926
+# | communitytranslateid=12199
+msgid "Restore the default configuration."
+msgstr "Povrni privzeto konfiguracijo."
+
+# : source/configurator.cpp:915
+# | communitytranslateid=12198
+msgid "Restore Defaults"
+msgstr "Povrni privzeto"
+
+# : source/configurator.cpp:1105
+# | communitytranslateid=12250
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Zahteva novejšo grafično kartico. Doda razmazanost gibanja."
+
+# : source/configurator.cpp:1102
+# | communitytranslateid=12248
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Zahteva novejšo grafično kartico. Doda malo razmazanosti."
+
+# : source/configurator.cpp:1100
+# | communitytranslateid=12246
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Zahteva novejšo grafično kartico. Doda efekt ospeljenosti."
+
+# : source/configurator.cpp:1201
+# | communitytranslateid=12282
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Posnetek. (lahko vpliva na prikaz igre)"
+
+# : source/configurator.cpp:1199
+# | communitytranslateid=12281
+msgid "Replay Mode"
+msgstr "Posnetek"
+
+# : source/configurator.cpp:1962
+# | communitytranslateid=12308
+msgid "Region"
+msgstr "Regija"
+
+# : source/configurator.cpp:1204
+# | communitytranslateid=12284
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Natisne vse mase točk v RoR.log. Samo za razhroščevanje!"
+
+# : source/configurator.cpp:316
+# | communitytranslateid=12177
+msgid "Please select an input event."
+msgstr "Izberite dogodek."
+
+# : source/configurator.cpp:1195
+# | communitytranslateid=12278
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Delčki kot so vodni topovi ali sledi. Lahko se preveč uporabi v večigralnem načinu."
+
+# : source/configurator.cpp:1086
+# | communitytranslateid=12236
+msgid "Particle systems"
+msgstr "Sistem delčkov"
+
+# : source/configurator.cpp:1833
+# | communitytranslateid=12295
+msgid "Options"
+msgstr "Nastavitve"
+
+# : source/configurator.cpp:494
+# : source/configurator.cpp:500
+# | communitytranslateid=12186
+msgid "ok (end test)"
+msgstr "OK (končaj test)"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=12296
+msgid "Ogre config validation error"
+msgstr "Velikanska konfiguracijska napaka"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=12298
+msgid "Ogre config error"
+msgstr "Velikanska konfiguracijska napaka"
+
+# : source/configurator.cpp:1192
+# | communitytranslateid=12276
+msgid "Not much impact on speed."
+msgstr "Ne vpliva veliko na hitrost."
+
+# : source/configurator.cpp:1076
+# | communitytranslateid=12233
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Ni efekta dokler se ne igraš z vodo, izgleda precej dobro."
+
+# : source/configurator.cpp:1966
+# | communitytranslateid=12311
+msgid "no deadzone"
+msgstr "brez mrtve cone"
+
+# : source/configurator.cpp:1133
+# : source/configurator.cpp:1503
+# | communitytranslateid=12257
+msgid "Nickname: "
+msgstr "Vzdevek:"
+
+# : source/configurator.cpp:997
+# | communitytranslateid=12213
+msgid "Network"
+msgstr "Omrežje"
+
+# : source/configurator.cpp:498
+# | communitytranslateid=12188
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# : source/configurator.cpp:1103
+# | communitytranslateid=12249
+msgid "Motion blur"
+msgstr "Razmazano gibanje"
+
+# : source/configurator.cpp:1095
+# | communitytranslateid=12242
+msgid "Mirrors"
+msgstr "Ogledala"
+
+# : source/configurator.cpp:1216
+# : source/configurator.cpp:1296
+# | communitytranslateid=12291
+msgid "minimum visibility range in percent"
+msgstr "Minimalna vidljivost v procentih"
+
+# : source/configurator.cpp:1960
+# | communitytranslateid=12307
+msgid "Lower"
+msgstr "Znižaj"
+
+# : source/configurator.cpp:1180
+# : source/configurator.cpp:1182
+# : source/configurator.cpp:1184
+# | communitytranslateid=12271
+msgid "Light source effects:"
+msgstr "Svetlobni efekti:"
+
+# : source/configurator.cpp:504
+# | communitytranslateid=12189
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# : source/configurator.cpp:312
+# | communitytranslateid=12176
+msgid "Keyboard"
+msgstr "Tipkovnica"
+
+# : source/configurator.cpp:1302
+# | communitytranslateid=12294
+msgid "Key/Axis"
+msgstr "Tipka/os"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=12301
+msgid "Joystick Options"
+msgstr "Nastavitve igralne palice"
+
+# : source/configurator.cpp:1954
+# | communitytranslateid=12304
+msgid "Joystick Axis Region"
+msgstr "Regija igralne palice"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=12309
+msgid "Joystick Axis Deadzones"
+msgstr "Mrtve točke igralne palice"
+
+# : source/configurator.cpp:496
+# | communitytranslateid=12187
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# : source/configurator.cpp:323
+# : source/configurator.cpp:976
+# | communitytranslateid=12178
+msgid "Input Type: "
+msgstr "Vstavi tip:"
+
+# : source/configurator.cpp:1173
+# | communitytranslateid=12270
+msgid "In what Format should screenshots be saved?"
+msgstr "V katerem formatu se naj slike zajemajo?"
+
+# : source/configurator.cpp:983
+# | communitytranslateid=12210
+msgid "Import Keymap"
+msgstr "Uvozi nastavitev tipk"
+
+# : source/configurator.cpp:1208
+# | communitytranslateid=12287
+msgid "Hydrax Water System"
+msgstr "Hydrax vodni sistem"
+
+# : source/configurator.cpp:1106
+# | communitytranslateid=12251
+msgid "High quality reflective effects"
+msgstr "Visoko kvalitetni odsev"
+
+# : source/configurator.cpp:1090
+# | communitytranslateid=12239
+msgid "HeatHaze"
+msgstr "Toplotni odsev"
+
+# : source/configurator.cpp:1093
+# | communitytranslateid=12240
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Toplotni odsev, ki ga povročijo motorji. (uporabi samo na novejši konfiguraciji)"
+
+# : source/configurator.cpp:935
+# | communitytranslateid=12205
+msgid "Graphics"
+msgstr "Grafika"
+
+# : source/configurator.cpp:1043
+# | communitytranslateid=12222
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Celozaslonski način uporablja manj spomina"
+
+# : source/configurator.cpp:1041
+# | communitytranslateid=12221
+msgid "Full screen"
+msgstr "Celoten zaslon"
+
+# : source/configurator.cpp:1958
+# | communitytranslateid=12306
+msgid "Full"
+msgstr "Polno"
+
+# : source/configurator.cpp:1187
+# | communitytranslateid=12273
+msgid "Fog"
+msgstr "Megla"
+
+# : source/configurator.cpp:986
+# | communitytranslateid=12211
+msgid "Export Keymap"
+msgstr "Izvozi nastavitev tipk"
+
+# : source/configurator.cpp:394
+# | communitytranslateid=12185
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Vrednost dogodka(levo = 0%, desno = 100%)"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# : source/configurator.cpp:298
+# : source/configurator.cpp:308
+# : source/configurator.cpp:321
+# | communitytranslateid=12175
+msgid "Event Name: "
+msgstr "Ime dogodka:"
+
+# : source/configurator.cpp:393
+# | communitytranslateid=12184
+msgid "Event Name"
+msgstr "Ime dogodka"
+
+# : source/configurator.cpp:392
+# | communitytranslateid=12183
+msgid "Event Description: "
+msgstr "Opis dogodka:"
+
+# : source/configurator.cpp:1298
+# | communitytranslateid=12292
+msgid "Event"
+msgstr "Dogodek"
+
+# : source/configurator.cpp:1190
+# | communitytranslateid=12275
+msgid "Engine smoke"
+msgstr "Dim motorja"
+
+# : source/configurator.cpp:1073
+# | communitytranslateid=12231
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Vključitev valov doda veselje ob vožnji ladij, vendar lahko povzroči upočasnitev na nekateri strojni opremi."
+
+# : source/configurator.cpp:1210
+# | communitytranslateid=12288
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Vključi novi vodni pospeševalni sistem. POSKUSNO. Prepiše druge nastavitve vode."
+
+# : source/configurator.cpp:1071
+# | communitytranslateid=12230
+msgid "Enable waves"
+msgstr "Vključi valove"
+
+# : source/configurator.cpp:1129
+# : source/configurator.cpp:1132
+# | communitytranslateid=12256
+msgid "Enable network mode"
+msgstr "Vključi omrežni način"
+
+# : source/configurator.cpp:1109
+# | communitytranslateid=12252
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Doda visoko kvalitetni odsev. Upočasni sistem."
+
+# : source/configurator.cpp:1123
+# : source/configurator.cpp:1128
+# | communitytranslateid=12255
+msgid "Enable advanced wheel model"
+msgstr "Vključni napredno krmiljenje"
+
+# : source/configurator.cpp:1087
+# | communitytranslateid=12237
+msgid "Dust"
+msgstr "Megla"
+
+# : source/configurator.cpp:1213
+# | communitytranslateid=12290
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "Izljuči zemljevid. Samo za testiranje. Ni pridobitev."
+
+# : source/configurator.cpp:1211
+# | communitytranslateid=12289
+msgid "Disable Overview Map"
+msgstr "Izključi zemljevid"
+
+# : source/configurator.cpp:1009
+# : source/configurator.cpp:1012
+# : source/configurator.cpp:1017
+# | communitytranslateid=12216
+msgid "Device:"
+msgstr "Naprava:"
+
+# : source/configurator.cpp:981
+# | communitytranslateid=12209
+msgid "Delete selected"
+msgstr "Zbriši izbrano"
+
+# : source/configurator.cpp:1202
+# | communitytranslateid=12283
+msgid "Debug Truck Mass"
+msgstr "Razhrošči maso tovornjaka"
+
+# : source/configurator.cpp:1205
+# | communitytranslateid=12285
+msgid "Debug Collision Meshes"
+msgstr "Razhrošči trke likov"
+
+# : source/configurator.cpp:2276
+# : source/configurator.cpp:2287
+# | communitytranslateid=12322
+msgid "Deadzone"
+msgstr "Mrtva cona"
+
+# : source/configurator.cpp:900
+# : source/configurator.cpp:902
+# : source/configurator.cpp:908
+# | communitytranslateid=12196
+msgid "data\\\\config.bmp"
+msgstr "podatki\\\\config.bmp"
+
+# : source/configurator.cpp:507
+# : source/configurator.cpp:510
+# | communitytranslateid=12190
+msgid "data\\\\"
+msgstr "podatki\\\\"
+
+# : source/configurator.cpp:914
+# | communitytranslateid=12197
+msgid "data/config.bmp"
+msgstr "podatki/config.bmp"
+
+# : source/configurator.cpp:565
+# | communitytranslateid=12191
+msgid "data/"
+msgstr "podatki/"
+
+# : source/configurator.cpp:1196
+# | communitytranslateid=12279
+msgid "Dashboard"
+msgstr "Armaturka"
+
+# : source/configurator.cpp:1193
+# | communitytranslateid=12277
+msgid "Custom Particles"
+msgstr "Posebni delčki"
+
+# : source/configurator.cpp:941
+# | communitytranslateid=12207
+msgid "CPU"
+msgstr "CPE"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=12299
+msgid "Could not write config file"
+msgstr "Ne gre zapisati konf. datoteke"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=12297
+msgid "Could not open Rendering device"
+msgstr "Ne morem odpreti pospeševalne naprave"
+
+# : source/configurator.cpp:977
+# | communitytranslateid=12208
+msgid "Controls"
+msgstr "Kontrole"
+
+# : source/configurator.cpp:1948
+# | communitytranslateid=12300
+msgid "Configure error"
+msgstr "Konfiguracijska napaka"
+
+# : source/configurator.cpp:1094
+# | communitytranslateid=12241
+msgid "Cockpit options"
+msgstr "Nastavitve kokpita"
+
+# : source/configurator.cpp:336
+# | communitytranslateid=12182
+msgid "close this dialog"
+msgstr "zapri pogovorno okno"
+
+# : source/configurator.cpp:1186
+# | communitytranslateid=12272
+msgid "Clear cache"
+msgstr "Izbriši medpomnilnik"
+
+# : source/configurator.cpp:932
+# | communitytranslateid=12204
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Prekliči trenutne spremembe konfiguracije in zapri konfiguracijski program."
+
+# : source/configurator.cpp:327
+# | communitytranslateid=12181
+msgid "Cancel"
+msgstr "Prekliči"
+
+# : source/configurator.cpp:1054
+# | communitytranslateid=12226
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Caelum nebo je lepo, vendar počasno, razen če imaš dober GPU."
+
+# : source/configurator.cpp:1101
+# | communitytranslateid=12247
+msgid "Bloom"
+msgstr "Blum"
+
+# : source/configurator.cpp:1027
+# : source/configurator.cpp:1029
+# | communitytranslateid=12219
+msgid "Anti-aliasing:"
+msgstr "Anti-aliasing:"
+
+# : source/configurator.cpp:1134
+# | communitytranslateid=12258
+msgid "Anonymous"
+msgstr "Anonimnež"
+
+# # | translated from communitytranslateid=10651
+# | communitytranslateid=22854
+msgid "Airplane"
+msgstr "Letalo"
+
+# : source/configurator.cpp:1003
+# | communitytranslateid=12214
+msgid "Advanced"
+msgstr "Napredno"
+
+# : source/configurator.cpp:326
+# : source/configurator.cpp:923
+# | communitytranslateid=12180
+msgid "Add the key"
+msgstr "Dodaj ključ"
+
+# : source/configurator.cpp:324
+# | communitytranslateid=12179
+msgid "Add"
+msgstr "Dodaj"
+
+# : source/configurator.cpp:1969
+# | communitytranslateid=12313
+msgid "5% deadzone"
+msgstr "5% mrtve cone"
+
+# : source/configurator.cpp:1966
+# , c-format
+# | communitytranslateid=12312
+msgid "5 %"
+msgstr "5 %"
+
+# : source/configurator.cpp:1981
+# | communitytranslateid=12321
+msgid "30% deadzone"
+msgstr "30% mrtve cone"
+
+# : source/configurator.cpp:1978
+# , c-format
+# | communitytranslateid=12320
+msgid "30 %"
+msgstr "30 %"
+
+# : source/configurator.cpp:1978
+# | communitytranslateid=12319
+msgid "20% deadzone"
+msgstr "20% mrtve cone"
+
+# : source/configurator.cpp:1975
+# , c-format
+# | communitytranslateid=12318
+msgid "20 %"
+msgstr "20 %"
+
+# : source/configurator.cpp:1975
+# | communitytranslateid=12317
+msgid "15% deadzone"
+msgstr "15% mrtve cone"
+
+# : source/configurator.cpp:1972
+# , c-format
+# | communitytranslateid=12316
+msgid "15 %"
+msgstr "15 %"
+
+# : source/configurator.cpp:1145
+# : source/configurator.cpp:1149
+# : source/configurator.cpp:1147
+# | communitytranslateid=12262
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# : source/configurator.cpp:1152
+# | communitytranslateid=12264
+msgid "12333"
+msgstr "12333"
+
+# : source/configurator.cpp:1972
+# | communitytranslateid=12315
+msgid "10% deadzone"
+msgstr "10% mrtve cone"
+
+# : source/configurator.cpp:1969
+# , c-format
+# | communitytranslateid=12314
+msgid "10 %"
+msgstr "10 %"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=12310
+msgid "0 % (No deadzone)"
+msgstr "0 % (brez mrtve cone)"
+
+# : source/configurator.cpp:1141
+# : source/configurator.cpp:1143
+# | communitytranslateid=12260
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Kako igrati večigralni način:</p><br><ol><li>Klikni <b>Posodobitev</b> da preveriš listo strežnikov.</li><li>Klikni na katerikoli podčrtan strežnik.</li><li>Klikni <b>Shrani in igraj</b> za zagon igre.</li></ol>"
+
+# : source/configurator.cpp:587
+# | communitytranslateid=12192
+msgid "(Please press a key)"
+msgstr "(pritisni tipko)"
+
+# : source/configurator.cpp:613
+# | communitytranslateid=12193
+msgid "(Please press a Joystick Button)"
+msgstr "(pritisni gumb na igralni palici)"
+
+# : source/configurator.cpp:829
+# | communitytranslateid=12194
+msgid "(Please move an Axis)\n"
+msgstr "(premakni po osi)\n"
+
+# # | translated from communitytranslateid=15255
+# | communitytranslateid=22853
+msgid " not existing"
+msgstr "Ne Obstaja"
+

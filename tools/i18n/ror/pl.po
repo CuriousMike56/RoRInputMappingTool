@@ -1,0 +1,2640 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=18860
+msgid "zoom into the overview map in interactive mode"
+msgstr "zbliżenie do mapy [ogólnej] w trybie interaktywnym"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=18871
+msgid "zoom camera out faster"
+msgstr "szybsze oddalanie kamery"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=18918
+msgid "zoom camera out"
+msgstr "oddal kamerę"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=18974
+msgid "zoom camera in faster"
+msgstr "szybkie zbliżenie kamery"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=19060
+msgid "zoom camera in"
+msgstr "zbliżenie kamery"
+
+# : source/configurator.cpp:1140
+# | communitytranslateid=11667
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Twoja nazwa sieciowa. Maksymalnie 20 znaków"
+
+# | communitytranslateid=13135
+msgid "Your Forum User Token."
+msgstr "Twój token użytkownika forum"
+
+# | communitytranslateid=13128
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Musisz zapisać i uruchomić ponownie aplikację by aktywować nowy język!"
+
+# : source/configurator.cpp:1167
+# | communitytranslateid=11676
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Nie musisz zmieniać tych ustawień jeśli nie zauważyłeś żadnych problemów."
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=19046
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Możesz wyłączyć standardowy dźwięk 'skrzypienia' zaznaczając to pole"
+
+# | communitytranslateid=13120
+msgid "wrote screenshot:"
+msgstr "zapisano zrzut ekranu:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=19651
+msgid "Write error"
+msgstr "Zapisz błąd"
+
+# # | translated from communitytranslateid=17265
+# | communitytranslateid=19068
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr "zapisz bieżącą pozycję do log'a (możesz otworzyć plik log, by użyć ponownie tę pozycję)"
+
+# | communitytranslateid=13122
+msgid "Worst FPS: "
+msgstr "Najmniej klatek (FPS):"
+
+# | communitytranslateid=13137
+msgid "Wheels: "
+msgstr "Koła:"
+
+# : source/configurator.cpp:1068
+# | communitytranslateid=11636
+msgid "Water type:"
+msgstr "Typ wody:"
+
+# : source/configurator.cpp:1074
+# | communitytranslateid=11640
+msgid "Water spray"
+msgstr "Rozbryzgi wody"
+
+# : source/configurator.cpp:1070
+# | communitytranslateid=11637
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Refleksy wodne (Water reflection) działa wolno i wymaga dobrej karty graficznej. Możesz doświadczyć spadku płynności grafiki."
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=18946
+msgid "Warning"
+msgstr "Ostrzeżenie"
+
+# : source/configurator.cpp:1044
+# : source/configurator.cpp:1046
+# | communitytranslateid=11631
+msgid "VSync"
+msgstr "Synchronizacja pionowa (VSync)"
+
+# : source/configurator.cpp:1098
+# | communitytranslateid=11652
+msgid "Visual effects"
+msgstr "Efekty graficzne"
+
+# : source/configurator.cpp:1023
+# : source/configurator.cpp:1025
+# | communitytranslateid=11626
+msgid "Video mode:"
+msgstr "Tryb grafiki:"
+
+# | communitytranslateid=13138
+msgid "Vehicle Type: "
+msgstr "Typ pojazdu:"
+
+# : source/configurator.cpp:1082
+# | communitytranslateid=11642
+msgid "Vegetation:"
+msgstr "Roślinność:"
+
+# | communitytranslateid=13140
+msgid "User Token: "
+msgstr "Token użytkownika:"
+
+# # | translated from communitytranslateid=17145
+# | communitytranslateid=19041
+msgid "Use this to remove the whole cache and force the generation from ground up."
+msgstr "Użyj by wyczyścić pamięć cache i wymusić generowanie od podstaw"
+
+# # | translated from communitytranslateid=17144
+# | communitytranslateid=19080
+msgid "Use this to regenerate the cache outside of RoR. If this does not work, use the clear cache button."
+msgstr "Użyj, by odświeżyć pamięć cache poza RoR. Jeśłi nie zadziała, użyj przycisku: wyczyść pamięć cache"
+
+# : source/configurator.cpp:1956
+# | communitytranslateid=11713
+msgid "Upper"
+msgstr "Do góry"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=18951
+msgid "Updates"
+msgstr "Aktualizacje"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=18905
+msgid "Update now"
+msgstr "Aktualizuj teraz!"
+
+# : source/configurator.cpp:1165
+# | communitytranslateid=11675
+msgid "Update"
+msgstr "Aktualizuj"
+
+# | communitytranslateid=13188
+msgid "unkown encoding problem"
+msgstr "nieznany problem z dekodowaniem"
+
+# | communitytranslateid=13153
+msgid "unknown.dds"
+msgstr "unknown.dds"
+
+# : source/configurator.cpp:1189
+# | communitytranslateid=11682
+msgid "Uncheck in case you have a fog problem"
+msgstr "Odznacz, jesli masz problemy z mgłą"
+
+# | communitytranslateid=13180
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Nie można połączyć z serwerem. Jest albo wyłączony, albo masz problemy z siecią."
+
+# | communitytranslateid=15421
+msgid "Unable to connect to server"
+msgstr "Brak połączenia z serwerem"
+
+# : source/configurator.cpp:1300
+# | communitytranslateid=11701
+msgid "Type"
+msgstr "Typ"
+
+# | communitytranslateid=15436
+msgid "Trying to connect to server ..."
+msgstr "Próba połączenia z serwerem ..."
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=18859
+msgid "truck horn"
+msgstr "klakson ciężarówki"
+
+# | communitytranslateid=13143
+msgid "Truck"
+msgstr "Ciężarówka"
+
+# | communitytranslateid=13146
+msgid "Triangle Count: "
+msgstr "Liczba trójkątów:"
+
+# | communitytranslateid=13192
+msgid "tracks/CreditsOverlay"
+msgstr "tracks/ZasługiCałość"
+
+# # | translated from communitytranslateid=19404
+# | communitytranslateid=19653
+msgid "Total Linear"
+msgstr "Pełna linearność"
+
+# | communitytranslateid=13168
+msgid "Torque: "
+msgstr "Moment obrotowy:"
+
+# | communitytranslateid=13164
+msgid "tons"
+msgstr "ton"
+
+# # | translated from communitytranslateid=17282
+# | communitytranslateid=19016
+msgid "toggle truck HUD"
+msgstr "włącz HUD pojazdu"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=18955
+msgid "toggle truck front lights"
+msgstr "przełącz przednie światła pojazdu"
+
+# # | translated from communitytranslateid=17280
+# | communitytranslateid=18911
+msgid "toggle truck beacons"
+msgstr "włącz światła ostrzegawcze na ciężarówce"
+
+# # | translated from communitytranslateid=17264
+# | communitytranslateid=19022
+msgid "toggle translucency of overview-map"
+msgstr "włącz przeźroczystość mapy"
+
+# # | translated from communitytranslateid=17273
+# | communitytranslateid=18932
+msgid "toggle skeleton display mode"
+msgstr "tryb szkieletowy"
+
+# # | translated from communitytranslateid=17310
+# | communitytranslateid=18934
+msgid "toggle right direction indicator (blinker)"
+msgstr "włącz prawy migacz"
+
+# # | translated from communitytranslateid=17277
+# | communitytranslateid=18879
+msgid "toggle render mode (solid, wireframe and points)"
+msgstr "zmień sposób renderowania (solidny, siatkowy, punktowy)"
+
+# # | translated from communitytranslateid=17275
+# | communitytranslateid=18994
+msgid "toggle particle cannon"
+msgstr "włącz działko cząsteczek"
+
+# # | translated from communitytranslateid=17325
+# | communitytranslateid=18982
+msgid "toggle parking brake"
+msgstr "włącz hamulec postojowy"
+
+# # | translated from communitytranslateid=17292
+# | communitytranslateid=18990
+msgid "toggle overview map interactive mode"
+msgstr "włącz interaktywny tryb mapy"
+
+# # | translated from communitytranslateid=17279
+# | communitytranslateid=18865
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr "wyświetlaj statystyki Ogre (FPS itp)"
+
+# # | translated from communitytranslateid=17283
+# | communitytranslateid=18942
+msgid "toggle map modes"
+msgstr "zmień tryby mapy"
+
+# # | translated from communitytranslateid=17309
+# | communitytranslateid=18936
+msgid "toggle left direction indicator (blinker)"
+msgstr "włącz lewy migacz"
+
+# # | translated from communitytranslateid=17331
+# | communitytranslateid=18954
+msgid "toggle ignition"
+msgstr "przełącz zapłon"
+
+# # | translated from communitytranslateid=17323
+# | communitytranslateid=19034
+msgid "toggle custom light 9"
+msgstr "włącz dodatkowe światła 9"
+
+# # | translated from communitytranslateid=17322
+# | communitytranslateid=18928
+msgid "toggle custom light 8"
+msgstr "włącz światła użytkownika 8"
+
+# # | translated from communitytranslateid=17321
+# | communitytranslateid=19025
+msgid "toggle custom light 7"
+msgstr "włącz dodatkowe światła 7"
+
+# # | translated from communitytranslateid=17320
+# | communitytranslateid=19020
+msgid "toggle custom light 6"
+msgstr "włącz dodatkowe światła 6"
+
+# # | translated from communitytranslateid=17319
+# | communitytranslateid=18896
+msgid "toggle custom light 5"
+msgstr "włącz światła użytkownika 5"
+
+# # | translated from communitytranslateid=17318
+# | communitytranslateid=19010
+msgid "toggle custom light 4"
+msgstr "włącz dodatkowe światła 4"
+
+# # | translated from communitytranslateid=17317
+# | communitytranslateid=19036
+msgid "toggle custom light 3"
+msgstr "włącz dodatkowe światła 3"
+
+# # | translated from communitytranslateid=17316
+# | communitytranslateid=19064
+msgid "toggle custom light 2"
+msgstr "włącz dodatkowe światła 2"
+
+# # | translated from communitytranslateid=17315
+# | communitytranslateid=18877
+msgid "toggle custom light 10"
+msgstr "włącz światła użytkownika 10"
+
+# # | translated from communitytranslateid=17314
+# | communitytranslateid=18874
+msgid "toggle custom light 1"
+msgstr "włącz światła użytkownika 1"
+
+# # | translated from communitytranslateid=17334
+# | communitytranslateid=19023
+msgid "toggle between windowed and fullscreen mode"
+msgstr "przełącz między trybami okienkowym i pełnoekranowym"
+
+# # | translated from communitytranslateid=17330
+# | communitytranslateid=18987
+msgid "toggle between transmission modes"
+msgstr "zmień tryb skrzyni biegów"
+
+# # | translated from communitytranslateid=17352
+# | communitytranslateid=18863
+msgid "toggle between net chat display modes"
+msgstr "zmiana trybu wyświetlania chatu"
+
+# # | translated from communitytranslateid=17305
+# | communitytranslateid=18993
+msgid "toggle between available road types"
+msgstr "przełącz między dostępnymi typami dróg"
+
+# # | translated from communitytranslateid=17304
+# | communitytranslateid=18878
+msgid "toggle between available objects"
+msgstr "przełączaj między dostępnymi obiektami"
+
+# # | translated from communitytranslateid=17259
+# | communitytranslateid=18998
+msgid "toggle appearance of console"
+msgstr "włącz widok konsoli"
+
+# # | translated from communitytranslateid=17311
+# | communitytranslateid=19031
+msgid "toggle all direction indicators"
+msgstr "włącz światła awaryjne"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=18868
+msgid "tie a load to the truck"
+msgstr "przywiąż ładunek do ciężarówki"
+
+# # | translated from communitytranslateid=17174
+# | communitytranslateid=18938
+msgid "throttle axis. Only use this if you have fitting hardware :) (i.e. a Slider)"
+msgstr "oś ciągu. Używaj tylko jeżeli masz odpowiedni kontroler :) (np. przepustnicę)"
+
+# : source/configurator.cpp:1121
+# : source/configurator.cpp:1122
+# | communitytranslateid=11662
+msgid "Thread number:"
+msgstr "Liczba wątków:"
+
+# | communitytranslateid=13193
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "To ustawienie nadpisuje domyślny język systemu. Musisz uruchomić ponownie konfigurator by ustawienia zadziałały."
+
+# : source/configurator.cpp:1089
+# | communitytranslateid=11646
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Może obniżyć ilość klatek na starszych komputerach, ale wygląda bardzo dobrze"
+
+# # | translated from communitytranslateid=17147
+# | communitytranslateid=19050
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr "Aktywuje automatyczne ściąganie brakujących modyfikacji (modów) w trybie multiplayer"
+
+# : source/configurator.cpp:1085
+# | communitytranslateid=11643
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Określa ile trawy, drzew i podobnych obiektów będzie wyświetlone"
+
+# # | translated from communitytranslateid=17152
+# | communitytranslateid=19062
+msgid "The update service is currently only available for windows users."
+msgstr "Ściąganie update'ów jest obecnie dostępne tylko dla użytkowników Windows"
+
+# : source/configurator.cpp:1161
+# | communitytranslateid=11674
+msgid "The server password, if required."
+msgstr "Hasło serwera, jeśli wymagane."
+
+# : source/configurator.cpp:1035
+# : source/configurator.cpp:1037
+# | communitytranslateid=11628
+msgid "Texture filtering:"
+msgstr "Filtrowanie tekstur:"
+
+# : source/configurator.cpp:994
+# | communitytranslateid=11620
+msgid "Test"
+msgstr "Testuj"
+
+# | communitytranslateid=13197
+msgid "Terrain not found: "
+msgstr "Nie znaleziono terenu:"
+
+# | communitytranslateid=13198
+msgid "Terrain loading error"
+msgstr "Błąd podczas ładowania terenu"
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=18913
+msgid "teleport to rescue truck"
+msgstr "teleport do ciężarówki ratowniczej"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=18950
+msgid "take a screenshot"
+msgstr "zrób zrzut ekranu"
+
+# # | translated from communitytranslateid=17303
+# | communitytranslateid=18924
+msgid "switch to road laying mode"
+msgstr "zmień na tryb kładzenia drogi"
+
+# # | translated from communitytranslateid=17179
+# | communitytranslateid=18981
+msgid "switch all engines on / off"
+msgstr "włącz/wyłącz wszystkie silniki"
+
+# : source/configurator.cpp:1099
+# | communitytranslateid=11653
+msgid "Sunburn"
+msgstr "Przypalenie (Sunburn)"
+
+# # | translated from communitytranslateid=17203
+# | communitytranslateid=19086
+msgid "step forward with the character"
+msgstr "krok do przodu postaci"
+
+# # | translated from communitytranslateid=17202
+# | communitytranslateid=19065
+msgid "step backwards with the character"
+msgstr "krok do tyłu postaci"
+
+# # | translated from communitytranslateid=17183
+# | communitytranslateid=19087
+msgid "steer right a step"
+msgstr "skręć w prawo o krok"
+
+# # | translated from communitytranslateid=17184
+# | communitytranslateid=19052
+msgid "steer right (analog value!)"
+msgstr "skręt w prawo (analogowa wartość!)"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=18989
+msgid "steer right"
+msgstr "skręć w prawo"
+
+# # | translated from communitytranslateid=17181
+# | communitytranslateid=18996
+msgid "steer left a step"
+msgstr "skręć w lewo o krok"
+
+# # | translated from communitytranslateid=17182
+# | communitytranslateid=19027
+msgid "steer left (analog value!)"
+msgstr "skręt w lewo (analogowa wartość!)"
+
+# # | translated from communitytranslateid=17173
+# | communitytranslateid=18976
+msgid "steer left"
+msgstr "skręć w lewo"
+
+# | communitytranslateid=13199
+msgid "Startup error"
+msgstr "Błąd uruchamiania"
+
+# # | translated from communitytranslateid=17274
+# | communitytranslateid=19051
+msgid "start the old truck editor"
+msgstr "uruchom stary edytor pojazdów"
+
+# | communitytranslateid=15720
+msgid "SPECIAL_CHARACTERS"
+msgstr "Znaki Specjalne"
+
+# : source/configurator.cpp:1048
+# | communitytranslateid=11632
+msgid "Special effects"
+msgstr "Efekty specjalne"
+
+# : source/configurator.cpp:938
+# | communitytranslateid=11614
+msgid "Sounds"
+msgstr "Dźwięk"
+
+# : source/configurator.cpp:1114
+# : source/configurator.cpp:1117
+# | communitytranslateid=11661
+msgid "Sound rendering:"
+msgstr "Generowanie dźwięku:"
+
+# : source/configurator.cpp:1052
+# | communitytranslateid=11633
+msgid "Sky type:"
+msgstr "Typ nieba:"
+
+# # | translated from communitytranslateid=17157
+# | communitytranslateid=18943
+msgid "Skins"
+msgstr "Skórki"
+
+# | communitytranslateid=13200
+msgid "Simple Settings"
+msgstr "Proste ustawienia"
+
+# # | translated from communitytranslateid=17209
+# | communitytranslateid=19028
+msgid "sidestep to the right"
+msgstr "unik (krok) w prawo"
+
+# # | translated from communitytranslateid=17208
+# | communitytranslateid=18875
+msgid "sidestep to the left"
+msgstr "ruch boczny w lewo"
+
+# : source/configurator.cpp:1097
+# | communitytranslateid=11651
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Pokaż lusterka wsteczne w widoku pierwszej osoby. Może spowodować problemy ze zgodnością na bardzo starych kartach graficznych."
+
+# : source/configurator.cpp:1198
+# | communitytranslateid=11688
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Pokazuje dynamiczną deskę rozdzielczą w widoku pierwszej osoby (FPP). Może powodować problemy na starych kartach graficznych"
+
+# : source/configurator.cpp:1207
+# | communitytranslateid=11694
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Pokazuje wszystkie meshe reagujące na kolizje na czerwono, by ułatwić prawidłowe ich ustawienie. Używaj tylko przy testowaniu!"
+
+# # | translated from communitytranslateid=17332
+# | communitytranslateid=19042
+msgid "show truck tool"
+msgstr "pokaż narzędzia pojazdu"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=18876
+msgid "show / hide the console"
+msgstr "pokaż / schowaj konsole"
+
+# # | translated from communitytranslateid=17327
+# | communitytranslateid=18882
+msgid "shift to neutral gear in manual transmission mode"
+msgstr "zmień bieg na jałowy w trybie manualnej skrzyni biegów"
+
+# # | translated from communitytranslateid=17328
+# | communitytranslateid=18864
+msgid "shift one gear up in manual transmission mode"
+msgstr "zmień bieg w górę w trybie manualnej skrzyni biegów"
+
+# # | translated from communitytranslateid=17326
+# | communitytranslateid=19074
+msgid "shift one gear down in manual transmission mode"
+msgstr "zmień bieg na niższy w ręcznej skrzyni biegów"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=21632
+msgid "shift directly to third gear"
+msgstr "zmień bieg bezpośrednio na trójkę"
+
+# # | translated from communitytranslateid=19432
+# | communitytranslateid=21663
+msgid "shift directly to second gear"
+msgstr "zmień bieg bezpośrednio na dwójkę"
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=21637
+msgid "shift directly to reverse gear"
+msgstr "zmień bieg bezpośrednio na wsteczny"
+
+# # | translated from communitytranslateid=19434
+# | communitytranslateid=21683
+msgid "shift directly to fourth gear"
+msgstr "zmień bieg bezpośrednio na czwórkę"
+
+# # | translated from communitytranslateid=19431
+# | communitytranslateid=21685
+msgid "shift directly to first gear"
+msgstr "zmień bieg bezpośrednio na jedynkę"
+
+# # | translated from communitytranslateid=19439
+# | communitytranslateid=21656
+msgid "shift directly to 9th gear"
+msgstr "zmień bieg bezpośrednio na dziewiątkę"
+
+# # | translated from communitytranslateid=19438
+# | communitytranslateid=21645
+msgid "shift directly to 8th gear"
+msgstr "zmień bieg bezpośrednio na ósemkę"
+
+# # | translated from communitytranslateid=19437
+# | communitytranslateid=21667
+msgid "shift directly to 7th gear"
+msgstr "zmień bieg bezpośrednio na siódemkę"
+
+# # | translated from communitytranslateid=19436
+# | communitytranslateid=21652
+msgid "shift directly to 6th gear"
+msgstr "zmień bieg bezpośrednio na szóstkę"
+
+# # | translated from communitytranslateid=19435
+# | communitytranslateid=21678
+msgid "shift directly to 5th gear"
+msgstr "zmień bieg bezpośrednio na piątkę"
+
+# # | translated from communitytranslateid=19448
+# | communitytranslateid=21646
+msgid "shift directly to 18th gear"
+msgstr "zmień bieg bezpośrednio na osiemnastkę"
+
+# # | translated from communitytranslateid=19447
+# | communitytranslateid=21690
+msgid "shift directly to 17th gear"
+msgstr "zmień bieg bezpośrednio na siedemnastkę"
+
+# # | translated from communitytranslateid=19446
+# | communitytranslateid=21693
+msgid "shift directly to 16th gear"
+msgstr "zmień bieg bezpośrednio na szestnastkę"
+
+# # | translated from communitytranslateid=19445
+# | communitytranslateid=21657
+msgid "shift directly to 15th gear"
+msgstr "zmień bieg bezpośrednio na piętnastkę"
+
+# # | translated from communitytranslateid=19444
+# | communitytranslateid=21674
+msgid "shift directly to 14th gear"
+msgstr "zmień bieg bezpośrednio na czternastkę"
+
+# # | translated from communitytranslateid=19443
+# | communitytranslateid=21692
+msgid "shift directly to 13th gear"
+msgstr "zmień bieg bezpośrednio na trzynastkę"
+
+# # | translated from communitytranslateid=19442
+# | communitytranslateid=21662
+msgid "shift directly to 12th gear"
+msgstr "zmień bieg bezpośrednio na dwunastkę"
+
+# # | translated from communitytranslateid=19441
+# | communitytranslateid=21671
+msgid "shift directly to 11th gear"
+msgstr "zmień bieg bezpośrednio na jedenastkę"
+
+# # | translated from communitytranslateid=19440
+# | communitytranslateid=21660
+msgid "shift directly to 10th gear"
+msgstr "zmień bieg bezpośrednio na dziesiątkę"
+
+# # | translated from communitytranslateid=17308
+# | communitytranslateid=19015
+msgid "shift automatic transmission one gear up"
+msgstr "zmień bieg na wyższy w automatycznej skrzyni biegów"
+
+# # | translated from communitytranslateid=17307
+# | communitytranslateid=19090
+msgid "shift automatic transmission one gear down"
+msgstr "zmień bieg na niższy z automatycznej skrzyni biegów"
+
+# : source/configurator.cpp:1059
+# : source/configurator.cpp:1061
+# | communitytranslateid=11635
+msgid "Shadow type:"
+msgstr "Typ cieni:"
+
+# # | translated from communitytranslateid=19450
+# | communitytranslateid=21679
+msgid "sets middle range (7-12) for H-shaft"
+msgstr "ustaw średnie przełożenie (7-12) dla trybu H"
+
+# # | translated from communitytranslateid=19449
+# | communitytranslateid=21664
+msgid "sets low range (1-6) for H-shaft"
+msgstr "ustaw niskie przełożenie (1-6) dla trybu H"
+
+# # | translated from communitytranslateid=19451
+# | communitytranslateid=21686
+msgid "sets high range (13-18) for H-shaft"
+msgstr "ustaw wysokie przełożenie (13-18) dla trybu H"
+
+# | communitytranslateid=13201
+msgid "Sets all settings in a simple way"
+msgstr "Ustawia wszystkie ustawienia w prosty sposób"
+
+# : source/configurator.cpp:1148
+# : source/configurator.cpp:1507
+# | communitytranslateid=11671
+msgid "Server port number: "
+msgstr "Numer portu serwera:"
+
+# : source/configurator.cpp:1154
+# | communitytranslateid=11673
+msgid "Server password: "
+msgstr "Hasło serwera:"
+
+# : source/configurator.cpp:1144
+# : source/configurator.cpp:1505
+# | communitytranslateid=11669
+msgid "Server host name: "
+msgstr "Nazwa hosta:"
+
+# # | translated from communitytranslateid=17297
+# | communitytranslateid=19079
+msgid "select previous element in current category"
+msgstr "wybierz poprzedni element w bieżącej kategorii"
+
+# # | translated from communitytranslateid=17294
+# | communitytranslateid=19049
+msgid "select previous category"
+msgstr "wybierz poprzednią kategorię"
+
+# # | translated from communitytranslateid=17293
+# | communitytranslateid=18880
+msgid "select next element in current category"
+msgstr "wybierz kolejny element w kategorii"
+
+# # | translated from communitytranslateid=17295
+# | communitytranslateid=18914
+msgid "select next category"
+msgstr "wybierz następną kategorie"
+
+# # | translated from communitytranslateid=17296
+# | communitytranslateid=18937
+msgid "select focussed item and close menu"
+msgstr "wybierz zaznaczony element i zamknij menu"
+
+# | communitytranslateid=13154
+msgid "Search"
+msgstr "Szukaj"
+
+# : source/configurator.cpp:1171
+# | communitytranslateid=11677
+msgid "Screenshot Format:"
+msgstr "Format zrzutów z ekranu:"
+
+# : source/configurator.cpp:1007
+# | communitytranslateid=11623
+msgid "Screen configuration"
+msgstr "Konfiguracja ekranu"
+
+# : source/configurator.cpp:920
+# | communitytranslateid=11609
+msgid "Save the current configuration and start RoR."
+msgstr "Zapisz bieżącą konfigurację i uruchom RoR."
+
+# : source/configurator.cpp:924
+# | communitytranslateid=11611
+msgid "Save the current configuration and close the configuration program."
+msgstr "Zapisz bieżącą konfigurację i zamknij konfigurator"
+
+# # | translated from communitytranslateid=19420
+# | communitytranslateid=21675
+msgid "Save Mapping to File"
+msgstr "Zapisz ustawienia do pliku"
+
+# : source/configurator.cpp:918
+# : source/configurator.cpp:927
+# | communitytranslateid=11608
+msgid "Save and Play"
+msgstr "Zapisz i graj"
+
+# : source/configurator.cpp:921
+# | communitytranslateid=11610
+msgid "Save and Exit"
+msgstr "Zapisz i wyjdź"
+
+# # | translated from communitytranslateid=17172
+# | communitytranslateid=18888
+msgid "rudder right"
+msgstr "ster w prawo"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=18958
+msgid "rudder left"
+msgstr "ster w lewo"
+
+# : source/configurator.cpp:1014
+# : source/configurator.cpp:1019
+# : source/configurator.cpp:1021
+# | communitytranslateid=11625
+msgid "RTT Mode:"
+msgstr "Tryb RTT:"
+
+# # | translated from communitytranslateid=17353
+# | communitytranslateid=19048
+msgid "rotate view up"
+msgstr "obróć widok do góry"
+
+# # | translated from communitytranslateid=17354
+# | communitytranslateid=18910
+msgid "rotate view down"
+msgstr "obróć widok w dół"
+
+# # | translated from communitytranslateid=17302
+# | communitytranslateid=19030
+msgid "rotate object right"
+msgstr "obróć obiekt w prawo"
+
+# # | translated from communitytranslateid=17301
+# | communitytranslateid=19061
+msgid "rotate object left"
+msgstr "obróć obiekt w lewo"
+
+# # | translated from communitytranslateid=17206
+# | communitytranslateid=19081
+msgid "rotate character right"
+msgstr "obróć postać w prawo"
+
+# # | translated from communitytranslateid=17205
+# | communitytranslateid=18906
+msgid "rotate character left"
+msgstr "obróć postać w lewo"
+
+# # | translated from communitytranslateid=17197
+# | communitytranslateid=18901
+msgid "rotate camera up"
+msgstr "obróć kamerę w górę"
+
+# # | translated from communitytranslateid=17196
+# | communitytranslateid=19054
+msgid "rotate camera right"
+msgstr "obróć kamerę w prawo"
+
+# # | translated from communitytranslateid=17195
+# | communitytranslateid=18908
+msgid "rotate camera left"
+msgstr "obróć kamerę w lewo"
+
+# # | translated from communitytranslateid=17194
+# | communitytranslateid=19075
+msgid "rotate camera down"
+msgstr "obróć kamerę w dół"
+
+# : source/configurator.cpp:897
+# | communitytranslateid=11603
+msgid "Rigs of Rods configuration"
+msgstr "Konfiguracja Rigs of Rods"
+
+# # | translated from communitytranslateid=17170
+# | communitytranslateid=19088
+msgid "reverse the turboprops"
+msgstr "odwróć ciąg silników turboodrzutowych"
+
+# : source/configurator.cpp:1953
+# | communitytranslateid=11711
+msgid "reverse axis"
+msgstr "oś wsteczna"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=11710
+msgid "Reverse"
+msgstr "Wstecz"
+
+# : source/configurator.cpp:917
+# : source/configurator.cpp:926
+# | communitytranslateid=11607
+msgid "Restore the default configuration."
+msgstr "Przywróć domyślną konfigurację"
+
+# : source/configurator.cpp:915
+# | communitytranslateid=11606
+msgid "Restore Defaults"
+msgstr "Przywróć domyślne"
+
+# # | translated from communitytranslateid=17270
+# | communitytranslateid=18925
+msgid "reset truck to original starting position"
+msgstr "resetuj pojazd do oryginalnego położenia"
+
+# # | translated from communitytranslateid=17193
+# | communitytranslateid=18903
+msgid "reset the camera position"
+msgstr "resetuj pozycje kamery"
+
+# : source/configurator.cpp:1105
+# | communitytranslateid=11658
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Wymaga najnowszych kart graficznych. Dodaje efekt rozmycia w ruchu (Motion blur)"
+
+# : source/configurator.cpp:1102
+# | communitytranslateid=11656
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Wymaga najnowszych kart graficznych. Dodaje efekt rozmycia światła."
+
+# : source/configurator.cpp:1100
+# | communitytranslateid=11654
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Wymaga najnowszych kart graficznych. Dodaje niebieskawy efekt oślepienia."
+
+# : source/configurator.cpp:1201
+# | communitytranslateid=11690
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Tryb powtórek. (Może obniżyć ilość klatek na sekundę)"
+
+# : source/configurator.cpp:1199
+# | communitytranslateid=11689
+msgid "Replay Mode"
+msgstr "Tryb powtórek (replay)"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=19017
+msgid "Render System"
+msgstr "System renderowania"
+
+# # | translated from communitytranslateid=17333
+# | communitytranslateid=19026
+msgid "reloads the roads (experimental)"
+msgstr "przeładowanie dróg (eksperymentalnie)"
+
+# : source/configurator.cpp:1962
+# | communitytranslateid=11716
+msgid "Region"
+msgstr "Obszar"
+
+# # | translated from communitytranslateid=17143
+# | communitytranslateid=19045
+msgid "Regen cache"
+msgstr "Odśwież pamięć cache"
+
+# # | translated from communitytranslateid=17164
+# | communitytranslateid=18975
+msgid "pull the elevator up in an aircraft."
+msgstr "unieś podnośnik w samolocie"
+
+# # | translated from communitytranslateid=17163
+# | communitytranslateid=19038
+msgid "pull the elevator down in an aircraft."
+msgstr "opuść podnośnik w samolocie"
+
+# : source/configurator.cpp:1204
+# | communitytranslateid=11692
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Zapisuje masy wszystkich węzłów do RoR.log. Używaj tylko do testowania pojazdu!"
+
+# # | translated from communitytranslateid=19386
+# | communitytranslateid=21631
+msgid "Please use any mapped input device in order to test."
+msgstr "Proszę użyć zmapowanego urządzenia wskazującego by wykonać testy."
+
+# # | translated from communitytranslateid=19418
+# | communitytranslateid=21668
+msgid "Please select what type of device to export"
+msgstr "Proszę wybrać który rodzaj urządzenia chcesz wyeksportować"
+
+# : source/configurator.cpp:316
+# | communitytranslateid=11585
+msgid "Please select an input event."
+msgstr "Proszę wybrać zdarzenie"
+
+# | communitytranslateid=13202
+msgid "Please clear the place first"
+msgstr "Proszę oczyść miejsce"
+
+# # | translated from communitytranslateid=17298
+# | communitytranslateid=18893
+msgid "place currently selected object at current position"
+msgstr "umieść wybrany obiekt na obecnej pozycji"
+
+# # | translated from communitytranslateid=17300
+# | communitytranslateid=19035
+msgid "pitch object foreward"
+msgstr "przesuń obiekt do przodu"
+
+# # | translated from communitytranslateid=17299
+# | communitytranslateid=19077
+msgid "pitch object backward"
+msgstr "przesuń obiekt do tyłu"
+
+# : source/configurator.cpp:1195
+# | communitytranslateid=11686
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Systemy cząsteczek takie jak działka wodne, czy spaliny samolotu. Mogą być nadużywane w trybie wieloosobowym."
+
+# : source/configurator.cpp:1086
+# | communitytranslateid=11644
+msgid "Particle systems"
+msgstr "System cząstek"
+
+# : source/configurator.cpp:1833
+# | communitytranslateid=11703
+msgid "Options"
+msgstr "Opcje"
+
+# # | translated from communitytranslateid=17167
+# | communitytranslateid=18909
+msgid "one step more flaps."
+msgstr "następny poziom klap."
+
+# # | translated from communitytranslateid=17166
+# | communitytranslateid=19071
+msgid "one step less flaps."
+msgstr "zmniejsz klapy o jedną pozycję"
+
+# : source/configurator.cpp:494
+# : source/configurator.cpp:500
+# | communitytranslateid=11594
+msgid "ok (end test)"
+msgstr "Ok (zakończ test)"
+
+# | communitytranslateid=13189
+msgid "OK"
+msgstr "OK"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=11704
+msgid "Ogre config validation error"
+msgstr "Błąd zatwierdzenia konfiguracji OGRE."
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=11706
+msgid "Ogre config error"
+msgstr "Błąd konfiguracji OGRE"
+
+# : source/configurator.cpp:1192
+# | communitytranslateid=11684
+msgid "Not much impact on speed."
+msgstr "Niewielki wpływ na szybkość"
+
+# | communitytranslateid=13203
+msgid "normal camera"
+msgstr "normalna kamera"
+
+# # | translated from communitytranslateid=17162
+# | communitytranslateid=18917
+msgid "normal brake for an aircraft"
+msgstr "normalny hamulec dla samolotu"
+
+# | communitytranslateid=13204
+msgid "Non-Driveable"
+msgstr "Nie do prowadzenia"
+
+# | communitytranslateid=13205
+msgid "Nodes: "
+msgstr "Węzły:"
+
+# | communitytranslateid=13176
+msgid "node count: "
+msgstr "liczba węzłów:"
+
+# # | translated from communitytranslateid=17177
+# | communitytranslateid=18957
+msgid "no thrust"
+msgstr "brak ciągu"
+
+# # | translated from communitytranslateid=17168
+# | communitytranslateid=18890
+msgid "no flaps."
+msgstr "bez klap."
+
+# : source/configurator.cpp:1076
+# | communitytranslateid=11641
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Nie ma wpływu na grę dopóki nie bawisz się z wodą. Dobrze wygląda."
+
+# # | translated from communitytranslateid=19427
+# | communitytranslateid=21673
+msgid "No differential installed on current vehicle!"
+msgstr "Brak dyferencjału w pojeździe!"
+
+# : source/configurator.cpp:1966
+# | communitytranslateid=11719
+msgid "no deadzone"
+msgstr "brak martwej strefy"
+
+# | communitytranslateid=13206
+msgid "no author information available"
+msgstr "brak informacji o autorze"
+
+# # | translated from communitytranslateid=17345
+# | communitytranslateid=18959
+msgid "no airbrakes"
+msgstr "brak hamulców aerodynamicznych"
+
+# : source/configurator.cpp:1133
+# : source/configurator.cpp:1503
+# | communitytranslateid=11665
+msgid "Nickname: "
+msgstr "Pseudonim:"
+
+# | communitytranslateid=13207
+msgid "new Language selected"
+msgstr "wybrano nowy język"
+
+# : source/configurator.cpp:997
+# | communitytranslateid=11621
+msgid "Network"
+msgstr "Sieć"
+
+# # | translated from communitytranslateid=17340
+# | communitytranslateid=19072
+msgid "move right mirror to the right"
+msgstr "przesuń prawe lusterko na prawo"
+
+# # | translated from communitytranslateid=17343
+# | communitytranslateid=18997
+msgid "move replay fast forward"
+msgstr "przewiń powtórkę szybko do przodu"
+
+# # | translated from communitytranslateid=17344
+# | communitytranslateid=18985
+msgid "move replay fast backward"
+msgstr "przewiń szybko do tyłu powtórkę"
+
+# # | translated from communitytranslateid=17338
+# | communitytranslateid=19073
+msgid "move left mirror to the right"
+msgstr "przesuń lewe lusterko w prawo"
+
+# # | translated from communitytranslateid=17337
+# | communitytranslateid=18939
+msgid "move left mirror to the left"
+msgstr "przesuń lewe lusterko w lewo"
+
+# # | translated from communitytranslateid=17355
+# | communitytranslateid=18873
+msgid "move character up"
+msgstr "przesuń postać wyżej"
+
+# # | translated from communitytranslateid=17356
+# | communitytranslateid=18869
+msgid "move character down"
+msgstr "przesuń postać w dół"
+
+# : source/configurator.cpp:498
+# | communitytranslateid=11596
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# : source/configurator.cpp:1103
+# | communitytranslateid=11657
+msgid "Motion blur"
+msgstr "Rozmycie obrazu"
+
+# # | translated from communitytranslateid=17339
+# | communitytranslateid=18904
+msgid "more right mirror to the left"
+msgstr "przesuń prawe lusterko w lewo"
+
+# # | translated from communitytranslateid=17341
+# | communitytranslateid=19082
+msgid "more replay forward"
+msgstr "przewiń powtórkę do przodu"
+
+# # | translated from communitytranslateid=17342
+# | communitytranslateid=19067
+msgid "more replay backward"
+msgstr "przewiń więcej do tyłu powtórkę"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=18886
+msgid "more airbrakes"
+msgstr "więcej hamulców aerodynamicznych"
+
+# : source/configurator.cpp:1095
+# | communitytranslateid=11650
+msgid "Mirrors"
+msgstr "Lusterka"
+
+# : source/configurator.cpp:1216
+# : source/configurator.cpp:1296
+# | communitytranslateid=11699
+msgid "minimum visibility range in percent"
+msgstr "Minimalna widoczność w procentach"
+
+# # | translated from communitytranslateid=19425
+# | communitytranslateid=21658
+msgid "Mid range selected"
+msgstr "Wybrano średnie przełożenie"
+
+# | communitytranslateid=13208
+msgid "max Speed:"
+msgstr "Maksymalna prędkość:"
+
+# | communitytranslateid=13209
+msgid "Mass: "
+msgstr "Ciężar:"
+
+# | communitytranslateid=13210
+msgid "Manual shift - Auto clutch"
+msgstr "Manualna skrzynia - Automatyczne sprzęgło"
+
+# # | translated from communitytranslateid=17324
+# | communitytranslateid=18952
+msgid "manual clutch (for manual transmission)"
+msgstr "Sprzęgło manualne (dla ręcznej skrzyni biegów)"
+
+# | communitytranslateid=13211
+msgid "Machine"
+msgstr "Maszyna"
+
+# : source/configurator.cpp:1960
+# | communitytranslateid=11715
+msgid "Lower"
+msgstr "Niższy"
+
+# # | translated from communitytranslateid=19424
+# | communitytranslateid=21643
+msgid "Low range selected"
+msgstr "Wybrano niskie przełożenie"
+
+# # | translated from communitytranslateid=17192
+# | communitytranslateid=19083
+msgid "look back (toggles between normal and lookback)"
+msgstr "spójrz w tył (przełącza między widokiem normalnym, a do tyłu"
+
+# | communitytranslateid=15431
+msgid "loading...\n"
+msgstr "ładowanie...\n"
+
+# | communitytranslateid=15432
+msgid "Loading zips in group "
+msgstr "Ładowanie archiwów (zip) w grupę"
+
+# | communitytranslateid=15437
+msgid "Loading Terrain"
+msgstr "Ładowanie terenu"
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=18915
+msgid "loading new zip: "
+msgstr "wgrywam następnego zip'a:"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=18870
+msgid "loading new directory: "
+msgstr "wgrywam nowy katalog:"
+
+# | communitytranslateid=15433
+msgid "Loading directory\n"
+msgstr "Ładowanie katalogu\n"
+
+# | communitytranslateid=13219
+msgid "Loader"
+msgstr "Ładownia"
+
+# | communitytranslateid=13212
+msgid "List"
+msgstr "Lista"
+
+# # | translated from communitytranslateid=19417
+# | communitytranslateid=21680
+msgid "Linearity"
+msgstr "Liniowość"
+
+# : source/configurator.cpp:1180
+# : source/configurator.cpp:1182
+# : source/configurator.cpp:1184
+# | communitytranslateid=11679
+msgid "Light source effects:"
+msgstr "Efekty źródła światła:"
+
+# # | translated from communitytranslateid=17207
+# | communitytranslateid=19024
+msgid "let the character run"
+msgstr "pozwól postaci biec"
+
+# # | translated from communitytranslateid=17204
+# | communitytranslateid=18895
+msgid "let the character jump"
+msgstr "zezwól postaci skakać"
+
+# # | translated from communitytranslateid=17347
+# | communitytranslateid=19076
+msgid "less airbrakes"
+msgstr "zmniejsz hamulce aerodynamiczne"
+
+# | communitytranslateid=13213
+msgid "Language:"
+msgstr "Język:"
+
+# : source/configurator.cpp:504
+# | communitytranslateid=11597
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# : source/configurator.cpp:312
+# , fuzzy
+# | communitytranslateid=11584
+msgid "Keyboard"
+msgstr "Klawiatura"
+
+# : source/configurator.cpp:1302
+# | communitytranslateid=11702
+msgid "Key/Axis"
+msgstr "Przycisk/Oś"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=11709
+msgid "Joystick Options"
+msgstr "Opcje joysticka"
+
+# : source/configurator.cpp:1954
+# | communitytranslateid=11712
+msgid "Joystick Axis Region"
+msgstr "Obszar osi joysticka"
+
+# # | translated from communitytranslateid=19390
+# | communitytranslateid=21665
+msgid "Joystick Axis Linearity"
+msgstr "Linearność osi joystika"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=11717
+msgid "Joystick Axis Deadzones"
+msgstr "Martwe strefy osi joysticka"
+
+# : source/configurator.cpp:496
+# | communitytranslateid=11595
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# : source/configurator.cpp:323
+# : source/configurator.cpp:976
+# | communitytranslateid=11586
+msgid "Input Type: "
+msgstr "Typ wejścia"
+
+# | communitytranslateid=15427
+msgid "incremental check: processing changed zips\n"
+msgstr "test przyrostowy: przetwarzanie zmienionych archiwów (zip)\n"
+
+# | communitytranslateid=15429
+msgid "incremental check: new files\n"
+msgstr "test przyrostowy: nowe pliki\n"
+
+# | communitytranslateid=15428
+msgid "incremental check: new content\n"
+msgstr "test przyrostowy: nowa zawartość\n"
+
+# | communitytranslateid=15430
+msgid "incremental check: duplicates\n"
+msgstr "test przyrostowy: duplikaty\n"
+
+# | communitytranslateid=15424
+msgid "incremental check: deleted and changed files\n"
+msgstr "test przyrostowy: usunięte i zmienione pliki\n"
+
+# | communitytranslateid=15423
+msgid "incremental check: deleted and changed files"
+msgstr "test przyrostowy: usunięte i zmienione pliki"
+
+# # | translated from communitytranslateid=17267
+# | communitytranslateid=19003
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr "zwiększ ciśnienie w oponach (tylko niektóre pojazdy obsługują tę funkcje)"
+
+# # | translated from communitytranslateid=17186
+# | communitytranslateid=19033
+msgid "increase throttle"
+msgstr "otwórz przepustnicę"
+
+# # | translated from communitytranslateid=17285
+# | communitytranslateid=19070
+msgid "increase the current FOV value"
+msgstr "zwiększ bieżącą wartość FOV"
+
+# # | translated from communitytranslateid=17178
+# | communitytranslateid=18927
+msgid "increase the airplane thrust"
+msgstr "zwiększ ciąg silników samolotu"
+
+# # | translated from communitytranslateid=17190
+# | communitytranslateid=18983
+msgid "increase day-time a lot faster"
+msgstr "zmień szybko porę dnia na późniejszą"
+
+# # | translated from communitytranslateid=17189
+# | communitytranslateid=18930
+msgid "increase day-time"
+msgstr "późniejsza pora dnia"
+
+# : source/configurator.cpp:1173
+# | communitytranslateid=11678
+msgid "In what Format should screenshots be saved?"
+msgstr "W jakim formacie mają być zapisane zrzuty ekranu?"
+
+# : source/configurator.cpp:983
+# | communitytranslateid=11618
+msgid "Import Keymap"
+msgstr "Zaimportuj mapę klawiszy"
+
+# | communitytranslateid=13214
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Jeżeli używasz XFire, możesz zaznaczyć tą opcje by wygenerować więcej informacji o grze."
+
+# | communitytranslateid=13220
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Jeżeli nie podoba ci się kołysająca się kamera w widoku zewnętrznym, możesz wyłączyć ją tutaj."
+
+# : source/configurator.cpp:1208
+# | communitytranslateid=11695
+msgid "Hydrax Water System"
+msgstr "System wody Hydrax"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=18984
+msgid "hold to start the engine"
+msgstr "przytrzymaj by włączyć silnik"
+
+# # | translated from communitytranslateid=19426
+# | communitytranslateid=21634
+msgid "High range selected"
+msgstr "Wysokie przełożenie"
+
+# : source/configurator.cpp:1106
+# | communitytranslateid=11659
+msgid "High quality reflective effects"
+msgstr "Wysokiej jakości refleksy"
+
+# | communitytranslateid=13215
+msgid "High Quality"
+msgstr "Wysoka jakość"
+
+# | communitytranslateid=13216
+msgid "High Performance"
+msgstr "Wysokie osiągi"
+
+# # | translated from communitytranslateid=17262
+# | communitytranslateid=18900
+msgid "hide all GUI elements"
+msgstr "ukryj wszystkie elementy GUI"
+
+# | communitytranslateid=13218
+msgid "here you can get help"
+msgstr "tutaj możesz znaleźć pomoc"
+
+# : source/configurator.cpp:1090
+# | communitytranslateid=11647
+msgid "HeatHaze"
+msgstr "Efekt gorącego powietrza"
+
+# : source/configurator.cpp:1093
+# | communitytranslateid=11648
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Efekt gorącego powietrza z silników. Mocne spowolnienie (aktywuj tylko na nowym sprzęcie)"
+
+# | communitytranslateid=13222
+msgid "health: "
+msgstr "Zdrowie:"
+
+# | communitytranslateid=13226
+msgid "Graphics Settings"
+msgstr "Ustawienia graficzne"
+
+# : source/configurator.cpp:935
+# | communitytranslateid=11613
+msgid "Graphics"
+msgstr "Grafika"
+
+# # | translated from communitytranslateid=19423
+# | communitytranslateid=21689
+msgid "Fully Manual: stick shift with ranges"
+msgstr "Pełna manualna przekładnia: zmiana przy pomocy drążka z przełożeniami"
+
+# # | translated from communitytranslateid=19422
+# | communitytranslateid=21676
+msgid "Fully manual: stick shift"
+msgstr "Pełna manualna przekładnia: zmiana przy pomocy drążka"
+
+# # | translated from communitytranslateid=19421
+# | communitytranslateid=21669
+msgid "Fully Manual: sequencial shift"
+msgstr "Pełna manualna przekładnia: sekwencyjna zmiana biegów"
+
+# | communitytranslateid=13196
+msgid "Fully Manual shift"
+msgstr "Pełna manualna przekładnia"
+
+# # | translated from communitytranslateid=17176
+# | communitytranslateid=18889
+msgid "full thrust"
+msgstr "pełny ciąg"
+
+# : source/configurator.cpp:1043
+# | communitytranslateid=11630
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Tryb pełnego ekranu używa nieco mniej zasobów pamięci."
+
+# : source/configurator.cpp:1041
+# | communitytranslateid=11629
+msgid "Full screen"
+msgstr "Pełny ekran"
+
+# # | translated from communitytranslateid=17165
+# | communitytranslateid=18919
+msgid "full flaps in an aircraft."
+msgstr "Pełne wysunięcie klap w samolocie."
+
+# # | translated from communitytranslateid=17346
+# | communitytranslateid=19089
+msgid "full airbrakes"
+msgstr "pełne hamulce aerodynamiczne"
+
+# : source/configurator.cpp:1958
+# | communitytranslateid=11714
+msgid "Full"
+msgstr "Pełny gaz"
+
+# | communitytranslateid=13227
+msgid "free camera"
+msgstr "wolna kamera"
+
+# # | translated from communitytranslateid=17156
+# | communitytranslateid=18916
+msgid "FOV: "
+msgstr "Pole Widzenia:"
+
+# : source/configurator.cpp:1187
+# | communitytranslateid=11681
+msgid "Fog"
+msgstr "Mgła"
+
+# | communitytranslateid=13228
+msgid "fixed free camera"
+msgstr "statyczna wolna kamera"
+
+# # | translated from communitytranslateid=17335
+# | communitytranslateid=19004
+msgid "fix the camera to a position"
+msgstr "zatrzymaj kamerę w jednym miejscu"
+
+# # | translated from communitytranslateid=19419
+# | communitytranslateid=21670
+msgid "Export selection"
+msgstr "Wyeksportuj zaznaczone"
+
+# : source/configurator.cpp:986
+# | communitytranslateid=11619
+msgid "Export Keymap"
+msgstr "Eksportuj mapę klawiszy"
+
+# # | translated from communitytranslateid=17288
+# | communitytranslateid=18945
+msgid "EXPERIMENTAL: set maximum amount of grass"
+msgstr "EKSPERYMENTALNIE: maksymalna ilość trawy"
+
+# # | translated from communitytranslateid=17290
+# | communitytranslateid=19066
+msgid "EXPERIMENTAL: save changes to the grass density image"
+msgstr "EKSPERYMENTALNIE: zapisz zmiany do obrazu gęstości trawy"
+
+# # | translated from communitytranslateid=17286
+# | communitytranslateid=19053
+msgid "EXPERIMENTAL: remove some grass"
+msgstr "EKSPERYMENTALNIE: usuń część trawy"
+
+# # | translated from communitytranslateid=17289
+# | communitytranslateid=19005
+msgid "EXPERIMENTAL: remove grass completely"
+msgstr "EKSPERYMENTALNIE: usuń całkowicie trawę"
+
+# # | translated from communitytranslateid=17287
+# | communitytranslateid=18931
+msgid "EXPERIMENTAL: add some grass"
+msgstr "EKSPERYMENTALNIE: dodaj więcej trawy"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=19018
+msgid "exit the game"
+msgstr "Wyjdź z gry"
+
+# : source/configurator.cpp:394
+# | communitytranslateid=11593
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Wartość zdarzenia (lewy = 0%, prawy = 100%)"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# : source/configurator.cpp:298
+# , fuzzy
+# : source/configurator.cpp:308
+# : source/configurator.cpp:321
+# | communitytranslateid=11583
+msgid "Event Name: "
+msgstr "Zdarzenie"
+
+# : source/configurator.cpp:393
+# | communitytranslateid=11592
+msgid "Event Name"
+msgstr "Nazwa zdarzenia"
+
+# : source/configurator.cpp:392
+# | communitytranslateid=11591
+msgid "Event Description: "
+msgstr "Opis zdarzenia"
+
+# : source/configurator.cpp:1298
+# | communitytranslateid=11700
+msgid "Event"
+msgstr "Zdarzenie"
+
+# | communitytranslateid=13241
+msgid "Error while retrieving user space path"
+msgstr "Błąd podczas uzyskiwania przestrzeni użytkownika"
+
+# | communitytranslateid=13242
+msgid "Error while retrieving program space path"
+msgstr "Błąd podczas uzyskiwania przestrzeni programu"
+
+# # | translated from communitytranslateid=17260
+# | communitytranslateid=19001
+msgid "enter the chat"
+msgstr "wejdź w chat"
+
+# # | translated from communitytranslateid=17261
+# | communitytranslateid=18926
+msgid "enter or exit a truck"
+msgstr "wejdź/wyjdź z/do pojazdu"
+
+# : source/configurator.cpp:1190
+# | communitytranslateid=11683
+msgid "Engine smoke"
+msgstr "Spaliny silnika"
+
+# : source/configurator.cpp:1073
+# | communitytranslateid=11639
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Aktywowanie fal daje dużo zabawy w przypadku używania łodzi, ale może drastycznie zmniejszyć wydajność gry na niektórych komputerach."
+
+# : source/configurator.cpp:1210
+# | communitytranslateid=11696
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Aktywuje nowy system renderowania wody. EKSPERYMENTALNE. Zastępuje (unieważnia) inne ustawienia dotyczące wody."
+
+# | communitytranslateid=13231
+msgid "Enable XFire Extension"
+msgstr "Uruchom rozszerzenie XFire"
+
+# : source/configurator.cpp:1071
+# | communitytranslateid=11638
+msgid "Enable waves"
+msgstr "Aktywuj fale"
+
+# | communitytranslateid=13243
+msgid "Enable Visual Beam Debug"
+msgstr "Włącz wizualne testowanie węzłów"
+
+# # | translated from communitytranslateid=19429
+# | communitytranslateid=21639
+msgid "enable or disable replay mode"
+msgstr "włącz lub wyłącz tryb powtórek"
+
+# # | translated from communitytranslateid=17278
+# | communitytranslateid=19047
+msgid "enable of disable replay mode"
+msgstr "aktywuj/dezaktywuj tryb powtórek"
+
+# : source/configurator.cpp:1129
+# : source/configurator.cpp:1132
+# | communitytranslateid=11664
+msgid "Enable network mode"
+msgstr "Aktywuj tryb sieciowy"
+
+# : source/configurator.cpp:1109
+# | communitytranslateid=11660
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Aktywuje wysokiej jakości refleksy. Zmniejsza wydajność gry"
+
+# # | translated from communitytranslateid=17146
+# | communitytranslateid=18907
+msgid "Enable Auto-Downloader"
+msgstr "Włącz Auto-Aktualizacje"
+
+# : source/configurator.cpp:1123
+# : source/configurator.cpp:1128
+# | communitytranslateid=11663
+msgid "Enable advanced wheel model"
+msgstr "Aktywuj zaawansowany model kół"
+
+# # | translated from communitytranslateid=17336
+# | communitytranslateid=18883
+msgid "enable / disable free camera mode"
+msgstr "włącz / wyłącz wolną kamerę"
+
+# : source/configurator.cpp:1087
+# | communitytranslateid=11645
+msgid "Dust"
+msgstr "Kurz"
+
+# | communitytranslateid=13244
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Wyświetl numery węzłów i więcej informacji na temat węzłów i belek."
+
+# # | translated from communitytranslateid=17351
+# | communitytranslateid=19055
+msgid "display or hide net chat"
+msgstr "pokaż lub ukryj chat"
+
+# : source/configurator.cpp:1213
+# | communitytranslateid=11698
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "Dezaktywuje mapę. Używane do testów, nie zwiększysz przez to FPS."
+
+# : source/configurator.cpp:1211
+# | communitytranslateid=11697
+msgid "Disable Overview Map"
+msgstr "Dezaktywuj Mapę terenu"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=18921
+msgid "disable creak sound"
+msgstr "wyłącz dźwięk 'skrzypienia'"
+
+# | communitytranslateid=13221
+msgid "Disable Camera Pitching"
+msgstr "Wyłącz kołysającą się kamerę"
+
+# # | translated from communitytranslateid=19428
+# | communitytranslateid=21672
+msgid "Differentials switched to: "
+msgstr "Zmień dyferencjał na:"
+
+# : source/configurator.cpp:1009
+# : source/configurator.cpp:1012
+# : source/configurator.cpp:1017
+# | communitytranslateid=11624
+msgid "Device:"
+msgstr "Urządzenie:"
+
+# | communitytranslateid=13237
+msgid "destruction: "
+msgstr "zniszczonych:"
+
+# # | translated from communitytranslateid=17160
+# | communitytranslateid=19008
+msgid "Description: "
+msgstr "Opis:"
+
+# : source/configurator.cpp:981
+# | communitytranslateid=11617
+msgid "Delete selected"
+msgstr "Usuń zaznaczone"
+
+# # | translated from communitytranslateid=17350
+# | communitytranslateid=19044
+msgid "delete current truck"
+msgstr "usuń bieżący pojazd"
+
+# | communitytranslateid=13187
+msgid "deformed: "
+msgstr "zdeformowanych:"
+
+# # | translated from communitytranslateid=17158
+# | communitytranslateid=18956
+msgid "Default Skin"
+msgstr "Domyślna skórka"
+
+# # | translated from communitytranslateid=17284
+# | communitytranslateid=19000
+msgid "decreases the current FOV value"
+msgstr "zmniejsza bieżącą wartość FOV"
+
+# # | translated from communitytranslateid=17175
+# | communitytranslateid=18948
+msgid "decreases the airplane thrust"
+msgstr "zmniejsza ciąg silników w samolocie"
+
+# # | translated from communitytranslateid=17266
+# | communitytranslateid=19011
+msgid "decrease tire pressure (note: only very few trucks support this)"
+msgstr "zmniejsz ciśnienie w oponach (uwaga: tylko niektóre pojazdy obsługują tę funkcję)"
+
+# # | translated from communitytranslateid=17185
+# | communitytranslateid=18897
+msgid "decrease throttle"
+msgstr "zmniejsz przepustnice"
+
+# # | translated from communitytranslateid=17188
+# | communitytranslateid=19029
+msgid "decrease day-time a lot faster"
+msgstr "zmień szybko porę dnia na wcześniejszą"
+
+# # | translated from communitytranslateid=17187
+# | communitytranslateid=18923
+msgid "decrease day-time"
+msgstr "wcześniejsza pora dnia"
+
+# : source/configurator.cpp:1202
+# | communitytranslateid=11691
+msgid "Debug Truck Mass"
+msgstr "Analizuj masę pojazdu"
+
+# # | translated from communitytranslateid=17276
+# | communitytranslateid=18887
+msgid "debug purpose - dont use"
+msgstr "używane do debugowana - nie używaj"
+
+# : source/configurator.cpp:1205
+# | communitytranslateid=11693
+msgid "Debug Collision Meshes"
+msgstr "Testuj Meshe reagujące na kolizje (Collision Meshes)"
+
+# : source/configurator.cpp:2276
+# : source/configurator.cpp:2287
+# | communitytranslateid=11730
+msgid "Deadzone"
+msgstr "Martwe pole"
+
+# : source/configurator.cpp:900
+# : source/configurator.cpp:902
+# : source/configurator.cpp:908
+# | communitytranslateid=11604
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# : source/configurator.cpp:507
+# : source/configurator.cpp:510
+# | communitytranslateid=11598
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# : source/configurator.cpp:914
+# | communitytranslateid=11605
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# : source/configurator.cpp:565
+# | communitytranslateid=11599
+msgid "data/"
+msgstr "data/"
+
+# : source/configurator.cpp:1196
+# | communitytranslateid=11687
+msgid "Dashboard"
+msgstr "Deska rozdzielcza"
+
+# # | translated from communitytranslateid=19452
+# | communitytranslateid=21642
+msgid "Cycle between available differental models"
+msgstr "Przełączaj między różnymi trybami dyferencjału"
+
+# : source/configurator.cpp:1193
+# | communitytranslateid=11685
+msgid "Custom Particles"
+msgstr "Własne systemy cząsteczek (custom particles)"
+
+# | communitytranslateid=13249
+msgid "current Speed:"
+msgstr "Bieżąca prędkość:"
+
+# | communitytranslateid=13238
+msgid "current RPM:"
+msgstr "Liczba obrotów na minutę(RPM):"
+
+# | communitytranslateid=13236
+msgid "current mass:"
+msgstr "Bieżąca masa:"
+
+# | communitytranslateid=13248
+msgid "Current FPS: "
+msgstr "Bieżąca ilość klatek (FPS):"
+
+# | communitytranslateid=13185
+msgid "CPU Settings"
+msgstr "Ustawienia procesora"
+
+# : source/configurator.cpp:941
+# | communitytranslateid=11615
+msgid "CPU"
+msgstr "Procesor"
+
+# # | translated from communitytranslateid=19388
+# | communitytranslateid=21633
+msgid "Could not write to input.map file"
+msgstr "Nie można zapisać do pliku input.map"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=11707
+msgid "Could not write config file"
+msgstr "Nie można zapisać pliku konfiguracyjnego"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=11705
+msgid "Could not open Rendering device"
+msgstr "Nie można uruchomić urządzenia renderującego."
+
+# : source/configurator.cpp:977
+# | communitytranslateid=11616
+msgid "Controls"
+msgstr "Sterowanie"
+
+# # | translated from communitytranslateid=17263
+# | communitytranslateid=18991
+msgid "connect hook node to a node in close proximity"
+msgstr "połącz węzeł (node) haka do najbliższego węzła (node)"
+
+# : source/configurator.cpp:1948
+# | communitytranslateid=11708
+msgid "Configure error"
+msgstr "Błąd konfiguracji"
+
+# | communitytranslateid=13247
+msgid "Community / Support"
+msgstr "Społeczność / Wsparcie techniczne"
+
+# | communitytranslateid=13190
+msgid "Commands:"
+msgstr "Komendy:"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=18885
+msgid "Command 9"
+msgstr "Komenda 9"
+
+# # | translated from communitytranslateid=17217
+# | communitytranslateid=19039
+msgid "Command 8"
+msgstr "funkcja hydrauliki 8 (command 8)"
+
+# # | translated from communitytranslateid=17216
+# | communitytranslateid=18980
+msgid "Command 7"
+msgstr "funkcja hydrauliki 7 (command 7)"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=18899
+msgid "Command 6"
+msgstr "Komenda 6"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=19078
+msgid "Command 5"
+msgstr "funkcja hydrauliki 5 (command 5)"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=18867
+msgid "Command 48"
+msgstr "Komenda 48"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=18929
+msgid "Command 47"
+msgstr "Komenda 47"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=19058
+msgid "Command 46"
+msgstr "funkcja hydrauliki 46 (command 46)"
+
+# # | translated from communitytranslateid=17254
+# | communitytranslateid=18884
+msgid "Command 45"
+msgstr "Komenda 45"
+
+# # | translated from communitytranslateid=17253
+# | communitytranslateid=18861
+msgid "Command 44"
+msgstr "Komenda 44"
+
+# # | translated from communitytranslateid=17252
+# | communitytranslateid=19014
+msgid "Command 43"
+msgstr "funkcja hydrauliki 43 (command 43)"
+
+# # | translated from communitytranslateid=17251
+# | communitytranslateid=18881
+msgid "Command 42"
+msgstr "Komenda 42"
+
+# # | translated from communitytranslateid=17250
+# | communitytranslateid=18949
+msgid "Command 41"
+msgstr "Komenda 41"
+
+# # | translated from communitytranslateid=17249
+# | communitytranslateid=18940
+msgid "Command 40"
+msgstr "Komenda 40"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=18992
+msgid "Command 4"
+msgstr "funkcja hydrauliki 4 (command 4)"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=19032
+msgid "Command 39"
+msgstr "funkcja hydrauliki 139 (command 39)"
+
+# # | translated from communitytranslateid=17247
+# | communitytranslateid=18986
+msgid "Command 38"
+msgstr "funkcja hydrauliki 38 (command 38)"
+
+# # | translated from communitytranslateid=17246
+# | communitytranslateid=19037
+msgid "Command 37"
+msgstr "funkcja hydrauliki 37 (command 37)"
+
+# # | translated from communitytranslateid=17245
+# | communitytranslateid=18862
+msgid "Command 36"
+msgstr "Komenda 36"
+
+# # | translated from communitytranslateid=17244
+# | communitytranslateid=18935
+msgid "Command 35"
+msgstr "Komenda 35"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=19069
+msgid "Command 34"
+msgstr "funkcja hydrauliki 34 (command 34)"
+
+# # | translated from communitytranslateid=17242
+# | communitytranslateid=18902
+msgid "Command 33"
+msgstr "Komenda 33"
+
+# # | translated from communitytranslateid=17241
+# | communitytranslateid=18922
+msgid "Command 32"
+msgstr "Komenda 32"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=19059
+msgid "Command 31"
+msgstr "funkcja hydrauliki 31 (command 31)"
+
+# # | translated from communitytranslateid=17239
+# | communitytranslateid=18920
+msgid "Command 30"
+msgstr "Komenda 30"
+
+# # | translated from communitytranslateid=17212
+# | communitytranslateid=18866
+msgid "Command 3"
+msgstr "Komenda 3"
+
+# # | translated from communitytranslateid=17238
+# | communitytranslateid=19085
+msgid "Command 29"
+msgstr "funkcja hydrauliki 29 (command 29)"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=19043
+msgid "Command 28"
+msgstr "funkcja hydrauliki 28 (command 28)"
+
+# # | translated from communitytranslateid=17236
+# | communitytranslateid=18944
+msgid "Command 27"
+msgstr "Komenda 27"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=18933
+msgid "Command 26"
+msgstr "Komenda 26"
+
+# # | translated from communitytranslateid=17234
+# | communitytranslateid=18977
+msgid "Command 25"
+msgstr "Funkcja hydrauliki 25 (Command) 25"
+
+# # | translated from communitytranslateid=17233
+# | communitytranslateid=18999
+msgid "Command 24"
+msgstr "funkcja hydrauliki 24 (command 24)"
+
+# # | translated from communitytranslateid=17232
+# | communitytranslateid=19007
+msgid "Command 23"
+msgstr "funkcja hydrauliki 23 (command 23)"
+
+# # | translated from communitytranslateid=17231
+# | communitytranslateid=19019
+msgid "Command 22"
+msgstr "funkcja hydrauliki 22 (command 22)"
+
+# # | translated from communitytranslateid=17230
+# | communitytranslateid=18947
+msgid "Command 21"
+msgstr "Komenda 21"
+
+# # | translated from communitytranslateid=17229
+# | communitytranslateid=19012
+msgid "Command 20"
+msgstr "funkcja hydrauliki 20 (command 20)"
+
+# # | translated from communitytranslateid=17211
+# | communitytranslateid=19013
+msgid "Command 2"
+msgstr "funkcja hydrauliki 2 (command 2)"
+
+# # | translated from communitytranslateid=17228
+# | communitytranslateid=18988
+msgid "Command 19"
+msgstr "funkcja hydrauliki 19 (command 19)"
+
+# # | translated from communitytranslateid=17227
+# | communitytranslateid=19002
+msgid "Command 18"
+msgstr "funkcja hydrauliki 18 (command 18)"
+
+# # | translated from communitytranslateid=17226
+# | communitytranslateid=18894
+msgid "Command 17"
+msgstr "Komenda 17"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=18872
+msgid "Command 16"
+msgstr "Komenda 16"
+
+# # | translated from communitytranslateid=17224
+# | communitytranslateid=19009
+msgid "Command 15"
+msgstr "funkcja hydrauliki 15 (command 15)"
+
+# # | translated from communitytranslateid=17223
+# | communitytranslateid=18891
+msgid "Command 14"
+msgstr "Komenda 14"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=18979
+msgid "Command 13"
+msgstr "funkcja hydrauliki 13 (command 13)"
+
+# # | translated from communitytranslateid=17221
+# | communitytranslateid=18898
+msgid "Command 12"
+msgstr "Komenda 12"
+
+# # | translated from communitytranslateid=17220
+# | communitytranslateid=19006
+msgid "Command 11"
+msgstr "funkcja hydrauliki 11 (command 11)"
+
+# # | translated from communitytranslateid=17219
+# | communitytranslateid=18941
+msgid "Command 10"
+msgstr "Komenda 10"
+
+# # | translated from communitytranslateid=17210
+# | communitytranslateid=18995
+msgid "Command 1"
+msgstr "funkcja hydrauliki 1 (command 13)"
+
+# : source/configurator.cpp:1094
+# | communitytranslateid=11649
+msgid "Cockpit options"
+msgstr "Opcje kokpitu"
+
+# : source/configurator.cpp:336
+# | communitytranslateid=11590
+msgid "close this dialog"
+msgstr "Zamknij to okno"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=18892
+msgid "Click on blue hyperlinks to select a server."
+msgstr "Kliknij w niebieskie hiperlinki by wybrać serwer."
+
+# : source/configurator.cpp:1186
+# | communitytranslateid=11680
+msgid "Clear cache"
+msgstr "Opróżnij cache"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=19021
+msgid "Choose a file"
+msgstr "Wybierz plik"
+
+# | communitytranslateid=15434
+msgid "checking for new zips in "
+msgstr "sprawdzanie nowych archiwów (zip)"
+
+# | communitytranslateid=15435
+msgid "checking for new directories in "
+msgstr "sprawdzanie nowych katalogów"
+
+# # | translated from communitytranslateid=17191
+# | communitytranslateid=19057
+msgid "change camera mode"
+msgstr "zmień tryb kamery"
+
+# # | translated from communitytranslateid=17180
+# | communitytranslateid=18960
+msgid "center the rudder"
+msgstr "wyśrodkuj ster"
+
+# : source/configurator.cpp:932
+# | communitytranslateid=11612
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Anuluj zmiany i zamknij konfigurator"
+
+# : source/configurator.cpp:327
+# | communitytranslateid=11589
+msgid "Cancel"
+msgstr "Anuluj"
+
+# : source/configurator.cpp:1054
+# | communitytranslateid=11634
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "W trybie Caelum, niebo wygląda ładnie, ale działa wolno jeśli nie masz mocnej karty graficznej."
+
+# # | translated from communitytranslateid=17155
+# | communitytranslateid=18912
+msgid "Cache regeneration done.\n"
+msgstr "Regeneracja cacheu zakończona.\n"
+
+# | communitytranslateid=13181
+msgid "broken: "
+msgstr "pękniętych:"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=18978
+msgid "brake"
+msgstr "hamulec"
+
+# | communitytranslateid=13194
+msgid "Boat"
+msgstr "Łódź"
+
+# : source/configurator.cpp:1101
+# | communitytranslateid=11655
+msgid "Bloom"
+msgstr "Bloom"
+
+# | communitytranslateid=13233
+msgid "Best FPS: "
+msgstr "Najlepsza liczba klatek (FPS):"
+
+# | communitytranslateid=13191
+msgid "beam count: "
+msgstr "liczba belek:"
+
+# | communitytranslateid=13245
+msgid "Balanced"
+msgstr "Zbalansowane"
+
+# | communitytranslateid=13217
+msgid "Bad server port"
+msgstr "Zły port serwera"
+
+# | communitytranslateid=13246
+msgid "average stress: "
+msgstr "Średnia naprężeń:"
+
+# | communitytranslateid=13184
+msgid "Average FPS: "
+msgstr "Średnia klatek (FPS):"
+
+# | communitytranslateid=13235
+msgid "average deformation: "
+msgstr "Średnia ilość zdeformowań:"
+
+# | communitytranslateid=13151
+msgid "Automatic shift"
+msgstr "Automatyczna zmiana biegów"
+
+# | communitytranslateid=13182
+msgid "Authors: "
+msgstr "Autorzy:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=18953
+msgid "Author: "
+msgstr "Autor:"
+
+# : source/configurator.cpp:1027
+# : source/configurator.cpp:1029
+# | communitytranslateid=11627
+msgid "Anti-aliasing:"
+msgstr "Wygładzanie krawędzi (Anti-aliasing):"
+
+# : source/configurator.cpp:1134
+# | communitytranslateid=11666
+msgid "Anonymous"
+msgstr "Anonim"
+
+# | communitytranslateid=13183
+msgid "Altitude:"
+msgstr "Wysokość:"
+
+# # | translated from communitytranslateid=17349
+# | communitytranslateid=19040
+msgid "airplane throttle"
+msgstr "przepustnica samolotu"
+
+# # | translated from communitytranslateid=17169
+# | communitytranslateid=19056
+msgid "airplane parking brake."
+msgstr "hamulec postojowy w samolocie"
+
+# | communitytranslateid=13150
+msgid "Airplane"
+msgstr "Samolot"
+
+# : source/configurator.cpp:1003
+# | communitytranslateid=11622
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+# : source/configurator.cpp:326
+# : source/configurator.cpp:923
+# | communitytranslateid=11588
+msgid "Add the key"
+msgstr "Dodaj klawisz"
+
+# : source/configurator.cpp:324
+# | communitytranslateid=11587
+msgid "Add"
+msgstr "Dodaj"
+
+# # | translated from communitytranslateid=17306
+# | communitytranslateid=19084
+msgid "accelerate the truck"
+msgstr "przyśpiesz pojazd"
+
+# | communitytranslateid=13195
+msgid "A network error occured"
+msgstr "Wystąpił błąd sieciowy"
+
+# : source/configurator.cpp:1969
+# | communitytranslateid=11721
+msgid "5% deadzone"
+msgstr "5% martwej strefy"
+
+# : source/configurator.cpp:1966
+# , c-format
+# | communitytranslateid=11720
+msgid "5 %"
+msgstr "5 %"
+
+# : source/configurator.cpp:1981
+# | communitytranslateid=11729
+msgid "30% deadzone"
+msgstr "30% martwej strefy"
+
+# : source/configurator.cpp:1978
+# , c-format
+# | communitytranslateid=11728
+msgid "30 %"
+msgstr "30 %"
+
+# : source/configurator.cpp:1978
+# | communitytranslateid=11727
+msgid "20% deadzone"
+msgstr "20% martwej strefy"
+
+# : source/configurator.cpp:1975
+# , c-format
+# | communitytranslateid=11726
+msgid "20 %"
+msgstr "20 %"
+
+# : source/configurator.cpp:1975
+# | communitytranslateid=11725
+msgid "15% deadzone"
+msgstr "15% martwej strefy"
+
+# : source/configurator.cpp:1972
+# , c-format
+# | communitytranslateid=11724
+msgid "15 %"
+msgstr "15 %"
+
+# : source/configurator.cpp:1145
+# : source/configurator.cpp:1149
+# : source/configurator.cpp:1147
+# | communitytranslateid=11670
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# : source/configurator.cpp:1152
+# | communitytranslateid=11672
+msgid "12333"
+msgstr "12333"
+
+# : source/configurator.cpp:1972
+# | communitytranslateid=11723
+msgid "10% deadzone"
+msgstr "10% martwej strefy"
+
+# : source/configurator.cpp:1969
+# , c-format
+# | communitytranslateid=11722
+msgid "10 %"
+msgstr "10 %"
+
+# # | translated from communitytranslateid=19403
+# | communitytranslateid=21641
+msgid "0 % (Total Linear)"
+msgstr "0 % (Zupełna Linearność)"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=11718
+msgid "0 % (No deadzone)"
+msgstr "0 % (brak martwej strefy)"
+
+# : source/configurator.cpp:1141
+# : source/configurator.cpp:1143
+# | communitytranslateid=11668
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Jak grać w trybie multiplayer:</p><br><ol><li>Kliknij na przycisk <b>Aktualizuj</b> by zobaczyć listę dostępnych serwerów.</li><li>Kliknij na dowolnym podkreślonym serwerze</li><li>Kliknij przycisk <b>Zapisz i graj</b>, by rozpocząć grę.</li></ol>"
+
+# | communitytranslateid=15422
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Najświeższe Wiadomości</h2>Nie ma żadnych w tej chwili<h2>Wsparcie / Społeczność</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutoriale</a><p/> (Ta strona jest cały czas rozwijana...)"
+
+# # | translated from communitytranslateid=19402
+# | communitytranslateid=21687
+msgid "+5% multiplication"
+msgstr "+5% przemnożenia"
+
+# # | translated from communitytranslateid=19401
+# | communitytranslateid=21644
+msgid "+5 %"
+msgstr "+5 %"
+
+# # | translated from communitytranslateid=19392
+# | communitytranslateid=21636
+msgid "+30% multiplication"
+msgstr "+30% przemnożenia"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=21655
+msgid "+30 %"
+msgstr "+30 %"
+
+# # | translated from communitytranslateid=19394
+# | communitytranslateid=21640
+msgid "+25% multiplication"
+msgstr "+25% przemnożenia"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=21666
+msgid "+25 %"
+msgstr "+25 %"
+
+# # | translated from communitytranslateid=19396
+# | communitytranslateid=21682
+msgid "+20% multiplication"
+msgstr "+20% przemnożenia"
+
+# # | translated from communitytranslateid=19395
+# | communitytranslateid=21677
+msgid "+20 %"
+msgstr "+20 %"
+
+# # | translated from communitytranslateid=19398
+# | communitytranslateid=21651
+msgid "+15% multiplication"
+msgstr "+15% przemnożenia"
+
+# # | translated from communitytranslateid=19397
+# | communitytranslateid=21659
+msgid "+15 %"
+msgstr "+15 %"
+
+# # | translated from communitytranslateid=19400
+# | communitytranslateid=21694
+msgid "+10% multiplication"
+msgstr "+10% przemnożenia"
+
+# # | translated from communitytranslateid=19399
+# | communitytranslateid=21691
+msgid "+10 %"
+msgstr "+10 %"
+
+# : source/configurator.cpp:587
+# | communitytranslateid=11600
+msgid "(Please press a key)"
+msgstr "(Wciśnij klawisz na klawiaturze)"
+
+# : source/configurator.cpp:613
+# | communitytranslateid=11601
+msgid "(Please press a Joystick Button)"
+msgstr "(Wciśnij przycisk joystika)"
+
+# : source/configurator.cpp:829
+# | communitytranslateid=11602
+msgid "(Please move an Axis)\n"
+msgstr "(Przesuń oś na kontrolerze)\n"
+
+# # | translated from communitytranslateid=19387
+# | communitytranslateid=21653
+msgid "(Please move a Slider)\n"
+msgstr "(Proszę porusz przepustnicą) \n"
+
+# | communitytranslateid=13147
+msgid "(No Languages found)"
+msgstr "(Nie znaleziono innych języków)"
+
+# | communitytranslateid=13240
+msgid "(no author information available)"
+msgstr "(brak dostępnych informacji o autorze)"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=19063
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "... ładowanie ... (być może powinieneś sprawdzić swoje połączenie sieciowe)"
+
+# # | translated from communitytranslateid=19406
+# | communitytranslateid=21635
+msgid "-5% multiplication"
+msgstr "-5% przemnożenia"
+
+# # | translated from communitytranslateid=19405
+# | communitytranslateid=21649
+msgid "-5 %"
+msgstr "-5 %"
+
+# # | translated from communitytranslateid=19416
+# | communitytranslateid=21654
+msgid "-30% multiplication"
+msgstr "-30% przemnożenia"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=21647
+msgid "-30 %"
+msgstr "-30 %"
+
+# # | translated from communitytranslateid=19414
+# | communitytranslateid=21661
+msgid "-25% multiplication"
+msgstr "-25% przemnożenia"
+
+# # | translated from communitytranslateid=19413
+# | communitytranslateid=21648
+msgid "-25 %"
+msgstr "-25 %"
+
+# # | translated from communitytranslateid=19412
+# | communitytranslateid=21684
+msgid "-20% multiplication"
+msgstr "-20% przemnożenia"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=21681
+msgid "-20 %"
+msgstr "-20 %"
+
+# # | translated from communitytranslateid=19410
+# | communitytranslateid=21638
+msgid "-15% multiplication"
+msgstr "-15% przemnożenia"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=21688
+msgid "-15 %"
+msgstr "-15 %"
+
+# # | translated from communitytranslateid=19408
+# | communitytranslateid=21650
+msgid "-10% multiplication"
+msgstr "-10% przemnożenia"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=21630
+msgid "-10 %"
+msgstr "-10 %"
+
+# | communitytranslateid=13232
+msgid "^8 Player: ^7"
+msgstr "^8 Gracz: ^7"
+
+# | communitytranslateid=13230
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 użycie: /rcmd [komenda] [opcjonalne argumenty]"
+
+# | communitytranslateid=13239
+msgid "^1 unkown Command: "
+msgstr "^1 nieznana komenda:"
+
+# | communitytranslateid=13234
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 BŁĄD: Najpierw musisz użyć /rlogin [hasło]"
+
+# | communitytranslateid=13229
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 BŁĄD: Błąd protokołu podczas próby wysyłania komendy do RCON:"
+
+# | communitytranslateid=13225
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 BŁĄD: Błąd protokołu podczas próby logowania się do RCON:"
+
+# | communitytranslateid=13224
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 BŁĄD: Nie jesteś w trybie sieciowym"
+
+# | communitytranslateid=13223
+msgid "^1 Error Parsing command"
+msgstr "^1 Błąd komendy Parsera"
+
+# | communitytranslateid=15425
+msgid " not existing"
+msgstr "nie istnieje"
+
+# | communitytranslateid=15426
+msgid " changed"
+msgstr "zmienione"
+

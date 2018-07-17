@@ -1,0 +1,1270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=10758
+# | communitytranslateid=16379
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Jūsu vārds Tīkla spēlē. Maksimums 20 simboli."
+
+# # | translated from communitytranslateid=10767
+# | communitytranslateid=16450
+msgid "Your Forum User Token."
+msgstr "Jūsu foruma lietotāja simbols"
+
+# # | translated from communitytranslateid=10804
+# | communitytranslateid=16525
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Jums jāsaglabā un jārestartē programma lai aktivizētu jauno valodu!"
+
+# # | translated from communitytranslateid=10769
+# | communitytranslateid=16470
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Jums nevajag mainīt šos iestatījumus ja jums nav problēmas"
+
+# # | translated from communitytranslateid=10619
+# | communitytranslateid=16390
+msgid "wrote screenshot:"
+msgstr "Ierakstīts ekrānšāviņš"
+
+# # | translated from communitytranslateid=10612
+# | communitytranslateid=16413
+msgid "Worst FPS: "
+msgstr "Zemākais FPS"
+
+# # | translated from communitytranslateid=10644
+# | communitytranslateid=16378
+msgid "Wheels: "
+msgstr "Riteņi"
+
+# # | translated from communitytranslateid=10727
+# | communitytranslateid=16429
+msgid "Water type:"
+msgstr "Ūdens tips"
+
+# # | translated from communitytranslateid=10731
+# | communitytranslateid=16424
+msgid "Water spray"
+msgstr "Ūdens šļaksti"
+
+# # | translated from communitytranslateid=10728
+# | communitytranslateid=16385
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Ūdens atspīdums ir lēnāks, un prasa labu GPU. Optimizētajā variantā jūs jutīsiet pārlieku lielu kameras kratīšanos."
+
+# # | translated from communitytranslateid=10722
+# | communitytranslateid=16485
+msgid "VSync"
+msgstr "VSync"
+
+# # | translated from communitytranslateid=10743
+# | communitytranslateid=16392
+msgid "Visual effects"
+msgstr "Vizuālie efekti"
+
+# # | translated from communitytranslateid=10717
+# | communitytranslateid=16415
+msgid "Video mode:"
+msgstr "Video režīms"
+
+# # | translated from communitytranslateid=10654
+# | communitytranslateid=16438
+msgid "Vehicle Type: "
+msgstr "Auto tips"
+
+# # | translated from communitytranslateid=10733
+# | communitytranslateid=16448
+msgid "Vegetation:"
+msgstr "Veģitācija"
+
+# # | translated from communitytranslateid=10766
+# | communitytranslateid=16446
+msgid "User Token: "
+msgstr "Lietotāja simbols"
+
+# # | translated from communitytranslateid=10819
+# | communitytranslateid=16443
+msgid "Upper"
+msgstr "Augšējais"
+
+# # | translated from communitytranslateid=10768
+# | communitytranslateid=16434
+msgid "Update"
+msgstr "Atjaunināt"
+
+# # | translated from communitytranslateid=10655
+# | communitytranslateid=16465
+msgid "unkown encoding problem"
+msgstr "Nezināma kodēšanas problēma"
+
+# # | translated from communitytranslateid=10641
+# | communitytranslateid=16381
+msgid "unknown.dds"
+msgstr "nezināms.dds"
+
+# # | translated from communitytranslateid=10778
+# | communitytranslateid=16478
+msgid "Uncheck in case you have a fog problem"
+msgstr "Izņemiet ķeksīti ja jums ir problēmas ar miglu"
+
+# # | translated from communitytranslateid=10616
+# | communitytranslateid=16469
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Nespēj pievienoties serverim. Tas ir izslēgts vai arī jums ir tīkla problēmas."
+
+# # | translated from communitytranslateid=15267
+# | communitytranslateid=16563
+msgid "Unable to connect to server"
+msgstr "Nevar pievienoties serverim"
+
+# # | translated from communitytranslateid=10807
+# | communitytranslateid=16474
+msgid "Type"
+msgstr "Tips"
+
+# # | translated from communitytranslateid=15266
+# | communitytranslateid=16535
+msgid "Trying to connect to server ..."
+msgstr "Mēģina savienoties ar serveri"
+
+# # | translated from communitytranslateid=10650
+# | communitytranslateid=16673
+msgid "Truck"
+msgstr "Smagā automašīna"
+
+# # | translated from communitytranslateid=10613
+# | communitytranslateid=16665
+msgid "Triangle Count: "
+msgstr "Trijstūru skaits"
+
+# # | translated from communitytranslateid=10626
+# | communitytranslateid=16660
+msgid "tracks/CreditsOverlay"
+msgstr "tracks/CreditsOverlay"
+
+# # | translated from communitytranslateid=10648
+# | communitytranslateid=16471
+msgid "Torque: "
+msgstr "Vilkme"
+
+# # | translated from communitytranslateid=10646
+# | communitytranslateid=16407
+msgid "tons"
+msgstr "Tonnas"
+
+# # | translated from communitytranslateid=10753
+# | communitytranslateid=16658
+msgid "Thread number:"
+msgstr "Kodolu skaits"
+
+# # | translated from communitytranslateid=10776
+# | communitytranslateid=16541
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Šī opcija izmainīs sistēmas valodu. Jums nepieciešams restartēt konfigurātoru lai izmaiņas stātos spēkā."
+
+# # | translated from communitytranslateid=10737
+# | communitytranslateid=16397
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Tas iespaidos kadru ātrumu uz vecām sistēmām, bet izskatīsies ļoti labi"
+
+# # | translated from communitytranslateid=10734
+# | communitytranslateid=16661
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Šis norāda cik daudz zāles un cik daudz koku jāattēlo uz ekrāna."
+
+# # | translated from communitytranslateid=10765
+# | communitytranslateid=16409
+msgid "The server password, if required."
+msgstr "Servera parole, ja tiek pieprasīta."
+
+# # | translated from communitytranslateid=10719
+# | communitytranslateid=16498
+msgid "Texture filtering:"
+msgstr "Tekstūru filtrēšana"
+
+# # | translated from communitytranslateid=10704
+# | communitytranslateid=16676
+msgid "Test"
+msgstr "Tests"
+
+# # | translated from communitytranslateid=10617
+# | communitytranslateid=16399
+msgid "Terrain not found: "
+msgstr "Karte nav atrasta"
+
+# # | translated from communitytranslateid=10618
+# | communitytranslateid=16472
+msgid "Terrain loading error"
+msgstr "Kartes ielādēšanas kļūda"
+
+# # | translated from communitytranslateid=10744
+# | communitytranslateid=16595
+msgid "Sunburn"
+msgstr "Saules intensitāte"
+
+# # | translated from communitytranslateid=10657
+# | communitytranslateid=16538
+msgid "Startup error"
+msgstr "Ielādēšanas kļūda"
+
+# # | translated from communitytranslateid=15714
+# | communitytranslateid=16645
+msgid "SPECIAL_CHARACTERS"
+msgstr "Speciālās_RAKSTZĪMES"
+
+# # | translated from communitytranslateid=10723
+# | communitytranslateid=16496
+msgid "Special effects"
+msgstr "Speciālie efekti"
+
+# # | translated from communitytranslateid=10698
+# | communitytranslateid=16518
+msgid "Sounds"
+msgstr "Skaņas"
+
+# # | translated from communitytranslateid=10752
+# | communitytranslateid=16510
+msgid "Sound rendering:"
+msgstr "Skaņas renderēšana"
+
+# # | translated from communitytranslateid=10724
+# | communitytranslateid=16444
+msgid "Sky type:"
+msgstr "Debesu tips"
+
+# # | translated from communitytranslateid=10696
+# | communitytranslateid=16482
+msgid "Simple Settings"
+msgstr "Vienkārši uzstādījumi"
+
+# # | translated from communitytranslateid=10742
+# | communitytranslateid=16636
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Parāda spoguļus no pirmās personas skata. Var sagādāt problēmas vecām video kartēm."
+
+# # | translated from communitytranslateid=10784
+# | communitytranslateid=16404
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Parādīt dinamisko instrumentu paneli pirmajā personā. Var izrasīt problēmas vecām video kartēm."
+
+# # | translated from communitytranslateid=10790
+# | communitytranslateid=16690
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Parāda  visas sadursmes vietas sarkanā krāsā, lai tās varētu izlabot. Izmantot tikai auto kļūdu meklēšanai!"
+
+# # | translated from communitytranslateid=10726
+# | communitytranslateid=16513
+msgid "Shadow type:"
+msgstr "Ēnu tips"
+
+# # | translated from communitytranslateid=10709
+# | communitytranslateid=16682
+msgid "Sets all settings in a simple way"
+msgstr "Uzstāda visus uzstādījumus vienkāršākajā ceļā"
+
+# # | translated from communitytranslateid=10762
+# | communitytranslateid=16480
+msgid "Server port number: "
+msgstr "Servera porta nummurs"
+
+# # | translated from communitytranslateid=10764
+# | communitytranslateid=16454
+msgid "Server password: "
+msgstr "Servera parole"
+
+# # | translated from communitytranslateid=10760
+# | communitytranslateid=16422
+msgid "Server host name: "
+msgstr "Servera nosaukums"
+
+# # | translated from communitytranslateid=10640
+# | communitytranslateid=16526
+msgid "Search"
+msgstr "Meklēt"
+
+# # | translated from communitytranslateid=10770
+# | communitytranslateid=16631
+msgid "Screenshot Format:"
+msgstr "Ekrānšāviņa formāts"
+
+# # | translated from communitytranslateid=10714
+# | communitytranslateid=16573
+msgid "Screen configuration"
+msgstr "Ekrāna konfigurācija"
+
+# # | translated from communitytranslateid=10692
+# | communitytranslateid=16612
+msgid "Save the current configuration and start RoR."
+msgstr "Saglabāt šā brīža konfigurāciju un palaist RoR"
+
+# # | translated from communitytranslateid=10694
+# | communitytranslateid=16405
+msgid "Save the current configuration and close the configuration program."
+msgstr "Saglabāt šā brīža konfigurāciju un aizvērt konfigurācijas programmu."
+
+# # | translated from communitytranslateid=10691
+# | communitytranslateid=16411
+msgid "Save and Play"
+msgstr "Saglabāt un spēlēt"
+
+# # | translated from communitytranslateid=10693
+# | communitytranslateid=16473
+msgid "Save and Exit"
+msgstr "Saglabāt un iziet"
+
+# # | translated from communitytranslateid=10716
+# | communitytranslateid=16491
+msgid "RTT Mode:"
+msgstr "RTT režīms"
+
+# # | translated from communitytranslateid=10688
+# | communitytranslateid=16430
+msgid "Rigs of Rods configuration"
+msgstr "Rigs of Rods konfigurācija"
+
+# # | translated from communitytranslateid=10817
+# | communitytranslateid=16410
+msgid "reverse axis"
+msgstr "Atpakaļ ass"
+
+# # | translated from communitytranslateid=10816
+# | communitytranslateid=16534
+msgid "Reverse"
+msgstr "Reverss"
+
+# # | translated from communitytranslateid=10690
+# | communitytranslateid=16533
+msgid "Restore the default configuration."
+msgstr "Atjaunot sākotnējo konfigurāciju."
+
+# # | translated from communitytranslateid=10689
+# | communitytranslateid=16468
+msgid "Restore Defaults"
+msgstr "Atjaunot sākotnējos iestatījumus"
+
+# # | translated from communitytranslateid=10749
+# | communitytranslateid=16500
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Pieprasa jaunākās video kartes. Pievieno kustībai miglainu efektu"
+
+# # | translated from communitytranslateid=10747
+# | communitytranslateid=16614
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Pieprasa jaunākās video kartes. Pievieno gaismas miglas efektu."
+
+# # | translated from communitytranslateid=10745
+# | communitytranslateid=16440
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Pieprasa jaunākās video kartes. Pievieno zilganu mirgošanas efektu"
+
+# # | translated from communitytranslateid=10786
+# | communitytranslateid=16433
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Atkārtojuma režīms (Var ietekmēt jūsu FPS)"
+
+# # | translated from communitytranslateid=10785
+# | communitytranslateid=16456
+msgid "Replay Mode"
+msgstr "Atkārtojuma režīms"
+
+# # | translated from communitytranslateid=10822
+# | communitytranslateid=16462
+msgid "Region"
+msgstr "Reģions"
+
+# # | translated from communitytranslateid=10788
+# | communitytranslateid=16618
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Ieraksta visu mezglu massu RoR.log failā. Izmantot tikai auto kļūdu meklēšanai!"
+
+# # | translated from communitytranslateid=10676
+# | communitytranslateid=16484
+msgid "Please select an input event."
+msgstr "Lūdzu izvēlaties notikuma nosaukumu"
+
+# # | translated from communitytranslateid=10635
+# | communitytranslateid=16641
+msgid "Please clear the place first"
+msgstr "Lūdzu vispirms atbrīvojat brīvu vietu"
+
+# # | translated from communitytranslateid=10782
+# | communitytranslateid=16611
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Daļiņas priekš ūdens bumbām. (var tikt izmantotas multiplayerā)"
+
+# # | translated from communitytranslateid=10735
+# | communitytranslateid=16494
+msgid "Particle systems"
+msgstr "Daļiņu sistēma"
+
+# # | translated from communitytranslateid=10809
+# | communitytranslateid=16668
+msgid "Options"
+msgstr "Uzstādījumi"
+
+# # | translated from communitytranslateid=10684
+# | communitytranslateid=16479
+msgid "ok (end test)"
+msgstr "Ok (testa beigas)"
+
+# # | translated from communitytranslateid=10636
+# | communitytranslateid=16570
+msgid "OK"
+msgstr "OK"
+
+# # | translated from communitytranslateid=10810
+# | communitytranslateid=16619
+msgid "Ogre config validation error"
+msgstr "Ogre konfigurācijas apstiprināšanas kļūda"
+
+# # | translated from communitytranslateid=10812
+# | communitytranslateid=16681
+msgid "Ogre config error"
+msgstr "Ogre konfigurācijas kļūda"
+
+# # | translated from communitytranslateid=10780
+# | communitytranslateid=16575
+msgid "Not much impact on speed."
+msgstr "Nedaudz ietekmē ātrumu"
+
+# # | translated from communitytranslateid=10622
+# | communitytranslateid=16670
+msgid "normal camera"
+msgstr "Normāla kamera"
+
+# # | translated from communitytranslateid=10649
+# | communitytranslateid=16420
+msgid "Non-Driveable"
+msgstr "Nav Braucams"
+
+# # | translated from communitytranslateid=10647
+# | communitytranslateid=16384
+msgid "Nodes: "
+msgstr "Mezgli"
+
+# # | translated from communitytranslateid=10667
+# | communitytranslateid=16634
+msgid "node count: "
+msgstr "mezglu skaits"
+
+# # | translated from communitytranslateid=10732
+# | communitytranslateid=16495
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Nekāda efekta kamēr jūs darbojaties ar ūdeni, izskatās labi tāpat"
+
+# # | translated from communitytranslateid=10825
+# | communitytranslateid=16486
+msgid "no deadzone"
+msgstr "Nav mirušās zonas"
+
+# # | translated from communitytranslateid=10642
+# | communitytranslateid=16638
+msgid "no author information available"
+msgstr "nav pieejama autora informācija"
+
+# # | translated from communitytranslateid=10756
+# | communitytranslateid=16523
+msgid "Nickname: "
+msgstr "Lietotājvārds"
+
+# # | translated from communitytranslateid=10805
+# | communitytranslateid=16506
+msgid "new Language selected"
+msgstr "Jauna valoda izvēlēta"
+
+# # | translated from communitytranslateid=10705
+# | communitytranslateid=16492
+msgid "Network"
+msgstr "Tīkls"
+
+# # | translated from communitytranslateid=10838
+# | communitytranslateid=16520
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bm"
+
+# # | translated from communitytranslateid=10748
+# | communitytranslateid=16580
+msgid "Motion blur"
+msgstr "Miglaina kustība"
+
+# # | translated from communitytranslateid=10741
+# | communitytranslateid=16607
+msgid "Mirrors"
+msgstr "Spoguļi"
+
+# # | translated from communitytranslateid=10801
+# | communitytranslateid=16633
+msgid "minimum visibility range in percent"
+msgstr "Minimālā redzamība procentos"
+
+# # | translated from communitytranslateid=10671
+# | communitytranslateid=16431
+msgid "max Speed:"
+msgstr "Max ātrums"
+
+# # | translated from communitytranslateid=10645
+# | communitytranslateid=16564
+msgid "Mass: "
+msgstr "Massa"
+
+# # | translated from communitytranslateid=10624
+# | communitytranslateid=16380
+msgid "Manual shift - Auto clutch"
+msgstr "Rokas pārslēgšana - Automātisks sajūgs"
+
+# # | translated from communitytranslateid=10653
+# | communitytranslateid=16488
+msgid "Machine"
+msgstr "Mašīna"
+
+# # | translated from communitytranslateid=10821
+# | communitytranslateid=16401
+msgid "Lower"
+msgstr "Zemākais"
+
+# # | translated from communitytranslateid=15261
+# | communitytranslateid=16663
+msgid "loading...\n"
+msgstr "Ielādē...\n"
+
+# # | translated from communitytranslateid=15262
+# | communitytranslateid=16517
+msgid "Loading zips in group "
+msgstr "Ielādēt zipus grupās"
+
+# # | translated from communitytranslateid=15268
+# | communitytranslateid=16508
+msgid "Loading Terrain"
+msgstr "Ielādē karti"
+
+# # | translated from communitytranslateid=15263
+# | communitytranslateid=16593
+msgid "Loading directory\n"
+msgstr "Ielādēšanas mape\n"
+
+# # | translated from communitytranslateid=10638
+# | communitytranslateid=16565
+msgid "Loader"
+msgstr "Ielādētājs"
+
+# # | translated from communitytranslateid=10639
+# | communitytranslateid=16388
+msgid "List"
+msgstr "Saraksts"
+
+# # | translated from communitytranslateid=10772
+# | communitytranslateid=16414
+msgid "Light source effects:"
+msgstr "Gaismas efekti"
+
+# # | translated from communitytranslateid=10774
+# | communitytranslateid=16654
+msgid "Language:"
+msgstr "Valoda"
+
+# # | translated from communitytranslateid=10839
+# | communitytranslateid=16621
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# # | translated from communitytranslateid=10675
+# | communitytranslateid=16387
+msgid "Keyboard"
+msgstr "Klaviatūra"
+
+# # | translated from communitytranslateid=10808
+# | communitytranslateid=16615
+msgid "Key/Axis"
+msgstr "Taustiņš/Asis"
+
+# # | translated from communitytranslateid=10815
+# | communitytranslateid=16649
+msgid "Joystick Options"
+msgstr "Džoistika uzstādījumi"
+
+# # | translated from communitytranslateid=10818
+# | communitytranslateid=16675
+msgid "Joystick Axis Region"
+msgstr "Džoistika ass reģions"
+
+# # | translated from communitytranslateid=10823
+# | communitytranslateid=16461
+msgid "Joystick Axis Deadzones"
+msgstr "Džoistika ass mirušās zonas"
+
+# # | translated from communitytranslateid=10837
+# | communitytranslateid=16467
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# # | translated from communitytranslateid=10677
+# | communitytranslateid=16620
+msgid "Input Type: "
+msgstr "Ievades tips"
+
+# # | translated from communitytranslateid=15257
+# | communitytranslateid=16698
+msgid "incremental check: processing changed zips\n"
+msgstr "Paraugu pārbaude processing changed zips\n"
+
+# # | translated from communitytranslateid=15259
+# | communitytranslateid=16694
+msgid "incremental check: new files\n"
+msgstr "Paraugu pārbaude jauni faili\n"
+
+# # | translated from communitytranslateid=15258
+# | communitytranslateid=16699
+msgid "incremental check: new content\n"
+msgstr "Paraugu pārbaude jauns saturs\n"
+
+# # | translated from communitytranslateid=15260
+# | communitytranslateid=16697
+msgid "incremental check: duplicates\n"
+msgstr "Paraugu pārbaude Dublikāti\n"
+
+# # | translated from communitytranslateid=15254
+# | communitytranslateid=16696
+msgid "incremental check: deleted and changed files\n"
+msgstr "Paraugu pārbaude izdzēstie un izmainītie faili\n"
+
+# # | translated from communitytranslateid=15253
+# | communitytranslateid=16695
+msgid "incremental check: deleted and changed files"
+msgstr "Paraugu pārbaude izdzēstie un mainītie faili"
+
+# # | translated from communitytranslateid=10771
+# | communitytranslateid=16678
+msgid "In what Format should screenshots be saved?"
+msgstr "Kādā formātā jāsaglabā ekrānšāviņi?"
+
+# # | translated from communitytranslateid=10702
+# | communitytranslateid=16481
+msgid "Import Keymap"
+msgstr "Importēt taustiņu karti"
+
+# # | translated from communitytranslateid=10798
+# | communitytranslateid=16528
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Ja jūs lietojat Xfire, jūs varat ieslēgt šo opciju lai iegūtu detalizētu spēles info."
+
+# # | translated from communitytranslateid=10796
+# | communitytranslateid=16509
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Ja jums nepatīk kustīga iekšējā auto kamera, jūs to varat atslēgt šeit."
+
+# # | translated from communitytranslateid=10791
+# | communitytranslateid=16464
+msgid "Hydrax Water System"
+msgstr "Hydrax ūdens sistēma"
+
+# # | translated from communitytranslateid=10750
+# | communitytranslateid=16543
+msgid "High quality reflective effects"
+msgstr "Augstas kvalitātes attēlošanas efekti"
+
+# # | translated from communitytranslateid=10712
+# | communitytranslateid=16386
+msgid "High Quality"
+msgstr "Augsta kvalitāte"
+
+# # | translated from communitytranslateid=10710
+# | communitytranslateid=16416
+msgid "High Performance"
+msgstr "Augsta veiktspēja"
+
+# # | translated from communitytranslateid=10803
+# | communitytranslateid=16624
+msgid "here you can get help"
+msgstr "Šeit jūs varat iegūt palīdzību"
+
+# # | translated from communitytranslateid=10738
+# | communitytranslateid=16457
+msgid "HeatHaze"
+msgstr "Karstuma stari"
+
+# # | translated from communitytranslateid=10739
+# | communitytranslateid=16428
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Karstums no dzinējiem, izraisa bremzēšanu.(Ieslēgt tikai uz jaunākajiem PC)"
+
+# # | translated from communitytranslateid=10662
+# | communitytranslateid=16530
+msgid "health: "
+msgstr "Veselība"
+
+# # | translated from communitytranslateid=10713
+# | communitytranslateid=16544
+msgid "Graphics Settings"
+msgstr "Grafikas uzstādījumi"
+
+# # | translated from communitytranslateid=10697
+# | communitytranslateid=16421
+msgid "Graphics"
+msgstr "Grafika"
+
+# # | translated from communitytranslateid=10625
+# | communitytranslateid=16596
+msgid "Fully Manual shift"
+msgstr "Pilna manuālā pārslēgšana"
+
+# # | translated from communitytranslateid=10721
+# | communitytranslateid=16477
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Pilna ekrāna režīms aizņēm nedaudz vairāk atmiņas resursus"
+
+# # | translated from communitytranslateid=10720
+# | communitytranslateid=16442
+msgid "Full screen"
+msgstr "Pilns ekrāns"
+
+# # | translated from communitytranslateid=10820
+# | communitytranslateid=16425
+msgid "Full"
+msgstr "Pilns"
+
+# # | translated from communitytranslateid=10621
+# | communitytranslateid=16435
+msgid "free camera"
+msgstr "Brīvā kamera"
+
+# # | translated from communitytranslateid=10777
+# | communitytranslateid=16591
+msgid "Fog"
+msgstr "Migla"
+
+# # | translated from communitytranslateid=10620
+# | communitytranslateid=16445
+msgid "fixed free camera"
+msgstr "Fiksētā brīvā kamera"
+
+# # | translated from communitytranslateid=10703
+# | communitytranslateid=16497
+msgid "Export Keymap"
+msgstr "Eksportēt taustiņu karti"
+
+# # | translated from communitytranslateid=10683
+# | communitytranslateid=16635
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "notikuma skaits (kreisi = 0%, labi = 100%)"
+
+# # | translated from communitytranslateid=10674
+# | communitytranslateid=16529
+msgid "Event Name: "
+msgstr "Notikuma nosaukums"
+
+# # | translated from communitytranslateid=10682
+# | communitytranslateid=16639
+msgid "Event Name"
+msgstr "Notikuma nosaukums"
+
+# # | translated from communitytranslateid=10681
+# | communitytranslateid=16459
+msgid "Event Description: "
+msgstr "Notikuma apraksts"
+
+# # | translated from communitytranslateid=10806
+# | communitytranslateid=16601
+msgid "Event"
+msgstr "Notikums"
+
+# # | translated from communitytranslateid=10658
+# | communitytranslateid=16623
+msgid "Error while retrieving user space path"
+msgstr "Kļūda kamēr attēloja lietotāju"
+
+# # | translated from communitytranslateid=10656
+# | communitytranslateid=16680
+msgid "Error while retrieving program space path"
+msgstr "Kļūda kamēr ieguva programmas vietas mapi"
+
+# # | translated from communitytranslateid=10779
+# | communitytranslateid=16453
+msgid "Engine smoke"
+msgstr "Dzinēja dūmi"
+
+# # | translated from communitytranslateid=10730
+# | communitytranslateid=16630
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Ieslēdzot viļņus iegūsiet daudz prieka braucot ar laivām, bet tas var ietekmēt jūsu PC veiktspēju."
+
+# # | translated from communitytranslateid=10792
+# | communitytranslateid=16521
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Ieslēgt jauno ūdens renderēšanas sistēmu. EKSPERIMENTĀLA. Atslēdz visus ūdens parametrus."
+
+# # | translated from communitytranslateid=10797
+# | communitytranslateid=16419
+msgid "Enable XFire Extension"
+msgstr "Ieslēgt Xfire paplašinājumu"
+
+# # | translated from communitytranslateid=10729
+# | communitytranslateid=16396
+msgid "Enable waves"
+msgstr "Ieslēgt viļņus"
+
+# # | translated from communitytranslateid=10799
+# | communitytranslateid=16512
+msgid "Enable Visual Beam Debug"
+msgstr "Ieslēgt Vizuālo staru kļūdu"
+
+# # | translated from communitytranslateid=10755
+# | communitytranslateid=16514
+msgid "Enable network mode"
+msgstr "Ieslēgt tīkla režīmu"
+
+# # | translated from communitytranslateid=10751
+# | communitytranslateid=16603
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Ieslēgt augstas kvalitātes kustības efektus. Izraisa ātruma samazināšanos"
+
+# # | translated from communitytranslateid=10754
+# | communitytranslateid=16476
+msgid "Enable advanced wheel model"
+msgstr "Ieslēgt uzlaboto riteņu modeli"
+
+# # | translated from communitytranslateid=10736
+# | communitytranslateid=16493
+msgid "Dust"
+msgstr "Putekļi"
+
+# # | translated from communitytranslateid=10800
+# | communitytranslateid=16449
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Parāda mezglu nummurus un vairāk info par atsevišķiem mezgliem un stariem"
+
+# # | translated from communitytranslateid=10794
+# | communitytranslateid=16427
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "Atslēdz karti. Paredzēts tikai testēšanai, ar šo FPS uzlabojumus nejutīsiet."
+
+# # | translated from communitytranslateid=10793
+# | communitytranslateid=16599
+msgid "Disable Overview Map"
+msgstr "Atslēgt pārskata karti"
+
+# # | translated from communitytranslateid=10795
+# | communitytranslateid=16418
+msgid "Disable Camera Pitching"
+msgstr "Atslēgt kameras raustīšanos"
+
+# # | translated from communitytranslateid=10715
+# | communitytranslateid=16604
+msgid "Device:"
+msgstr "Ierīce"
+
+# # | translated from communitytranslateid=10663
+# | communitytranslateid=16590
+msgid "destruction: "
+msgstr "Iznīcināts"
+
+# # | translated from communitytranslateid=10701
+# | communitytranslateid=16672
+msgid "Delete selected"
+msgstr "Izdzēst atlasītos"
+
+# # | translated from communitytranslateid=10664
+# | communitytranslateid=16432
+msgid "deformed: "
+msgstr "Deformēts"
+
+# # | translated from communitytranslateid=10787
+# | communitytranslateid=16391
+msgid "Debug Truck Mass"
+msgstr "Kļūdaina Auto massa"
+
+# # | translated from communitytranslateid=10789
+# | communitytranslateid=16700
+msgid "Debug Collision Meshes"
+msgstr "Sadursmju vietu kļūdu meklēšana"
+
+# # | translated from communitytranslateid=10836
+# | communitytranslateid=16674
+msgid "Deadzone"
+msgstr "mirusī zona"
+
+# # | translated from communitytranslateid=10842
+# | communitytranslateid=16522
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# # | translated from communitytranslateid=10840
+# | communitytranslateid=16423
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# # | translated from communitytranslateid=10843
+# | communitytranslateid=16403
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# # | translated from communitytranslateid=10841
+# | communitytranslateid=16507
+msgid "data/"
+msgstr "data/"
+
+# # | translated from communitytranslateid=10783
+# | communitytranslateid=16657
+msgid "Dashboard"
+msgstr "Instrumentu panelis"
+
+# # | translated from communitytranslateid=10781
+# | communitytranslateid=16677
+msgid "Custom Particles"
+msgstr "Dažādas daļiņas"
+
+# # | translated from communitytranslateid=10670
+# | communitytranslateid=16581
+msgid "current Speed:"
+msgstr "Šā brīža ātrums"
+
+# # | translated from communitytranslateid=10669
+# | communitytranslateid=16382
+msgid "current RPM:"
+msgstr "Šā brīža motora apgriezieni"
+
+# # | translated from communitytranslateid=10668
+# | communitytranslateid=16592
+msgid "current mass:"
+msgstr "Šā brīža massa"
+
+# # | translated from communitytranslateid=10609
+# | communitytranslateid=16377
+msgid "Current FPS: "
+msgstr "Šobrīd FPS"
+
+# # | translated from communitytranslateid=10708
+# | communitytranslateid=16598
+msgid "CPU Settings"
+msgstr "CPU uzstādījumi"
+
+# # | translated from communitytranslateid=10699
+# | communitytranslateid=16577
+msgid "CPU"
+msgstr "CPU"
+
+# # | translated from communitytranslateid=10813
+# | communitytranslateid=16519
+msgid "Could not write config file"
+msgstr "Nevar uzrakstīt konfigurācijas failu"
+
+# # | translated from communitytranslateid=10811
+# | communitytranslateid=16652
+msgid "Could not open Rendering device"
+msgstr "Nevar atvērt renderēšanas ierīci"
+
+# # | translated from communitytranslateid=10700
+# | communitytranslateid=16597
+msgid "Controls"
+msgstr "kontrole"
+
+# # | translated from communitytranslateid=10814
+# | communitytranslateid=16643
+msgid "Configure error"
+msgstr "Konfigurācijas kļūda"
+
+# # | translated from communitytranslateid=10707
+# | communitytranslateid=16455
+msgid "Community / Support"
+msgstr "Kopiena / atbalsts"
+
+# # | translated from communitytranslateid=10673
+# | communitytranslateid=16503
+msgid "Commands:"
+msgstr "Komandas"
+
+# # | translated from communitytranslateid=10740
+# | communitytranslateid=16458
+msgid "Cockpit options"
+msgstr "Kokpita opcijas"
+
+# # | translated from communitytranslateid=10680
+# | communitytranslateid=16412
+msgid "close this dialog"
+msgstr "Aizvērt šo logu"
+
+# # | translated from communitytranslateid=10773
+# | communitytranslateid=16394
+msgid "Clear cache"
+msgstr "Iztīrīt kešu"
+
+# # | translated from communitytranslateid=15264
+# | communitytranslateid=16626
+msgid "checking for new zips in "
+msgstr "Pārbauda jaunus arhīvus iekš"
+
+# # | translated from communitytranslateid=15265
+# | communitytranslateid=16572
+msgid "checking for new directories in "
+msgstr "Pārbauda jaunas mapes iekš"
+
+# # | translated from communitytranslateid=10695
+# | communitytranslateid=16393
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Apturiet konfigurācijas izmaiņas un aizveriet konfigurācijas programmu."
+
+# # | translated from communitytranslateid=10637
+# | communitytranslateid=16505
+msgid "Cancel"
+msgstr "Atcelt"
+
+# # | translated from communitytranslateid=10725
+# | communitytranslateid=16569
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Caelum debesis ir skaistas bet diezgan lēnas, ja nu vienīgi jums nav augstas veiktspējas GPU"
+
+# # | translated from communitytranslateid=10661
+# | communitytranslateid=16487
+msgid "broken: "
+msgstr "Salauzts"
+
+# # | translated from communitytranslateid=10652
+# | communitytranslateid=16600
+msgid "Boat"
+msgstr "Laiva"
+
+# # | translated from communitytranslateid=10746
+# | communitytranslateid=16502
+msgid "Bloom"
+msgstr "ziedēt"
+
+# # | translated from communitytranslateid=10611
+# | communitytranslateid=16426
+msgid "Best FPS: "
+msgstr "Augstākais FPS"
+
+# # | translated from communitytranslateid=10660
+# | communitytranslateid=16451
+msgid "beam count: "
+msgstr "Staru skaits"
+
+# # | translated from communitytranslateid=10711
+# | communitytranslateid=16511
+msgid "Balanced"
+msgstr "Balansēts"
+
+# # | translated from communitytranslateid=10614
+# | communitytranslateid=16460
+msgid "Bad server port"
+msgstr "Slikts servera ports"
+
+# # | translated from communitytranslateid=10666
+# | communitytranslateid=16504
+msgid "average stress: "
+msgstr "Vidējais stress"
+
+# # | translated from communitytranslateid=10610
+# | communitytranslateid=16524
+msgid "Average FPS: "
+msgstr "Vidējais FPS"
+
+# # | translated from communitytranslateid=10665
+# | communitytranslateid=16447
+msgid "average deformation: "
+msgstr "Vidēja deformācija"
+
+# # | translated from communitytranslateid=10623
+# | communitytranslateid=16441
+msgid "Automatic shift"
+msgstr "Automātiskā pārslēgšana"
+
+# # | translated from communitytranslateid=10643
+# | communitytranslateid=16398
+msgid "Authors: "
+msgstr "Autori"
+
+# # | translated from communitytranslateid=10718
+# | communitytranslateid=16400
+msgid "Anti-aliasing:"
+msgstr "Tekstūru nogludināšana"
+
+# # | translated from communitytranslateid=10757
+# | communitytranslateid=16452
+msgid "Anonymous"
+msgstr "Anonīms"
+
+# # | translated from communitytranslateid=10672
+# | communitytranslateid=16578
+msgid "Altitude:"
+msgstr "Augstums"
+
+# # | translated from communitytranslateid=10651
+# | communitytranslateid=16408
+msgid "Airplane"
+msgstr "Lidmašīna"
+
+# # | translated from communitytranslateid=10706
+# | communitytranslateid=16395
+msgid "Advanced"
+msgstr "Advancēts"
+
+# # | translated from communitytranslateid=10679
+# | communitytranslateid=16490
+msgid "Add the key"
+msgstr "Pievienojat taustiņu"
+
+# # | translated from communitytranslateid=10678
+# | communitytranslateid=16466
+msgid "Add"
+msgstr "Pievienot"
+
+# # | translated from communitytranslateid=10615
+# | communitytranslateid=16489
+msgid "A network error occured"
+msgstr "Tīkla kļūda"
+
+# # | translated from communitytranslateid=10827
+# | communitytranslateid=16608
+msgid "5% deadzone"
+msgstr "5% mirusī zona"
+
+# # | translated from communitytranslateid=10826
+# | communitytranslateid=16656
+msgid "5 %"
+msgstr "5 %"
+
+# # | translated from communitytranslateid=10835
+# | communitytranslateid=16627
+msgid "30% deadzone"
+msgstr "30% mirusī zona"
+
+# # | translated from communitytranslateid=10834
+# | communitytranslateid=16669
+msgid "30 %"
+msgstr "30 %"
+
+# # | translated from communitytranslateid=10833
+# | communitytranslateid=16606
+msgid "20% deadzone"
+msgstr "20 % mirusī zona"
+
+# # | translated from communitytranslateid=10832
+# | communitytranslateid=16582
+msgid "20 %"
+msgstr "20 %"
+
+# # | translated from communitytranslateid=10831
+# | communitytranslateid=16516
+msgid "15% deadzone"
+msgstr "15% mirusī zona"
+
+# # | translated from communitytranslateid=10830
+# | communitytranslateid=16576
+msgid "15 %"
+msgstr "15 %"
+
+# # | translated from communitytranslateid=10761
+# | communitytranslateid=16501
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# # | translated from communitytranslateid=10763
+# | communitytranslateid=16417
+msgid "12333"
+msgstr "12333"
+
+# # | translated from communitytranslateid=10829
+# | communitytranslateid=16610
+msgid "10% deadzone"
+msgstr "10% mirusī zona"
+
+# # | translated from communitytranslateid=10828
+# | communitytranslateid=16616
+msgid "10 %"
+msgstr "10 %"
+
+# # | translated from communitytranslateid=10824
+# | communitytranslateid=16439
+msgid "0 % (No deadzone)"
+msgstr "0% (nav mirušās zonas)"
+
+# # | translated from communitytranslateid=10759
+# | communitytranslateid=16437
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Kā spēlēt Internetā</p><br><ol><li>Uzklikšķini uz <b>Atjaunināt</b> pogas lai redzētu pieejamos serverus.</li><li>Uzklikšķini uz jebkura servera sarakstā.</li><li>Uzklikšķini uz <b>Saglabāt un spēlēt</b> pogas lai palaistu spēli.</li></ol>"
+
+# # | translated from communitytranslateid=15252
+# | communitytranslateid=16703
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Jaunākās ziņas</h2>None atm<h2>Atbalsts / Kopiena</h2><a href='http//wiki.rigsofrods.com/index.php?title=Tutorials'>Palīdzība</a><p/> (Šī adrese tiks papildināta)"
+
+# # | translated from communitytranslateid=10685
+# | communitytranslateid=16475
+msgid "(Please press a key)"
+msgstr "(Lūdzu nospiediet taustiņu)"
+
+# # | translated from communitytranslateid=10686
+# | communitytranslateid=16662
+msgid "(Please press a Joystick Button)"
+msgstr "(Lūdzu nospiediet džoistika pogu)"
+
+# # | translated from communitytranslateid=10687
+# | communitytranslateid=16499
+msgid "(Please move an Axis)\n"
+msgstr "(Lūdzu pabīdiet assi)\n"
+
+# # | translated from communitytranslateid=10775
+# | communitytranslateid=16383
+msgid "(No Languages found)"
+msgstr "(Nav atrastas valodas)"
+
+# # | translated from communitytranslateid=10659
+# | communitytranslateid=16483
+msgid "(no author information available)"
+msgstr "(nav pieejama autora informācija)"
+
+# # | translated from communitytranslateid=10627
+# | communitytranslateid=16406
+msgid "^8 Player: ^7"
+msgstr "^8 Spēlētājs ^7"
+
+# # | translated from communitytranslateid=10630
+# | communitytranslateid=16648
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 Lietošana /rcmd [komanda] [opcionālie argumenti]"
+
+# # | translated from communitytranslateid=10633
+# | communitytranslateid=16671
+msgid "^1 unkown Command: "
+msgstr "^1 nezināma komanda"
+
+# # | translated from communitytranslateid=10629
+# | communitytranslateid=16402
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 Kļūda jums jāizmanto /rlogin [parole] vispirms"
+
+# # | translated from communitytranslateid=10631
+# | communitytranslateid=16667
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 Kļūda protokola kļūda kamēr mēģināja nosūtīt komandu uz RCON"
+
+# # | translated from communitytranslateid=10628
+# | communitytranslateid=16463
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 Kļuda protokola kļūda kamēr mēģinājāt ielogoties RCON"
+
+# # | translated from communitytranslateid=10632
+# | communitytranslateid=16515
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 Kļūda nav tīkla režīma"
+
+# # | translated from communitytranslateid=10634
+# | communitytranslateid=16579
+msgid "^1 Error Parsing command"
+msgstr "^1 Kļūda Parsing komandās"
+
+# # | translated from communitytranslateid=15255
+# | communitytranslateid=16389
+msgid " not existing"
+msgstr "Neeksistē"
+
+# # | translated from communitytranslateid=15256
+# | communitytranslateid=16436
+msgid " changed"
+msgstr "Mainīts"
+

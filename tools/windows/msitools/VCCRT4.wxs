@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+
+<Wix xmlns='http://schemas.microsoft.com/wix/2006/wi'>
+   <Product Id='a7b44fb6-5631-4a4a-9dad-82f7e3c767b9'
+            Name='Visual C++ Runtime'
+            Language='1033' 
+            Version='1.0.0.0' 
+            Manufacturer='RigsOfRods'
+            UpgradeCode='fd3b57d5-950d-490e-9ce5-d7a2bf215b25'
+            >
+            <Package 
+                        Description='Visual C++ Runtime'
+                        Comments='Visual C++ Runtime'
+                        Manufacturer='RigsOfRods'
+                        InstallerVersion='300'
+                        Compressed='yes' />
+            <Media Id='1' Cabinet='VCCRT.cab' EmbedCab='yes' />
+            <Directory Id='TARGETDIR' Name='SourceDir'>
+                        <Merge Id='VCRedist' Language='0' SourceFile='C:\Program Files\Common Files\Merge Modules\Microsoft_VC90_CRT_x86.msm' DiskId='1' />
+            </Directory>
+            <Feature Id='VCRedist' Title='Visual C++ Runtime' AllowAdvertise="no" Display="hidden" Level='1'>
+                        <MergeRef Id='VCRedist' />
+            </Feature>
+            <InstallExecuteSequence>
+                        <RemoveRegistryValues/>
+                        <RemoveFiles/>
+                        <InstallFiles/>
+                        <WriteRegistryValues/>
+            </InstallExecuteSequence>
+   </Product>
+</Wix>

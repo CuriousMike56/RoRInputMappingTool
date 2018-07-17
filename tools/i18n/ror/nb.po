@@ -1,0 +1,1695 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=22553
+msgid "zoom into the overview map in interactive mode"
+msgstr "zoom inn til oversiktskartet i interaktiv modus."
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=21024
+msgid "zoom camera out faster"
+msgstr "zoom kamera ut fortere"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=21023
+msgid "zoom camera out"
+msgstr "zoom kamera ut"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=21025
+msgid "zoom camera in faster"
+msgstr "zoom kamera inn fortere"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=21026
+msgid "zoom camera in"
+msgstr "zoom kamera inn"
+
+# # | translated from communitytranslateid=10758
+# | communitytranslateid=20453
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Ditt flerspill navn. Maksimum 20 tegn."
+
+# # | translated from communitytranslateid=10767
+# | communitytranslateid=22378
+msgid "Your Forum User Token."
+msgstr "Ditt forum bruker ID:"
+
+# # | translated from communitytranslateid=10804
+# | communitytranslateid=20457
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Du må lagre og restarte programet for å aktivivere det nye språket!"
+
+# # | translated from communitytranslateid=10769
+# | communitytranslateid=21027
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Det er ikke nødvendig å fornadre disse innstilingene med mindre du opplever problemer"
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=22562
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Du kan deaktivere knirkelyden som er standard ved å trykke på denne boksen"
+
+# # | translated from communitytranslateid=10619
+# | communitytranslateid=20460
+msgid "wrote screenshot:"
+msgstr "Skjermbilde lagret som:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=21028
+msgid "Write error"
+msgstr "Skrive feil"
+
+# # | translated from communitytranslateid=17265
+# | communitytranslateid=21029
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr "lagre din nåverende posisjon i loggen (du kan åpne loggfilen og gjenbruke posisjonen)"
+
+# # | translated from communitytranslateid=10612
+# | communitytranslateid=20448
+msgid "Worst FPS: "
+msgstr "Verste FPS:"
+
+# # | translated from communitytranslateid=10644
+# | communitytranslateid=20463
+msgid "Wheels: "
+msgstr "Hjul:"
+
+# # | translated from communitytranslateid=10727
+# | communitytranslateid=20466
+msgid "Water type:"
+msgstr "Vann type:"
+
+# # | translated from communitytranslateid=10731
+# | communitytranslateid=20629
+msgid "Water spray"
+msgstr "Vannsprut"
+
+# # | translated from communitytranslateid=10728
+# | communitytranslateid=22380
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Vann refleksjon er tregere og krever en god GPU. I farts optimalisert modus kan du oppleve kamera risting."
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=20468
+msgid "Warning"
+msgstr "Advarsel"
+
+# # | translated from communitytranslateid=10722
+# | communitytranslateid=20472
+msgid "VSync"
+msgstr "VSync"
+
+# # | translated from communitytranslateid=10743
+# | communitytranslateid=20474
+msgid "Visual effects"
+msgstr "Visuelle effekter"
+
+# # | translated from communitytranslateid=10717
+# | communitytranslateid=22388
+msgid "Video mode:"
+msgstr "Video modus:"
+
+# # | translated from communitytranslateid=10654
+# | communitytranslateid=20720
+msgid "Vehicle Type: "
+msgstr "Type kjøretøy:"
+
+# # | translated from communitytranslateid=10733
+# | communitytranslateid=20634
+msgid "Vegetation:"
+msgstr "Vegetasjon"
+
+# # | translated from communitytranslateid=10766
+# | communitytranslateid=22379
+msgid "User Token: "
+msgstr "Bruker ID:"
+
+# # | translated from communitytranslateid=17145
+# | communitytranslateid=22565
+msgid "Use this to remove the whole cache and force the generation from ground up."
+msgstr "Bruk denne for å fjerne hele hurtigbufferen og tvinge en regenerering."
+
+# # | translated from communitytranslateid=17144
+# | communitytranslateid=22396
+msgid "Use this to regenerate the cache outside of RoR. If this does not work, use the clear cache button."
+msgstr "Bruk denne til å regenerere hurtigbufferen utenfor ror. Hvis det ikke fungerer, bruk tøm buffer knappen."
+
+# # | translated from communitytranslateid=10819
+# | communitytranslateid=20631
+msgid "Upper"
+msgstr "Øvre"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=20579
+msgid "Updates"
+msgstr "Oppdateringer"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=20574
+msgid "Update now"
+msgstr "Oppdater nå"
+
+# # | translated from communitytranslateid=10768
+# | communitytranslateid=20490
+msgid "Update"
+msgstr "Oppdater"
+
+# # | translated from communitytranslateid=10655
+# | communitytranslateid=22409
+msgid "unkown encoding problem"
+msgstr "ukjent kode problem"
+
+# # | translated from communitytranslateid=10641
+# | communitytranslateid=21030
+msgid "unknown.dds"
+msgstr "ukjent.dds"
+
+# # | translated from communitytranslateid=10778
+# | communitytranslateid=22530
+msgid "Uncheck in case you have a fog problem"
+msgstr "Fjern om du har problemer med tåken"
+
+# # | translated from communitytranslateid=10616
+# | communitytranslateid=22386
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Kunne ikke koble til tjeneren. Den er muligens nede eller du har nettverksproblemer."
+
+# # | translated from communitytranslateid=15267
+# | communitytranslateid=21031
+msgid "Unable to connect to server"
+msgstr "Kan ikke koble til tjeneren"
+
+# # | translated from communitytranslateid=10807
+# | communitytranslateid=20572
+msgid "Type"
+msgstr "Type"
+
+# # | translated from communitytranslateid=15266
+# | communitytranslateid=21032
+msgid "Trying to connect to server ..."
+msgstr "Prøver å koble til tjeneren ..."
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=20615
+msgid "truck horn"
+msgstr "Tute"
+
+# # | translated from communitytranslateid=10650
+# | communitytranslateid=22408
+msgid "Truck"
+msgstr "Lastebil"
+
+# # | translated from communitytranslateid=10613
+# | communitytranslateid=22594
+msgid "Triangle Count: "
+msgstr "Antall trekanter:"
+
+# # | translated from communitytranslateid=10626
+# | communitytranslateid=22595
+msgid "tracks/CreditsOverlay"
+msgstr "Spor/Kreditt Overlegg"
+
+# # | translated from communitytranslateid=19404
+# | communitytranslateid=22469
+msgid "Total Linear"
+msgstr "Totalt lineært"
+
+# # | translated from communitytranslateid=10648
+# | communitytranslateid=21547
+msgid "Torque: "
+msgstr "Dreiemoment:"
+
+# # | translated from communitytranslateid=10646
+# | communitytranslateid=21033
+msgid "tons"
+msgstr "tonn"
+
+# # | translated from communitytranslateid=17282
+# | communitytranslateid=22596
+msgid "toggle truck HUD"
+msgstr "Velg lastebil HUD"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=21034
+msgid "toggle truck front lights"
+msgstr "aktiver kjøretøyets front lys"
+
+# # | translated from communitytranslateid=17280
+# | communitytranslateid=22597
+msgid "toggle truck beacons"
+msgstr "Skru på varsellys"
+
+# # | translated from communitytranslateid=17264
+# | communitytranslateid=22598
+msgid "toggle translucency of overview-map"
+msgstr "Aktiver gjennomsiktighet på oversiktskartet"
+
+# # | translated from communitytranslateid=17273
+# | communitytranslateid=22599
+msgid "toggle skeleton display mode"
+msgstr "Gå til skjelett visnings modus"
+
+# # | translated from communitytranslateid=17310
+# | communitytranslateid=22600
+msgid "toggle right direction indicator (blinker)"
+msgstr "Skru på høyre blinklys"
+
+# # | translated from communitytranslateid=17277
+# | communitytranslateid=22601
+msgid "toggle render mode (solid, wireframe and points)"
+msgstr "Velg gjengivelses modus (Solid, trådramme og punkter)"
+
+# # | translated from communitytranslateid=17275
+# | communitytranslateid=22602
+msgid "toggle particle cannon"
+msgstr "Velg partikkel kanon"
+
+# # | translated from communitytranslateid=17325
+# | communitytranslateid=22603
+msgid "toggle parking brake"
+msgstr "Aktiver parkeringsbremsen"
+
+# # | translated from communitytranslateid=17292
+# | communitytranslateid=22606
+msgid "toggle overview map interactive mode"
+msgstr "gå til oversiktskartet i interaktiv modus"
+
+# # | translated from communitytranslateid=17279
+# | communitytranslateid=22607
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr "gå til Ogre statistikk (FPS etc.)"
+
+# # | translated from communitytranslateid=17283
+# | communitytranslateid=22608
+msgid "toggle map modes"
+msgstr "velg gart moduser"
+
+# # | translated from communitytranslateid=17309
+# | communitytranslateid=22582
+msgid "toggle left direction indicator (blinker)"
+msgstr "Skru på venstre blinklys"
+
+# # | translated from communitytranslateid=17331
+# | communitytranslateid=21035
+msgid "toggle ignition"
+msgstr "aktiver tenning"
+
+# # | translated from communitytranslateid=17323
+# | communitytranslateid=22609
+msgid "toggle custom light 9"
+msgstr "velg individuelle lys 9"
+
+# # | translated from communitytranslateid=17322
+# | communitytranslateid=22610
+msgid "toggle custom light 8"
+msgstr "velg individuelle lys 8"
+
+# # | translated from communitytranslateid=17321
+# | communitytranslateid=22611
+msgid "toggle custom light 7"
+msgstr "velg individuelle lys 7"
+
+# # | translated from communitytranslateid=17320
+# | communitytranslateid=22612
+msgid "toggle custom light 6"
+msgstr "velg individuelle lys 6"
+
+# # | translated from communitytranslateid=17319
+# | communitytranslateid=22613
+msgid "toggle custom light 5"
+msgstr "velg individuelle lys 5"
+
+# # | translated from communitytranslateid=17318
+# | communitytranslateid=22614
+msgid "toggle custom light 4"
+msgstr "velg individuelle lys 4"
+
+# # | translated from communitytranslateid=17317
+# | communitytranslateid=22615
+msgid "toggle custom light 3"
+msgstr "velg individuelle lys 3"
+
+# # | translated from communitytranslateid=17316
+# | communitytranslateid=22616
+msgid "toggle custom light 2"
+msgstr "aktiver individuelle lys 2"
+
+# # | translated from communitytranslateid=17315
+# | communitytranslateid=22617
+msgid "toggle custom light 10"
+msgstr "aktiver individuelle lys 10"
+
+# # | translated from communitytranslateid=17314
+# | communitytranslateid=22618
+msgid "toggle custom light 1"
+msgstr "aktiver individuelle lys 1"
+
+# # | translated from communitytranslateid=17334
+# | communitytranslateid=22393
+msgid "toggle between windowed and fullscreen mode"
+msgstr "skift mellom vindu og fullskjerm modus."
+
+# # | translated from communitytranslateid=17330
+# | communitytranslateid=22566
+msgid "toggle between transmission modes"
+msgstr "Velg mellom forskjellige gir modus."
+
+# # | translated from communitytranslateid=17352
+# | communitytranslateid=22590
+msgid "toggle between net chat display modes"
+msgstr "Skift mellom nett chat modus."
+
+# # | translated from communitytranslateid=17305
+# | communitytranslateid=22619
+msgid "toggle between available road types"
+msgstr "velg mellom tilgjengelige vei typer"
+
+# # | translated from communitytranslateid=17304
+# | communitytranslateid=22620
+msgid "toggle between available objects"
+msgstr "velg mellom tilgjengelige objekter"
+
+# # | translated from communitytranslateid=17259
+# | communitytranslateid=22483
+msgid "toggle appearance of console"
+msgstr "Skift konsollens utseende"
+
+# # | translated from communitytranslateid=17311
+# | communitytranslateid=22621
+msgid "toggle all direction indicators"
+msgstr "skru på nødblinklysene"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=22622
+msgid "tie a load to the truck"
+msgstr "fest last til lastebilen"
+
+# # | translated from communitytranslateid=17174
+# | communitytranslateid=22484
+msgid "throttle axis. Only use this if you have fitting hardware :) (i.e. a Slider)"
+msgstr "Akselerator aksen. Bare bruk denne om du har passende maskinvare :) (f.eks en slider)"
+
+# # | translated from communitytranslateid=10753
+# | communitytranslateid=22390
+msgid "Thread number:"
+msgstr "Antall tråder:"
+
+# # | translated from communitytranslateid=10776
+# | communitytranslateid=22554
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Denne instillingen overstyrer systemets standard språk. Du må restarte konfiguratoren for å bruke endringene."
+
+# # | translated from communitytranslateid=10737
+# | communitytranslateid=22395
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Dette kan skade frameraten en del på eldre maskiner, men det ser veldig bra ut."
+
+# # | translated from communitytranslateid=17147
+# | communitytranslateid=21036
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr "Dette aktiverer automatisk nedlastning av manglende modifikasjoner i flerspill"
+
+# # | translated from communitytranslateid=10734
+# | communitytranslateid=22516
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Dette avgjør hvor mye gress og hvor mange trær (og slikt) som bør bli vist."
+
+# # | translated from communitytranslateid=17152
+# | communitytranslateid=22489
+msgid "The update service is currently only available for windows users."
+msgstr "Oppdateringsfunksjonen er for øyeblikket kun tilgjengelig for windows brukere."
+
+# # | translated from communitytranslateid=10765
+# | communitytranslateid=22422
+msgid "The server password, if required."
+msgstr "Tjener passord, om nødvendig."
+
+# # | translated from communitytranslateid=10719
+# | communitytranslateid=21135
+msgid "Texture filtering:"
+msgstr "Tekstur filtrering:"
+
+# # | translated from communitytranslateid=10704
+# | communitytranslateid=20521
+msgid "Test"
+msgstr "Test"
+
+# # | translated from communitytranslateid=10617
+# | communitytranslateid=22385
+msgid "Terrain not found: "
+msgstr "Terreng ble ikke funnet:"
+
+# # | translated from communitytranslateid=10618
+# | communitytranslateid=22497
+msgid "Terrain loading error"
+msgstr "Feil ved lasting av terreng"
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=22589
+msgid "teleport to rescue truck"
+msgstr "teleporter til redningsbilen"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=20632
+msgid "take a screenshot"
+msgstr "Ta en skjermdump."
+
+# # | translated from communitytranslateid=17303
+# | communitytranslateid=22623
+msgid "switch to road laying mode"
+msgstr "skift til vei dekking modus"
+
+# # | translated from communitytranslateid=17179
+# | communitytranslateid=22468
+msgid "switch all engines on / off"
+msgstr "Skru alle motorer på / av"
+
+# # | translated from communitytranslateid=10744
+# | communitytranslateid=22436
+msgid "Sunburn"
+msgstr "Blending"
+
+# # | translated from communitytranslateid=17203
+# | communitytranslateid=22624
+msgid "step forward with the character"
+msgstr "gå forover med karakteren."
+
+# # | translated from communitytranslateid=17202
+# | communitytranslateid=22625
+msgid "step backwards with the character"
+msgstr "gå bakover med karakteren"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=22692
+msgid "steer right"
+msgstr "styr høyre"
+
+# # | translated from communitytranslateid=17173
+# | communitytranslateid=22841
+msgid "steer left"
+msgstr "Styr til venstre"
+
+# # | translated from communitytranslateid=10657
+# | communitytranslateid=22431
+msgid "Startup error"
+msgstr "Oppstart feil"
+
+# # | translated from communitytranslateid=17274
+# | communitytranslateid=22640
+msgid "start the old truck editor"
+msgstr "Start den gamle lastebil editoren"
+
+# # | translated from communitytranslateid=15714
+# | communitytranslateid=22398
+msgid "SPECIAL_CHARACTERS"
+msgstr "æ ø å Æ Ø Å"
+
+# # | translated from communitytranslateid=10723
+# | communitytranslateid=22430
+msgid "Special effects"
+msgstr "Spesialeffekter"
+
+# # | translated from communitytranslateid=10698
+# | communitytranslateid=22399
+msgid "Sounds"
+msgstr "Lyd"
+
+# # | translated from communitytranslateid=10752
+# | communitytranslateid=22389
+msgid "Sound rendering:"
+msgstr "Lyd utførelse:"
+
+# # | translated from communitytranslateid=10724
+# | communitytranslateid=22433
+msgid "Sky type:"
+msgstr "Sky type:"
+
+# # | translated from communitytranslateid=17157
+# | communitytranslateid=22382
+msgid "Skins"
+msgstr "Teksturer"
+
+# # | translated from communitytranslateid=10696
+# | communitytranslateid=22439
+msgid "Simple Settings"
+msgstr "Enkle instillinger"
+
+# # | translated from communitytranslateid=10742
+# | communitytranslateid=22578
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Viser speilene i 1 person modus. Kan føre til kompabilitetsproblemer med gammle GPUer."
+
+# # | translated from communitytranslateid=10784
+# | communitytranslateid=22585
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Viser den dynamiske dashboarden i 1 person syn. Kan føre til kompabilitetsproblemer for eldre skjermkort."
+
+# # | translated from communitytranslateid=10790
+# | communitytranslateid=22626
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Viser alle kollisjonsmesher i rødt for å kunne plassere de riktig. Brukes kun til debugging!"
+
+# # | translated from communitytranslateid=17332
+# | communitytranslateid=22637
+msgid "show truck tool"
+msgstr "Vis lastebil verktøy"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=22555
+msgid "show / hide the console"
+msgstr "vis / skjul konsollen"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=20738
+msgid "shift directly to third gear"
+msgstr "Gir direkte til tredje gir"
+
+# # | translated from communitytranslateid=19432
+# | communitytranslateid=20740
+msgid "shift directly to second gear"
+msgstr "Gir direkte til andre gir"
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=20742
+msgid "shift directly to reverse gear"
+msgstr "Gir direkte til revers"
+
+# # | translated from communitytranslateid=19434
+# | communitytranslateid=20746
+msgid "shift directly to fourth gear"
+msgstr "Gir direkte til fjerde gir"
+
+# # | translated from communitytranslateid=19431
+# | communitytranslateid=20748
+msgid "shift directly to first gear"
+msgstr "Gir direkte til første gir"
+
+# # | translated from communitytranslateid=19439
+# | communitytranslateid=20750
+msgid "shift directly to 9th gear"
+msgstr "Gir direkte til niende gir"
+
+# # | translated from communitytranslateid=19438
+# | communitytranslateid=20757
+msgid "shift directly to 8th gear"
+msgstr "Gir direkte til 8."
+
+# # | translated from communitytranslateid=10726
+# | communitytranslateid=22427
+msgid "Shadow type:"
+msgstr "Skygge type:"
+
+# # | translated from communitytranslateid=19449
+# | communitytranslateid=22480
+msgid "sets low range (1-6) for H-shaft"
+msgstr "setter lavgir (1-6) for H-gir"
+
+# # | translated from communitytranslateid=10762
+# | communitytranslateid=22406
+msgid "Server port number: "
+msgstr "Tjenerens port nummer:"
+
+# # | translated from communitytranslateid=10764
+# | communitytranslateid=22405
+msgid "Server password: "
+msgstr "Tjener passord:"
+
+# # | translated from communitytranslateid=10760
+# | communitytranslateid=22404
+msgid "Server host name: "
+msgstr "Tjener vertsnavn:"
+
+# # | translated from communitytranslateid=17296
+# | communitytranslateid=22384
+msgid "select focussed item and close menu"
+msgstr "Velg fokkusert element og lukk menyen."
+
+# # | translated from communitytranslateid=10640
+# | communitytranslateid=22407
+msgid "Search"
+msgstr "Søk"
+
+# # | translated from communitytranslateid=10770
+# | communitytranslateid=22488
+msgid "Screenshot Format:"
+msgstr "Skjermbilde format:"
+
+# # | translated from communitytranslateid=10714
+# | communitytranslateid=22443
+msgid "Screen configuration"
+msgstr "Grafikk instillinger"
+
+# # | translated from communitytranslateid=10692
+# | communitytranslateid=22522
+msgid "Save the current configuration and start RoR."
+msgstr "Lagre nåværende konfigurasjon og start RoR."
+
+# # | translated from communitytranslateid=10694
+# | communitytranslateid=22521
+msgid "Save the current configuration and close the configuration program."
+msgstr "Lagre nåværende konfigurasjon og lukk konfigurasjonsprogrammet."
+
+# # | translated from communitytranslateid=19420
+# | communitytranslateid=22579
+msgid "Save Mapping to File"
+msgstr "Lagre mapping til fil"
+
+# # | translated from communitytranslateid=10691
+# | communitytranslateid=20752
+msgid "Save and Play"
+msgstr "Lagre og spill"
+
+# # | translated from communitytranslateid=10693
+# | communitytranslateid=22391
+msgid "Save and Exit"
+msgstr "Lagre og avslutt"
+
+# # | translated from communitytranslateid=17172
+# | communitytranslateid=22438
+msgid "rudder right"
+msgstr "ror høyre"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=22642
+msgid "rudder left"
+msgstr "ror venstre"
+
+# # | translated from communitytranslateid=10716
+# | communitytranslateid=22627
+msgid "RTT Mode:"
+msgstr "RTT Modus:"
+
+# # | translated from communitytranslateid=17353
+# | communitytranslateid=22605
+msgid "rotate view up"
+msgstr "roter syn opp"
+
+# # | translated from communitytranslateid=10688
+# | communitytranslateid=22428
+msgid "Rigs of Rods configuration"
+msgstr "Rigs of Rods konfigurator"
+
+# # | translated from communitytranslateid=10817
+# | communitytranslateid=22491
+msgid "reverse axis"
+msgstr "revers akse"
+
+# # | translated from communitytranslateid=10816
+# | communitytranslateid=22466
+msgid "Reverse"
+msgstr "Revers"
+
+# # | translated from communitytranslateid=10690
+# | communitytranslateid=22434
+msgid "Restore the default configuration."
+msgstr "Gjenopprett standardinnstillingene."
+
+# # | translated from communitytranslateid=10689
+# | communitytranslateid=22392
+msgid "Restore Defaults"
+msgstr "Gjenopprett Instillinger"
+
+# # | translated from communitytranslateid=10749
+# | communitytranslateid=22563
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Krever en nyere GPU. Legger til en bevegelses effekt."
+
+# # | translated from communitytranslateid=10747
+# | communitytranslateid=22464
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Krever et nyere skjermkort. Legger til en lys klattings effekt."
+
+# # | translated from communitytranslateid=10745
+# | communitytranslateid=22515
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Krever en nyere GPU. Legger til en dimmende blende effekt."
+
+# # | translated from communitytranslateid=10785
+# | communitytranslateid=22693
+msgid "Replay Mode"
+msgstr "Replay Modus"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=22402
+msgid "Render System"
+msgstr "Gjengivelses Metode:"
+
+# # | translated from communitytranslateid=10822
+# | communitytranslateid=22445
+msgid "Region"
+msgstr "Region"
+
+# # | translated from communitytranslateid=17143
+# | communitytranslateid=22444
+msgid "Regen cache"
+msgstr "Regen buffer"
+
+# # | translated from communitytranslateid=10635
+# | communitytranslateid=22432
+msgid "Please clear the place first"
+msgstr "Venligst klarer området først"
+
+# # | translated from communitytranslateid=10782
+# | communitytranslateid=22628
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Partikkler som vann kanoner og lignende. (kan bli missbrukt i flerspiller modus.)"
+
+# # | translated from communitytranslateid=10735
+# | communitytranslateid=22442
+msgid "Particle systems"
+msgstr "Partikkel system"
+
+# # | translated from communitytranslateid=10809
+# | communitytranslateid=22400
+msgid "Options"
+msgstr "Instillinger"
+
+# # | translated from communitytranslateid=10684
+# | communitytranslateid=22441
+msgid "ok (end test)"
+msgstr "ok (avslutt test)"
+
+# # | translated from communitytranslateid=10636
+# | communitytranslateid=22387
+msgid "OK"
+msgstr "OK"
+
+# # | translated from communitytranslateid=10810
+# | communitytranslateid=22559
+msgid "Ogre config validation error"
+msgstr "Ogre konfigurasjonsvalidering feil"
+
+# # | translated from communitytranslateid=10812
+# | communitytranslateid=22511
+msgid "Ogre config error"
+msgstr "Ogre konfigurasjonsfeil"
+
+# # | translated from communitytranslateid=10780
+# | communitytranslateid=22558
+msgid "Not much impact on speed."
+msgstr "Har ikke mye å si for ytelsen."
+
+# # | translated from communitytranslateid=10622
+# | communitytranslateid=22476
+msgid "normal camera"
+msgstr "normal kamera"
+
+# # | translated from communitytranslateid=10649
+# | communitytranslateid=22512
+msgid "Non-Driveable"
+msgstr "Ikke kjørbar"
+
+# # | translated from communitytranslateid=10647
+# | communitytranslateid=22544
+msgid "Nodes: "
+msgstr "Noder:"
+
+# # | translated from communitytranslateid=10667
+# | communitytranslateid=22481
+msgid "node count: "
+msgstr "antall noder:"
+
+# # | translated from communitytranslateid=10732
+# | communitytranslateid=22632
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Ingen effekt om du ikke kødder med vann, ser ganske bra ut."
+
+# # | translated from communitytranslateid=19427
+# | communitytranslateid=22482
+msgid "No differential installed on current vehicle!"
+msgstr "Ingen differensial installert på dette kjøretøyet!"
+
+# # | translated from communitytranslateid=10825
+# | communitytranslateid=22588
+msgid "no deadzone"
+msgstr "Ingen dødsone"
+
+# # | translated from communitytranslateid=10642
+# | communitytranslateid=22518
+msgid "no author information available"
+msgstr "Ingen informasjon om opphavsmann tilgjengelig"
+
+# # | translated from communitytranslateid=10756
+# | communitytranslateid=22500
+msgid "Nickname: "
+msgstr "Kallenavn:"
+
+# # | translated from communitytranslateid=10805
+# | communitytranslateid=22567
+msgid "new Language selected"
+msgstr "nytt språk valgt"
+
+# # | translated from communitytranslateid=10705
+# | communitytranslateid=22501
+msgid "Network"
+msgstr "Flerspill"
+
+# # | translated from communitytranslateid=17343
+# | communitytranslateid=22842
+msgid "move replay fast forward"
+msgstr "Kjør reprisen fort framover"
+
+# # | translated from communitytranslateid=10748
+# | communitytranslateid=22550
+msgid "Motion blur"
+msgstr "Bevegelses dis"
+
+# # | translated from communitytranslateid=17341
+# | communitytranslateid=22473
+msgid "more replay forward"
+msgstr "Mer replay forover"
+
+# # | translated from communitytranslateid=10741
+# | communitytranslateid=22490
+msgid "Mirrors"
+msgstr "Speil"
+
+# # | translated from communitytranslateid=10801
+# | communitytranslateid=22528
+msgid "minimum visibility range in percent"
+msgstr "Minste sikt i prosent"
+
+# # | translated from communitytranslateid=10671
+# | communitytranslateid=22561
+msgid "max Speed:"
+msgstr "Høyeste hastighet:"
+
+# # | translated from communitytranslateid=10645
+# | communitytranslateid=22557
+msgid "Mass: "
+msgstr "Masse:"
+
+# # | translated from communitytranslateid=10624
+# | communitytranslateid=22591
+msgid "Manual shift - Auto clutch"
+msgstr "Manuell giring - Auto kløtsj"
+
+# # | translated from communitytranslateid=17324
+# | communitytranslateid=22630
+msgid "manual clutch (for manual transmission)"
+msgstr "manuell kløtsj (for manuell giring)"
+
+# # | translated from communitytranslateid=10653
+# | communitytranslateid=22696
+msgid "Machine"
+msgstr "Maskin"
+
+# # | translated from communitytranslateid=10821
+# | communitytranslateid=22435
+msgid "Lower"
+msgstr "Lavere"
+
+# # | translated from communitytranslateid=15261
+# | communitytranslateid=22437
+msgid "loading...\n"
+msgstr "laster...\n"
+
+# # | translated from communitytranslateid=15262
+# | communitytranslateid=22549
+msgid "Loading zips in group "
+msgstr "laster inn zips i gruppe"
+
+# # | translated from communitytranslateid=15268
+# | communitytranslateid=22548
+msgid "Loading Terrain"
+msgstr "laster inn terreng"
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=22545
+msgid "loading new zip: "
+msgstr "laster inn ny zip:"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=22546
+msgid "loading new directory: "
+msgstr "laster inn ny katalog:"
+
+# # | translated from communitytranslateid=15263
+# | communitytranslateid=22547
+msgid "Loading directory\n"
+msgstr "laster inn katalog\n"
+
+# # | translated from communitytranslateid=10638
+# | communitytranslateid=22694
+msgid "Loader"
+msgstr "Loader"
+
+# # | translated from communitytranslateid=10639
+# | communitytranslateid=22551
+msgid "List"
+msgstr "Liste"
+
+# # | translated from communitytranslateid=19417
+# | communitytranslateid=22556
+msgid "Linearity"
+msgstr "Lineæritet"
+
+# # | translated from communitytranslateid=10772
+# | communitytranslateid=22529
+msgid "Light source effects:"
+msgstr "Lys kilde effekter:"
+
+# # | translated from communitytranslateid=10774
+# | communitytranslateid=22527
+msgid "Language:"
+msgstr "Språk:"
+
+# # | translated from communitytranslateid=10675
+# | communitytranslateid=22425
+msgid "Keyboard"
+msgstr "Tastatur"
+
+# # | translated from communitytranslateid=10808
+# | communitytranslateid=22411
+msgid "Key/Axis"
+msgstr "Knapp/Akse"
+
+# # | translated from communitytranslateid=10837
+# | communitytranslateid=22472
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# # | translated from communitytranslateid=15258
+# | communitytranslateid=22604
+msgid "incremental check: new content\n"
+msgstr "Inkrementell sjekk: nytt innhold\n"
+
+# # | translated from communitytranslateid=10771
+# | communitytranslateid=22564
+msgid "In what Format should screenshots be saved?"
+msgstr "I hvilket format skal skjermbilder lagres som?"
+
+# # | translated from communitytranslateid=10796
+# | communitytranslateid=22465
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Hvis du missliker det hellende eksterne kjøretøys kameraet kan du deaktivere den her."
+
+# # | translated from communitytranslateid=10791
+# | communitytranslateid=22635
+msgid "Hydrax Water System"
+msgstr "Hydrax Vann System"
+
+# # | translated from communitytranslateid=10712
+# | communitytranslateid=22419
+msgid "High Quality"
+msgstr "Høy kvalitet"
+
+# # | translated from communitytranslateid=10710
+# | communitytranslateid=22440
+msgid "High Performance"
+msgstr "Høy ytelse"
+
+# # | translated from communitytranslateid=10803
+# | communitytranslateid=22520
+msgid "here you can get help"
+msgstr "Her kan du få hjelp"
+
+# # | translated from communitytranslateid=10738
+# | communitytranslateid=22509
+msgid "HeatHaze"
+msgstr "Varme Dis"
+
+# # | translated from communitytranslateid=10662
+# | communitytranslateid=22639
+msgid "health: "
+msgstr "Helse:"
+
+# # | translated from communitytranslateid=10713
+# | communitytranslateid=22526
+msgid "Graphics Settings"
+msgstr "Grafikk instillinger"
+
+# # | translated from communitytranslateid=10697
+# | communitytranslateid=20628
+msgid "Graphics"
+msgstr "Grafikk"
+
+# # | translated from communitytranslateid=10721
+# | communitytranslateid=22523
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Fullskjerm modus bruker litt mindre minne"
+
+# # | translated from communitytranslateid=10720
+# | communitytranslateid=20576
+msgid "Full screen"
+msgstr "Full skjerm"
+
+# # | translated from communitytranslateid=10820
+# | communitytranslateid=22475
+msgid "Full"
+msgstr "Full"
+
+# # | translated from communitytranslateid=10621
+# | communitytranslateid=22552
+msgid "free camera"
+msgstr "fri kamera"
+
+# # | translated from communitytranslateid=17156
+# | communitytranslateid=22424
+msgid "FOV: "
+msgstr "Synsfelt:"
+
+# # | translated from communitytranslateid=10777
+# | communitytranslateid=22479
+msgid "Fog"
+msgstr "Tåke"
+
+# # | translated from communitytranslateid=10620
+# | communitytranslateid=22486
+msgid "fixed free camera"
+msgstr "Fikset fri kamera"
+
+# # | translated from communitytranslateid=17288
+# | communitytranslateid=22510
+msgid "EXPERIMENTAL: set maximum amount of grass"
+msgstr "EKSPERIMENTELL: Sett maksimalt antall gress"
+
+# # | translated from communitytranslateid=17286
+# | communitytranslateid=22474
+msgid "EXPERIMENTAL: remove some grass"
+msgstr "EKSPERIMENTELl: fjern noe gress"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=20633
+msgid "exit the game"
+msgstr "Avslutt spillet"
+
+# # | translated from communitytranslateid=10683
+# | communitytranslateid=22394
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Hendelses Verdi (venstre = 0%, høyre = 100%)"
+
+# # | translated from communitytranslateid=10682
+# | communitytranslateid=22507
+msgid "Event Name"
+msgstr "Hendelses Navn"
+
+# # | translated from communitytranslateid=10806
+# | communitytranslateid=22531
+msgid "Event"
+msgstr "Hendelse"
+
+# # | translated from communitytranslateid=10779
+# | communitytranslateid=20578
+msgid "Engine smoke"
+msgstr "Motor røyk"
+
+# # | translated from communitytranslateid=10792
+# | communitytranslateid=22633
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Aktiverer den nye vann gjengivelses metoden. EKSPERIMENTELL! (Overstyrer alle andre vann instillinger!)"
+
+# # | translated from communitytranslateid=10797
+# | communitytranslateid=22533
+msgid "Enable XFire Extension"
+msgstr "Aktiver XFire utvidelsen"
+
+# # | translated from communitytranslateid=10729
+# | communitytranslateid=22532
+msgid "Enable waves"
+msgstr "Aktiver bølger"
+
+# # | translated from communitytranslateid=10799
+# | communitytranslateid=22539
+msgid "Enable Visual Beam Debug"
+msgstr "Aktiver visuell bjelke debug"
+
+# # | translated from communitytranslateid=19429
+# | communitytranslateid=22540
+msgid "enable or disable replay mode"
+msgstr "Aktiver eller deaktiver replay modus"
+
+# # | translated from communitytranslateid=17278
+# | communitytranslateid=22541
+msgid "enable of disable replay mode"
+msgstr "aktiver eller deaktiver replay modus"
+
+# # | translated from communitytranslateid=10755
+# | communitytranslateid=22492
+msgid "Enable network mode"
+msgstr "Aktiver flerspill modus"
+
+# # | translated from communitytranslateid=10751
+# | communitytranslateid=22535
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Aktiver høykvalitets reflekterende effekter. (gjør spillet tregere!)"
+
+# # | translated from communitytranslateid=17146
+# | communitytranslateid=21140
+msgid "Enable Auto-Downloader"
+msgstr "Aktiver auto-nedlaster"
+
+# # | translated from communitytranslateid=10754
+# | communitytranslateid=22534
+msgid "Enable advanced wheel model"
+msgstr "Aktiver avansert hjul modell"
+
+# # | translated from communitytranslateid=17336
+# | communitytranslateid=22423
+msgid "enable / disable free camera mode"
+msgstr "aktiver / deaktiver fri kamera modus"
+
+# # | translated from communitytranslateid=10736
+# | communitytranslateid=20528
+msgid "Dust"
+msgstr "Støv"
+
+# # | translated from communitytranslateid=10793
+# | communitytranslateid=22584
+msgid "Disable Overview Map"
+msgstr "Deaktiver oversiktskart"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=22421
+msgid "disable creak sound"
+msgstr "Deaktiver knirkelyd"
+
+# # | translated from communitytranslateid=10795
+# | communitytranslateid=22583
+msgid "Disable Camera Pitching"
+msgstr "Deaktiver kamera vinkling"
+
+# # | translated from communitytranslateid=19428
+# | communitytranslateid=22586
+msgid "Differentials switched to: "
+msgstr "Differensialer byttet til:"
+
+# # | translated from communitytranslateid=10715
+# | communitytranslateid=21139
+msgid "Device:"
+msgstr "Enhet:"
+
+# # | translated from communitytranslateid=10663
+# | communitytranslateid=22569
+msgid "destruction: "
+msgstr "Ødeleggelse:"
+
+# # | translated from communitytranslateid=17160
+# | communitytranslateid=22401
+msgid "Description: "
+msgstr "Beskrivelse:"
+
+# # | translated from communitytranslateid=10664
+# | communitytranslateid=22429
+msgid "deformed: "
+msgstr "Deformert:"
+
+# # | translated from communitytranslateid=17187
+# | communitytranslateid=22467
+msgid "decrease day-time"
+msgstr "reduser dag-tid"
+
+# # | translated from communitytranslateid=10787
+# | communitytranslateid=22699
+msgid "Debug Truck Mass"
+msgstr "Debug Lastebil Masse"
+
+# # | translated from communitytranslateid=17276
+# | communitytranslateid=22695
+msgid "debug purpose - dont use"
+msgstr "ment for debugging - ikke bruk"
+
+# # | translated from communitytranslateid=10789
+# | communitytranslateid=22629
+msgid "Debug Collision Meshes"
+msgstr "Debug Kollisjonsmeshene"
+
+# # | translated from communitytranslateid=10836
+# | communitytranslateid=20525
+msgid "Deadzone"
+msgstr "Dødsone"
+
+# # | translated from communitytranslateid=10842
+# | communitytranslateid=22560
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# # | translated from communitytranslateid=10840
+# | communitytranslateid=22485
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# # | translated from communitytranslateid=10843
+# | communitytranslateid=22580
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# # | translated from communitytranslateid=10841
+# | communitytranslateid=22517
+msgid "data/"
+msgstr "data/"
+
+# # | translated from communitytranslateid=10783
+# | communitytranslateid=22542
+msgid "Dashboard"
+msgstr "Dashboard"
+
+# # | translated from communitytranslateid=19452
+# | communitytranslateid=22592
+msgid "Cycle between available differental models"
+msgstr "Skift mellom tilgjengelige differensial modeller"
+
+# # | translated from communitytranslateid=10781
+# | communitytranslateid=22581
+msgid "Custom Particles"
+msgstr "Tilpassede Partikkler"
+
+# # | translated from communitytranslateid=10670
+# | communitytranslateid=22572
+msgid "current Speed:"
+msgstr "Nåværende hastighet:"
+
+# # | translated from communitytranslateid=10669
+# | communitytranslateid=21138
+msgid "current RPM:"
+msgstr "Nåverende RPM:"
+
+# # | translated from communitytranslateid=10668
+# | communitytranslateid=22573
+msgid "current mass:"
+msgstr "Nåværende masse:"
+
+# # | translated from communitytranslateid=10609
+# | communitytranslateid=20725
+msgid "Current FPS: "
+msgstr "Nåværende FPS:"
+
+# # | translated from communitytranslateid=10708
+# | communitytranslateid=20514
+msgid "CPU Settings"
+msgstr "CPU innstilinger"
+
+# # | translated from communitytranslateid=10699
+# | communitytranslateid=20512
+msgid "CPU"
+msgstr "CPU"
+
+# # | translated from communitytranslateid=19388
+# | communitytranslateid=20580
+msgid "Could not write to input.map file"
+msgstr "Kunne ikke skrive til input.map"
+
+# # | translated from communitytranslateid=10813
+# | communitytranslateid=22525
+msgid "Could not write config file"
+msgstr "Kunne ikke skrive konfigurasjons fil"
+
+# # | translated from communitytranslateid=10811
+# | communitytranslateid=22543
+msgid "Could not open Rendering device"
+msgstr "Kunne ikke åpne gjengivelses komponent"
+
+# # | translated from communitytranslateid=10700
+# | communitytranslateid=22587
+msgid "Controls"
+msgstr "Kontroller"
+
+# # | translated from communitytranslateid=17263
+# | communitytranslateid=22471
+msgid "connect hook node to a node in close proximity"
+msgstr "Koble krok noden til en node i nærheten"
+
+# # | translated from communitytranslateid=10814
+# | communitytranslateid=22568
+msgid "Configure error"
+msgstr "Konfigurerings feil"
+
+# # | translated from communitytranslateid=10707
+# | communitytranslateid=22403
+msgid "Community / Support"
+msgstr "Fellesskap / Støtte"
+
+# # | translated from communitytranslateid=10673
+# | communitytranslateid=22513
+msgid "Commands:"
+msgstr "Kommandoer:"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=22478
+msgid "Command 39"
+msgstr "Kommando 39"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=22631
+msgid "Command 31"
+msgstr "Kommando 31"
+
+# # | translated from communitytranslateid=17219
+# | communitytranslateid=22593
+msgid "Command 10"
+msgstr "Kommando 10"
+
+# # | translated from communitytranslateid=10740
+# | communitytranslateid=22641
+msgid "Cockpit options"
+msgstr "Cockpit valgmuligheter"
+
+# # | translated from communitytranslateid=10680
+# | communitytranslateid=22571
+msgid "close this dialog"
+msgstr "lukk denne dialogen"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=22496
+msgid "Click on blue hyperlinks to select a server."
+msgstr "Trykk på de blå hyperlinkene for å velge en tjener."
+
+# # | translated from communitytranslateid=10773
+# | communitytranslateid=20722
+msgid "Clear cache"
+msgstr "Tøm buffer"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=20530
+msgid "Choose a file"
+msgstr "Velg en fil"
+
+# # | translated from communitytranslateid=15264
+# | communitytranslateid=22412
+msgid "checking for new zips in "
+msgstr "Ser etter nye zips i"
+
+# # | translated from communitytranslateid=15265
+# | communitytranslateid=22575
+msgid "checking for new directories in "
+msgstr "ser etter nye kataloger i"
+
+# # | translated from communitytranslateid=10695
+# | communitytranslateid=22519
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Avbryt konfigurasjonsendringene og lukk konfigurasjonsprogrammet."
+
+# # | translated from communitytranslateid=10637
+# | communitytranslateid=20516
+msgid "Cancel"
+msgstr "Avbryt"
+
+# # | translated from communitytranslateid=10725
+# | communitytranslateid=22514
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Caelum skyer er fint men veldig tregt om du ikke har en god GPU."
+
+# # | translated from communitytranslateid=17155
+# | communitytranslateid=22418
+msgid "Cache regeneration done.\n"
+msgstr "Hurtigbuffer regenerering fullført. \n"
+
+# # | translated from communitytranslateid=10661
+# | communitytranslateid=20523
+msgid "broken: "
+msgstr "Knekt:"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=20502
+msgid "brake"
+msgstr "brems"
+
+# # | translated from communitytranslateid=10652
+# | communitytranslateid=20499
+msgid "Boat"
+msgstr "Båt"
+
+# # | translated from communitytranslateid=10746
+# | communitytranslateid=22570
+msgid "Bloom"
+msgstr "Bloom"
+
+# # | translated from communitytranslateid=10611
+# | communitytranslateid=20508
+msgid "Best FPS: "
+msgstr "Beste FPS:"
+
+# # | translated from communitytranslateid=10660
+# | communitytranslateid=22638
+msgid "beam count: "
+msgstr "Antall stenger:"
+
+# # | translated from communitytranslateid=10711
+# | communitytranslateid=21141
+msgid "Balanced"
+msgstr "Balansert"
+
+# # | translated from communitytranslateid=10614
+# | communitytranslateid=22504
+msgid "Bad server port"
+msgstr "Dårlig tjener port"
+
+# # | translated from communitytranslateid=10666
+# | communitytranslateid=22576
+msgid "average stress: "
+msgstr "Gjennomsnittlig stress:"
+
+# # | translated from communitytranslateid=10610
+# | communitytranslateid=22397
+msgid "Average FPS: "
+msgstr "Gjennomsnitts FPS:"
+
+# # | translated from communitytranslateid=10665
+# | communitytranslateid=22487
+msgid "average deformation: "
+msgstr "Gjennomsnittlig deformasjon:"
+
+# # | translated from communitytranslateid=10623
+# | communitytranslateid=22410
+msgid "Automatic shift"
+msgstr "Automatisk giring"
+
+# # | translated from communitytranslateid=10643
+# | communitytranslateid=22508
+msgid "Authors: "
+msgstr "Opphavsmenn:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=22420
+msgid "Author: "
+msgstr "Opphavsmann:"
+
+# # | translated from communitytranslateid=10718
+# | communitytranslateid=22524
+msgid "Anti-aliasing:"
+msgstr "Anti aliasing:"
+
+# # | translated from communitytranslateid=10757
+# | communitytranslateid=21136
+msgid "Anonymous"
+msgstr "Anonym"
+
+# # | translated from communitytranslateid=10672
+# | communitytranslateid=22577
+msgid "Altitude:"
+msgstr "Høyde:"
+
+# # | translated from communitytranslateid=10651
+# | communitytranslateid=20630
+msgid "Airplane"
+msgstr "Fly"
+
+# # | translated from communitytranslateid=10706
+# | communitytranslateid=20505
+msgid "Advanced"
+msgstr "Avansert"
+
+# # | translated from communitytranslateid=10679
+# | communitytranslateid=22634
+msgid "Add the key"
+msgstr "Legg til nøkkelen"
+
+# # | translated from communitytranslateid=10678
+# | communitytranslateid=20493
+msgid "Add"
+msgstr "Legg til"
+
+# # | translated from communitytranslateid=10615
+# | communitytranslateid=22413
+msgid "A network error occured"
+msgstr "En nettverksfeil inntraff"
+
+# # | translated from communitytranslateid=10827
+# | communitytranslateid=20627
+msgid "5% deadzone"
+msgstr "5% dødsone"
+
+# # | translated from communitytranslateid=10826
+# | communitytranslateid=20626
+msgid "5 %"
+msgstr "5 %"
+
+# # | translated from communitytranslateid=10835
+# | communitytranslateid=20625
+msgid "30% deadzone"
+msgstr "30% dødsone"
+
+# # | translated from communitytranslateid=10834
+# | communitytranslateid=20624
+msgid "30 %"
+msgstr "30 %"
+
+# # | translated from communitytranslateid=10833
+# | communitytranslateid=20623
+msgid "20% deadzone"
+msgstr "20% dødsone"
+
+# # | translated from communitytranslateid=10832
+# | communitytranslateid=20622
+msgid "20 %"
+msgstr "20 %"
+
+# # | translated from communitytranslateid=10831
+# | communitytranslateid=20621
+msgid "15% deadzone"
+msgstr "15% dødsone"
+
+# # | translated from communitytranslateid=10830
+# | communitytranslateid=20619
+msgid "15 %"
+msgstr "15 %"
+
+# # | translated from communitytranslateid=10761
+# | communitytranslateid=22506
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# # | translated from communitytranslateid=10763
+# | communitytranslateid=22636
+msgid "12333"
+msgstr "12333"
+
+# # | translated from communitytranslateid=10829
+# | communitytranslateid=20618
+msgid "10% deadzone"
+msgstr "10% dødsone"
+
+# # | translated from communitytranslateid=10828
+# | communitytranslateid=20617
+msgid "10 %"
+msgstr "10 %"
+
+# # | translated from communitytranslateid=19403
+# | communitytranslateid=22574
+msgid "0 % (Total Linear)"
+msgstr "0 % (Totalt Lineært)"
+
+# # | translated from communitytranslateid=10824
+# | communitytranslateid=20616
+msgid "0 % (No deadzone)"
+msgstr "0 % (Ingen dødsone)"
+
+# # | translated from communitytranslateid=10759
+# | communitytranslateid=21137
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Hvordan spille flerspill:</p><br><ol><li>Trykk på <b>Oppdater</b> knappen for å se tilgjengelige tjenere.</li><li>Trykk på hvilken som helst understreket tjener.</li><li>trykk på <b>Lagre og spill</b> knappen for og starte spillet.</li></ol>"
+
+# # | translated from communitytranslateid=15252
+# | communitytranslateid=22381
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Siste Nytt</h2>Ingen for øyeblikket<h2>Støtte / Fellesskap</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>Guider</a><p/> (Denne siden vil bli forbedret...)"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=22415
+msgid "+25 %"
+msgstr "+25 %"
+
+# # | translated from communitytranslateid=10685
+# | communitytranslateid=20496
+msgid "(Please press a key)"
+msgstr "(Venligst trykk på en knapp)"
+
+# # | translated from communitytranslateid=10775
+# | communitytranslateid=22426
+msgid "(No Languages found)"
+msgstr "(Ingen språk funnet)"
+
+# # | translated from communitytranslateid=10659
+# | communitytranslateid=22417
+msgid "(no author information available)"
+msgstr "(ingen informasjon om opphavsmann tilgjengelig)"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=20620
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "... laster ... (kansje du burde sjekke intenett forbindelsen)"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=23504
+msgid "-20 %"
+msgstr "-20 %"
+
+# # | translated from communitytranslateid=19410
+# | communitytranslateid=22505
+msgid "-15% multiplication"
+msgstr "-15% multiplikasjon"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=22503
+msgid "-15 %"
+msgstr "-15 %"
+
+# # | translated from communitytranslateid=19408
+# | communitytranslateid=22477
+msgid "-10% multiplication"
+msgstr "-10% multiplikasjon"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=22502
+msgid "-10 %"
+msgstr "-10 %"
+
+# # | translated from communitytranslateid=10627
+# | communitytranslateid=22499
+msgid "^8 Player: ^7"
+msgstr "^8 Spiller: ^7"
+
+# # | translated from communitytranslateid=10630
+# | communitytranslateid=22494
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 bruk: /rcmd [kommando] [valgrfie argumenter]"
+
+# # | translated from communitytranslateid=10633
+# | communitytranslateid=22498
+msgid "^1 unkown Command: "
+msgstr "^1 Ukjent kommando:"
+
+# # | translated from communitytranslateid=10629
+# | communitytranslateid=22414
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 FEIL: du må bruke /rlogin [passord] først"
+
+# # | translated from communitytranslateid=10631
+# | communitytranslateid=22495
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 FEIL: protokoll feil mens det ble forsøkt å sende kommando til RCON:"
+
+# # | translated from communitytranslateid=10628
+# | communitytranslateid=22493
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 FEIL: protokoll feil mens det ble forsøkt å logge på RCON:"
+
+# # | translated from communitytranslateid=10632
+# | communitytranslateid=22416
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 FEIL: ikke i flerspiller modus"
+
+# # | translated from communitytranslateid=10634
+# | communitytranslateid=22470
+msgid "^1 Error Parsing command"
+msgstr "^1 Kommando Analyse Feil"
+
+# # | translated from communitytranslateid=15255
+# | communitytranslateid=22383
+msgid " not existing"
+msgstr "eksisterer ikke"
+
+# # | translated from communitytranslateid=15256
+# | communitytranslateid=20477
+msgid " changed"
+msgstr "endret"
+

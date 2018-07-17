@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=22782
+msgid "zoom into the overview map in interactive mode"
+msgstr "Збільшити обзор карти у інтерактивному режимі"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=22783
+msgid "zoom camera out faster"
+msgstr "Віддалити камеру швидше"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=22784
+msgid "zoom camera out"
+msgstr "Віддалити камеру"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=22785
+msgid "zoom camera in faster"
+msgstr "Приблизити камеру швидше"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=21625
+msgid "zoom camera in"
+msgstr "Приблизити камеру"
+
+# # | translated from communitytranslateid=10758
+# | communitytranslateid=22786
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Ваше ім`я у мультиплеєрі (Небільше 20 символів)"
+
+# # | translated from communitytranslateid=10804
+# | communitytranslateid=22787
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Ви повинні зберегти і перезапустити програму для активації нової мови!"
+
+# # | translated from communitytranslateid=10769
+# | communitytranslateid=22788
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Вам не треба змінювати ці параметри якщо у Вас немає проблем із ними"
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=22789
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Ви можете вимкнути звук скрипу за умовчанням, відзначивши цю опцію."
+
+# # | translated from communitytranslateid=10619
+# | communitytranslateid=22790
+msgid "wrote screenshot:"
+msgstr "Записан скріншот:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=22791
+msgid "Write error"
+msgstr "Помилка запису"
+
+# # | translated from communitytranslateid=17265
+# | communitytranslateid=22792
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr "записати поточну позицію до логу (Ви можете відкрити лог-файл і використати позицію)"
+
+# # | translated from communitytranslateid=10612
+# | communitytranslateid=22793
+msgid "Worst FPS: "
+msgstr "Найгірший FPS:"
+
+# # | translated from communitytranslateid=10644
+# | communitytranslateid=22794
+msgid "Wheels: "
+msgstr "Колеса:"
+
+# # | translated from communitytranslateid=10727
+# | communitytranslateid=22795
+msgid "Water type:"
+msgstr "Тип води:"
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=22811
+msgid "Warning"
+msgstr "Попередження"
+
+# # | translated from communitytranslateid=10722
+# | communitytranslateid=22954
+msgid "VSync"
+msgstr "Верт. синхр."
+
+# # | translated from communitytranslateid=10743
+# | communitytranslateid=22956
+msgid "Visual effects"
+msgstr "Візуальні ефекти"
+
+# # | translated from communitytranslateid=10717
+# | communitytranslateid=22820
+msgid "Video mode:"
+msgstr "Відео режим:"
+
+# # | translated from communitytranslateid=10654
+# | communitytranslateid=22957
+msgid "Vehicle Type: "
+msgstr "Тип трансп. засобу:"
+
+# # | translated from communitytranslateid=10733
+# | communitytranslateid=22958
+msgid "Vegetation:"
+msgstr "Рослинність:"
+
+# # | translated from communitytranslateid=10768
+# | communitytranslateid=22801
+msgid "Update"
+msgstr "Оновити"
+
+# # | translated from communitytranslateid=10807
+# | communitytranslateid=22959
+msgid "Type"
+msgstr "Тип"
+
+# # | translated from communitytranslateid=10650
+# | communitytranslateid=22960
+msgid "Truck"
+msgstr "Вантажівка"
+
+# # | translated from communitytranslateid=10646
+# | communitytranslateid=22961
+msgid "tons"
+msgstr "тон"
+
+# # | translated from communitytranslateid=17273
+# | communitytranslateid=22815
+msgid "toggle skeleton display mode"
+msgstr "Перемикання режиму відображення скелету"
+
+# # | translated from communitytranslateid=17275
+# | communitytranslateid=22829
+msgid "toggle particle cannon"
+msgstr "перемикання системи часток"
+
+# # | translated from communitytranslateid=17283
+# | communitytranslateid=21627
+msgid "toggle map modes"
+msgstr "Варіанти карти"
+
+# # | translated from communitytranslateid=17331
+# | communitytranslateid=22810
+msgid "toggle ignition"
+msgstr "Перемикання запалювання"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=22817
+msgid "tie a load to the truck"
+msgstr "Причепити вантаж до вантажівки"
+
+# # | translated from communitytranslateid=10753
+# | communitytranslateid=22818
+msgid "Thread number:"
+msgstr "Кількість ядер:"
+
+# # | translated from communitytranslateid=17173
+# | communitytranslateid=22827
+msgid "steer left"
+msgstr "Поворот наліво"
+
+# # | translated from communitytranslateid=19439
+# | communitytranslateid=22797
+msgid "shift directly to 9th gear"
+msgstr "перемкнути на 9-ту передачу"
+
+# # | translated from communitytranslateid=19450
+# | communitytranslateid=22806
+msgid "sets middle range (7-12) for H-shaft"
+msgstr "Встановити середній діапазон (7-12) для Н-шифтера"
+
+# # | translated from communitytranslateid=17294
+# | communitytranslateid=22800
+msgid "select previous category"
+msgstr "Вибрати попередню категорію"
+
+# # | translated from communitytranslateid=10691
+# | communitytranslateid=22807
+msgid "Save and Play"
+msgstr "Зберегти і Грати"
+
+# # | translated from communitytranslateid=10689
+# | communitytranslateid=22824
+msgid "Restore Defaults"
+msgstr "Відновити за умовчанням"
+
+# # | translated from communitytranslateid=17193
+# | communitytranslateid=21699
+msgid "reset the camera position"
+msgstr "Збросити позицію камери"
+
+# # | translated from communitytranslateid=10812
+# | communitytranslateid=22837
+msgid "Ogre config error"
+msgstr "Помилка конфігурування Ogre"
+
+# # | translated from communitytranslateid=17344
+# | communitytranslateid=22808
+msgid "move replay fast backward"
+msgstr "Перемотати повтор назад (швидко)"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=22803
+msgid "more airbrakes"
+msgstr "Збільшити повітряний тормоз"
+
+# # | translated from communitytranslateid=10801
+# | communitytranslateid=21696
+msgid "minimum visibility range in percent"
+msgstr "Мінімальна дистанція видимості у відсотках"
+
+# # | translated from communitytranslateid=19425
+# | communitytranslateid=22835
+msgid "Mid range selected"
+msgstr "Обраний середній діапазон"
+
+# # | translated from communitytranslateid=17204
+# | communitytranslateid=22828
+msgid "let the character jump"
+msgstr "Стрибок"
+
+# # | translated from communitytranslateid=17267
+# | communitytranslateid=22831
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr "Збільшити тиск у шинах (зауважте: лише кілька вантажівок підтримують це)"
+
+# # | translated from communitytranslateid=10803
+# | communitytranslateid=21700
+msgid "here you can get help"
+msgstr "Тут ви зможете отрамати допомогу"
+
+# # | translated from communitytranslateid=10739
+# | communitytranslateid=21695
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Гарячий туман із двигунів, негативно впливає на продуктивність"
+
+# # | translated from communitytranslateid=17176
+# | communitytranslateid=22826
+msgid "full thrust"
+msgstr "Повна тяга"
+
+# # | translated from communitytranslateid=10720
+# | communitytranslateid=21698
+msgid "Full screen"
+msgstr "На весь екран"
+
+# # | translated from communitytranslateid=17335
+# | communitytranslateid=21626
+msgid "fix the camera to a position"
+msgstr "Закріпити камеру"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=21709
+msgid "exit the game"
+msgstr "Вийти з гри"
+
+# # | translated from communitytranslateid=10799
+# | communitytranslateid=22798
+msgid "Enable Visual Beam Debug"
+msgstr "Увімкнути Візуальну Отладку Променів"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=21628
+msgid "disable creak sound"
+msgstr "Вимкнути звук"
+
+# # | translated from communitytranslateid=10795
+# | communitytranslateid=21701
+msgid "Disable Camera Pitching"
+msgstr "Відключити гойдання камери"
+
+# # | translated from communitytranslateid=10783
+# | communitytranslateid=22814
+msgid "Dashboard"
+msgstr "Панель приладів"
+
+# # | translated from communitytranslateid=10668
+# | communitytranslateid=22833
+msgid "current mass:"
+msgstr "Поточна маса:"
+
+# # | translated from communitytranslateid=17263
+# | communitytranslateid=22796
+msgid "connect hook node to a node in close proximity"
+msgstr "Причепити крюк до найближчого вузлу"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=22825
+msgid "Command 5"
+msgstr "Команда №5"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=22813
+msgid "Command 46"
+msgstr "Команда №46"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=22802
+msgid "Command 28"
+msgstr "Команда №28"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=22834
+msgid "Command 26"
+msgstr "Команда №26"
+
+# # | translated from communitytranslateid=10725
+# | communitytranslateid=22819
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Небо Caelum виглядає красиво, але повільне якщо Ви не маєте потужного GPU."
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=22805
+msgid "brake"
+msgstr "Гальма"
+
+# # | translated from communitytranslateid=10610
+# | communitytranslateid=22809
+msgid "Average FPS: "
+msgstr "Середній рівень FPS"
+
+# # | translated from communitytranslateid=10623
+# | communitytranslateid=22839
+msgid "Automatic shift"
+msgstr "Автоматичне перемикання"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=22836
+msgid "Author: "
+msgstr "Автор:"
+
+# # | translated from communitytranslateid=10835
+# | communitytranslateid=21697
+msgid "30% deadzone"
+msgstr "30% мертва зона"
+
+# # | translated from communitytranslateid=10829
+# | communitytranslateid=22830
+msgid "10% deadzone"
+msgstr "10% мертва зона"
+
+# # | translated from communitytranslateid=10759
+# | communitytranslateid=22804
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Як грати у Мультиплеєрі:</p><br><ol><li>Нажміть на кнопку <b>Оновити</b> для просмотру доступних серверів.</li><li>Нажміть на будь-який сервер зі списку.</li><li>Нажміть на кнопку <b>Зберегти і Грати</b> і начніть гру.</li></ol>"
+
+# # | translated from communitytranslateid=19392
+# | communitytranslateid=22816
+msgid "+30% multiplication"
+msgstr "Збільшення +30%"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=22799
+msgid "+30 %"
+msgstr "+30 %"
+
+# # | translated from communitytranslateid=10775
+# | communitytranslateid=22821
+msgid "(No Languages found)"
+msgstr "(Жодної мови не знайдено)"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=22838
+msgid "-30 %"
+msgstr "-30 %"
+
+# # | translated from communitytranslateid=19408
+# | communitytranslateid=22822
+msgid "-10% multiplication"
+msgstr "зменшення -10%"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=22812
+msgid "-10 %"
+msgstr "-10 %"
+
+# # | translated from communitytranslateid=10630
+# | communitytranslateid=22832
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 використання: /rcmd [команда] [опціональні параметри]"
+
+# # | translated from communitytranslateid=10631
+# | communitytranslateid=22823
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 ПОМИЛКА: помилка протоколу у відсиланні команд до RCON:"
+
+# # | translated from communitytranslateid=15255
+# | communitytranslateid=22955
+msgid " not existing"
+msgstr "не існує"
+
+# # | translated from communitytranslateid=15256
+# | communitytranslateid=21629
+msgid " changed"
+msgstr "змінено"
+

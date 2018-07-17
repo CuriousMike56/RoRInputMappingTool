@@ -1,0 +1,1063 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# | communitytranslateid=15728
+msgid "Your network name. Maximum 20 Characters."
+msgstr "tumhari qafas naam maximum 20 kirdaar"
+
+# | communitytranslateid=15750
+msgid "Your Forum User Token."
+msgstr "tumara Forum user Token"
+
+# | communitytranslateid=15898
+msgid "You must save and restart the program to activate the new language!"
+msgstr "aap ko save aur restart pogram  ko kur na ho ga agar nai language ko activate kur na hain"
+
+# | communitytranslateid=15885
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "ye settings ko nai change kur na hain unless aap ko problems arr re hain"
+
+# | communitytranslateid=15738
+msgid "wrote screenshot:"
+msgstr "screenshot lika"
+
+# | communitytranslateid=15731
+msgid "Worst FPS: "
+msgstr "aksar bura FPS"
+
+# | communitytranslateid=15764
+msgid "Wheels: "
+msgstr "paiyye"
+
+# | communitytranslateid=15845
+msgid "Water type:"
+msgstr "panee ke qism"
+
+# | communitytranslateid=15849
+msgid "Water spray"
+msgstr "panee ke cheetay"
+
+# | communitytranslateid=15846
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "water reflection zaada slow hain, aur achha GPU ko require kur-ta hain. Speed optimiezed mode main app ko shaid  exccesive camera shaking ko experience kur-ro g"
+
+# | communitytranslateid=15701
+msgid "VSync"
+msgstr "VSync"
+
+# | communitytranslateid=15861
+msgid "Visual effects"
+msgstr "Visual effects"
+
+# | communitytranslateid=15836
+msgid "Video mode:"
+msgstr "Video ka mode:"
+
+# | communitytranslateid=15774
+msgid "Vehicle Type: "
+msgstr "gadhee/garee ke qism"
+
+# | communitytranslateid=15851
+msgid "Vegetation:"
+msgstr "Vegetation:"
+
+# | communitytranslateid=15883
+msgid "User Token: "
+msgstr "User ka  Token:"
+
+# | communitytranslateid=15918
+msgid "Upper"
+msgstr "Upper"
+
+# | communitytranslateid=15884
+msgid "Update"
+msgstr "Update"
+
+# | communitytranslateid=15775
+msgid "unkown encoding problem"
+msgstr "unknown encoding ka problem"
+
+# | communitytranslateid=15761
+msgid "unknown.dds"
+msgstr "unknown.dds"
+
+# | communitytranslateid=15894
+msgid "Uncheck in case you have a fog problem"
+msgstr "uncheck kuro in case aap ke pas fog  problem hain"
+
+# | communitytranslateid=15735
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "server se nai connect ho ra. server hain certainly down na aap ke paas network problems hain"
+
+# | communitytranslateid=15937
+msgid "Unable to connect to server"
+msgstr "server se connect nai kur sakt te"
+
+# | communitytranslateid=15924
+msgid "Type"
+msgstr "qism"
+
+# | communitytranslateid=15975
+msgid "Trying to connect to server ..."
+msgstr "server se connect ho ne ke khoshist hain..."
+
+# | communitytranslateid=15770
+msgid "Truck"
+msgstr "truck"
+
+# | communitytranslateid=15732
+msgid "Triangle Count: "
+msgstr "Triangle count"
+
+# | communitytranslateid=15745
+msgid "tracks/CreditsOverlay"
+msgstr "tracks/CreditsOverlay"
+
+# | communitytranslateid=15768
+msgid "Torque: "
+msgstr "Torque:"
+
+# | communitytranslateid=15766
+msgid "tons"
+msgstr "tons"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=22708
+msgid "tie a load to the truck"
+msgstr "load ko truck say batdh dho"
+
+# | communitytranslateid=15871
+msgid "Thread number:"
+msgstr "Thread ke number:"
+
+# | communitytranslateid=15892
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "ye setting system ke default language ko overide kar tee hain. aap ko configurator ko restart kurna ho ga changes ko apply kur ne."
+
+# | communitytranslateid=15855
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "framerate ko shaid hurt kur-re purrannn-e systems main laykin achha lugtha hain"
+
+# | communitytranslateid=15852
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "determine kur ta hain kitna gaas aur durukth(aur ae se objects) display ho nay chai e"
+
+# | communitytranslateid=15882
+msgid "The server password, if required."
+msgstr "server ka password agar chai hain."
+
+# | communitytranslateid=15838
+msgid "Texture filtering:"
+msgstr "Texture ke filtering:"
+
+# | communitytranslateid=15823
+msgid "Test"
+msgstr "Test kur-ro"
+
+# | communitytranslateid=15736
+msgid "Terrain not found: "
+msgstr "terrain ne milla"
+
+# | communitytranslateid=15737
+msgid "Terrain loading error"
+msgstr "terrain ke wazan error ho gya"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=22703
+msgid "take a screenshot"
+msgstr "thusveer  kanchoo"
+
+# | communitytranslateid=15862
+msgid "Sunburn"
+msgstr "Sunburn"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=22701
+msgid "steer right"
+msgstr "right muro"
+
+# | communitytranslateid=15777
+msgid "Startup error"
+msgstr "chalan-e ki error"
+
+# | communitytranslateid=15977
+msgid "SPECIAL_CHARACTERS"
+msgstr "n/a"
+
+# | communitytranslateid=15841
+msgid "Special effects"
+msgstr "khaas effects"
+
+# | communitytranslateid=15818
+msgid "Sounds"
+msgstr "awazz"
+
+# | communitytranslateid=15870
+msgid "Sound rendering:"
+msgstr "awazz ke rendering:"
+
+# | communitytranslateid=15842
+msgid "Sky type:"
+msgstr "aasmaan qism"
+
+# | communitytranslateid=15816
+msgid "Simple Settings"
+msgstr "as-saan setting"
+
+# | communitytranslateid=15860
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "reaer view mirrors dukata hain 1st person view main. Shaid compatibility problems hoi purrane video cards main"
+
+# | communitytranslateid=15901
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "dynamic dasboard dakata hain, 1st person view main. compbatliblity problems ho sukth te old video cards ke saath"
+
+# | communitytranslateid=15907
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Sub collison meshes dakata hain red main ta-ke aap postion sai kur sakth te. Sirf debugging ke li ye  use kur ray"
+
+# | communitytranslateid=15844
+msgid "Shadow type:"
+msgstr "Shadow ke qism:"
+
+# | communitytranslateid=15828
+msgid "Sets all settings in a simple way"
+msgstr "sabb settings ko as-saan tureka main set kur-ro"
+
+# | communitytranslateid=15879
+msgid "Server port number: "
+msgstr "Server  ka port number:"
+
+# | communitytranslateid=15881
+msgid "Server password: "
+msgstr "Server  ka password:"
+
+# | communitytranslateid=15877
+msgid "Server host name: "
+msgstr "Server ka host ka naam"
+
+# | communitytranslateid=15760
+msgid "Search"
+msgstr "dundt na"
+
+# | communitytranslateid=15886
+msgid "Screenshot Format:"
+msgstr "screenshot ka format"
+
+# | communitytranslateid=15833
+msgid "Screen configuration"
+msgstr "Screen ke configuration"
+
+# | communitytranslateid=15812
+msgid "Save the current configuration and start RoR."
+msgstr "abbi ka configuration save kur-ro aur ror ko start kur-ro"
+
+# | communitytranslateid=15814
+msgid "Save the current configuration and close the configuration program."
+msgstr "Current configuration ko save kur-ro aur configuration pogram ko bund kur-ro"
+
+# | communitytranslateid=15811
+msgid "Save and Play"
+msgstr "save aur play"
+
+# | communitytranslateid=15813
+msgid "Save and Exit"
+msgstr "save aur exit."
+
+# | communitytranslateid=15835
+msgid "RTT Mode:"
+msgstr "RTT ka Mode:"
+
+# | communitytranslateid=15808
+msgid "Rigs of Rods configuration"
+msgstr "Rigs of Rods ke configuration"
+
+# | communitytranslateid=15934
+msgid "reverse axis"
+msgstr "reverse axis"
+
+# | communitytranslateid=15933
+msgid "Reverse"
+msgstr "Reverse"
+
+# | communitytranslateid=15810
+msgid "Restore the default configuration."
+msgstr "Default configuration ko restore kur-ro"
+
+# | communitytranslateid=15809
+msgid "Restore Defaults"
+msgstr "Defaults ko restore kar-ro"
+
+# | communitytranslateid=15867
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Achaa video card ko require ku ta hain. motion blur effect dal-ta hain"
+
+# | communitytranslateid=15865
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Achaa video card ko require kur-ta hain. Light blurring effect add kur-ta hain"
+
+# | communitytranslateid=15863
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "achaa video card ko require kur-ta hain. bluish blinding effect add kurta hain"
+
+# | communitytranslateid=15903
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Replay mode ( tumhare frame rate ko affect kur sukth ta"
+
+# | communitytranslateid=15902
+msgid "Replay Mode"
+msgstr "Replay mode"
+
+# | communitytranslateid=15939
+msgid "Region"
+msgstr "Region"
+
+# # | translated from communitytranslateid=17164
+# | communitytranslateid=22704
+msgid "pull the elevator up in an aircraft."
+msgstr "elevator ko upper lao jahaaz meh"
+
+# | communitytranslateid=15905
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "sub node masses ko ROR.log. main print kur ta hain. Sirf truck debugging kay liay use kur na"
+
+# | communitytranslateid=15796
+msgid "Please select an input event."
+msgstr "please koi input  event select kur re"
+
+# | communitytranslateid=15755
+msgid "Please clear the place first"
+msgstr "pehlay jagah clear kar ho"
+
+# | communitytranslateid=15899
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "particles jaise water cannons na plain trails hain. over-used ho sakt ta  hain multiplayer main."
+
+# | communitytranslateid=15853
+msgid "Particle systems"
+msgstr "particle ke systems"
+
+# | communitytranslateid=15926
+msgid "Options"
+msgstr "options"
+
+# | communitytranslateid=15804
+msgid "ok (end test)"
+msgstr "achaa( test ko end kar le )"
+
+# | communitytranslateid=15756
+msgid "OK"
+msgstr "achaa"
+
+# | communitytranslateid=15927
+msgid "Ogre config validation error"
+msgstr "ogre config validation ke error"
+
+# | communitytranslateid=15929
+msgid "Ogre config error"
+msgstr "ogre config ke error"
+
+# | communitytranslateid=15896
+msgid "Not much impact on speed."
+msgstr "koi itna speed main impact nai hain"
+
+# | communitytranslateid=15741
+msgid "normal camera"
+msgstr "normal camera"
+
+# | communitytranslateid=15769
+msgid "Non-Driveable"
+msgstr "Nai-Driveable"
+
+# | communitytranslateid=15767
+msgid "Nodes: "
+msgstr "Nodes:"
+
+# | communitytranslateid=15787
+msgid "node count: "
+msgstr "node ke count:"
+
+# | communitytranslateid=15850
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "koi nai effect hain  magar aap paanee se mess kur-te hain, achaa ve laktha hain"
+
+# | communitytranslateid=15942
+msgid "no deadzone"
+msgstr "koi bai nai deadzone"
+
+# | communitytranslateid=15762
+msgid "no author information available"
+msgstr "author information nai available hain"
+
+# | communitytranslateid=15874
+msgid "Nickname: "
+msgstr "Nickname:"
+
+# | communitytranslateid=15922
+msgid "new Language selected"
+msgstr "nai languaged selected"
+
+# | communitytranslateid=15824
+msgid "Network"
+msgstr "qafas"
+
+# | communitytranslateid=15955
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# | communitytranslateid=15866
+msgid "Motion blur"
+msgstr "Motion blur"
+
+# | communitytranslateid=15859
+msgid "Mirrors"
+msgstr "Mirrors"
+
+# | communitytranslateid=15920
+msgid "minimum visibility range in percent"
+msgstr "minimum visiblity percent main"
+
+# | communitytranslateid=15791
+msgid "max Speed:"
+msgstr "max Speed:"
+
+# | communitytranslateid=15765
+msgid "Mass: "
+msgstr "wazan"
+
+# | communitytranslateid=15743
+msgid "Manual shift - Auto clutch"
+msgstr "Manual shift - Auto clutch"
+
+# | communitytranslateid=15773
+msgid "Machine"
+msgstr "Machine"
+
+# | communitytranslateid=15938
+msgid "Lower"
+msgstr "lower"
+
+# | communitytranslateid=15970
+msgid "loading...\n"
+msgstr "loading....\n"
+
+# | communitytranslateid=15971
+msgid "Loading zips in group "
+msgstr "loading zips jo group ke under hain"
+
+# | communitytranslateid=15976
+msgid "Loading Terrain"
+msgstr "Loading terrain"
+
+# | communitytranslateid=15972
+msgid "Loading directory\n"
+msgstr "loading directory\n"
+
+# | communitytranslateid=15758
+msgid "Loader"
+msgstr "Loader"
+
+# | communitytranslateid=15759
+msgid "List"
+msgstr "list"
+
+# | communitytranslateid=15888
+msgid "Light source effects:"
+msgstr "Light source effects:"
+
+# | communitytranslateid=15890
+msgid "Language:"
+msgstr "Language:"
+
+# | communitytranslateid=15956
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# | communitytranslateid=15795
+msgid "Keyboard"
+msgstr "Keyboard"
+
+# | communitytranslateid=15925
+msgid "Key/Axis"
+msgstr "key/axis"
+
+# | communitytranslateid=15932
+msgid "Joystick Options"
+msgstr "joystick Options"
+
+# | communitytranslateid=15935
+msgid "Joystick Axis Region"
+msgstr "joystick axis"
+
+# | communitytranslateid=15940
+msgid "Joystick Axis Deadzones"
+msgstr "Joystick axis ke deadzones"
+
+# | communitytranslateid=15954
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# | communitytranslateid=15797
+msgid "Input Type: "
+msgstr "Input qism"
+
+# | communitytranslateid=15966
+msgid "incremental check: processing changed zips\n"
+msgstr "incremental check: change zips ko processing\n"
+
+# | communitytranslateid=15968
+msgid "incremental check: new files\n"
+msgstr "incremental check:  nai  files\n"
+
+# | communitytranslateid=15967
+msgid "incremental check: new content\n"
+msgstr "incremental check: nai content\n"
+
+# | communitytranslateid=15969
+msgid "incremental check: duplicates\n"
+msgstr "incremental check: duplicates\n"
+
+# | communitytranslateid=15963
+msgid "incremental check: deleted and changed files\n"
+msgstr "incremental check: deleted aur change ho gya files\n"
+
+# | communitytranslateid=15962
+msgid "incremental check: deleted and changed files"
+msgstr "incremental check: deleted aur change kia files."
+
+# # | translated from communitytranslateid=17186
+# | communitytranslateid=22707
+msgid "increase throttle"
+msgstr "throttle zeyadha karo"
+
+# | communitytranslateid=15887
+msgid "In what Format should screenshots be saved?"
+msgstr "kon sa format main screenshots ho nai chai hain"
+
+# | communitytranslateid=15821
+msgid "Import Keymap"
+msgstr "key map ko import kur-lo"
+
+# | communitytranslateid=15915
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "agar aap Xfire istmal kurt-e hain, aap iss  option ko switch on kur sakth te hain to generate aurr detailed game info."
+
+# | communitytranslateid=15913
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "agar aap pitching external vehicle camera ko passand ne kur te ho aap idar disable kur sakth te hain."
+
+# | communitytranslateid=15908
+msgid "Hydrax Water System"
+msgstr "Hydrax Water System"
+
+# | communitytranslateid=15868
+msgid "High quality reflective effects"
+msgstr "burra quality reflective effetcs"
+
+# | communitytranslateid=15831
+msgid "High Quality"
+msgstr "taiz Quality"
+
+# | communitytranslateid=15829
+msgid "High Performance"
+msgstr "taiz Performance"
+
+# | communitytranslateid=15921
+msgid "here you can get help"
+msgstr "idar aap help lay sakth hain."
+
+# | communitytranslateid=15856
+msgid "HeatHaze"
+msgstr "HeatHaze"
+
+# | communitytranslateid=15857
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Engine's ke Heat haze, Bura slowdown.(nai-ya hardware main bus activate kur-na"
+
+# | communitytranslateid=15782
+msgid "health: "
+msgstr "health:"
+
+# | communitytranslateid=15832
+msgid "Graphics Settings"
+msgstr "Graphics ke settings"
+
+# | communitytranslateid=15817
+msgid "Graphics"
+msgstr "Graphics"
+
+# | communitytranslateid=15744
+msgid "Fully Manual shift"
+msgstr "poora Manual shift"
+
+# | communitytranslateid=15840
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Full screen mode tura-sa kum memory resources istimal kurta"
+
+# | communitytranslateid=15839
+msgid "Full screen"
+msgstr "Full screen"
+
+# | communitytranslateid=15936
+msgid "Full"
+msgstr "Full"
+
+# | communitytranslateid=15740
+msgid "free camera"
+msgstr "free camera"
+
+# | communitytranslateid=15893
+msgid "Fog"
+msgstr "Fog"
+
+# | communitytranslateid=15739
+msgid "fixed free camera"
+msgstr "free camera teek ho gya"
+
+# | communitytranslateid=15822
+msgid "Export Keymap"
+msgstr "Keymap ko export kur-lo"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=22702
+msgid "exit the game"
+msgstr "game ko bundh kardho"
+
+# | communitytranslateid=15803
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Event ke value (left = 0%, right = 100%)"
+
+# | communitytranslateid=15794
+msgid "Event Name: "
+msgstr "Event ka naam:"
+
+# | communitytranslateid=15802
+msgid "Event Name"
+msgstr "Event ke naam"
+
+# | communitytranslateid=15801
+msgid "Event Description: "
+msgstr "Event Ke Description"
+
+# | communitytranslateid=15923
+msgid "Event"
+msgstr "Event"
+
+# | communitytranslateid=15778
+msgid "Error while retrieving user space path"
+msgstr "Error ho gya jaab user sapce path ko retreive kur ne ki koshisht"
+
+# | communitytranslateid=15776
+msgid "Error while retrieving program space path"
+msgstr "Error ho ya jaab space patch ko retreive ho ra ta"
+
+# | communitytranslateid=15895
+msgid "Engine smoke"
+msgstr "engine ka dhuaa"
+
+# | communitytranslateid=15848
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Waves ko enable muzza add kurta hain, laykin burra peformance impact ho ga koi  specific hardware main"
+
+# | communitytranslateid=15909
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "nai water rendering system enable kur ta hain. EXPERIMENTAL. subb water settings ko override kur ta hain"
+
+# | communitytranslateid=15914
+msgid "Enable XFire Extension"
+msgstr "Xfire Extension ko enable kur ro"
+
+# | communitytranslateid=15847
+msgid "Enable waves"
+msgstr "Waves ko enable"
+
+# | communitytranslateid=15917
+msgid "Enable Visual Beam Debug"
+msgstr "Visual beam debug ko activiate"
+
+# | communitytranslateid=15873
+msgid "Enable network mode"
+msgstr "network mode ko enable kur-ro"
+
+# | communitytranslateid=15869
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "burra quality reflective effects ko enable kurta hain. slowdown cause kurta hain"
+
+# | communitytranslateid=15872
+msgid "Enable advanced wheel model"
+msgstr "Advance wheel model ko enable kur-ro"
+
+# | communitytranslateid=15854
+msgid "Dust"
+msgstr "Dust"
+
+# | communitytranslateid=15919
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Node numbers display kur ta hain aur zaada info nodes and beams ke saat"
+
+# | communitytranslateid=15911
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "map ko disable kur ta hain. ye bus testing purposes ke li ye, app koi fps nai gain kuro gae"
+
+# | communitytranslateid=15910
+msgid "Disable Overview Map"
+msgstr "overview map ko disable"
+
+# | communitytranslateid=15912
+msgid "Disable Camera Pitching"
+msgstr "Camera Pitching ko disable"
+
+# | communitytranslateid=15834
+msgid "Device:"
+msgstr "Device:"
+
+# | communitytranslateid=15783
+msgid "destruction: "
+msgstr "toot na kur na"
+
+# | communitytranslateid=15820
+msgid "Delete selected"
+msgstr "selected ko delete kur lo"
+
+# | communitytranslateid=15784
+msgid "deformed: "
+msgstr "deformed:"
+
+# # | translated from communitytranslateid=17175
+# | communitytranslateid=22706
+msgid "decreases the airplane thrust"
+msgstr "jahaaz ke thrust kum karo"
+
+# # | translated from communitytranslateid=17185
+# | communitytranslateid=22705
+msgid "decrease throttle"
+msgstr "throttle ko kum karo"
+
+# | communitytranslateid=15904
+msgid "Debug Truck Mass"
+msgstr "debug truck wazzan"
+
+# | communitytranslateid=15906
+msgid "Debug Collision Meshes"
+msgstr "Deboug Collison Meshes"
+
+# | communitytranslateid=15953
+msgid "Deadzone"
+msgstr "Deadzone"
+
+# | communitytranslateid=15959
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# | communitytranslateid=15957
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# | communitytranslateid=15960
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# | communitytranslateid=15958
+msgid "data/"
+msgstr "data/"
+
+# | communitytranslateid=15900
+msgid "Dashboard"
+msgstr "Dashboard"
+
+# | communitytranslateid=15897
+msgid "Custom Particles"
+msgstr "custom Particles"
+
+# | communitytranslateid=15790
+msgid "current Speed:"
+msgstr "abbi ka Speed"
+
+# | communitytranslateid=15789
+msgid "current RPM:"
+msgstr "abbi ka  RPM:"
+
+# | communitytranslateid=15788
+msgid "current mass:"
+msgstr "current wazzan:"
+
+# | communitytranslateid=13344
+msgid "Current FPS: "
+msgstr "Current FPS:"
+
+# | communitytranslateid=15827
+msgid "CPU Settings"
+msgstr "CPU ke settings"
+
+# | communitytranslateid=15700
+msgid "CPU"
+msgstr "CPU"
+
+# | communitytranslateid=15930
+msgid "Could not write config file"
+msgstr "config file ne write kur sakth te"
+
+# | communitytranslateid=15928
+msgid "Could not open Rendering device"
+msgstr "rendering device ne kul sakth te."
+
+# | communitytranslateid=15819
+msgid "Controls"
+msgstr "Controls"
+
+# | communitytranslateid=15931
+msgid "Configure error"
+msgstr "Configure error"
+
+# | communitytranslateid=15826
+msgid "Community / Support"
+msgstr "Community / Support"
+
+# | communitytranslateid=15793
+msgid "Commands:"
+msgstr "Commands:"
+
+# | communitytranslateid=15858
+msgid "Cockpit options"
+msgstr "Cockpit ke options"
+
+# | communitytranslateid=15800
+msgid "close this dialog"
+msgstr "dialog ko bund"
+
+# | communitytranslateid=15889
+msgid "Clear cache"
+msgstr "cache ko clear4"
+
+# | communitytranslateid=15973
+msgid "checking for new zips in "
+msgstr "checking for new zips in"
+
+# | communitytranslateid=15974
+msgid "checking for new directories in "
+msgstr "checking for new directories in"
+
+# | communitytranslateid=15815
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "configuration ke changes ko cancel kur-ro aur configuration pogram ko bund kur-ro"
+
+# | communitytranslateid=15757
+msgid "Cancel"
+msgstr "Cancel"
+
+# | communitytranslateid=15843
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Caleum sky achaa hain laykin  kaffi slow hain unless aap ke pas hain hi powered GPU"
+
+# | communitytranslateid=15781
+msgid "broken: "
+msgstr "tutahua:"
+
+# | communitytranslateid=15772
+msgid "Boat"
+msgstr "kishtee"
+
+# | communitytranslateid=15864
+msgid "Bloom"
+msgstr "Bloom"
+
+# | communitytranslateid=15730
+msgid "Best FPS: "
+msgstr "behtareen FPS"
+
+# | communitytranslateid=15780
+msgid "beam count: "
+msgstr "beam count:"
+
+# | communitytranslateid=15830
+msgid "Balanced"
+msgstr "Balanced"
+
+# | communitytranslateid=15733
+msgid "Bad server port"
+msgstr "burA server port"
+
+# | communitytranslateid=15786
+msgid "average stress: "
+msgstr "average zor"
+
+# | communitytranslateid=15729
+msgid "Average FPS: "
+msgstr "Average FPS"
+
+# | communitytranslateid=15785
+msgid "average deformation: "
+msgstr "average deformation:"
+
+# | communitytranslateid=15742
+msgid "Automatic shift"
+msgstr "Automatic Shift"
+
+# | communitytranslateid=15763
+msgid "Authors: "
+msgstr "Authors:"
+
+# | communitytranslateid=15837
+msgid "Anti-aliasing:"
+msgstr "Anti-aliasing:"
+
+# | communitytranslateid=15875
+msgid "Anonymous"
+msgstr "Anonymous"
+
+# | communitytranslateid=15792
+msgid "Altitude:"
+msgstr "Altitude:"
+
+# | communitytranslateid=15771
+msgid "Airplane"
+msgstr "jahaaz"
+
+# | communitytranslateid=15825
+msgid "Advanced"
+msgstr "Advanced"
+
+# | communitytranslateid=15799
+msgid "Add the key"
+msgstr "key ko jama"
+
+# | communitytranslateid=15798
+msgid "Add"
+msgstr "jama"
+
+# | communitytranslateid=15734
+msgid "A network error occured"
+msgstr "aik qafas error ho gya"
+
+# | communitytranslateid=15944
+msgid "5% deadzone"
+msgstr "5% deadzone"
+
+# | communitytranslateid=15943
+msgid "5 %"
+msgstr "5 %"
+
+# | communitytranslateid=15952
+msgid "30% deadzone"
+msgstr "30% deadzone"
+
+# | communitytranslateid=15951
+msgid "30 %"
+msgstr "30 %"
+
+# | communitytranslateid=15950
+msgid "20% deadzone"
+msgstr "20% deadzone"
+
+# | communitytranslateid=15949
+msgid "20 %"
+msgstr "20 %"
+
+# | communitytranslateid=15948
+msgid "15% deadzone"
+msgstr "15% deadzone"
+
+# | communitytranslateid=15947
+msgid "15 %"
+msgstr "15 %"
+
+# | communitytranslateid=15878
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# | communitytranslateid=15880
+msgid "12333"
+msgstr "12333"
+
+# | communitytranslateid=15946
+msgid "10% deadzone"
+msgstr "10% deadzone"
+
+# | communitytranslateid=15945
+msgid "10 %"
+msgstr "10 %"
+
+# | communitytranslateid=15941
+msgid "0 % (No deadzone)"
+msgstr "0 % (koi bai nai deadzone)"
+
+# | communitytranslateid=15876
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "multiplayer main kaise kilte hain::</p><br><ol><li>  click kur-ro <b>Update</b> button availbable servers dayk ne</li><li> koi wai underlined server click kur-ro./li><li>Click on <b<b>Save aur Play</b> button  , game ko start kurne.</li></ol>"
+
+# | communitytranslateid=15961
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>subb sey nai News</h2>kuch nai atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (ye site enhance ho nai e...)"
+
+# | communitytranslateid=15916
+msgid "(Please press a key)"
+msgstr "(please aap ik key press kur re)"
+
+# | communitytranslateid=15806
+msgid "(Please press a Joystick Button)"
+msgstr "(koi joystick ke button press kurro)"
+
+# | communitytranslateid=15807
+msgid "(Please move an Axis)\n"
+msgstr "(axis ko please move kur-ro)\n"
+
+# | communitytranslateid=15891
+msgid "(No Languages found)"
+msgstr "koi nai language found"
+
+# | communitytranslateid=15779
+msgid "(no author information available)"
+msgstr "(koi nai author information hain)"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=22700
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "...loading...(upna internet connection dhakoo)"
+
+# | communitytranslateid=15746
+msgid "^8 Player: ^7"
+msgstr "^8 Player: ^7"
+
+# | communitytranslateid=15749
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 usage: /rcmd [command] [optional arguments]"
+
+# | communitytranslateid=15753
+msgid "^1 unkown Command: "
+msgstr "^1 unkown Command:"
+
+# | communitytranslateid=15748
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 ERROR:  app ko /rlogin [password] pehlay istemaal cur na"
+
+# | communitytranslateid=15751
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 ERROR: protocol error  ho ya  jab command RCON ko send kur ne ke koshish kya"
+
+# | communitytranslateid=15747
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 ERROR: protocol error ho ya jab tak koshish kya log into RCON:"
+
+# | communitytranslateid=15752
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 ERROR: network mode main nai hain"
+
+# | communitytranslateid=15754
+msgid "^1 Error Parsing command"
+msgstr "^1 Error Parsing command"
+
+# | communitytranslateid=15964
+msgid " not existing"
+msgstr "nai existing"
+
+# | communitytranslateid=15965
+msgid " changed"
+msgstr "changed ho gya"
+

@@ -1,0 +1,1169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=23720
+msgid "zoom camera out faster"
+msgstr "ズームアウト(高速)"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=23704
+msgid "zoom camera out"
+msgstr "ズームアウト"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=23719
+msgid "zoom camera in faster"
+msgstr "ズームイン(高速)"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=21715
+msgid "zoom camera in"
+msgstr "ズームイン"
+
+# | communitytranslateid=16066
+msgid "Your network name. Maximum 20 Characters."
+msgstr "ニックネームを入力してください(最大20文字)"
+
+# # | translated from communitytranslateid=10767
+# | communitytranslateid=23763
+msgid "Your Forum User Token."
+msgstr "フォーラムのユーザートークン。"
+
+# # | translated from communitytranslateid=10804
+# | communitytranslateid=17134
+msgid "You must save and restart the program to activate the new language!"
+msgstr "新しい言語設定を有効にするためにプログラムを再起動する必要があります"
+
+# # | translated from communitytranslateid=10769
+# | communitytranslateid=21161
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "問題が発生しない限りこれらの設定を変更する必要はありません"
+
+# | communitytranslateid=16067
+msgid "wrote screenshot:"
+msgstr "スクリーンショットを保存しました:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=23708
+msgid "Write error"
+msgstr "書き込みエラー"
+
+# | communitytranslateid=16059
+msgid "Worst FPS: "
+msgstr "最低FPS:"
+
+# # | translated from communitytranslateid=10644
+# | communitytranslateid=23703
+msgid "Wheels: "
+msgstr "ホイール:"
+
+# | communitytranslateid=16071
+msgid "Water type:"
+msgstr "水のタイプ:"
+
+# | communitytranslateid=16132
+msgid "Water spray"
+msgstr "水しぶきの表示"
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=21146
+msgid "Warning"
+msgstr "警告"
+
+# | communitytranslateid=16020
+msgid "VSync"
+msgstr "垂直同期"
+
+# | communitytranslateid=16134
+msgid "Visual effects"
+msgstr "その他"
+
+# | communitytranslateid=16257
+msgid "Video mode:"
+msgstr "解像度･色深度:"
+
+# # | translated from communitytranslateid=10654
+# | communitytranslateid=23706
+msgid "Vehicle Type: "
+msgstr "車両タイプ:"
+
+# | communitytranslateid=16072
+msgid "Vegetation:"
+msgstr "草木："
+
+# # | translated from communitytranslateid=10766
+# | communitytranslateid=23741
+msgid "User Token: "
+msgstr "ユーザートークン:"
+
+# # | translated from communitytranslateid=10819
+# | communitytranslateid=23754
+msgid "Upper"
+msgstr "アッパー"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=21156
+msgid "Updates"
+msgstr "更新"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=21157
+msgid "Update now"
+msgstr "今すぐ更新する"
+
+# | communitytranslateid=16102
+msgid "Update"
+msgstr "更新"
+
+# # | translated from communitytranslateid=10641
+# | communitytranslateid=23825
+msgid "unknown.dds"
+msgstr "unknown.dds"
+
+# | communitytranslateid=16090
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "サーバーに接続できません。ネットワークに問題があります。"
+
+# | communitytranslateid=16088
+msgid "Unable to connect to server"
+msgstr "サーバーに接続できません。"
+
+# | communitytranslateid=16073
+msgid "Type"
+msgstr "タイプ"
+
+# | communitytranslateid=16138
+msgid "Trying to connect to server ..."
+msgstr "サーバーに接続しています..."
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=23738
+msgid "truck horn"
+msgstr "トラックホーン"
+
+# | communitytranslateid=16052
+msgid "Truck"
+msgstr "トラック"
+
+# | communitytranslateid=16139
+msgid "Triangle Count: "
+msgstr "面の数:"
+
+# # | translated from communitytranslateid=19404
+# | communitytranslateid=23762
+msgid "Total Linear"
+msgstr "線の合計"
+
+# # | translated from communitytranslateid=10648
+# | communitytranslateid=21148
+msgid "Torque: "
+msgstr "トルク:"
+
+# | communitytranslateid=16074
+msgid "tons"
+msgstr "トン"
+
+# | communitytranslateid=16267
+msgid "Thread number:"
+msgstr "マルチスレッド:"
+
+# | communitytranslateid=16141
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "言語設定を変更するには、設定画面の再起動が必要です。"
+
+# | communitytranslateid=16151
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "古いパソコンではFPSが下がりますが、見た目はよくなります。"
+
+# # | translated from communitytranslateid=10765
+# | communitytranslateid=23817
+msgid "The server password, if required."
+msgstr "サーバーにパスワードが設定されているなら入力して下さい。"
+
+# | communitytranslateid=16130
+msgid "Texture filtering:"
+msgstr "テクスチャフィルタリング:"
+
+# | communitytranslateid=16027
+msgid "Test"
+msgstr "テスト"
+
+# | communitytranslateid=16089
+msgid "Terrain not found: "
+msgstr "地形が見つかりません。"
+
+# # | translated from communitytranslateid=10618
+# | communitytranslateid=23764
+msgid "Terrain loading error"
+msgstr "地形読み込みエラー"
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=23748
+msgid "teleport to rescue truck"
+msgstr "レスキュートラックにテレポート"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=23756
+msgid "take a screenshot"
+msgstr "スクリーンショットの撮影"
+
+# # | translated from communitytranslateid=17179
+# | communitytranslateid=23749
+msgid "switch all engines on / off"
+msgstr "全てのエンジンを ON/OFF"
+
+# # | translated from communitytranslateid=10744
+# | communitytranslateid=23747
+msgid "Sunburn"
+msgstr "サンバーン"
+
+# | communitytranslateid=16084
+msgid "Startup error"
+msgstr "起動エラー"
+
+# # | translated from communitytranslateid=15714
+# | communitytranslateid=23766
+msgid "SPECIAL_CHARACTERS"
+msgstr "スペシャルキャラクター"
+
+# | communitytranslateid=16261
+msgid "Special effects"
+msgstr "特殊効果設定"
+
+# | communitytranslateid=16077
+msgid "Sounds"
+msgstr "音声"
+
+# | communitytranslateid=16266
+msgid "Sound rendering:"
+msgstr "音声出力の方式:"
+
+# | communitytranslateid=16262
+msgid "Sky type:"
+msgstr "空のタイプ:"
+
+# # | translated from communitytranslateid=17157
+# | communitytranslateid=23709
+msgid "Skins"
+msgstr "スキン"
+
+# | communitytranslateid=16258
+msgid "Simple Settings"
+msgstr "簡単設定"
+
+# | communitytranslateid=16147
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "(すみません再翻訳お願いします)"
+
+# # | translated from communitytranslateid=17332
+# | communitytranslateid=23710
+msgid "show truck tool"
+msgstr "トラックツールを表示"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=23757
+msgid "show / hide the console"
+msgstr "コンソールを 表示/非表示"
+
+# | communitytranslateid=16085
+msgid "Shadow type:"
+msgstr "影のタイプ:"
+
+# | communitytranslateid=16075
+msgid "Server port number: "
+msgstr "ポート番号:"
+
+# | communitytranslateid=16099
+msgid "Server password: "
+msgstr "パスワード:"
+
+# | communitytranslateid=16270
+msgid "Server host name: "
+msgstr "ホスト名･IPアドレス:"
+
+# | communitytranslateid=16018
+msgid "Search"
+msgstr "検索"
+
+# | communitytranslateid=16076
+msgid "Screenshot Format:"
+msgstr "スクリーンショットの形式:"
+
+# | communitytranslateid=16260
+msgid "Screen configuration"
+msgstr "表示設定"
+
+# | communitytranslateid=16158
+msgid "Save the current configuration and start RoR."
+msgstr "現在の設定を保存し、ゲームを開始します。"
+
+# | communitytranslateid=16159
+msgid "Save the current configuration and close the configuration program."
+msgstr "現在の設定を保存し、設定画面を閉じます。"
+
+# | communitytranslateid=16050
+msgid "Save and Play"
+msgstr "保存して起動"
+
+# | communitytranslateid=16061
+msgid "Save and Exit"
+msgstr "保存して終了"
+
+# # | translated from communitytranslateid=17172
+# | communitytranslateid=23711
+msgid "rudder right"
+msgstr "ラダーライト"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=23714
+msgid "rudder left"
+msgstr "ラダーレフト"
+
+# # | translated from communitytranslateid=10716
+# | communitytranslateid=23713
+msgid "RTT Mode:"
+msgstr "RTTモード:"
+
+# # | translated from communitytranslateid=10688
+# | communitytranslateid=23755
+msgid "Rigs of Rods configuration"
+msgstr "Rigs of Rodsの設定"
+
+# # | translated from communitytranslateid=10816
+# | communitytranslateid=23752
+msgid "Reverse"
+msgstr "反転"
+
+# # | translated from communitytranslateid=10690
+# | communitytranslateid=23761
+msgid "Restore the default configuration."
+msgstr "設定をデフォルトに戻します。"
+
+# | communitytranslateid=16271
+msgid "Restore Defaults"
+msgstr "設定初期化"
+
+# # | translated from communitytranslateid=17193
+# | communitytranslateid=23812
+msgid "reset the camera position"
+msgstr "カメラ位置をリセット"
+
+# | communitytranslateid=16083
+msgid "Replay Mode"
+msgstr "リプレイモード"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=23740
+msgid "Render System"
+msgstr "レンダリングシステム"
+
+# # | translated from communitytranslateid=17143
+# | communitytranslateid=23742
+msgid "Regen cache"
+msgstr "キャッシュの再構築"
+
+# # | translated from communitytranslateid=19418
+# | communitytranslateid=23746
+msgid "Please select what type of device to export"
+msgstr "エクスポートするデバイスを選択して下さい"
+
+# | communitytranslateid=16097
+msgid "Please clear the place first"
+msgstr "出現位置にある物を移動して下さい"
+
+# | communitytranslateid=16264
+msgid "Particle systems"
+msgstr "パーティクル設定"
+
+# | communitytranslateid=16078
+msgid "Options"
+msgstr "オプション"
+
+# | communitytranslateid=16070
+msgid "ok (end test)"
+msgstr "OK(テスト終了)"
+
+# | communitytranslateid=16045
+msgid "OK"
+msgstr "OK"
+
+# # | translated from communitytranslateid=10622
+# | communitytranslateid=23822
+msgid "normal camera"
+msgstr "ノーマルカメラ"
+
+# # | translated from communitytranslateid=10647
+# | communitytranslateid=23760
+msgid "Nodes: "
+msgstr "ノード:"
+
+# # | translated from communitytranslateid=10667
+# | communitytranslateid=23821
+msgid "node count: "
+msgstr "ノード数:"
+
+# | communitytranslateid=16096
+msgid "Nickname: "
+msgstr "ニックネーム:"
+
+# # | translated from communitytranslateid=10805
+# | communitytranslateid=23819
+msgid "new Language selected"
+msgstr "新しい言語を選択"
+
+# | communitytranslateid=16058
+msgid "Network"
+msgstr "マルチプレイ"
+
+# | communitytranslateid=16087
+msgid "Motion blur"
+msgstr "モーションブラー"
+
+# | communitytranslateid=16060
+msgid "Mirrors"
+msgstr "ミラーの表示"
+
+# # | translated from communitytranslateid=10801
+# | communitytranslateid=23736
+msgid "minimum visibility range in percent"
+msgstr "最低視認距離(%)"
+
+# | communitytranslateid=16053
+msgid "max Speed:"
+msgstr "最高速度:"
+
+# | communitytranslateid=16051
+msgid "Manual shift - Auto clutch"
+msgstr "[AMT]マニュアルトランスミッション(自動クラッチ)"
+
+# # | translated from communitytranslateid=10653
+# | communitytranslateid=23722
+msgid "Machine"
+msgstr "マシン"
+
+# | communitytranslateid=16069
+msgid "loading...\n"
+msgstr "読み込み中...\n"
+
+# | communitytranslateid=16068
+msgid "Loading Terrain"
+msgstr "地形を読み込み中..."
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=23759
+msgid "loading new zip: "
+msgstr "新しいzipを読み込み中:"
+
+# | communitytranslateid=16104
+msgid "Loader"
+msgstr "読み込み"
+
+# | communitytranslateid=16081
+msgid "List"
+msgstr "リスト"
+
+# # | translated from communitytranslateid=10772
+# | communitytranslateid=23735
+msgid "Light source effects:"
+msgstr "光源効果:"
+
+# | communitytranslateid=16023
+msgid "Language:"
+msgstr "言語:"
+
+# | communitytranslateid=16024
+msgid "Keyboard"
+msgstr "キーボード"
+
+# | communitytranslateid=16268
+msgid "Key/Axis"
+msgstr "割り当て"
+
+# | communitytranslateid=16056
+msgid "Joystick Options"
+msgstr "ジョイスティック設定"
+
+# # | translated from communitytranslateid=10837
+# | communitytranslateid=23824
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# # | translated from communitytranslateid=10677
+# | communitytranslateid=23750
+msgid "Input Type: "
+msgstr "入力タイプ:"
+
+# # | translated from communitytranslateid=10702
+# | communitytranslateid=23743
+msgid "Import Keymap"
+msgstr "キーマップをインポート"
+
+# | communitytranslateid=16080
+msgid "High quality reflective effects"
+msgstr "鏡面反射"
+
+# | communitytranslateid=16036
+msgid "High Quality"
+msgstr "画質優先"
+
+# | communitytranslateid=16037
+msgid "High Performance"
+msgstr "速度優先"
+
+# | communitytranslateid=16265
+msgid "HeatHaze"
+msgstr "陽炎(かげろう)"
+
+# # | translated from communitytranslateid=10662
+# | communitytranslateid=23723
+msgid "health: "
+msgstr "ヘルス:"
+
+# | communitytranslateid=16034
+msgid "Graphics Settings"
+msgstr "グラフィック設定"
+
+# | communitytranslateid=16022
+msgid "Graphics"
+msgstr "表示"
+
+# | communitytranslateid=16049
+msgid "Fully Manual shift"
+msgstr "[MT]マニュアルトランスミッション"
+
+# # | translated from communitytranslateid=10721
+# | communitytranslateid=21160
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "フルスクリーンモードより多くのメモリを使用します"
+
+# | communitytranslateid=16021
+msgid "Full screen"
+msgstr "フルスクリーン"
+
+# # | translated from communitytranslateid=10820
+# | communitytranslateid=23705
+msgid "Full"
+msgstr "フル"
+
+# | communitytranslateid=16131
+msgid "free camera"
+msgstr "フリーカメラモード"
+
+# # | translated from communitytranslateid=17156
+# | communitytranslateid=23707
+msgid "FOV: "
+msgstr "視野:"
+
+# # | translated from communitytranslateid=10777
+# | communitytranslateid=21153
+msgid "Fog"
+msgstr "霧"
+
+# # | translated from communitytranslateid=19419
+# | communitytranslateid=23816
+msgid "Export selection"
+msgstr "エクスポートセレクション"
+
+# # | translated from communitytranslateid=10703
+# | communitytranslateid=23744
+msgid "Export Keymap"
+msgstr "キーマップをエクスポート"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=23737
+msgid "exit the game"
+msgstr "ゲームを終了"
+
+# # | translated from communitytranslateid=10674
+# | communitytranslateid=23712
+msgid "Event Name: "
+msgstr "イベント名:"
+
+# # | translated from communitytranslateid=10682
+# | communitytranslateid=23721
+msgid "Event Name"
+msgstr "イベント名"
+
+# | communitytranslateid=16057
+msgid "Event"
+msgstr "動作"
+
+# | communitytranslateid=16033
+msgid "Engine smoke"
+msgstr "排気ガス"
+
+# | communitytranslateid=16263
+msgid "Enable waves"
+msgstr "波を起こす"
+
+# # | translated from communitytranslateid=19429
+# | communitytranslateid=23820
+msgid "enable or disable replay mode"
+msgstr "リプレイモードを 有効/無効"
+
+# | communitytranslateid=16086
+msgid "Enable network mode"
+msgstr "ネットワークモードを使用する"
+
+# # | translated from communitytranslateid=17336
+# | communitytranslateid=23815
+msgid "enable / disable free camera mode"
+msgstr "フリーカメラモードを 有効/無効"
+
+# | communitytranslateid=16046
+msgid "Dust"
+msgstr "砂埃"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=23823
+msgid "disable creak sound"
+msgstr "きしみ音を無効化"
+
+# # | translated from communitytranslateid=10795
+# | communitytranslateid=23765
+msgid "Disable Camera Pitching"
+msgstr "カメラピッチを無効化"
+
+# | communitytranslateid=16025
+msgid "Device:"
+msgstr "使用GPU:"
+
+# # | translated from communitytranslateid=10701
+# | communitytranslateid=23745
+msgid "Delete selected"
+msgstr "選択した項目\nを削除"
+
+# # | translated from communitytranslateid=17350
+# | communitytranslateid=23813
+msgid "delete current truck"
+msgstr "現在のトラックを削除"
+
+# # | translated from communitytranslateid=10664
+# | communitytranslateid=23826
+msgid "deformed: "
+msgstr "デフォルメ:"
+
+# # | translated from communitytranslateid=17158
+# | communitytranslateid=23715
+msgid "Default Skin"
+msgstr "デフォルトスキン"
+
+# | communitytranslateid=16054
+msgid "Dashboard"
+msgstr "運転席メーターを動かす"
+
+# | communitytranslateid=16095
+msgid "current Speed:"
+msgstr "現在の速度"
+
+# | communitytranslateid=16100
+msgid "current RPM:"
+msgstr "現在のエンジン回転数(rpm):"
+
+# | communitytranslateid=13338
+msgid "Current FPS: "
+msgstr "現在のFPS:"
+
+# | communitytranslateid=16035
+msgid "CPU Settings"
+msgstr "CPU設定"
+
+# | communitytranslateid=16028
+msgid "CPU"
+msgstr "CPU"
+
+# | communitytranslateid=16101
+msgid "Controls"
+msgstr "操作"
+
+# # | translated from communitytranslateid=10814
+# | communitytranslateid=23758
+msgid "Configure error"
+msgstr "設定エラー"
+
+# | communitytranslateid=16098
+msgid "Community / Support"
+msgstr "コミュニティー/サポート"
+
+# | communitytranslateid=16082
+msgid "Commands:"
+msgstr "コマンド:"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=21155
+msgid "Command 9"
+msgstr "コマンド9"
+
+# # | translated from communitytranslateid=17217
+# | communitytranslateid=23768
+msgid "Command 8"
+msgstr "コマンド8"
+
+# # | translated from communitytranslateid=17216
+# | communitytranslateid=23767
+msgid "Command 7"
+msgstr "コマンド7"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=23769
+msgid "Command 6"
+msgstr "コマンド6"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=23770
+msgid "Command 5"
+msgstr "コマンド5"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=23771
+msgid "Command 48"
+msgstr "コマンド48"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=23772
+msgid "Command 47"
+msgstr "コマンド47"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=23773
+msgid "Command 46"
+msgstr "コマンド46"
+
+# # | translated from communitytranslateid=17254
+# | communitytranslateid=23774
+msgid "Command 45"
+msgstr "コマンド45"
+
+# # | translated from communitytranslateid=17253
+# | communitytranslateid=23775
+msgid "Command 44"
+msgstr "コマンド44"
+
+# # | translated from communitytranslateid=17252
+# | communitytranslateid=23776
+msgid "Command 43"
+msgstr "コマンド43"
+
+# # | translated from communitytranslateid=17251
+# | communitytranslateid=23777
+msgid "Command 42"
+msgstr "コマンド42"
+
+# # | translated from communitytranslateid=17250
+# | communitytranslateid=23778
+msgid "Command 41"
+msgstr "コマンド41"
+
+# # | translated from communitytranslateid=17249
+# | communitytranslateid=23779
+msgid "Command 40"
+msgstr "コマンド40"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=23780
+msgid "Command 4"
+msgstr "コマンド4"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=23781
+msgid "Command 39"
+msgstr "コマンド39"
+
+# # | translated from communitytranslateid=17247
+# | communitytranslateid=23782
+msgid "Command 38"
+msgstr "コマンド38"
+
+# # | translated from communitytranslateid=17246
+# | communitytranslateid=23783
+msgid "Command 37"
+msgstr "コマンド37"
+
+# # | translated from communitytranslateid=17245
+# | communitytranslateid=23784
+msgid "Command 36"
+msgstr "コマンド36"
+
+# # | translated from communitytranslateid=17244
+# | communitytranslateid=23785
+msgid "Command 35"
+msgstr "コマンド35"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=23786
+msgid "Command 34"
+msgstr "コマンド34"
+
+# # | translated from communitytranslateid=17242
+# | communitytranslateid=23787
+msgid "Command 33"
+msgstr "コマンド33"
+
+# # | translated from communitytranslateid=17241
+# | communitytranslateid=23788
+msgid "Command 32"
+msgstr "コマンド32"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=23789
+msgid "Command 31"
+msgstr "コマンド31"
+
+# # | translated from communitytranslateid=17239
+# | communitytranslateid=23790
+msgid "Command 30"
+msgstr "コマンド30"
+
+# # | translated from communitytranslateid=17212
+# | communitytranslateid=23791
+msgid "Command 3"
+msgstr "コマンド3"
+
+# # | translated from communitytranslateid=17238
+# | communitytranslateid=23792
+msgid "Command 29"
+msgstr "コマンド29"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=23793
+msgid "Command 28"
+msgstr "コマンド28"
+
+# # | translated from communitytranslateid=17236
+# | communitytranslateid=23794
+msgid "Command 27"
+msgstr "コマンド27"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=23795
+msgid "Command 26"
+msgstr "コマンド26"
+
+# # | translated from communitytranslateid=17234
+# | communitytranslateid=23796
+msgid "Command 25"
+msgstr "コマンド25"
+
+# # | translated from communitytranslateid=17233
+# | communitytranslateid=23797
+msgid "Command 24"
+msgstr "コマンド24"
+
+# # | translated from communitytranslateid=17232
+# | communitytranslateid=23798
+msgid "Command 23"
+msgstr "コマンド23"
+
+# # | translated from communitytranslateid=17231
+# | communitytranslateid=23799
+msgid "Command 22"
+msgstr "コマンド22"
+
+# # | translated from communitytranslateid=17230
+# | communitytranslateid=23800
+msgid "Command 21"
+msgstr "コマンド21"
+
+# # | translated from communitytranslateid=17229
+# | communitytranslateid=23801
+msgid "Command 20"
+msgstr "コマンド20"
+
+# # | translated from communitytranslateid=17211
+# | communitytranslateid=21154
+msgid "Command 2"
+msgstr "コマンド2"
+
+# # | translated from communitytranslateid=17228
+# | communitytranslateid=23802
+msgid "Command 19"
+msgstr "コマンド19"
+
+# # | translated from communitytranslateid=17227
+# | communitytranslateid=23803
+msgid "Command 18"
+msgstr "コマンド18"
+
+# # | translated from communitytranslateid=17226
+# | communitytranslateid=23804
+msgid "Command 17"
+msgstr "コマンド17"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=23805
+msgid "Command 16"
+msgstr "コマンド16"
+
+# # | translated from communitytranslateid=17224
+# | communitytranslateid=23806
+msgid "Command 15"
+msgstr "コマンド15"
+
+# # | translated from communitytranslateid=17223
+# | communitytranslateid=23807
+msgid "Command 14"
+msgstr "コマンド14"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=23808
+msgid "Command 13"
+msgstr "コマンド13"
+
+# # | translated from communitytranslateid=17221
+# | communitytranslateid=23809
+msgid "Command 12"
+msgstr "コマンド12"
+
+# # | translated from communitytranslateid=17220
+# | communitytranslateid=23810
+msgid "Command 11"
+msgstr "コマンド11"
+
+# # | translated from communitytranslateid=17219
+# | communitytranslateid=23811
+msgid "Command 10"
+msgstr "コマンド10"
+
+# # | translated from communitytranslateid=17210
+# | communitytranslateid=21150
+msgid "Command 1"
+msgstr "コマンド1"
+
+# | communitytranslateid=16079
+msgid "Cockpit options"
+msgstr "運転席の設定"
+
+# # | translated from communitytranslateid=10680
+# | communitytranslateid=21147
+msgid "close this dialog"
+msgstr "このダイアログを閉じてください"
+
+# | communitytranslateid=16048
+msgid "Clear cache"
+msgstr "キャッシュの消去"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=21152
+msgid "Choose a file"
+msgstr "ファイルを選択してください"
+
+# # | translated from communitytranslateid=17191
+# | communitytranslateid=23739
+msgid "change camera mode"
+msgstr "カメラモードを変更"
+
+# # | translated from communitytranslateid=10695
+# | communitytranslateid=21149
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "変更をキャンセルし、プログラムを終了します"
+
+# | communitytranslateid=16026
+msgid "Cancel"
+msgstr "キャンセル"
+
+# # | translated from communitytranslateid=17155
+# | communitytranslateid=23818
+msgid "Cache regeneration done.\n"
+msgstr "キャッシュを再構築しました。\n"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=21145
+msgid "brake"
+msgstr "ブレーキ"
+
+# | communitytranslateid=16032
+msgid "Boat"
+msgstr "船･ボート"
+
+# | communitytranslateid=16047
+msgid "Best FPS: "
+msgstr "最高FPS:"
+
+# | communitytranslateid=16094
+msgid "Balanced"
+msgstr "バランス(デフォルト)"
+
+# | communitytranslateid=16019
+msgid "Average FPS: "
+msgstr "平均FPS:"
+
+# | communitytranslateid=16093
+msgid "Automatic shift"
+msgstr "[AT]オートマチックシフト"
+
+# # | translated from communitytranslateid=10643
+# | communitytranslateid=23734
+msgid "Authors: "
+msgstr "作者:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=23716
+msgid "Author: "
+msgstr "作者:"
+
+# | communitytranslateid=16029
+msgid "Anti-aliasing:"
+msgstr "アンチエイリアス:"
+
+# | communitytranslateid=16030
+msgid "Anonymous"
+msgstr "名無しさん"
+
+# # | translated from communitytranslateid=10672
+# | communitytranslateid=23753
+msgid "Altitude:"
+msgstr "高度:"
+
+# | communitytranslateid=16031
+msgid "Airplane"
+msgstr "飛行機"
+
+# | communitytranslateid=16259
+msgid "Advanced"
+msgstr "拡張"
+
+# # | translated from communitytranslateid=10679
+# | communitytranslateid=23814
+msgid "Add the key"
+msgstr "キーを追加"
+
+# # | translated from communitytranslateid=10678
+# | communitytranslateid=23717
+msgid "Add"
+msgstr "追加"
+
+# | communitytranslateid=16092
+msgid "A network error occured"
+msgstr "ネットワークエラーが発生しました。"
+
+# | communitytranslateid=16062
+msgid "5 %"
+msgstr "5%"
+
+# | communitytranslateid=16064
+msgid "30 %"
+msgstr "30%"
+
+# | communitytranslateid=16063
+msgid "20 %"
+msgstr "20%"
+
+# | communitytranslateid=16043
+msgid "15 %"
+msgstr "15%"
+
+# | communitytranslateid=16065
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# | communitytranslateid=16103
+msgid "12333"
+msgstr "12333"
+
+# | communitytranslateid=16055
+msgid "10 %"
+msgstr "10%"
+
+# | communitytranslateid=16042
+msgid "0 % (No deadzone)"
+msgstr "0%"
+
+# # | translated from communitytranslateid=10759
+# | communitytranslateid=21151
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>マルチプレイのやり方</p><br><ol><li><b>更新</b>をクリックし現在利用可能なサーバーを表示させて下さい。</li><li>利用可能なサーバーの青字をクリックし選択してください。</li><li><b>保存して起動</b>を押すとマルチプレイが始まります。</li></ol>"
+
+# # | translated from communitytranslateid=15252
+# | communitytranslateid=21158
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>最新のニュース</h2>ありません<h2>サポート/コミュニティ</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>チュートリアル</a><p/>"
+
+# # | translated from communitytranslateid=19401
+# | communitytranslateid=23726
+msgid "+5 %"
+msgstr "+5%"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=23727
+msgid "+30 %"
+msgstr "+30%"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=23728
+msgid "+25 %"
+msgstr "+25%"
+
+# # | translated from communitytranslateid=19395
+# | communitytranslateid=23729
+msgid "+20 %"
+msgstr "+20%"
+
+# # | translated from communitytranslateid=19397
+# | communitytranslateid=23751
+msgid "+15 %"
+msgstr "+15%"
+
+# # | translated from communitytranslateid=19399
+# | communitytranslateid=23724
+msgid "+10 %"
+msgstr "+10%"
+
+# | communitytranslateid=16039
+msgid "(Please press a key)"
+msgstr "(何かキーを押してください)"
+
+# | communitytranslateid=16040
+msgid "(Please press a Joystick Button)"
+msgstr "(何かジョイスティックのボタンを押してください)"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=21159
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "読み込み中...(もしかしたらネットワーク接続を確認したほうが良いかもしれません)"
+
+# # | translated from communitytranslateid=19405
+# | communitytranslateid=23730
+msgid "-5 %"
+msgstr "-5%"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=23731
+msgid "-30 %"
+msgstr "-30%"
+
+# # | translated from communitytranslateid=19413
+# | communitytranslateid=23732
+msgid "-25 %"
+msgstr "-25%"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=23733
+msgid "-20 %"
+msgstr "-20%"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=23725
+msgid "-15 %"
+msgstr "-15%"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=23718
+msgid "-10 %"
+msgstr "-10%"
+
+# | communitytranslateid=16041
+msgid "^8 Player: ^7"
+msgstr "^8 プレイヤー: ^7"
+
+# | communitytranslateid=16091
+msgid " changed"
+msgstr "変更済み"
+

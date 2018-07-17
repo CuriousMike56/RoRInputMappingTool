@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=22254
+msgid "zoom into the overview map in interactive mode"
+msgstr "uvecaj u mapu sireg opsega u interaktivnom modu"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=22257
+msgid "zoom camera out faster"
+msgstr "uvecaj kameru brze"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=22262
+msgid "zoom camera out"
+msgstr "uvecaj kameru napolje"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=22721
+msgid "zoom camera in faster"
+msgstr "zumiraj kameru brze"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=22725
+msgid "steer right"
+msgstr "upravljane:levo"
+
+# # | translated from communitytranslateid=10640
+# | communitytranslateid=22724
+msgid "Search"
+msgstr "nadji"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=22260
+msgid "rudder left"
+msgstr "kormilo levo"
+
+# # | translated from communitytranslateid=17205
+# | communitytranslateid=22723
+msgid "rotate character left"
+msgstr "pomeri karaktera levo"
+
+# # | translated from communitytranslateid=10689
+# | communitytranslateid=22267
+msgid "Restore Defaults"
+msgstr "vrati na vec namesteno"
+
+# # | translated from communitytranslateid=10786
+# | communitytranslateid=22266
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "filmski mod . (moze da deluje na tvoj fps)"
+
+# # | translated from communitytranslateid=10809
+# | communitytranslateid=22258
+msgid "Options"
+msgstr "opcije"
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=22726
+msgid "loading new zip: "
+msgstr "ucitavanje novih ZIP:"
+
+# # | translated from communitytranslateid=17347
+# | communitytranslateid=22264
+msgid "less airbrakes"
+msgstr "manje vazdusnih kocnica"
+
+# # | translated from communitytranslateid=15259
+# | communitytranslateid=22263
+msgid "incremental check: new files\n"
+msgstr "opsti pregled:novi fajlovi \n"
+
+# # | translated from communitytranslateid=17266
+# | communitytranslateid=22261
+msgid "decrease tire pressure (note: only very few trucks support this)"
+msgstr "smanji pritisak u gumama (izvestaj:samo neki kamioni mogu ovo)"
+
+# # | translated from communitytranslateid=10842
+# | communitytranslateid=22259
+msgid "data\\\\config.bmp"
+msgstr "data\\\\konfig.bmp"
+
+# # | translated from communitytranslateid=17254
+# | communitytranslateid=22255
+msgid "Command 45"
+msgstr "komanda 45"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=22256
+msgid "Command 39"
+msgstr "komanda broj 39"
+
+# # | translated from communitytranslateid=15265
+# | communitytranslateid=22265
+msgid "checking for new directories in "
+msgstr "pregled za nove fajlove unutra"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=22722
+msgid "-10 %"
+msgstr "-10 od 100"
+

@@ -1,0 +1,440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=20944
+msgid "zoom into the overview map in interactive mode"
+msgstr "zoom en el mapa general en mode interactiu"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=20945
+msgid "zoom camera out faster"
+msgstr "zoom de la càmera més ràpida"
+
+# # | translated from communitytranslateid=10769
+# | communitytranslateid=21003
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "No és necessari canviar-les a no ser que tingui problemes"
+
+# # | translated from communitytranslateid=10727
+# | communitytranslateid=20975
+msgid "Water type:"
+msgstr "Tipus d'Aigua"
+
+# # | translated from communitytranslateid=10731
+# | communitytranslateid=20977
+msgid "Water spray"
+msgstr "Aigua en Spray"
+
+# # | translated from communitytranslateid=10722
+# | communitytranslateid=20971
+msgid "VSync"
+msgstr "VSync"
+
+# # | translated from communitytranslateid=10743
+# | communitytranslateid=20990
+msgid "Visual effects"
+msgstr "Efectes Visuals"
+
+# # | translated from communitytranslateid=10717
+# | communitytranslateid=20970
+msgid "Video mode:"
+msgstr "Mode de vídeo:"
+
+# # | translated from communitytranslateid=10733
+# | communitytranslateid=20978
+msgid "Vegetation:"
+msgstr "Vegetació"
+
+# # | translated from communitytranslateid=10766
+# | communitytranslateid=21002
+msgid "User Token: "
+msgstr "ID d'Usuari:"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=20886
+msgid "Updates"
+msgstr "Actualitzacions"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=20887
+msgid "Update now"
+msgstr "Actualitzar ara"
+
+# # | translated from communitytranslateid=10768
+# | communitytranslateid=20888
+msgid "Update"
+msgstr "Actualitzar"
+
+# # | translated from communitytranslateid=10753
+# | communitytranslateid=20993
+msgid "Thread number:"
+msgstr "Número de fils:"
+
+# # | translated from communitytranslateid=10719
+# | communitytranslateid=20980
+msgid "Texture filtering:"
+msgstr "Filtratge de textures:"
+
+# # | translated from communitytranslateid=10744
+# | communitytranslateid=20986
+msgid "Sunburn"
+msgstr "bronzejat"
+
+# # | translated from communitytranslateid=10723
+# | communitytranslateid=20972
+msgid "Special effects"
+msgstr "Efectes especials"
+
+# # | translated from communitytranslateid=10698
+# | communitytranslateid=20952
+msgid "Sounds"
+msgstr "Sons"
+
+# # | translated from communitytranslateid=10752
+# | communitytranslateid=20991
+msgid "Sound rendering:"
+msgstr "Renderitzat de So"
+
+# # | translated from communitytranslateid=10724
+# | communitytranslateid=20973
+msgid "Sky type:"
+msgstr "Tipus de Cel:"
+
+# # | translated from communitytranslateid=10696
+# | communitytranslateid=20949
+msgid "Simple Settings"
+msgstr "Configuració Estandart"
+
+# # | translated from communitytranslateid=10726
+# | communitytranslateid=20974
+msgid "Shadow type:"
+msgstr "Tipus d'Ombra"
+
+# # | translated from communitytranslateid=10762
+# | communitytranslateid=21001
+msgid "Server port number: "
+msgstr "Número del port del servidor:"
+
+# # | translated from communitytranslateid=10764
+# | communitytranslateid=20948
+msgid "Server password: "
+msgstr "Contrasenya del servidor"
+
+# # | translated from communitytranslateid=10760
+# | communitytranslateid=21000
+msgid "Server host name: "
+msgstr "Nom del Servidor:"
+
+# # | translated from communitytranslateid=10640
+# | communitytranslateid=20964
+msgid "Search"
+msgstr "Buscar"
+
+# # | translated from communitytranslateid=10770
+# | communitytranslateid=21004
+msgid "Screenshot Format:"
+msgstr "Format de les captures de pantalla:"
+
+# # | translated from communitytranslateid=10714
+# | communitytranslateid=20963
+msgid "Screen configuration"
+msgstr "Configuració de la Pantalla"
+
+# # | translated from communitytranslateid=10691
+# | communitytranslateid=20946
+msgid "Save and Play"
+msgstr "Desar i Jugar"
+
+# # | translated from communitytranslateid=10693
+# | communitytranslateid=20947
+msgid "Save and Exit"
+msgstr "Desar i Sortir"
+
+# # | translated from communitytranslateid=10688
+# | communitytranslateid=21091
+msgid "Rigs of Rods configuration"
+msgstr "Configuració-Rigs of Rods"
+
+# # | translated from communitytranslateid=10689
+# | communitytranslateid=20988
+msgid "Restore Defaults"
+msgstr "Restablir valors predeterminats"
+
+# # | translated from communitytranslateid=10785
+# | communitytranslateid=21014
+msgid "Replay Mode"
+msgstr "Mode de repetició"
+
+# # | translated from communitytranslateid=17143
+# | communitytranslateid=21006
+msgid "Regen cache"
+msgstr "Regenerar memòria cau"
+
+# # | translated from communitytranslateid=10735
+# | communitytranslateid=20981
+msgid "Particle systems"
+msgstr "Sistema de Partícules"
+
+# # | translated from communitytranslateid=10809
+# | communitytranslateid=20889
+msgid "Options"
+msgstr "Opcions"
+
+# # | translated from communitytranslateid=10756
+# | communitytranslateid=20999
+msgid "Nickname: "
+msgstr "Àlies:"
+
+# # | translated from communitytranslateid=10705
+# | communitytranslateid=20956
+msgid "Network"
+msgstr "Joc Online"
+
+# # | translated from communitytranslateid=10748
+# | communitytranslateid=20987
+msgid "Motion blur"
+msgstr "Borrós en moviment"
+
+# # | translated from communitytranslateid=10741
+# | communitytranslateid=20985
+msgid "Mirrors"
+msgstr "Retrovisors"
+
+# # | translated from communitytranslateid=10801
+# | communitytranslateid=21009
+msgid "minimum visibility range in percent"
+msgstr "Mínim rang de visibilitat(en percentatge)"
+
+# # | translated from communitytranslateid=10671
+# | communitytranslateid=20957
+msgid "max Speed:"
+msgstr "Velocitat màxima:"
+
+# # | translated from communitytranslateid=10772
+# | communitytranslateid=21005
+msgid "Light source effects:"
+msgstr "Efecte de la font de llum dels objectes:"
+
+# # | translated from communitytranslateid=10774
+# | communitytranslateid=21008
+msgid "Language:"
+msgstr "Idioma:"
+
+# # | translated from communitytranslateid=10675
+# | communitytranslateid=21092
+msgid "Keyboard"
+msgstr "Teclat"
+
+# # | translated from communitytranslateid=10808
+# | communitytranslateid=20996
+msgid "Key/Axis"
+msgstr "Tecla/Eix"
+
+# # | translated from communitytranslateid=10791
+# | communitytranslateid=21017
+msgid "Hydrax Water System"
+msgstr "Sistema de l'aigua Hydrax"
+
+# # | translated from communitytranslateid=10750
+# | communitytranslateid=20979
+msgid "High quality reflective effects"
+msgstr "Efectes reflectors d'alta qualitat"
+
+# # | translated from communitytranslateid=10712
+# | communitytranslateid=20961
+msgid "High Quality"
+msgstr "Alta Qualitat"
+
+# # | translated from communitytranslateid=10710
+# | communitytranslateid=20960
+msgid "High Performance"
+msgstr "Alt Rendiment"
+
+# # | translated from communitytranslateid=10738
+# | communitytranslateid=20983
+msgid "HeatHaze"
+msgstr "Fum calent"
+
+# # | translated from communitytranslateid=10713
+# | communitytranslateid=20950
+msgid "Graphics Settings"
+msgstr "Configuració dels gràfics"
+
+# # | translated from communitytranslateid=10697
+# | communitytranslateid=20951
+msgid "Graphics"
+msgstr "Gràfics"
+
+# # | translated from communitytranslateid=10720
+# | communitytranslateid=20968
+msgid "Full screen"
+msgstr "Pantalla complèta"
+
+# # | translated from communitytranslateid=10621
+# | communitytranslateid=21093
+msgid "free camera"
+msgstr "camera lliure"
+
+# # | translated from communitytranslateid=10777
+# | communitytranslateid=21010
+msgid "Fog"
+msgstr "Boira"
+
+# # | translated from communitytranslateid=10806
+# | communitytranslateid=20995
+msgid "Event"
+msgstr "esdeveniment"
+
+# # | translated from communitytranslateid=10779
+# | communitytranslateid=21011
+msgid "Engine smoke"
+msgstr "Fum del tubu d'escape"
+
+# # | translated from communitytranslateid=10797
+# | communitytranslateid=21020
+msgid "Enable XFire Extension"
+msgstr "Activar la extensió XFire"
+
+# # | translated from communitytranslateid=10729
+# | communitytranslateid=20976
+msgid "Enable waves"
+msgstr "Habilitar Ones"
+
+# # | translated from communitytranslateid=10799
+# | communitytranslateid=21021
+msgid "Enable Visual Beam Debug"
+msgstr "Activar la depuració de les bigues visualment"
+
+# # | translated from communitytranslateid=10755
+# | communitytranslateid=20997
+msgid "Enable network mode"
+msgstr "Activar joc Online"
+
+# # | translated from communitytranslateid=17146
+# | communitytranslateid=21022
+msgid "Enable Auto-Downloader"
+msgstr "Activar Auto-Baixada"
+
+# # | translated from communitytranslateid=10754
+# | communitytranslateid=20994
+msgid "Enable advanced wheel model"
+msgstr "Activar model avançat de rodes"
+
+# # | translated from communitytranslateid=10736
+# | communitytranslateid=20982
+msgid "Dust"
+msgstr "Pols"
+
+# # | translated from communitytranslateid=10793
+# | communitytranslateid=21018
+msgid "Disable Overview Map"
+msgstr "Desactiva el Mapa"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=20992
+msgid "disable creak sound"
+msgstr "Desactivar pics de so"
+
+# # | translated from communitytranslateid=10795
+# | communitytranslateid=21019
+msgid "Disable Camera Pitching"
+msgstr "Desactivar el punt de la camera"
+
+# # | translated from communitytranslateid=10787
+# | communitytranslateid=21015
+msgid "Debug Truck Mass"
+msgstr "Pesos i masses"
+
+# # | translated from communitytranslateid=10789
+# | communitytranslateid=21016
+msgid "Debug Collision Meshes"
+msgstr "Colisió de models"
+
+# # | translated from communitytranslateid=10783
+# | communitytranslateid=21013
+msgid "Dashboard"
+msgstr "Quadre de comandament"
+
+# # | translated from communitytranslateid=10781
+# | communitytranslateid=21012
+msgid "Custom Particles"
+msgstr "Partícules personalitzades"
+
+# # | translated from communitytranslateid=10708
+# | communitytranslateid=20953
+msgid "CPU Settings"
+msgstr "Configuració del CPU"
+
+# # | translated from communitytranslateid=10699
+# | communitytranslateid=20954
+msgid "CPU"
+msgstr "CPU"
+
+# # | translated from communitytranslateid=10811
+# | communitytranslateid=20969
+msgid "Could not open Rendering device"
+msgstr "No s'ha pogut obrir el dispositiu de renderitzat"
+
+# # | translated from communitytranslateid=10700
+# | communitytranslateid=20955
+msgid "Controls"
+msgstr "Controls"
+
+# # | translated from communitytranslateid=10740
+# | communitytranslateid=20984
+msgid "Cockpit options"
+msgstr "Opcions de Cabina"
+
+# # | translated from communitytranslateid=10773
+# | communitytranslateid=21007
+msgid "Clear cache"
+msgstr "Esborrar memòria cau"
+
+# # | translated from communitytranslateid=10637
+# | communitytranslateid=20989
+msgid "Cancel"
+msgstr "Cancelar"
+
+# # | translated from communitytranslateid=10711
+# | communitytranslateid=20962
+msgid "Balanced"
+msgstr "Equilibrat"
+
+# # | translated from communitytranslateid=10643
+# | communitytranslateid=20966
+msgid "Authors: "
+msgstr "Autors:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=20967
+msgid "Author: "
+msgstr "Autor"
+
+# # | translated from communitytranslateid=10718
+# | communitytranslateid=20965
+msgid "Anti-aliasing:"
+msgstr "Anti-aliasing:"
+
+# # | translated from communitytranslateid=10651
+# | communitytranslateid=20958
+msgid "Airplane"
+msgstr "Aeronau"
+
+# # | translated from communitytranslateid=10706
+# | communitytranslateid=20959
+msgid "Advanced"
+msgstr "Avançat"
+
+# # | translated from communitytranslateid=10759
+# | communitytranslateid=20998
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Com jugar al mode Online:</p><br><ol><li>Feu clic al botó Actualitzar per veure els servidors disponibles.</li><li>Feu clic a qualsevol servidor subratllat de la llista.</li><li>Feu clic a Desar i Jugar per iniciar el joc.</li></ol>"
+

@@ -1,0 +1,37 @@
+== Procedure to create a new VCCRTx.msi ==
+
+1: install Wix 3.0 stable ( http://sourceforge.net/projects/wix/ ) download there:
+http://sourceforge.net/projects/wix/files/WiX%20v3.0%20%28stable%29/3.0.5419.0%20RTM/wix3.0.5419.0-x86-setup.zip/download
+
+2: create two UUIDs using an online GUID/UUID creator (they are basically random numbers) (e.g. http://www.guidgenerator.com/ )
+
+3: create a new VCCRTx.wxs from a previous example (starting from VCCRT3.wxs), and do the following changes:
+  -change the two UUIDs in Product Id and UpgradeCode with the ones you got from step 2 (VERY IMPORTANT!)
+  -check the filename of the msm file, so the correct file is used (look into C:\Program Files\Common Files\Merge Modules\ and put what you have there)
+   Do not put the policy msm. Do not put the debug versions, they can not be legally redistributed.
+
+4: run build.bat
+   
+5: write down in this file the runtime version of each generated VCCRTx.msi (hint: open the msi with winrar and see the filenames)
+  and don't forget to commit this file, the .wxs and .msi
+
+IMPORTANT: ship only the VCCRT that matches the version in the manifest of the executables!
+To see the manifest, you can open the executable in an hex editor and look at the end of the file.
+
+== old instructions (obsolete) ==
+4: run Candle:
+"c:\Program Files\Windows Installer XML v3\bin\candle.exe" VCCRTx.wxs -out VCCRTx.wixobj
+
+5: run Light:
+"c:\Program Files\Windows Installer XML v3\bin\light.exe" VCCRTx.wixobj -out VCCRTx.msi   
+you can safely ignore all the warnings (see: http://blogs.msdn.com/astebner/archive/2007/02/13/building-an-msi-using-wix-v3-0-that-includes-the-vc-8-0-runtime-merge-modules.aspx )
+
+
+== version history ==
+VCCRT.msi  : 8.0.50727.42 ?(Express 2005 RTL)          20/04/2006 pricorde
+VCCRT2.msi : 8.0.50727.762 (Express 2005 SP1)          28/04/2007 pricorde
+VCCRT3.msi : 9.0.30729.1   (Express 2008 SP1)          07/11/2009 pricorde
+VCCRT4.msi : 9.0.30729.01  (VS Professional, SP1)      30/12/2009 thomas
+
+
+

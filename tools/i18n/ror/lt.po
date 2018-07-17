@@ -1,0 +1,1033 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# | communitytranslateid=15050
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Jūsų tiklo vardas. Daugiausiai 20 simbolių."
+
+# | communitytranslateid=15124
+msgid "Your Forum User Token."
+msgstr "Jūsų vartotojo forumo simbolis."
+
+# | communitytranslateid=15179
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Privalote išsaugoti ir perkrauti programą norėdami aktivuoti naują kalbą!"
+
+# | communitytranslateid=15145
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Šių nustatymų keisti nereikia, nebent susiduriate su problemomis"
+
+# | communitytranslateid=14991
+msgid "wrote screenshot:"
+msgstr "Atvaizdas įrašytas:"
+
+# | communitytranslateid=14983
+msgid "Worst FPS: "
+msgstr "Mažiausias FPS:"
+
+# | communitytranslateid=15016
+msgid "Wheels: "
+msgstr "Ratai:"
+
+# | communitytranslateid=15103
+msgid "Water type:"
+msgstr "Vandens tipas:"
+
+# | communitytranslateid=15108
+msgid "Water spray"
+msgstr "Vandens purslai"
+
+# | communitytranslateid=15104
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Vandens atspindžiai naudoja daug vaizdo plokštės pajėgumo. Optimizuotame režime gali pradėti drebėti kamera."
+
+# | communitytranslateid=15098
+msgid "VSync"
+msgstr "Vertikali sinchronizacija"
+
+# | communitytranslateid=15120
+msgid "Visual effects"
+msgstr "Vaizdo efektai"
+
+# | communitytranslateid=15091
+msgid "Video mode:"
+msgstr "Video režimas:"
+
+# | communitytranslateid=15027
+msgid "Vehicle Type: "
+msgstr "Transporto priemonės tipas:"
+
+# | communitytranslateid=15110
+msgid "Vegetation:"
+msgstr "Augalija:"
+
+# | communitytranslateid=15143
+msgid "User Token: "
+msgstr "Vartotojo simbolis:"
+
+# | communitytranslateid=15194
+msgid "Upper"
+msgstr "Viršutinis"
+
+# | communitytranslateid=15144
+msgid "Update"
+msgstr "Atnaujinti"
+
+# | communitytranslateid=15028
+msgid "unkown encoding problem"
+msgstr "nežinoma kodavimo problema"
+
+# | communitytranslateid=15013
+msgid "unknown.dds"
+msgstr "nežinomas.dds"
+
+# | communitytranslateid=15154
+msgid "Uncheck in case you have a fog problem"
+msgstr "Nuimkite žymę jeigu turite su rūku susijusių problemų"
+
+# | communitytranslateid=14987
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Prisijungimas prie serverio negalimas. Serveris neveikia arba tinklo problema jūsų sistemoje."
+
+# | communitytranslateid=15293
+msgid "Unable to connect to server"
+msgstr "Prisijungimas prie serverio nepavyko"
+
+# | communitytranslateid=15182
+msgid "Type"
+msgstr "Tipas"
+
+# | communitytranslateid=15308
+msgid "Trying to connect to server ..."
+msgstr "Bandoma prisijungti prie serverio ..."
+
+# | communitytranslateid=15023
+msgid "Truck"
+msgstr "Sunkvežimis"
+
+# | communitytranslateid=14984
+msgid "Triangle Count: "
+msgstr "Trikampių kiekis:"
+
+# | communitytranslateid=14998
+msgid "tracks/CreditsOverlay"
+msgstr "važiuoklė/kūrėjas"
+
+# | communitytranslateid=15020
+msgid "Torque: "
+msgstr "Sukimo momentas:"
+
+# | communitytranslateid=15018
+msgid "tons"
+msgstr "tonos"
+
+# # | translated from communitytranslateid=17309
+# | communitytranslateid=22728
+msgid "toggle left direction indicator (blinker)"
+msgstr "perjungti kairės krypties indikatorių (mirksintis žibintas)"
+
+# | communitytranslateid=15131
+msgid "Thread number:"
+msgstr "Pakopos numeris:"
+
+# | communitytranslateid=15152
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Šis nustatymas perrašo sistemos iprastinę kalbą. Norint, kad pakeitimai įsigaliotu perkraukite nustatymų langą."
+
+# | communitytranslateid=15114
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Šis nustatymas gali sumažinti kadrų per sekundę kiekį senesnėse sistemose, tačiau atrodo ganėtinai gerai."
+
+# | communitytranslateid=15111
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Šis nustatymas skirtas nustatyti žolės ir medžių kiekį."
+
+# # | translated from communitytranslateid=17152
+# | communitytranslateid=22727
+msgid "The update service is currently only available for windows users."
+msgstr "Atnaujinimo funkcija šiuo metu pasiekiama tik windows vartotojams."
+
+# | communitytranslateid=15142
+msgid "The server password, if required."
+msgstr "Reikalingas serverio slaptažodis."
+
+# | communitytranslateid=15095
+msgid "Texture filtering:"
+msgstr "Tekstūrų filtravimas:"
+
+# | communitytranslateid=15078
+msgid "Test"
+msgstr "Testuoti"
+
+# | communitytranslateid=14989
+msgid "Terrain not found: "
+msgstr ""
+
+# | communitytranslateid=14990
+msgid "Terrain loading error"
+msgstr "Žemėlapio pakrovimo klaida"
+
+# | communitytranslateid=15121
+msgid "Sunburn"
+msgstr "Saulės nudegimas"
+
+# | communitytranslateid=15030
+msgid "Startup error"
+msgstr "Paleidimo klaida"
+
+# | communitytranslateid=15725
+msgid "SPECIAL_CHARACTERS"
+msgstr "ą Ą č Č ę Ę ė Ė į Į š Š ų Ų ū Ū ž Ž"
+
+# | communitytranslateid=15099
+msgid "Special effects"
+msgstr "Specialieji efektai"
+
+# | communitytranslateid=15072
+msgid "Sounds"
+msgstr "Garsai"
+
+# | communitytranslateid=15130
+msgid "Sound rendering:"
+msgstr "Garso atlikimas:"
+
+# | communitytranslateid=15100
+msgid "Sky type:"
+msgstr "Dangaus tipas:"
+
+# | communitytranslateid=15070
+msgid "Simple Settings"
+msgstr "Supaprastinti nustatymai"
+
+# | communitytranslateid=15119
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Rodo galinio matymo veidrodėlius įjungus 1-o asmens kamerą."
+
+# | communitytranslateid=15160
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Rodo besikeičiantį prietaisų skydą 1-ojo asmens kameros režime. Gali kilti problemų su labai senomis vaizdo plokštėmis."
+
+# | communitytranslateid=15166
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Parodo visas susiduriančias formas Raudona spalva, kad būtų galima teisingai formuoti. Naudoti tik klaidų suradimui ir taisymui!"
+
+# | communitytranslateid=15102
+msgid "Shadow type:"
+msgstr "Šešėlio tipas:"
+
+# | communitytranslateid=15083
+msgid "Sets all settings in a simple way"
+msgstr "Nustato visus nustatymus supaprastintai"
+
+# | communitytranslateid=15139
+msgid "Server port number: "
+msgstr "Serverio porto numeris:"
+
+# | communitytranslateid=15141
+msgid "Server password: "
+msgstr "Serverio slaptažodis:"
+
+# | communitytranslateid=15137
+msgid "Server host name: "
+msgstr "Serverio pavadinimas:"
+
+# | communitytranslateid=15012
+msgid "Search"
+msgstr "Paieška"
+
+# | communitytranslateid=15146
+msgid "Screenshot Format:"
+msgstr "Vaizdelio formatas:"
+
+# | communitytranslateid=15088
+msgid "Screen configuration"
+msgstr "Ekrano nustatymai"
+
+# | communitytranslateid=15066
+msgid "Save the current configuration and start RoR."
+msgstr "Išsaugoti pakeitimus ir paleisti RoR."
+
+# | communitytranslateid=15068
+msgid "Save the current configuration and close the configuration program."
+msgstr "Išsaugoti dabartinę konfiguraciją ir uždaryti konfiguravimo programą."
+
+# | communitytranslateid=15065
+msgid "Save and Play"
+msgstr "Išsaugoti ir žaisti"
+
+# | communitytranslateid=15067
+msgid "Save and Exit"
+msgstr "Išsaugoti ir išeiti"
+
+# | communitytranslateid=15090
+msgid "RTT Mode:"
+msgstr "RTT režimas:"
+
+# | communitytranslateid=15062
+msgid "Rigs of Rods configuration"
+msgstr "Rigs of Rods konfiguracija"
+
+# | communitytranslateid=15192
+msgid "reverse axis"
+msgstr "priešinga ašis"
+
+# | communitytranslateid=15191
+msgid "Reverse"
+msgstr "Atbulinis"
+
+# | communitytranslateid=15064
+msgid "Restore the default configuration."
+msgstr "Atkurti pirminę konfiguraciją."
+
+# | communitytranslateid=15063
+msgid "Restore Defaults"
+msgstr "Atkurti pirminius nustatymus"
+
+# | communitytranslateid=15127
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Reikalinga naujausia vaizdo plokštė. Prisideda judėsio miglotumo efektas."
+
+# | communitytranslateid=15125
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Reikalinga naujausia vaizdo plokštė. Pridedamas šviesos miglotumo efektas."
+
+# | communitytranslateid=15122
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Reikalinga naujausia vaizdo plokštė. Saulės vaizdą padaro miglotą su akinimo efektu."
+
+# | communitytranslateid=15162
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Pakartojimo režimas. (Gali itakoti kadrų skaičių per sekundę kiekį)"
+
+# | communitytranslateid=15161
+msgid "Replay Mode"
+msgstr "Pakartojimo režimas"
+
+# | communitytranslateid=15197
+msgid "Region"
+msgstr "Sritis"
+
+# | communitytranslateid=15164
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Į bylą RoR.log įkelia visų mazgų mases. Naudoti tik sunkvežimio klaidų radimui ir taisymui!"
+
+# | communitytranslateid=15049
+msgid "Please select an input event."
+msgstr "Pasirinkite įvykį."
+
+# | communitytranslateid=15007
+msgid "Please clear the place first"
+msgstr "Pašalinkite objektus nuo aikštelės"
+
+# | communitytranslateid=15158
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Dalelės tokios kaip vandens patrankos arba paprastos srovės."
+
+# | communitytranslateid=15112
+msgid "Particle systems"
+msgstr "Dalelių sistemos"
+
+# | communitytranslateid=15184
+msgid "Options"
+msgstr "Nustatymai"
+
+# | communitytranslateid=15058
+msgid "ok (end test)"
+msgstr "Gerai (testavimas baigtas)"
+
+# | communitytranslateid=15008
+msgid "OK"
+msgstr "Tinkamas"
+
+# | communitytranslateid=15185
+msgid "Ogre config validation error"
+msgstr "Ogre konfiguracijos patvirtinimo klaida"
+
+# | communitytranslateid=15187
+msgid "Ogre config error"
+msgstr "Ogre konfiguravimo klaida"
+
+# | communitytranslateid=15156
+msgid "Not much impact on speed."
+msgstr "Mažai įtakos sistemos apkrovimui."
+
+# | communitytranslateid=14994
+msgid "normal camera"
+msgstr "Normali kamera"
+
+# | communitytranslateid=15022
+msgid "Non-Driveable"
+msgstr ""
+
+# | communitytranslateid=15019
+msgid "Nodes: "
+msgstr "Mazgai:"
+
+# | communitytranslateid=15040
+msgid "node count: "
+msgstr "Mazgų kiekis:"
+
+# | communitytranslateid=15109
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Efektas būna tik tuomet kai naudojatės vandeniu."
+
+# | communitytranslateid=15200
+msgid "no deadzone"
+msgstr "nėra ribos"
+
+# | communitytranslateid=15014
+msgid "no author information available"
+msgstr "Autoriaus informacijos nėra"
+
+# | communitytranslateid=15134
+msgid "Nickname: "
+msgstr "Slapyvardis:"
+
+# | communitytranslateid=15180
+msgid "new Language selected"
+msgstr "nauja Kalba pažymėta"
+
+# | communitytranslateid=15079
+msgid "Network"
+msgstr "Tinklas"
+
+# | communitytranslateid=15213
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# | communitytranslateid=15126
+msgid "Motion blur"
+msgstr "Judėsio miglotumas"
+
+# | communitytranslateid=15118
+msgid "Mirrors"
+msgstr "Veidrodžiai"
+
+# | communitytranslateid=15177
+msgid "minimum visibility range in percent"
+msgstr "mažiausias regos atstumas procentaline išraiška"
+
+# | communitytranslateid=15044
+msgid "max Speed:"
+msgstr "Maksimalus greitis:"
+
+# | communitytranslateid=15017
+msgid "Mass: "
+msgstr "Masė:"
+
+# | communitytranslateid=14996
+msgid "Manual shift - Auto clutch"
+msgstr "Rankinė greičių dežė - Automatinė sankaba"
+
+# | communitytranslateid=15026
+msgid "Machine"
+msgstr "Mechanizmas"
+
+# | communitytranslateid=15196
+msgid "Lower"
+msgstr "Apatinis"
+
+# | communitytranslateid=15303
+msgid "loading...\n"
+msgstr "kraunama...\n"
+
+# | communitytranslateid=15304
+msgid "Loading zips in group "
+msgstr "Pakraunamos zip bylos į grupes"
+
+# | communitytranslateid=15309
+msgid "Loading Terrain"
+msgstr "Kraunama teritorija"
+
+# | communitytranslateid=15305
+msgid "Loading directory\n"
+msgstr "Kraunama direktorija\n"
+
+# | communitytranslateid=15010
+msgid "Loader"
+msgstr "Krovėjas"
+
+# | communitytranslateid=15011
+msgid "List"
+msgstr "Sąrašas"
+
+# | communitytranslateid=15148
+msgid "Light source effects:"
+msgstr "Šviesos šaltinio efektai:"
+
+# | communitytranslateid=15150
+msgid "Language:"
+msgstr "Kalba:"
+
+# | communitytranslateid=15214
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# | communitytranslateid=15048
+msgid "Keyboard"
+msgstr "Klaviatūra"
+
+# | communitytranslateid=15183
+msgid "Key/Axis"
+msgstr "Klavišas/Ašis"
+
+# | communitytranslateid=15190
+msgid "Joystick Options"
+msgstr "Vairalazdės nustatymai"
+
+# | communitytranslateid=15193
+msgid "Joystick Axis Region"
+msgstr "Vairalazdės ašies sritis"
+
+# | communitytranslateid=15198
+msgid "Joystick Axis Deadzones"
+msgstr "Vairalazdės ašies ribos"
+
+# | communitytranslateid=15212
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# | communitytranslateid=15051
+msgid "Input Type: "
+msgstr "Įvesties tipas:"
+
+# | communitytranslateid=15299
+msgid "incremental check: processing changed zips\n"
+msgstr "Informacijos prieaugio patikrinimas: apdorojamos pakeistos zip bylos\n"
+
+# | communitytranslateid=15301
+msgid "incremental check: new files\n"
+msgstr "Informacijos prieaugio patikrinimas: naujos bylos\n"
+
+# | communitytranslateid=15300
+msgid "incremental check: new content\n"
+msgstr "Informacijos prieaugio patikrinimas: naujas turinys\n"
+
+# | communitytranslateid=15302
+msgid "incremental check: duplicates\n"
+msgstr "Informacijos prieaugio patikrinimas: pasikartojančios bylos\n"
+
+# | communitytranslateid=15296
+msgid "incremental check: deleted and changed files\n"
+msgstr "Informacijos prieaugio patikrinimas: ištrintos ir pakeistos bylos\n"
+
+# | communitytranslateid=15295
+msgid "incremental check: deleted and changed files"
+msgstr "Informacijos prieaugio patikrinimas: ištrintos ir pakeistos bylos"
+
+# | communitytranslateid=15147
+msgid "In what Format should screenshots be saved?"
+msgstr "Kokiu formatu turėtu buti išsaugomi vaizdeliai ?"
+
+# | communitytranslateid=15076
+msgid "Import Keymap"
+msgstr "Importuoti klavišų nustatymus"
+
+# | communitytranslateid=15174
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Jeigu naudojate XFire, galite įjunti šią nuostatą norėdami gauti detalesnę žaidimo informaciją,"
+
+# | communitytranslateid=15172
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Jeigu nepatinka kameros svyravimai, juos galite išjungti."
+
+# | communitytranslateid=15167
+msgid "Hydrax Water System"
+msgstr "Hidraulinė vandens sistema"
+
+# | communitytranslateid=15128
+msgid "High quality reflective effects"
+msgstr "Aukštos kokybės atspindžių efektai"
+
+# | communitytranslateid=15086
+msgid "High Quality"
+msgstr "Gera vaizdo kokybė"
+
+# | communitytranslateid=15084
+msgid "High Performance"
+msgstr "Geras greitis"
+
+# | communitytranslateid=15178
+msgid "here you can get help"
+msgstr "čia jūs galite gauti pagalbą"
+
+# | communitytranslateid=15115
+msgid "HeatHaze"
+msgstr "Karščio migla"
+
+# | communitytranslateid=15116
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Karščio migla iš variklių, sulėtina sistemą labiausiai."
+
+# | communitytranslateid=15035
+msgid "health: "
+msgstr "Būklė:"
+
+# | communitytranslateid=15087
+msgid "Graphics Settings"
+msgstr "Vaizdo nustatymai"
+
+# | communitytranslateid=15071
+msgid "Graphics"
+msgstr "Grafika"
+
+# | communitytranslateid=14997
+msgid "Fully Manual shift"
+msgstr "Pilnai rankinė greičių dežė"
+
+# | communitytranslateid=15097
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Vaizdas visame ekrane naudoja šiek tiek mažiau atminties"
+
+# | communitytranslateid=15096
+msgid "Full screen"
+msgstr "Vaizdas visame ekrane"
+
+# | communitytranslateid=15195
+msgid "Full"
+msgstr "Pilnas"
+
+# | communitytranslateid=14993
+msgid "free camera"
+msgstr "Laisvoji kamera"
+
+# | communitytranslateid=15153
+msgid "Fog"
+msgstr "Rūkas"
+
+# | communitytranslateid=14992
+msgid "fixed free camera"
+msgstr "Fiksuota laisvoji kamera"
+
+# | communitytranslateid=15077
+msgid "Export Keymap"
+msgstr "Eksportuoti klavišų nustatymus"
+
+# | communitytranslateid=15057
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Ivykio įvertinimas (kairė = 0%, dešinė = 100%)"
+
+# | communitytranslateid=15047
+msgid "Event Name: "
+msgstr "Įvykio pavadinimas:"
+
+# | communitytranslateid=15056
+msgid "Event Name"
+msgstr ""
+
+# | communitytranslateid=15055
+msgid "Event Description: "
+msgstr "Ivykio aprašymas:"
+
+# | communitytranslateid=15181
+msgid "Event"
+msgstr "Įvykis"
+
+# | communitytranslateid=15031
+msgid "Error while retrieving user space path"
+msgstr "Klaida įvyko atkuriant vartotojo direktoriją"
+
+# | communitytranslateid=15029
+msgid "Error while retrieving program space path"
+msgstr "Klaida įvyko atkuriant programos vietos direktoriją"
+
+# | communitytranslateid=15155
+msgid "Engine smoke"
+msgstr "Variklio dūmai"
+
+# | communitytranslateid=15107
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Įjungus bangavimą plaukimas laivais žymiai realistiškesnis, tačiau gali labai sulėtinti žaidimo greitį."
+
+# | communitytranslateid=15168
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Įjungia naują vandens vaizdavimo sistema. EKSPERMENTINĖ. Pakeičia esamus vandens nustatymus."
+
+# | communitytranslateid=15173
+msgid "Enable XFire Extension"
+msgstr "Įjungti XFire išplėtimą"
+
+# | communitytranslateid=15106
+msgid "Enable waves"
+msgstr "Įjungti bangas"
+
+# | communitytranslateid=15175
+msgid "Enable Visual Beam Debug"
+msgstr "Įjungti vaizdavimo linijų paiešką ir taisymą"
+
+# | communitytranslateid=15133
+msgid "Enable network mode"
+msgstr "Įjungti tinklo režimą"
+
+# | communitytranslateid=15129
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Įjungti aukštos kokybės atspindžių efektus. Padidina sistemos apkrovimą."
+
+# | communitytranslateid=15132
+msgid "Enable advanced wheel model"
+msgstr "Įjungti sudėtingą ratų modelį"
+
+# | communitytranslateid=15113
+msgid "Dust"
+msgstr "Dulkės"
+
+# | communitytranslateid=15176
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Rodo mazgų numerius ir kitą informaciją prie mazgų ir strypų."
+
+# | communitytranslateid=15170
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "Žemėlapio išjungimas. Skirta testavimo tikslams, kadrų per sekundę prieaugio nėra."
+
+# | communitytranslateid=15169
+msgid "Disable Overview Map"
+msgstr "Išjungti žemėlapio rodymą"
+
+# | communitytranslateid=15171
+msgid "Disable Camera Pitching"
+msgstr "Įšjungti kameros svyravimą"
+
+# | communitytranslateid=15089
+msgid "Device:"
+msgstr "Prietaisas:"
+
+# | communitytranslateid=15036
+msgid "destruction: "
+msgstr "Suardymas:"
+
+# | communitytranslateid=15075
+msgid "Delete selected"
+msgstr "Ištrinti pažymėtą"
+
+# | communitytranslateid=15037
+msgid "deformed: "
+msgstr "Deformuotos jungtys:"
+
+# | communitytranslateid=15163
+msgid "Debug Truck Mass"
+msgstr "Ištaisyti sunkvežimio masės klaidas"
+
+# | communitytranslateid=15165
+msgid "Debug Collision Meshes"
+msgstr "Klaidų taisymas susiduriančiose formose"
+
+# | communitytranslateid=15211
+msgid "Deadzone"
+msgstr "Riba"
+
+# | communitytranslateid=15217
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# | communitytranslateid=15215
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# | communitytranslateid=15218
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# | communitytranslateid=15216
+msgid "data/"
+msgstr "data/"
+
+# | communitytranslateid=15159
+msgid "Dashboard"
+msgstr "Prietaisų skydas"
+
+# | communitytranslateid=15157
+msgid "Custom Particles"
+msgstr "Įprastinės dalelės"
+
+# | communitytranslateid=15043
+msgid "current Speed:"
+msgstr "Dabartinis greitis:"
+
+# | communitytranslateid=15042
+msgid "current RPM:"
+msgstr "Dabartinės apsukos:"
+
+# | communitytranslateid=15041
+msgid "current mass:"
+msgstr "Dabartinė masė:"
+
+# | communitytranslateid=14980
+msgid "Current FPS: "
+msgstr "Kadrai per sekunde:"
+
+# | communitytranslateid=15082
+msgid "CPU Settings"
+msgstr "Procesoriaus nustatymai"
+
+# | communitytranslateid=15073
+msgid "CPU"
+msgstr "Procesorius"
+
+# | communitytranslateid=15188
+msgid "Could not write config file"
+msgstr "Negalima įrašyti konfiguravimo bylos"
+
+# | communitytranslateid=15186
+msgid "Could not open Rendering device"
+msgstr "Negalima paleisti vaizdavimo įrenginio"
+
+# | communitytranslateid=15074
+msgid "Controls"
+msgstr "Valdymas"
+
+# | communitytranslateid=15189
+msgid "Configure error"
+msgstr "Konfiguravimo klaida"
+
+# | communitytranslateid=15081
+msgid "Community / Support"
+msgstr "Bendruomenė / Pagalba"
+
+# | communitytranslateid=15046
+msgid "Commands:"
+msgstr "Komandos:"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=22729
+msgid "Command 5"
+msgstr "Komanda 5"
+
+# | communitytranslateid=15117
+msgid "Cockpit options"
+msgstr "Kabinos nustatymai"
+
+# | communitytranslateid=15054
+msgid "close this dialog"
+msgstr "uždaryti pokalbį"
+
+# | communitytranslateid=15149
+msgid "Clear cache"
+msgstr "Išvalyti atsargos atmintį"
+
+# | communitytranslateid=15306
+msgid "checking for new zips in "
+msgstr "tikrinama ar yra naujų zip bylų"
+
+# | communitytranslateid=15307
+msgid "checking for new directories in "
+msgstr "tikrinama ar yra naujų direktorijų"
+
+# | communitytranslateid=15069
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Atšaukti konfiguracijos pakeitimus ir uždaryti konfiguravimo programą."
+
+# | communitytranslateid=15009
+msgid "Cancel"
+msgstr "Atšaukti"
+
+# | communitytranslateid=15101
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Caelum tipo dangus gražesnis, tačiau naudoja daug vaizdo plokštės pajėgumo."
+
+# | communitytranslateid=15034
+msgid "broken: "
+msgstr "Lužę:"
+
+# | communitytranslateid=15025
+msgid "Boat"
+msgstr "Laivas"
+
+# | communitytranslateid=15123
+msgid "Bloom"
+msgstr "Rauzganumas"
+
+# | communitytranslateid=14982
+msgid "Best FPS: "
+msgstr "Didžiausias FPS:"
+
+# | communitytranslateid=15033
+msgid "beam count: "
+msgstr "Jungčių kiekis:"
+
+# | communitytranslateid=15085
+msgid "Balanced"
+msgstr "Vidurkis tarp grafikos ir greičio"
+
+# | communitytranslateid=14985
+msgid "Bad server port"
+msgstr "Blogas serverio portas"
+
+# | communitytranslateid=15039
+msgid "average stress: "
+msgstr "Vidutinis apkrovimas:"
+
+# | communitytranslateid=14981
+msgid "Average FPS: "
+msgstr "Vidutinis FPS:"
+
+# | communitytranslateid=15038
+msgid "average deformation: "
+msgstr "Vidutinė deformacija:"
+
+# | communitytranslateid=14995
+msgid "Automatic shift"
+msgstr "Automatinė greičių dežė"
+
+# | communitytranslateid=15015
+msgid "Authors: "
+msgstr "Autoriai:"
+
+# | communitytranslateid=15094
+msgid "Anti-aliasing:"
+msgstr "Vaizdo glotninimas:"
+
+# | communitytranslateid=15135
+msgid "Anonymous"
+msgstr "Anonimas"
+
+# | communitytranslateid=15045
+msgid "Altitude:"
+msgstr "Aukštis:"
+
+# | communitytranslateid=15024
+msgid "Airplane"
+msgstr "Lėktuvas"
+
+# | communitytranslateid=15080
+msgid "Advanced"
+msgstr "Detalios nuostatos"
+
+# | communitytranslateid=15053
+msgid "Add the key"
+msgstr "Pridėti klavišą"
+
+# | communitytranslateid=15052
+msgid "Add"
+msgstr "Pridėti"
+
+# | communitytranslateid=14986
+msgid "A network error occured"
+msgstr "Tinklo klaida"
+
+# | communitytranslateid=15202
+msgid "5% deadzone"
+msgstr "5% riba"
+
+# | communitytranslateid=15201
+msgid "5 %"
+msgstr "5 %"
+
+# | communitytranslateid=15210
+msgid "30% deadzone"
+msgstr "30% riba"
+
+# | communitytranslateid=15209
+msgid "30 %"
+msgstr "30 %"
+
+# | communitytranslateid=15208
+msgid "20% deadzone"
+msgstr "20% riba"
+
+# | communitytranslateid=15207
+msgid "20 %"
+msgstr "20 %"
+
+# | communitytranslateid=15206
+msgid "15% deadzone"
+msgstr "15% riba"
+
+# | communitytranslateid=15205
+msgid "15 %"
+msgstr "15 %"
+
+# | communitytranslateid=15138
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# | communitytranslateid=15140
+msgid "12333"
+msgstr "12333"
+
+# | communitytranslateid=15204
+msgid "10% deadzone"
+msgstr "10% riba"
+
+# | communitytranslateid=15203
+msgid "10 %"
+msgstr "10 %"
+
+# | communitytranslateid=15199
+msgid "0 % (No deadzone)"
+msgstr "0 % (Nėra ribos)"
+
+# | communitytranslateid=15136
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p> Kaip žaisti daugelio žaidėjų režime:</p><br><ol><li>Spauskite <b>Atnaujinti</b> mygtuką norėdami pamatyti prieinamus serverius.</li><li>Spauskite bet kurį pabrauktą serverį iš sąrašo.</li><li>Spauskite <b>išsaugoti ir žaisti</b> norėdami pradėti.</li></ol>"
+
+# | communitytranslateid=15294
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Paskutinės naujienos</h2>None atm<h2>Pagalba / Bendruomenė</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>Pamokos</a><p/> (Ši svetainė bus papildyta...)"
+
+# | communitytranslateid=15059
+msgid "(Please press a key)"
+msgstr "(Paspauskite klavišą)"
+
+# | communitytranslateid=15060
+msgid "(Please press a Joystick Button)"
+msgstr "(Paspauskite vairalazdės klavišą)"
+
+# | communitytranslateid=15061
+msgid "(Please move an Axis)\n"
+msgstr "(Pajudinkite vairalazdės ašį)\n"
+
+# | communitytranslateid=15151
+msgid "(No Languages found)"
+msgstr "(Kalbų sarašas nerastas)"
+
+# | communitytranslateid=15032
+msgid "(no author information available)"
+msgstr "(Informacijos apie autorių nėra)"
+
+# | communitytranslateid=14999
+msgid "^8 Player: ^7"
+msgstr "^8 Žaidėjas: ^7"
+
+# | communitytranslateid=15002
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 naudojimas: /rcmd [komanda] [laisvai pasirenkamas turinys]"
+
+# | communitytranslateid=15005
+msgid "^1 unkown Command: "
+msgstr "^1 nežinoma komanda:"
+
+# | communitytranslateid=15001
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 KLAIDA: pirmiausia jūs privalote naudoti /rlogin [slaptažodis]"
+
+# | communitytranslateid=15003
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 KLAIDA: protokolo klaida bandant išsiųsti comandą į RCON:"
+
+# | communitytranslateid=15000
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 KLAIDA: įvyko protokolo klaida jungiantis prie RCON:"
+
+# | communitytranslateid=15004
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 KLAIDA: ne tinklo režime"
+
+# | communitytranslateid=15006
+msgid "^1 Error Parsing command"
+msgstr "^1 KLAIDA: bloga komandos gramatika"
+
+# | communitytranslateid=15297
+msgid " not existing"
+msgstr "Neegzistuojantis"
+
+# | communitytranslateid=15298
+msgid " changed"
+msgstr "pakeista"
+

@@ -1,0 +1,1 @@
+To build the packages, run "dpkg -b [directory] [output-file.deb]" on a debian-based system.

@@ -1,0 +1,2559 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=21178
+msgid "zoom into the overview map in interactive mode"
+msgstr "Μεγένθυνε τον χάρτη με διαδραστική μέθοδο"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=21189
+msgid "zoom camera out faster"
+msgstr "Απομάκρινε την κάμερα προς τα πίσω γρηγορότερα"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=21196
+msgid "zoom camera out"
+msgstr "απομάρκινε την κάμερα προς τα πίσω"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=21223
+msgid "zoom camera in faster"
+msgstr "Ζουμ της κάμερας γρηγορότερα"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=21300
+msgid "zoom camera in"
+msgstr "ζουμ κάμερας"
+
+# | communitytranslateid=16109
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Το όνομα δικτύου σας. Μέγιστο 20 Χαρακτήρες."
+
+# | communitytranslateid=16114
+msgid "Your Forum User Token."
+msgstr "Το εμβλημά σας απο το Φόρουμ"
+
+# | communitytranslateid=16133
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Πρέπει να αποθηκεύσεται και να επανεκκινήσετε το πρόγραμμα για να ενεργοποιηθεί η νέα γλώσσα!"
+
+# | communitytranslateid=16200
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Δεν χρειάζεται να αλλάξετε αυτές τις ρυθμίσεις εκτός και εάν συναντήσετε προβλήματα"
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=21188
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Μπορείτε να απενεργοποιήσετε τον ήχο τριξήματος τσεκάροντας αυτό το κουτί"
+
+# | communitytranslateid=16118
+msgid "wrote screenshot:"
+msgstr "Δημιουργήθηκε στιγμιότυπο οθόνης."
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=21311
+msgid "Write error"
+msgstr "Σφάλμα εγγραφής"
+
+# # | translated from communitytranslateid=17265
+# | communitytranslateid=21355
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr "εγγραφή τρέχουσας θέσης στο αρχείο καταγραφής συμβάντων (μπορεις να ανοίξεις το αρχειο αυτο και να ξαναχρησιμοποιήσεις την θέση αυτή)"
+
+# | communitytranslateid=16108
+msgid "Worst FPS: "
+msgstr "Χειρότερα καρέ ανα δευτερόλεπτο:"
+
+# | communitytranslateid=16153
+msgid "Wheels: "
+msgstr "Ρόδες:"
+
+# | communitytranslateid=16242
+msgid "Water type:"
+msgstr "Τύπος νερού:"
+
+# | communitytranslateid=16246
+msgid "Water spray"
+msgstr "Σπρέι νερού"
+
+# | communitytranslateid=16243
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Η ενεργοποιήση τον ανακλάσεων στο νερό, απαιτεί μια καλή κάρτα γραφικών. Στην κατασταση βελτίωσης ταχύτητας των καρε ανα δευτερόλεπτο, μπορεί να παρατηρίσετε ανατάραξη της κάμερας"
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=21273
+msgid "Warning"
+msgstr "Προειδοποίηση"
+
+# | communitytranslateid=16237
+msgid "VSync"
+msgstr "Κάθετος συγχρονισμός"
+
+# # | translated from communitytranslateid=10743
+# | communitytranslateid=16718
+msgid "Visual effects"
+msgstr "Οπτικά εφέ"
+
+# | communitytranslateid=16232
+msgid "Video mode:"
+msgstr "Μέθοδος βίντεο:"
+
+# | communitytranslateid=16165
+msgid "Vehicle Type: "
+msgstr "Τύπος οχήματος:"
+
+# | communitytranslateid=16248
+msgid "Vegetation:"
+msgstr "Βλάστηση:"
+
+# # | translated from communitytranslateid=10766
+# | communitytranslateid=17054
+msgid "User Token: "
+msgstr "Κωδικός χρήστη"
+
+# # | translated from communitytranslateid=17145
+# | communitytranslateid=21275
+msgid "Use this to remove the whole cache and force the generation from ground up."
+msgstr "Χρησιμοποίησε αυτό για να αφαιρεθεί όλη η προσωρινή μνήμη και να ξαναδημιουργιθεί"
+
+# # | translated from communitytranslateid=17144
+# | communitytranslateid=21345
+msgid "Use this to regenerate the cache outside of RoR. If this does not work, use the clear cache button."
+msgstr "Χρησημοποιήστε αυτό για να ξαναφορτώσετε την προσωρινή μνήμη εκτός του RoR. Άν αυτό δέν δουλέψει, χρησημοποιήστε το κουμπί καθαρισμού προσωρινής μνήμης."
+
+# # | translated from communitytranslateid=10819
+# | communitytranslateid=16727
+msgid "Upper"
+msgstr "Άνω"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=21324
+msgid "Updates"
+msgstr "Ενημερώσεις"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=21234
+msgid "Update now"
+msgstr "Αναβάθμισε τωρα"
+
+# # | translated from communitytranslateid=10768
+# | communitytranslateid=16721
+msgid "Update"
+msgstr "Ενημέρωση"
+
+# | communitytranslateid=16166
+msgid "unkown encoding problem"
+msgstr "Άγνωστο σφάλμα κωδικοποίησης"
+
+# | communitytranslateid=16149
+msgid "unknown.dds"
+msgstr "unknown.dds"
+
+# # | translated from communitytranslateid=10778
+# | communitytranslateid=16734
+msgid "Uncheck in case you have a fog problem"
+msgstr "Αποεπιλέξτε σε περίπτωση προβλήματος με την ομίχλη"
+
+# | communitytranslateid=16115
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Αδυναμία σύνδεσης στο δίκτυο.Έχει 'πέσει' ή έχετε προβλήματα δικτύου."
+
+# # | translated from communitytranslateid=15267
+# | communitytranslateid=17053
+msgid "Unable to connect to server"
+msgstr "Δεν ειναι δυνατή η σύνδεση στον εξυπηρετιτή"
+
+# # | translated from communitytranslateid=10807
+# | communitytranslateid=17056
+msgid "Type"
+msgstr "Τύπος"
+
+# # | translated from communitytranslateid=15266
+# | communitytranslateid=17057
+msgid "Trying to connect to server ..."
+msgstr "Γίνεται προσπάθεια σύνδεσης στον εξυπηρετιτή ..."
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=21240
+msgid "truck horn"
+msgstr "κόρνα οχήματος"
+
+# | communitytranslateid=16161
+msgid "Truck"
+msgstr "Πίστα"
+
+# | communitytranslateid=16111
+msgid "Triangle Count: "
+msgstr "Αριθμός τριγόνων"
+
+# | communitytranslateid=16125
+msgid "tracks/CreditsOverlay"
+msgstr "tracks/CreditsOverlay"
+
+# # | translated from communitytranslateid=19404
+# | communitytranslateid=21346
+msgid "Total Linear"
+msgstr "Απόλιτη ευθυγράμμιση"
+
+# | communitytranslateid=16157
+msgid "Torque: "
+msgstr "Ροπή:"
+
+# | communitytranslateid=16155
+msgid "tons"
+msgstr "τόνοι"
+
+# # | translated from communitytranslateid=17282
+# | communitytranslateid=21358
+msgid "toggle truck HUD"
+msgstr "Εμφάνιση του πίνακα ελέγχου και οργάνων"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=21420
+msgid "toggle truck front lights"
+msgstr "εμφάνιση των εμπρόσθιων φοτών του οχήματος"
+
+# # | translated from communitytranslateid=17280
+# | communitytranslateid=21352
+msgid "toggle truck beacons"
+msgstr "εμφάνιση των ραδιοσημαντήρων του οχήματος"
+
+# # | translated from communitytranslateid=17264
+# | communitytranslateid=21405
+msgid "toggle translucency of overview-map"
+msgstr "εμφανιση διαύγειας του χάρτη"
+
+# # | translated from communitytranslateid=17273
+# | communitytranslateid=21428
+msgid "toggle skeleton display mode"
+msgstr "εμφάνιση της σκελετοειδούς απεικόνισης"
+
+# # | translated from communitytranslateid=17310
+# | communitytranslateid=21378
+msgid "toggle right direction indicator (blinker)"
+msgstr "εμφάνιση του δεξιού βέλους κατεύθυνσης (φλάς)"
+
+# # | translated from communitytranslateid=17277
+# | communitytranslateid=21403
+msgid "toggle render mode (solid, wireframe and points)"
+msgstr "εμφάνιση μεδόδου απεικόνισης (σταθερή, καλωδιόγραμμα και σημεία)"
+
+# # | translated from communitytranslateid=17275
+# | communitytranslateid=21412
+msgid "toggle particle cannon"
+msgstr "εμφάνιση κανονιού σωματιδίων"
+
+# # | translated from communitytranslateid=17325
+# | communitytranslateid=21314
+msgid "toggle parking brake"
+msgstr "χειρόφρενο"
+
+# # | translated from communitytranslateid=17292
+# | communitytranslateid=21422
+msgid "toggle overview map interactive mode"
+msgstr "εμφάνιση του χάρτη πλήρους προβολής με διαδραστική μέθοδο"
+
+# # | translated from communitytranslateid=17279
+# | communitytranslateid=21390
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr "Εμφάνιση στατιστικών της μηχανής γραφικών (καρε ανα δευτερόλεπτο κτλ.)"
+
+# # | translated from communitytranslateid=17283
+# | communitytranslateid=21453
+msgid "toggle map modes"
+msgstr "εμφάνιση κόμβων χάρτη"
+
+# # | translated from communitytranslateid=17309
+# | communitytranslateid=21280
+msgid "toggle left direction indicator (blinker)"
+msgstr "εμφάνισε τον αριστερό δείκτη κατεύθυνσης (φλας)"
+
+# # | translated from communitytranslateid=17331
+# | communitytranslateid=21462
+msgid "toggle ignition"
+msgstr "εμφάνιση ανάφλεξης"
+
+# # | translated from communitytranslateid=17323
+# | communitytranslateid=21323
+msgid "toggle custom light 9"
+msgstr "εμφάνισε το διαφοροποιημένο φως 9"
+
+# # | translated from communitytranslateid=17322
+# | communitytranslateid=21365
+msgid "toggle custom light 8"
+msgstr "ενεροποίηση του διαφοροποιημένου φωτός 8"
+
+# # | translated from communitytranslateid=17321
+# | communitytranslateid=21401
+msgid "toggle custom light 7"
+msgstr "εμφάνιση του διαφοροποιημένου φωτος 7"
+
+# # | translated from communitytranslateid=17320
+# | communitytranslateid=21252
+msgid "toggle custom light 6"
+msgstr "εμφάνισε το διαμορφομένο φώς 6"
+
+# # | translated from communitytranslateid=17319
+# | communitytranslateid=21206
+msgid "toggle custom light 5"
+msgstr "εμφάνισε το τροποποιημένο φως 5"
+
+# # | translated from communitytranslateid=17318
+# | communitytranslateid=21268
+msgid "toggle custom light 4"
+msgstr "εμφάνισε το διαφοροποιημένο φώς 4"
+
+# # | translated from communitytranslateid=17317
+# | communitytranslateid=21180
+msgid "toggle custom light 3"
+msgstr "Εμφάνισε το διαμορφομένο φως 3"
+
+# # | translated from communitytranslateid=17316
+# | communitytranslateid=21457
+msgid "toggle custom light 2"
+msgstr "εμφάνιση του διαφοροποιημένου φωτός 2"
+
+# # | translated from communitytranslateid=17315
+# | communitytranslateid=21450
+msgid "toggle custom light 10"
+msgstr "εμφάνιση διαφοροποιημένου φωτός 10"
+
+# # | translated from communitytranslateid=17314
+# | communitytranslateid=21384
+msgid "toggle custom light 1"
+msgstr "εμφάνιση του διαφοροποιημένου φωτός 1"
+
+# # | translated from communitytranslateid=17334
+# | communitytranslateid=21459
+msgid "toggle between windowed and fullscreen mode"
+msgstr "εναλλαγή μεταξύ προβολής παραθύρου και πλήρους προβολής"
+
+# # | translated from communitytranslateid=17330
+# | communitytranslateid=21307
+msgid "toggle between transmission modes"
+msgstr "ενναλαγή μεταξύ των επιλογών μεθόδου αλλαγής ταχύτητας"
+
+# # | translated from communitytranslateid=17352
+# | communitytranslateid=21220
+msgid "toggle between net chat display modes"
+msgstr "εναλλαγή μεταξύ των μεθόδων απεικόνισης των συζητίσεων μέσω internet"
+
+# # | translated from communitytranslateid=17305
+# | communitytranslateid=21402
+msgid "toggle between available road types"
+msgstr "επιλογή μετακύ διαθέσιμων τύπων οδοστρόματος"
+
+# # | translated from communitytranslateid=17304
+# | communitytranslateid=21396
+msgid "toggle between available objects"
+msgstr "επιλογή ανάμεσα στα διαθέσημα αντικείμενα"
+
+# # | translated from communitytranslateid=17259
+# | communitytranslateid=21448
+msgid "toggle appearance of console"
+msgstr "εμφάνιση της απεικόνισης της κονσόλας"
+
+# # | translated from communitytranslateid=17311
+# | communitytranslateid=21204
+msgid "toggle all direction indicators"
+msgstr "εμφάνισε όλους τους δείκτες κατεύθυνσης"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=21202
+msgid "tie a load to the truck"
+msgstr "δέσε ενα φορτίο στο όχημα"
+
+# # | translated from communitytranslateid=17174
+# | communitytranslateid=21210
+msgid "throttle axis. Only use this if you have fitting hardware :) (i.e. a Slider)"
+msgstr "άξονας επυτάχυνσης. Χρησιμοποιήστε το μόνο αμα έχετε κατάλληλο εξοπλησμό :) (π.χ. ένα τιμόνι)"
+
+# # | translated from communitytranslateid=10753
+# | communitytranslateid=17058
+msgid "Thread number:"
+msgstr "Αριθμός νήματος:"
+
+# # | translated from communitytranslateid=10776
+# | communitytranslateid=17059
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Αυτή η ρύθμιση παρακάμτει την προεπιλεγμένη γλώσσα συστήματος. Πρέπει να επανεκινίσετε το πρόγραμμα ρύθμισης για να εφαρμοστούν οι αλλαγές."
+
+# | communitytranslateid=16252
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Αυτό μπορεί να ρίξει τα καρέ/δευτ. σε μερικά παλιά μηχανήματα,αλλα δείχνει αρκετά καλό."
+
+# # | translated from communitytranslateid=17147
+# | communitytranslateid=21375
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr "Αυτό ενεργοποιεί το αυτόματο κατέβασμα των τροποποιήσεων που λείπουν όταν χρισημοποιείτε την λειτουργεία που σας επιτρέπει να παίζετε με πολλά άτομα"
+
+# | communitytranslateid=16249
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Αυτό καθορίζει το πόσο γρασίδι και πόσα δέντρα(και παρόμοια αντικείμενα) θα εμφανίζονται."
+
+# # | translated from communitytranslateid=17152
+# | communitytranslateid=21357
+msgid "The update service is currently only available for windows users."
+msgstr "Η υπηρεσία ενημέρωσης είναι διαθέσημη μόνο για χρήστες των windows."
+
+# # | translated from communitytranslateid=10765
+# | communitytranslateid=17060
+msgid "The server password, if required."
+msgstr "Ο κωδικός πρόσβασης του σέρβερ, αν χρειάζεται."
+
+# | communitytranslateid=16234
+msgid "Texture filtering:"
+msgstr "Φιλτράρισμα υφής'"
+
+# | communitytranslateid=16219
+msgid "Test"
+msgstr "Τεστ"
+
+# | communitytranslateid=16116
+msgid "Terrain not found: "
+msgstr "Δεν βρέθηκε η πίστα'"
+
+# | communitytranslateid=16117
+msgid "Terrain loading error"
+msgstr "Σφάλμα φορτωσης πίστας"
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=21369
+msgid "teleport to rescue truck"
+msgstr "τηλεμεταφορά στο φορτηγό διάσωσης"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=21423
+msgid "take a screenshot"
+msgstr "δημιουργία φωτογραφίας"
+
+# # | translated from communitytranslateid=17303
+# | communitytranslateid=21455
+msgid "switch to road laying mode"
+msgstr "αλλαγή σε κατάσταση φτιαξίματος δρόμου"
+
+# # | translated from communitytranslateid=17179
+# | communitytranslateid=21200
+msgid "switch all engines on / off"
+msgstr "όλες οι μηχανές ανοιχτές / κλειστές"
+
+# # | translated from communitytranslateid=10744
+# | communitytranslateid=17061
+msgid "Sunburn"
+msgstr "Κάψιμο ήλιου"
+
+# # | translated from communitytranslateid=17203
+# | communitytranslateid=21231
+msgid "step forward with the character"
+msgstr "προχώρισε μπροστά με τον χαρακτήρα"
+
+# # | translated from communitytranslateid=17202
+# | communitytranslateid=21249
+msgid "step backwards with the character"
+msgstr "προχώρισε προς τα πίσω με τον χαρακτήρα"
+
+# # | translated from communitytranslateid=17183
+# | communitytranslateid=21271
+msgid "steer right a step"
+msgstr "στρίψημο κατα ένα βήμα δεξιά"
+
+# # | translated from communitytranslateid=17184
+# | communitytranslateid=21380
+msgid "steer right (analog value!)"
+msgstr "στρίψε δεξιά (αναλογικές τιμές!)"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=21351
+msgid "steer right"
+msgstr "στρίψημο δεξιά"
+
+# # | translated from communitytranslateid=17181
+# | communitytranslateid=21333
+msgid "steer left a step"
+msgstr "Στρίψε αριστερά ενα βήμα"
+
+# # | translated from communitytranslateid=17182
+# | communitytranslateid=21215
+msgid "steer left (analog value!)"
+msgstr "στρίψιμο αριστερά (αναλογικές τιμές!)"
+
+# # | translated from communitytranslateid=17173
+# | communitytranslateid=21372
+msgid "steer left"
+msgstr "στρίψιμο αριστερά"
+
+# | communitytranslateid=16168
+msgid "Startup error"
+msgstr "Πρόβλημα εκκίνησης"
+
+# # | translated from communitytranslateid=17274
+# | communitytranslateid=21232
+msgid "start the old truck editor"
+msgstr "εκκίνηση του παλιού διαμορφωτή οχημάτων"
+
+# # | translated from communitytranslateid=15714
+# | communitytranslateid=17062
+msgid "SPECIAL_CHARACTERS"
+msgstr "ΕΙΔΙΚΟΙ_ΧΑΡΑΚΤΙΡΕΣ"
+
+# | communitytranslateid=16238
+msgid "Special effects"
+msgstr "Ειδικά εφέ"
+
+# | communitytranslateid=16110
+msgid "Sounds"
+msgstr "Ήχοι."
+
+# # | translated from communitytranslateid=10752
+# | communitytranslateid=16729
+msgid "Sound rendering:"
+msgstr "Σύστημα αναπαραγωγλης ήχου"
+
+# | communitytranslateid=16239
+msgid "Sky type:"
+msgstr "Τύπος ουρανού:"
+
+# # | translated from communitytranslateid=17157
+# | communitytranslateid=21449
+msgid "Skins"
+msgstr "Εμφανίσεις"
+
+# | communitytranslateid=16212
+msgid "Simple Settings"
+msgstr "Απλές Ρυθμίσεις"
+
+# # | translated from communitytranslateid=17209
+# | communitytranslateid=21393
+msgid "sidestep to the right"
+msgstr "παράπλευρο βήμα στα δεξιά"
+
+# # | translated from communitytranslateid=17208
+# | communitytranslateid=21413
+msgid "sidestep to the left"
+msgstr "παράπλευρη μετακίνηση προς τα αριστερά"
+
+# # | translated from communitytranslateid=10742
+# | communitytranslateid=17063
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Δείχνει τους καθρέπτες πίσω όψης στιν προβολή 1ου προσώπου. Μπορεί να προκαλέσει προβλήματα συμβατότητας σε πολύ παλιές κάρτες γραφικών."
+
+# # | translated from communitytranslateid=10784
+# | communitytranslateid=17064
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Δείχνει το δυναμικό ταμπλό στιν όψη 1ου προσώπου. Μπορει να προκαλέσει προβλήματα συμβατότητας σε πολύ παλιές κάρτες γραφικών"
+
+# # | translated from communitytranslateid=10790
+# | communitytranslateid=17078
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Δείχνει όλα τα collision meshes με κόκκινο για να μπορείτε να τα τοποθετίσετε σωστά. Χρισημοποιήστε το μονο για debugging!"
+
+# # | translated from communitytranslateid=17332
+# | communitytranslateid=21399
+msgid "show truck tool"
+msgstr "εμφάνιση του εργαλείου για τα οχήματα"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=21186
+msgid "show / hide the console"
+msgstr "δείξε / κρύψε την κονσόλα"
+
+# # | translated from communitytranslateid=17327
+# | communitytranslateid=21277
+msgid "shift to neutral gear in manual transmission mode"
+msgstr "αλλαγή στην νεκρά ταχύτητα σε μη-αυτόματο κιβώτιο ταχυτήτων"
+
+# # | translated from communitytranslateid=17328
+# | communitytranslateid=21348
+msgid "shift one gear up in manual transmission mode"
+msgstr "άλλαξε μία σχέση προς τα πάνω στη χειροκίνητη αλλαγή ταχυτήτων"
+
+# # | translated from communitytranslateid=17326
+# | communitytranslateid=21406
+msgid "shift one gear down in manual transmission mode"
+msgstr "αλλαγή μίας σχέσεως κάτω σε χειροκίνητο κιβώτιο ταχυτήτων"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=21258
+msgid "shift directly to third gear"
+msgstr "άλλαξε κατευθείαν στην τρίτη ταχύτητα"
+
+# # | translated from communitytranslateid=19432
+# | communitytranslateid=21221
+msgid "shift directly to second gear"
+msgstr "άλλαξε κατευτθείαν στην 2η ταχύτητα"
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=21219
+msgid "shift directly to reverse gear"
+msgstr "αλλαξε ταχύτητα κατεθείαν στην όπισθεν"
+
+# # | translated from communitytranslateid=19434
+# | communitytranslateid=21244
+msgid "shift directly to fourth gear"
+msgstr "άλλαξε κατευθείαν στην τέταρτη ταχύτητα"
+
+# # | translated from communitytranslateid=19431
+# | communitytranslateid=21218
+msgid "shift directly to first gear"
+msgstr "άλλαξε ταχύτητα κατευθείαν στην πρώτη"
+
+# # | translated from communitytranslateid=19439
+# | communitytranslateid=21182
+msgid "shift directly to 9th gear"
+msgstr "ανέβασε κατευθείαν στην 9ατη ταχύτητα"
+
+# # | translated from communitytranslateid=19438
+# | communitytranslateid=21366
+msgid "shift directly to 8th gear"
+msgstr "αλλαγή κατευθείαν στην 8η ταχύτητα"
+
+# # | translated from communitytranslateid=19437
+# | communitytranslateid=21446
+msgid "shift directly to 7th gear"
+msgstr "αλλαγή κατευθείαν στην 7η ταχύτητα"
+
+# # | translated from communitytranslateid=19436
+# | communitytranslateid=21260
+msgid "shift directly to 6th gear"
+msgstr "άλλαξε κατευθείαν στην 6η ταχύτητα"
+
+# # | translated from communitytranslateid=19435
+# | communitytranslateid=21440
+msgid "shift directly to 5th gear"
+msgstr "αλλαγή κατεθείαν στην 5η ταχύτητα"
+
+# # | translated from communitytranslateid=19448
+# | communitytranslateid=21432
+msgid "shift directly to 18th gear"
+msgstr "αλλαγή κατευθείαν στην 18η ταχύτητα"
+
+# # | translated from communitytranslateid=19447
+# | communitytranslateid=21225
+msgid "shift directly to 17th gear"
+msgstr "αλλαξε ταχύτητα κατευθείαν στην 17η"
+
+# # | translated from communitytranslateid=19446
+# | communitytranslateid=21317
+msgid "shift directly to 16th gear"
+msgstr "αλλαξε κατευθείαν στην 16η ταχύτητα"
+
+# # | translated from communitytranslateid=19445
+# | communitytranslateid=21303
+msgid "shift directly to 15th gear"
+msgstr "αλλαγή κατευθείαν στην 15η ταχύτητα"
+
+# # | translated from communitytranslateid=19444
+# | communitytranslateid=21430
+msgid "shift directly to 14th gear"
+msgstr "αλλαγή κατεθείαν στην 14αρτη ταχύτητα"
+
+# # | translated from communitytranslateid=19443
+# | communitytranslateid=21209
+msgid "shift directly to 13th gear"
+msgstr "ανέβασε κατευθείαν στην 13η ταχύτητα"
+
+# # | translated from communitytranslateid=19442
+# | communitytranslateid=21400
+msgid "shift directly to 12th gear"
+msgstr "αλλαγή κατευθείαν στην 12ατη ταχύτητα"
+
+# # | translated from communitytranslateid=19441
+# | communitytranslateid=21367
+msgid "shift directly to 11th gear"
+msgstr "άλλαξε κατεθέίαν στην 11ατη ταχύτητα"
+
+# # | translated from communitytranslateid=19440
+# | communitytranslateid=21364
+msgid "shift directly to 10th gear"
+msgstr "άλλαξε κατευθείαν στην 10ατη ταχύτητα"
+
+# # | translated from communitytranslateid=17308
+# | communitytranslateid=21279
+msgid "shift automatic transmission one gear up"
+msgstr "αλλαγή μίας σχέσης πάνω στο αυτόματο κιβώτιο ταχυτήτων"
+
+# # | translated from communitytranslateid=17307
+# | communitytranslateid=21235
+msgid "shift automatic transmission one gear down"
+msgstr "αλλαξε στο αυτόματο κιβώτιο ταχυτητων μια σχέση κάτω"
+
+# | communitytranslateid=16241
+msgid "Shadow type:"
+msgstr "Τύπος σκίασης:"
+
+# # | translated from communitytranslateid=19450
+# | communitytranslateid=21435
+msgid "sets middle range (7-12) for H-shaft"
+msgstr "θέτει μεσαία εμβέλεια (7-12) για το Η-φρεάτιο"
+
+# # | translated from communitytranslateid=19449
+# | communitytranslateid=21456
+msgid "sets low range (1-6) for H-shaft"
+msgstr "θέτει χαμηλή εμβέλεια (1-6) για το Η-φρεάτιο"
+
+# # | translated from communitytranslateid=19451
+# | communitytranslateid=21306
+msgid "sets high range (13-18) for H-shaft"
+msgstr "θέτει υψυλή εμβέλεια (13-18) για το H-φρεάτιο"
+
+# | communitytranslateid=16224
+msgid "Sets all settings in a simple way"
+msgstr "Ρύθμισε όλες τις επιλογέσ με έναν απλό τρόπο"
+
+# # | translated from communitytranslateid=10762
+# | communitytranslateid=17065
+msgid "Server port number: "
+msgstr "Αριθμός θύρας του σέρβερ"
+
+# # | translated from communitytranslateid=10764
+# | communitytranslateid=17066
+msgid "Server password: "
+msgstr "Κωδικός του σέρβερ"
+
+# # | translated from communitytranslateid=10760
+# | communitytranslateid=17067
+msgid "Server host name: "
+msgstr "Όνομα σέρβερ"
+
+# # | translated from communitytranslateid=17297
+# | communitytranslateid=21338
+msgid "select previous element in current category"
+msgstr "επιλογή προηγούμενου στοιχείου στη τρέχουσα κατηγορία"
+
+# # | translated from communitytranslateid=17294
+# | communitytranslateid=21415
+msgid "select previous category"
+msgstr "Επέλεξε την προηγούμενη κατηγορία"
+
+# # | translated from communitytranslateid=17293
+# | communitytranslateid=21347
+msgid "select next element in current category"
+msgstr "επέλεξε το επόμενο στοιχείο στην τρέχουσα κατηγορία"
+
+# # | translated from communitytranslateid=17295
+# | communitytranslateid=21391
+msgid "select next category"
+msgstr "επιλογή επόμενης κατηγορίας"
+
+# # | translated from communitytranslateid=17296
+# | communitytranslateid=21313
+msgid "select focussed item and close menu"
+msgstr "Επέλεξε το αντικείμενο και κλίσε το μενού"
+
+# | communitytranslateid=16148
+msgid "Search"
+msgstr "Αναζήτηση"
+
+# # | translated from communitytranslateid=10770
+# | communitytranslateid=17068
+msgid "Screenshot Format:"
+msgstr "Μορφή αρχείου φωτογραφίας οθόνης"
+
+# | communitytranslateid=16229
+msgid "Screen configuration"
+msgstr "Ρυθμίσεις Οθόνης"
+
+# | communitytranslateid=16208
+msgid "Save the current configuration and start RoR."
+msgstr "Αποθήκευση των τρέχουσων ρυθμίσεων και ξεκίνησε το RoR."
+
+# | communitytranslateid=16210
+msgid "Save the current configuration and close the configuration program."
+msgstr "Αποθήκευση των τρέχουσων ρυθμίσεων και κλείσιμο του προγράμματος ρυθμίσεων."
+
+# # | translated from communitytranslateid=19420
+# | communitytranslateid=21336
+msgid "Save Mapping to File"
+msgstr "Σώσιμο χαρτογράφησης σε Φάκελο"
+
+# | communitytranslateid=16207
+msgid "Save and Play"
+msgstr "Αποθήκευση και Παίξε"
+
+# | communitytranslateid=16209
+msgid "Save and Exit"
+msgstr "Αποθήκευση και έξοδος"
+
+# # | translated from communitytranslateid=17172
+# | communitytranslateid=21452
+msgid "rudder right"
+msgstr "πηδάλιο ουρας δεξιά"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=21389
+msgid "rudder left"
+msgstr "πηδάλιο ουράς προς τα αριστερά"
+
+# | communitytranslateid=16231
+msgid "RTT Mode:"
+msgstr "RTT Mode:"
+
+# # | translated from communitytranslateid=17353
+# | communitytranslateid=21419
+msgid "rotate view up"
+msgstr "Περιστροφή θέας προς τα επάνω"
+
+# # | translated from communitytranslateid=17354
+# | communitytranslateid=21408
+msgid "rotate view down"
+msgstr "περιστροφή θέας προς τα κάτω"
+
+# # | translated from communitytranslateid=17302
+# | communitytranslateid=21371
+msgid "rotate object right"
+msgstr "περιστροφή αντικειμένου δεξιά"
+
+# # | translated from communitytranslateid=17301
+# | communitytranslateid=21356
+msgid "rotate object left"
+msgstr "περιστροφή αντικειμένου αριστερά"
+
+# # | translated from communitytranslateid=17206
+# | communitytranslateid=21185
+msgid "rotate character right"
+msgstr "περιστροφή χαρακτήρα δεξιά"
+
+# # | translated from communitytranslateid=17205
+# | communitytranslateid=21394
+msgid "rotate character left"
+msgstr "περιστροφή χαρακτήρα αριστερά"
+
+# # | translated from communitytranslateid=17197
+# | communitytranslateid=21388
+msgid "rotate camera up"
+msgstr "περιστροφή της κάμερας προς τα πάνω"
+
+# # | translated from communitytranslateid=17196
+# | communitytranslateid=21443
+msgid "rotate camera right"
+msgstr "περιστροφή κάμερας δεξιά"
+
+# # | translated from communitytranslateid=17195
+# | communitytranslateid=21246
+msgid "rotate camera left"
+msgstr "περιστροφή κάμερας αριστερά"
+
+# # | translated from communitytranslateid=17194
+# | communitytranslateid=21335
+msgid "rotate camera down"
+msgstr "περιστροφή της κάμερας προς τα κάτω"
+
+# | communitytranslateid=16204
+msgid "Rigs of Rods configuration"
+msgstr "Ρυθμισεις του Rigs of Rods"
+
+# # | translated from communitytranslateid=17170
+# | communitytranslateid=21368
+msgid "reverse the turboprops"
+msgstr "αναστροφή των τούρμπο-προπέλων"
+
+# # | translated from communitytranslateid=10817
+# | communitytranslateid=17069
+msgid "reverse axis"
+msgstr "Αντίστροφος άξονας"
+
+# # | translated from communitytranslateid=10816
+# | communitytranslateid=16719
+msgid "Reverse"
+msgstr "Όπισθεν"
+
+# | communitytranslateid=16206
+msgid "Restore the default configuration."
+msgstr "Επαναφορά των προεπιλεγμένων ρυθμίσεων."
+
+# | communitytranslateid=16205
+msgid "Restore Defaults"
+msgstr "Επαναφορά προεπιλογών"
+
+# # | translated from communitytranslateid=17270
+# | communitytranslateid=21383
+msgid "reset truck to original starting position"
+msgstr "μηδενησμός θέσης φορτηγού στην αρχική του θέση"
+
+# # | translated from communitytranslateid=17193
+# | communitytranslateid=21445
+msgid "reset the camera position"
+msgstr "μηδενισμός θέσης κάμερας"
+
+# # | translated from communitytranslateid=10749
+# | communitytranslateid=17070
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Προιποθέτει μια πρόσφατη κάρτα γραφικών. Προσθέτει ένα εφέ θολάδας κίνισης"
+
+# # | translated from communitytranslateid=10747
+# | communitytranslateid=17071
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Προιποθέτει μια πρόσφατη κάρτα γραφικών. Προσθέτει ένα εφέ θολάδας φωτός"
+
+# # | translated from communitytranslateid=10745
+# | communitytranslateid=17072
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Προιποθέτει μια πρόσφατη κάρτα γραφικών. Προσθέτει ένα μπλέ τυφλωτικό φως"
+
+# # | translated from communitytranslateid=10786
+# | communitytranslateid=17073
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Λειτουργεία επαναναπαραγωγής. (Μπορει να επιρεάσει τα καρέ/δευτερόλεπτο)"
+
+# # | translated from communitytranslateid=10785
+# | communitytranslateid=17074
+msgid "Replay Mode"
+msgstr "Λειτουργεία επαναναπαραγωγής"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=21211
+msgid "Render System"
+msgstr "Σύστημα απεικόνισης"
+
+# # | translated from communitytranslateid=17333
+# | communitytranslateid=21322
+msgid "reloads the roads (experimental)"
+msgstr "ξαναφορτώνει τους δρόμους (πειραματικό)"
+
+# # | translated from communitytranslateid=10822
+# | communitytranslateid=16732
+msgid "Region"
+msgstr "Περιοχή"
+
+# # | translated from communitytranslateid=17143
+# | communitytranslateid=21409
+msgid "Regen cache"
+msgstr "Ξαναφόρτωμα της προσωρινής μνήμης"
+
+# # | translated from communitytranslateid=17164
+# | communitytranslateid=21251
+msgid "pull the elevator up in an aircraft."
+msgstr "τράβιξε τον μοχλό προς τα πάνω σε ένα αεροσκάφος."
+
+# # | translated from communitytranslateid=17163
+# | communitytranslateid=21414
+msgid "pull the elevator down in an aircraft."
+msgstr "τράβηξε τον μοχλό κίνησης των πτερυγίων προς τα κάτω στο αεροπλάνο"
+
+# # | translated from communitytranslateid=10788
+# | communitytranslateid=17079
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Τυπώνει όλα τα node mass στο RoR.log. Χρισημοποιήστε το μονο για debugging οχημάτων!"
+
+# # | translated from communitytranslateid=19386
+# | communitytranslateid=21458
+msgid "Please use any mapped input device in order to test."
+msgstr "Παρακαλώ χρισιμοποιήστε οποιαδήποτε χαρτογραφιμένη συσκευή εισόδου για να γίνουν οι δοκιμές."
+
+# # | translated from communitytranslateid=19418
+# | communitytranslateid=21245
+msgid "Please select what type of device to export"
+msgstr "Παρακαλώ επιλέξτε τι τυπο συσκευης θα εξαχθεί"
+
+# | communitytranslateid=16194
+msgid "Please select an input event."
+msgstr "Παρακαλώ εισάγετε ενα event εισόδου."
+
+# | communitytranslateid=16142
+msgid "Please clear the place first"
+msgstr "Παρακαλώ καθαρίστε τον χώρο πρώτα."
+
+# # | translated from communitytranslateid=17298
+# | communitytranslateid=21201
+msgid "place currently selected object at current position"
+msgstr "Τοποθέτησε το επιλεγμένο αντικείμενο στην τρέχουσα θέση"
+
+# # | translated from communitytranslateid=17300
+# | communitytranslateid=21434
+msgid "pitch object foreward"
+msgstr "γείρε το αντικείμενο μπροστά"
+
+# # | translated from communitytranslateid=17299
+# | communitytranslateid=21379
+msgid "pitch object backward"
+msgstr "γείρε το αντικείμενο προς τα πίσω"
+
+# # | translated from communitytranslateid=10782
+# | communitytranslateid=17075
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Σωματίδια οπως κανόνια νερού ή απλά ίχνη οχημάτων. Μπορει να παρα-χρησιμοποιηθει στην λειτουργεια με πολλούς παίχτες"
+
+# | communitytranslateid=16250
+msgid "Particle systems"
+msgstr "Συστήματα σωματίδιων"
+
+# # | translated from communitytranslateid=10809
+# | communitytranslateid=16733
+msgid "Options"
+msgstr "Επιλογές"
+
+# # | translated from communitytranslateid=17167
+# | communitytranslateid=21447
+msgid "one step more flaps."
+msgstr "ένα βήμα περισσότερα πτερύγια καμπυλότητας"
+
+# # | translated from communitytranslateid=17166
+# | communitytranslateid=21184
+msgid "one step less flaps."
+msgstr "ένα βήμα λιγότερο τα πτερύγια καμπυλότητας."
+
+# | communitytranslateid=16203
+msgid "ok (end test)"
+msgstr "οκ (τέλος τέστ)"
+
+# | communitytranslateid=16143
+msgid "OK"
+msgstr "OK"
+
+# # | translated from communitytranslateid=10810
+# | communitytranslateid=17076
+msgid "Ogre config validation error"
+msgstr "Σφάλμα επαλήθευσης του Ogre config"
+
+# # | translated from communitytranslateid=10812
+# | communitytranslateid=17077
+msgid "Ogre config error"
+msgstr "Σφάλμα του ogre config"
+
+# # | translated from communitytranslateid=10780
+# | communitytranslateid=17080
+msgid "Not much impact on speed."
+msgstr "Όχι τοσο πολύ απόδοση στην ταχύτητα."
+
+# | communitytranslateid=16121
+msgid "normal camera"
+msgstr "κανονική κάμερα."
+
+# # | translated from communitytranslateid=17162
+# | communitytranslateid=21236
+msgid "normal brake for an aircraft"
+msgstr "κανονικό φρένο για αεροσκάφος"
+
+# | communitytranslateid=16160
+msgid "Non-Driveable"
+msgstr "Μη-οδηγήσημο"
+
+# | communitytranslateid=16156
+msgid "Nodes: "
+msgstr "κόμβοι:"
+
+# | communitytranslateid=16178
+msgid "node count: "
+msgstr "αριθμός σημείων:"
+
+# # | translated from communitytranslateid=17177
+# | communitytranslateid=21316
+msgid "no thrust"
+msgstr "χωρις υσχύ"
+
+# # | translated from communitytranslateid=17168
+# | communitytranslateid=21382
+msgid "no flaps."
+msgstr "καθόλου πτερύγια καμπυλότητας"
+
+# | communitytranslateid=16247
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Κανένα εφέ, εκτος και αν αλλιλεπιδράσεις με το νερό, δείχνει πολύ ωραίο."
+
+# # | translated from communitytranslateid=19427
+# | communitytranslateid=21339
+msgid "No differential installed on current vehicle!"
+msgstr "Κανένα διαφορικό δεν έχει εγκατασταθεί στο τρέχων όχημα!"
+
+# # | translated from communitytranslateid=10825
+# | communitytranslateid=17083
+msgid "no deadzone"
+msgstr "Καθόλου νεκρή περιοχή"
+
+# | communitytranslateid=16150
+msgid "no author information available"
+msgstr "Δεν υπάρχουν πληροφορίες απο τον συντάκτη."
+
+# # | translated from communitytranslateid=17345
+# | communitytranslateid=21305
+msgid "no airbrakes"
+msgstr "χωρίς αερόφρενα"
+
+# # | translated from communitytranslateid=10756
+# | communitytranslateid=17112
+msgid "Nickname: "
+msgstr "Ψευδόνυμο"
+
+# # | translated from communitytranslateid=10805
+# | communitytranslateid=17100
+msgid "new Language selected"
+msgstr "Επιλέχθηκε καινούρια γλώσσα"
+
+# | communitytranslateid=16220
+msgid "Network"
+msgstr "Δίκτυο"
+
+# # | translated from communitytranslateid=17340
+# | communitytranslateid=21387
+msgid "move right mirror to the right"
+msgstr "μετακίνηση του δεξιού καθρέφτη στα δεξιά"
+
+# # | translated from communitytranslateid=17343
+# | communitytranslateid=21304
+msgid "move replay fast forward"
+msgstr "μετακίνιση του replay γρήγορα προς τα εμπρός"
+
+# # | translated from communitytranslateid=17344
+# | communitytranslateid=21205
+msgid "move replay fast backward"
+msgstr "προχώρισε γρήγορα προς τα πίσω στο replay"
+
+# # | translated from communitytranslateid=17338
+# | communitytranslateid=21392
+msgid "move left mirror to the right"
+msgstr "μετακίνηση αριστερού καθρέφτη στα δεξιά"
+
+# # | translated from communitytranslateid=17337
+# | communitytranslateid=21416
+msgid "move left mirror to the left"
+msgstr "μετακίνηση του αριστερού καθρέπτη προς τα αριστερά"
+
+# # | translated from communitytranslateid=17355
+# | communitytranslateid=21429
+msgid "move character up"
+msgstr "μετακίνηση χαρακτήρα προς τα πάνω"
+
+# # | translated from communitytranslateid=17356
+# | communitytranslateid=21229
+msgid "move character down"
+msgstr "μετακίνησε τον χαρακτήρα κάτω"
+
+# # | translated from communitytranslateid=10838
+# | communitytranslateid=17118
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# # | translated from communitytranslateid=10748
+# | communitytranslateid=16735
+msgid "Motion blur"
+msgstr "Θολότητα κίνησης"
+
+# # | translated from communitytranslateid=17339
+# | communitytranslateid=21464
+msgid "more right mirror to the left"
+msgstr "μετακίνηση του δεξί καθρέπτη προς τα αριστερα"
+
+# # | translated from communitytranslateid=17341
+# | communitytranslateid=21217
+msgid "more replay forward"
+msgstr "Περισσότερο replay εμπρός"
+
+# # | translated from communitytranslateid=17342
+# | communitytranslateid=21198
+msgid "more replay backward"
+msgstr "περισσότερο replay προς τα πίσω"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=21361
+msgid "more airbrakes"
+msgstr "περισσότερα αερόφρενα"
+
+# | communitytranslateid=16256
+msgid "Mirrors"
+msgstr "Καθρέφτες"
+
+# # | translated from communitytranslateid=10801
+# | communitytranslateid=17089
+msgid "minimum visibility range in percent"
+msgstr "Ελάχιστη ακτίνα ορατότητας σε ποσοστό"
+
+# # | translated from communitytranslateid=19425
+# | communitytranslateid=21332
+msgid "Mid range selected"
+msgstr "Μέτρια εμβέλεια επιλέχθηκε"
+
+# | communitytranslateid=16189
+msgid "max Speed:"
+msgstr "Μέγιστη ταχύτητα:"
+
+# | communitytranslateid=16154
+msgid "Mass: "
+msgstr "Μάζα'"
+
+# | communitytranslateid=16123
+msgid "Manual shift - Auto clutch"
+msgstr "Χειροκίνητες ταχύτητες - Αυτόματος συμπλέκτης."
+
+# # | translated from communitytranslateid=17324
+# | communitytranslateid=21385
+msgid "manual clutch (for manual transmission)"
+msgstr "χειροκίνητος συμπλέκτης (για το χειροκίνητο κιβώτιο ταχυτήτων)"
+
+# | communitytranslateid=16164
+msgid "Machine"
+msgstr "Μηχανή"
+
+# # | translated from communitytranslateid=10821
+# | communitytranslateid=16736
+msgid "Lower"
+msgstr "Χαμηλότερα"
+
+# # | translated from communitytranslateid=19424
+# | communitytranslateid=21270
+msgid "Low range selected"
+msgstr "Χαμιλη εμβέλεια επιλέχθηκε"
+
+# # | translated from communitytranslateid=17192
+# | communitytranslateid=21247
+msgid "look back (toggles between normal and lookback)"
+msgstr "κοίταξε πίσω (αλλάζει μεταξύ κανονικό και κολιταγμα πίσω)"
+
+# # | translated from communitytranslateid=15261
+# | communitytranslateid=17111
+msgid "loading...\n"
+msgstr "Φόρτωση...\n"
+
+# # | translated from communitytranslateid=15262
+# | communitytranslateid=17104
+msgid "Loading zips in group "
+msgstr "Φορτώνονται σε γκρούπ τα σιμπιεσμένα αρχεια"
+
+# # | translated from communitytranslateid=15268
+# | communitytranslateid=17116
+msgid "Loading Terrain"
+msgstr "Φόρτωση του χώρου"
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=21395
+msgid "loading new zip: "
+msgstr "γίνεται φόρτωση καινούριου συμπιεσμένου αρχείου:"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=21319
+msgid "loading new directory: "
+msgstr "γίνεται φόρτωση νέας διαδρομής αρχείων"
+
+# # | translated from communitytranslateid=15263
+# | communitytranslateid=17121
+msgid "Loading directory\n"
+msgstr "Φορτώνεται διαδρομή\n"
+
+# | communitytranslateid=16145
+msgid "Loader"
+msgstr "Φορτωτής"
+
+# | communitytranslateid=16146
+msgid "List"
+msgstr "Λίστα"
+
+# # | translated from communitytranslateid=19417
+# | communitytranslateid=21444
+msgid "Linearity"
+msgstr "Ευθυγραμμισιμότητα"
+
+# # | translated from communitytranslateid=10772
+# | communitytranslateid=17097
+msgid "Light source effects:"
+msgstr "Πηγή εφε φωτός"
+
+# # | translated from communitytranslateid=17207
+# | communitytranslateid=21262
+msgid "let the character run"
+msgstr "άφησε τον χαρακτήρα να τρέξει"
+
+# # | translated from communitytranslateid=17204
+# | communitytranslateid=21363
+msgid "let the character jump"
+msgstr "άφησε τον χαρακτήρα να πηδήξει"
+
+# # | translated from communitytranslateid=17347
+# | communitytranslateid=21442
+msgid "less airbrakes"
+msgstr "λιγότερα αερόφρενα"
+
+# # | translated from communitytranslateid=10774
+# | communitytranslateid=16731
+msgid "Language:"
+msgstr "Γλώσσα;"
+
+# # | translated from communitytranslateid=10839
+# | communitytranslateid=16728
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# | communitytranslateid=16193
+msgid "Keyboard"
+msgstr "Πληκτρολόγιο"
+
+# # | translated from communitytranslateid=10808
+# | communitytranslateid=16730
+msgid "Key/Axis"
+msgstr "Πλήκτρο/Άξονας"
+
+# # | translated from communitytranslateid=10815
+# | communitytranslateid=17094
+msgid "Joystick Options"
+msgstr "Επιλογές χειριστήριου παιχνιδιών"
+
+# # | translated from communitytranslateid=10818
+# | communitytranslateid=17084
+msgid "Joystick Axis Region"
+msgstr "Περιοχή άξονα του χειριστήριου παιχνιδιών"
+
+# # | translated from communitytranslateid=19390
+# | communitytranslateid=21334
+msgid "Joystick Axis Linearity"
+msgstr "Ευθυγραμμισιμότητα του άξονα του πηδαλίου"
+
+# # | translated from communitytranslateid=10823
+# | communitytranslateid=17087
+msgid "Joystick Axis Deadzones"
+msgstr "Νεκρή περιοχή άξονα χειριστήριου παιχνιδιών"
+
+# # | translated from communitytranslateid=10837
+# | communitytranslateid=17085
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# | communitytranslateid=16195
+msgid "Input Type: "
+msgstr "Τύπος εισαγωγής'"
+
+# # | translated from communitytranslateid=15257
+# | communitytranslateid=17114
+msgid "incremental check: processing changed zips\n"
+msgstr "επαυξητικός έλεγχος, επεξεργασία αλλαγμένων συμπιεσμένων αρχείων\n"
+
+# # | translated from communitytranslateid=15259
+# | communitytranslateid=17092
+msgid "incremental check: new files\n"
+msgstr "επαυξητικός έλεγχος καινούρια αρχεια\n"
+
+# # | translated from communitytranslateid=15258
+# | communitytranslateid=17099
+msgid "incremental check: new content\n"
+msgstr "επαυξητικός έλεγχος νέο περιεχόμενο\n"
+
+# # | translated from communitytranslateid=15260
+# | communitytranslateid=17123
+msgid "incremental check: duplicates\n"
+msgstr "επαυξητικός έλεγχος για διπλά αρχεία\n"
+
+# # | translated from communitytranslateid=15254
+# | communitytranslateid=17113
+msgid "incremental check: deleted and changed files\n"
+msgstr "επαυξητικός έλεγχος για διεγραμένα και αλλαγμένα αρχεία\n"
+
+# # | translated from communitytranslateid=15253
+# | communitytranslateid=17124
+msgid "incremental check: deleted and changed files"
+msgstr "επαυξητικός έλεγχος για διεγραμμένα και αλαγμένα αρχεία"
+
+# # | translated from communitytranslateid=17267
+# | communitytranslateid=21197
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr "αύξησε την πίεση των ελλαστικών (σημείωση: μόνο μερικά οχήματα το υποστιρίζουν αυτο)"
+
+# # | translated from communitytranslateid=17186
+# | communitytranslateid=21254
+msgid "increase throttle"
+msgstr "αύξησε την υσχύ"
+
+# # | translated from communitytranslateid=17285
+# | communitytranslateid=21344
+msgid "increase the current FOV value"
+msgstr "αύξηση της τιμής του Π.Ο."
+
+# # | translated from communitytranslateid=17178
+# | communitytranslateid=21439
+msgid "increase the airplane thrust"
+msgstr "αύξυση της ώθησης του αεροπλάνου"
+
+# # | translated from communitytranslateid=17190
+# | communitytranslateid=21407
+msgid "increase day-time a lot faster"
+msgstr "αύξηση μέρας-ώρας πολύ ποιο γρήγορα"
+
+# # | translated from communitytranslateid=17189
+# | communitytranslateid=21274
+msgid "increase day-time"
+msgstr "αύξισε μέρα-ώρα"
+
+# # | translated from communitytranslateid=10771
+# | communitytranslateid=16723
+msgid "In what Format should screenshots be saved?"
+msgstr "Σε τί τύπο εικόνας να σώζονται τα στιγμιότυπα οθόνης;"
+
+# | communitytranslateid=16217
+msgid "Import Keymap"
+msgstr "Εισαγωγή χάρτη κλειδιών"
+
+# # | translated from communitytranslateid=10798
+# | communitytranslateid=17081
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Άν χρισημοποιήτε το Xfire, μπορείτε να ενεροποιήσετε αυτή την επιλογή για να δημιουργιθεί ενα ποιό λεπτομερες αρχείο πληροφοριών για το παιχνίδι."
+
+# # | translated from communitytranslateid=10796
+# | communitytranslateid=17122
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Αν δεν σασ αρέσει ι μικρορύθμιση της κάμερας του οχήματος, μπορείτε να την απενεργοποιήσετε εδω."
+
+# # | translated from communitytranslateid=10791
+# | communitytranslateid=17125
+msgid "Hydrax Water System"
+msgstr "Σύστημα νερού Hydrax"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=21261
+msgid "hold to start the engine"
+msgstr "κράτησε πατημένο για να ξεκινίσει η μηχανή"
+
+# # | translated from communitytranslateid=19426
+# | communitytranslateid=21315
+msgid "High range selected"
+msgstr "Υψυλη εμβέλεια επιλέχθηκε"
+
+# # | translated from communitytranslateid=10750
+# | communitytranslateid=17086
+msgid "High quality reflective effects"
+msgstr "Υψυλής ποιότητας ανακλαστικά εφέ"
+
+# | communitytranslateid=16227
+msgid "High Quality"
+msgstr "Υψηλή ποιότητα"
+
+# | communitytranslateid=16225
+msgid "High Performance"
+msgstr "Υψηλές επιδόσεις"
+
+# # | translated from communitytranslateid=17262
+# | communitytranslateid=21326
+msgid "hide all GUI elements"
+msgstr "κρύψιμο όλων των στοιχείων γραφικών χρηστη"
+
+# # | translated from communitytranslateid=10803
+# | communitytranslateid=17106
+msgid "here you can get help"
+msgstr "Εδώ μπορείτε να πάρετε βοήθεια"
+
+# | communitytranslateid=16253
+msgid "HeatHaze"
+msgstr "Θολότητα Θερμότητας"
+
+# | communitytranslateid=16254
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Θολότητα θερμότητας από τις μηχανές,επιβραδύνει πολύ το σύστημα.(Ενεργοποιήστε το μόνο αν έχετε δυνατό υπολογιστή)"
+
+# | communitytranslateid=16173
+msgid "health: "
+msgstr "Υγεία:"
+
+# | communitytranslateid=16228
+msgid "Graphics Settings"
+msgstr "Ρυθμίσεις Γραφικών Απεικόνισης"
+
+# | communitytranslateid=16213
+msgid "Graphics"
+msgstr "Γραφικά"
+
+# # | translated from communitytranslateid=19423
+# | communitytranslateid=21190
+msgid "Fully Manual: stick shift with ranges"
+msgstr "Πλήρος χειροκίνητο: λεβιές ταχυτητων με σχέσεις"
+
+# # | translated from communitytranslateid=19422
+# | communitytranslateid=21272
+msgid "Fully manual: stick shift"
+msgstr "Πλήρος χειροκίνητο: λεβιές ταχιτήτων"
+
+# # | translated from communitytranslateid=19421
+# | communitytranslateid=21370
+msgid "Fully Manual: sequencial shift"
+msgstr "Πλήρως χειροκίνητο: διαδοχικές αλλαγές ταχυτήτων"
+
+# | communitytranslateid=16124
+msgid "Fully Manual shift"
+msgstr "Πλήρης χειροκίνητη αλλαγή ταχύτητας."
+
+# # | translated from communitytranslateid=17176
+# | communitytranslateid=21203
+msgid "full thrust"
+msgstr "πλήρης υσχύ"
+
+# | communitytranslateid=16236
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Η λειτουργία πλήρους οθόνης χρησιμοποιεί λίγο λιγότερη μνήμη"
+
+# | communitytranslateid=16235
+msgid "Full screen"
+msgstr "Πλήρης οθόνη"
+
+# # | translated from communitytranslateid=17165
+# | communitytranslateid=21397
+msgid "full flaps in an aircraft."
+msgstr "μέγιστη κλίση στα πτερύγια καμπυλότητας στο αεροσκάφος"
+
+# # | translated from communitytranslateid=17346
+# | communitytranslateid=21255
+msgid "full airbrakes"
+msgstr "μέχιστα αερόφρενα"
+
+# # | translated from communitytranslateid=10820
+# | communitytranslateid=16726
+msgid "Full"
+msgstr "Πλήρης"
+
+# | communitytranslateid=16120
+msgid "free camera"
+msgstr "Ελέυθερη κάμερα"
+
+# # | translated from communitytranslateid=17156
+# | communitytranslateid=21329
+msgid "FOV: "
+msgstr "Πεδιο Ορατότητας:"
+
+# # | translated from communitytranslateid=10777
+# | communitytranslateid=16725
+msgid "Fog"
+msgstr "Ομίχλη"
+
+# | communitytranslateid=16119
+msgid "fixed free camera"
+msgstr "Διορθώθηκε ελέυθερη κάμερα."
+
+# # | translated from communitytranslateid=17335
+# | communitytranslateid=21431
+msgid "fix the camera to a position"
+msgstr "πάγωμα της κάμερας σε μία θέση"
+
+# # | translated from communitytranslateid=19419
+# | communitytranslateid=21337
+msgid "Export selection"
+msgstr "Εξαγωγή επιλογής"
+
+# | communitytranslateid=16218
+msgid "Export Keymap"
+msgstr "Εξαγωγή Χάρτη κλειδιών"
+
+# # | translated from communitytranslateid=17288
+# | communitytranslateid=21425
+msgid "EXPERIMENTAL: set maximum amount of grass"
+msgstr "ΠΕΙΡΑΜΑΤΙΚΟ: θέσε το μέγιστο ποσό γρασιδιού"
+
+# # | translated from communitytranslateid=17290
+# | communitytranslateid=21386
+msgid "EXPERIMENTAL: save changes to the grass density image"
+msgstr "ΠΕΙΡΑΜΑΤΙΚΟ: σώσε τις αλλαγές στην εικόνα της πυκνότητας γρασιδιού"
+
+# # | translated from communitytranslateid=17286
+# | communitytranslateid=21183
+msgid "EXPERIMENTAL: remove some grass"
+msgstr "ΠΕΙΡΑΜΑΤΙΚΟ: αφέρεση λίγου γρασιδιού"
+
+# # | translated from communitytranslateid=17289
+# | communitytranslateid=21463
+msgid "EXPERIMENTAL: remove grass completely"
+msgstr "ΠΕΙΡΑΜΑΤΙΚΟ: αφαίρεση του γρασιδιού τελείως"
+
+# # | translated from communitytranslateid=17287
+# | communitytranslateid=21349
+msgid "EXPERIMENTAL: add some grass"
+msgstr "ΠΕΙΡΑΜΑΤΙΚΟ: πρόσθεσε λίγο γρασίδι"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=21320
+msgid "exit the game"
+msgstr "έξοδος απο το παιχνίδι"
+
+# | communitytranslateid=16202
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Τιμή Γεγονότος (αριστερά = 0%, δεξιά = 100%)"
+
+# | communitytranslateid=16192
+msgid "Event Name: "
+msgstr "Όνομα Γεγονότος"
+
+# | communitytranslateid=16201
+msgid "Event Name"
+msgstr "Όνομα Γεγονότος"
+
+# | communitytranslateid=16199
+msgid "Event Description: "
+msgstr "Περιγραφή Γεγονότος'"
+
+# # | translated from communitytranslateid=10806
+# | communitytranslateid=17101
+msgid "Event"
+msgstr "Γεγονός"
+
+# | communitytranslateid=16169
+msgid "Error while retrieving user space path"
+msgstr "Σφάλμα καθώς λαμβάνονταν η διαδρομή χώρου του χρήστη"
+
+# | communitytranslateid=16167
+msgid "Error while retrieving program space path"
+msgstr "Σφάλμα καθώς λαμβάνονταν η διαδρομή χώρου του προγράμματος"
+
+# # | translated from communitytranslateid=17260
+# | communitytranslateid=21230
+msgid "enter the chat"
+msgstr "μπες στην συνομιλία"
+
+# # | translated from communitytranslateid=17261
+# | communitytranslateid=21248
+msgid "enter or exit a truck"
+msgstr "είσοδος ή έξοδος απο ένα όχημα"
+
+# # | translated from communitytranslateid=10779
+# | communitytranslateid=16722
+msgid "Engine smoke"
+msgstr "Καπνός μηχανής"
+
+# | communitytranslateid=16245
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Ενεργοποιώντας τα κύματα θα προσθέσει περισσότερη διασκέδαση με τα πλοία, αλλα μπορεί να προκαλέσει μεγάλα προβήματα απόδοσης σε συγκεκριμένες συσκευές."
+
+# # | translated from communitytranslateid=10792
+# | communitytranslateid=17082
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Ενεργοποιεί το καινούριο σύστημα επεξεργασίας νερού. ΠΕΙΡΑΜΑΤΙΚΟ . Παρακάμπτει οποιαδίποτε ρύθμιση για το νερό."
+
+# # | translated from communitytranslateid=10797
+# | communitytranslateid=17109
+msgid "Enable XFire Extension"
+msgstr "Ενεργοποίηση της επέκτασης Xfire"
+
+# | communitytranslateid=16244
+msgid "Enable waves"
+msgstr "Ενεργοποίηση κυμάτων"
+
+# # | translated from communitytranslateid=10799
+# | communitytranslateid=17090
+msgid "Enable Visual Beam Debug"
+msgstr "Ενεργοποίηση debug για τα visual beam"
+
+# # | translated from communitytranslateid=19429
+# | communitytranslateid=21264
+msgid "enable or disable replay mode"
+msgstr "ενεροποίησε ή απενεροποιησε το replay"
+
+# # | translated from communitytranslateid=17278
+# | communitytranslateid=21321
+msgid "enable of disable replay mode"
+msgstr "ενεργοποίηση ή απενεργοποίηση του replay"
+
+# # | translated from communitytranslateid=10755
+# | communitytranslateid=17115
+msgid "Enable network mode"
+msgstr "Ενεργοποίηση της λειτουργείας δυκτίου"
+
+# # | translated from communitytranslateid=10751
+# | communitytranslateid=17102
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Ενεργοποίηση των υψυλής ποιότητασ ανακλαστικών εφε. Προκαλει επιβράδινση"
+
+# # | translated from communitytranslateid=17146
+# | communitytranslateid=21404
+msgid "Enable Auto-Downloader"
+msgstr "Ενεργοποίηση Αυτόματου-Κατεβάσματος"
+
+# # | translated from communitytranslateid=10754
+# | communitytranslateid=17105
+msgid "Enable advanced wheel model"
+msgstr "Ενεργοποίηση τις προχωριμένης μεθόδου για το τιμόνι"
+
+# # | translated from communitytranslateid=17336
+# | communitytranslateid=21187
+msgid "enable / disable free camera mode"
+msgstr "ενεργοποίηση / απενεργοποίηση ελεύθερης κάμερας"
+
+# | communitytranslateid=16251
+msgid "Dust"
+msgstr "Σκόνη"
+
+# # | translated from communitytranslateid=10800
+# | communitytranslateid=17088
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Δείχνει τον αριθμό των node και περισσότερες πληροφορίες για τα nodes και τα beams"
+
+# # | translated from communitytranslateid=17351
+# | communitytranslateid=21438
+msgid "display or hide net chat"
+msgstr "εμφάνιση ή κρύψιμο των συνομιλιών ίντερνετ"
+
+# # | translated from communitytranslateid=10794
+# | communitytranslateid=17126
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "Απενεργοποίηση του χάρτη. Αυτο είναι για δοκιμές μόνο, δεν θα πρέπει να κερδίζετε καρέ με αυτο."
+
+# # | translated from communitytranslateid=10793
+# | communitytranslateid=17117
+msgid "Disable Overview Map"
+msgstr "Απενεργοποίηση της προβολής του χάρτη"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=21212
+msgid "disable creak sound"
+msgstr "απενεργοποίησε τον ήχο τριξίματος"
+
+# # | translated from communitytranslateid=10795
+# | communitytranslateid=17055
+msgid "Disable Camera Pitching"
+msgstr "Απενεργοποίηση μικρορύθμισης της κάμερας"
+
+# # | translated from communitytranslateid=19428
+# | communitytranslateid=21360
+msgid "Differentials switched to: "
+msgstr "Τα διαφορικά άλλαξαν σε:"
+
+# | communitytranslateid=16230
+msgid "Device:"
+msgstr "Συσκευή:"
+
+# | communitytranslateid=16174
+msgid "destruction: "
+msgstr "Καταστροφή:"
+
+# # | translated from communitytranslateid=17160
+# | communitytranslateid=21194
+msgid "Description: "
+msgstr "Περιγραφή:"
+
+# | communitytranslateid=16216
+msgid "Delete selected"
+msgstr "Διαγραφή επιλεγμένου"
+
+# # | translated from communitytranslateid=17350
+# | communitytranslateid=21330
+msgid "delete current truck"
+msgstr "διαγραφή τρέχοντος οχήματος"
+
+# | communitytranslateid=16175
+msgid "deformed: "
+msgstr "Παραμορφομένο'"
+
+# # | translated from communitytranslateid=17158
+# | communitytranslateid=21267
+msgid "Default Skin"
+msgstr "Προεπιλεγμένη εμφάνιση"
+
+# # | translated from communitytranslateid=17284
+# | communitytranslateid=21318
+msgid "decreases the current FOV value"
+msgstr "Μειώνει την τιμή του πεδίου ορατότητας"
+
+# # | translated from communitytranslateid=17175
+# | communitytranslateid=21266
+msgid "decreases the airplane thrust"
+msgstr "μειώνει την ώθηση του αεροπλάνου"
+
+# # | translated from communitytranslateid=17266
+# | communitytranslateid=21302
+msgid "decrease tire pressure (note: only very few trucks support this)"
+msgstr "μείωση πίεσης ελλαστικών (σημείωση: μόνο μερικά οχήματα το υποστιρίζουν αυτό)"
+
+# # | translated from communitytranslateid=17185
+# | communitytranslateid=21342
+msgid "decrease throttle"
+msgstr "μείωση υσχύως"
+
+# # | translated from communitytranslateid=17188
+# | communitytranslateid=21451
+msgid "decrease day-time a lot faster"
+msgstr "μείωσε μέρα-ώρα πολύ ποιο γρήγορα"
+
+# # | translated from communitytranslateid=17187
+# | communitytranslateid=21226
+msgid "decrease day-time"
+msgstr "μείωσε μέρα-ώρα"
+
+# # | translated from communitytranslateid=10787
+# | communitytranslateid=17096
+msgid "Debug Truck Mass"
+msgstr "Debug μάζα οχήματος"
+
+# # | translated from communitytranslateid=17276
+# | communitytranslateid=21373
+msgid "debug purpose - dont use"
+msgstr "για σκοπούς αποκωδικοποίησης - μήν το χρησιμοποιείτε"
+
+# # | translated from communitytranslateid=10789
+# | communitytranslateid=17127
+msgid "Debug Collision Meshes"
+msgstr "Debug Collision Meshes"
+
+# # | translated from communitytranslateid=10836
+# | communitytranslateid=17128
+msgid "Deadzone"
+msgstr "Νεκρή ζώνη"
+
+# # | translated from communitytranslateid=10842
+# | communitytranslateid=17103
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# # | translated from communitytranslateid=10840
+# | communitytranslateid=17107
+msgid "data\\\\"
+msgstr "δεδομένα\\\\"
+
+# # | translated from communitytranslateid=10843
+# | communitytranslateid=17108
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# # | translated from communitytranslateid=10841
+# | communitytranslateid=17095
+msgid "data/"
+msgstr "δεδομένα"
+
+# | communitytranslateid=16185
+msgid "Dashboard"
+msgstr "Ταμπλό"
+
+# # | translated from communitytranslateid=19452
+# | communitytranslateid=21376
+msgid "Cycle between available differental models"
+msgstr "Προβολή μεταξύ των διάφορων διαθέσημων μοδέλων διαφορικού"
+
+# # | translated from communitytranslateid=10781
+# | communitytranslateid=17091
+msgid "Custom Particles"
+msgstr "Φτιαγμένα σωματίδια"
+
+# | communitytranslateid=16188
+msgid "current Speed:"
+msgstr "Τρεχών Ταχύτητα'"
+
+# | communitytranslateid=16187
+msgid "current RPM:"
+msgstr "Τρεχών Στροφές μηχανής ανα λεπτό'"
+
+# | communitytranslateid=16186
+msgid "current mass:"
+msgstr "Τρέχουσα μάζα:"
+
+# | communitytranslateid=16105
+msgid "Current FPS: "
+msgstr "Τρέχοντα Καρέ Ανα Δευτερόλεπτο'"
+
+# | communitytranslateid=16223
+msgid "CPU Settings"
+msgstr "Ρυθμίσεις Επεξεργαστή"
+
+# | communitytranslateid=16214
+msgid "CPU"
+msgstr "Επεξεργαστής"
+
+# # | translated from communitytranslateid=19388
+# | communitytranslateid=21421
+msgid "Could not write to input.map file"
+msgstr "Δέν μπόρεσε να γίνει εγγραφή στον φάκελο input.map"
+
+# # | translated from communitytranslateid=10813
+# | communitytranslateid=17098
+msgid "Could not write config file"
+msgstr "Δεν μπόρεσε να γίνει εγγραφή στο αρχείο config"
+
+# # | translated from communitytranslateid=10811
+# | communitytranslateid=17093
+msgid "Could not open Rendering device"
+msgstr "Δέν μπόρεσε να ανοιχτεί η συσκευή rendering"
+
+# | communitytranslateid=16215
+msgid "Controls"
+msgstr "Χειρισμός"
+
+# # | translated from communitytranslateid=17263
+# | communitytranslateid=21341
+msgid "connect hook node to a node in close proximity"
+msgstr "σύνδεσε τον γάντζο σε έναν κόμβο σε κοντινή ακτίνα"
+
+# # | translated from communitytranslateid=10814
+# | communitytranslateid=16724
+msgid "Configure error"
+msgstr "Σφάλμα στις ρυθμίσεις"
+
+# | communitytranslateid=16222
+msgid "Community / Support"
+msgstr "Κοινότητα / υποστήριξη"
+
+# | communitytranslateid=16191
+msgid "Commands:"
+msgstr "Εντολές:"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=21276
+msgid "Command 9"
+msgstr "Εντολή 9"
+
+# # | translated from communitytranslateid=17217
+# | communitytranslateid=21222
+msgid "Command 8"
+msgstr "Εντολή 8"
+
+# # | translated from communitytranslateid=17216
+# | communitytranslateid=21282
+msgid "Command 7"
+msgstr "Εντολή 7"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=21283
+msgid "Command 6"
+msgstr "Εντολή 6"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=21284
+msgid "Command 5"
+msgstr "Εντολή 5"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=21285
+msgid "Command 48"
+msgstr "Εντολή 48"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=21289
+msgid "Command 47"
+msgstr "Εντολή 47"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=21253
+msgid "Command 46"
+msgstr "Εντολή 46"
+
+# # | translated from communitytranslateid=17254
+# | communitytranslateid=21294
+msgid "Command 45"
+msgstr "Εντολή 45"
+
+# # | translated from communitytranslateid=17253
+# | communitytranslateid=21243
+msgid "Command 44"
+msgstr "Εντολή 44"
+
+# # | translated from communitytranslateid=17252
+# | communitytranslateid=21299
+msgid "Command 43"
+msgstr "Εντολή 43"
+
+# # | translated from communitytranslateid=17251
+# | communitytranslateid=21353
+msgid "Command 42"
+msgstr "Εντολή 42"
+
+# # | translated from communitytranslateid=17250
+# | communitytranslateid=21411
+msgid "Command 41"
+msgstr "Εντολή 41"
+
+# # | translated from communitytranslateid=17249
+# | communitytranslateid=21216
+msgid "Command 40"
+msgstr "Εντολή 40"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=21381
+msgid "Command 4"
+msgstr "Εντολή 4"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=21310
+msgid "Command 39"
+msgstr "Εντολή 39"
+
+# # | translated from communitytranslateid=17247
+# | communitytranslateid=21418
+msgid "Command 38"
+msgstr "Εντολή 38"
+
+# # | translated from communitytranslateid=17246
+# | communitytranslateid=21374
+msgid "Command 37"
+msgstr "Εντολή 37"
+
+# # | translated from communitytranslateid=17245
+# | communitytranslateid=21354
+msgid "Command 36"
+msgstr "Εντολή 36"
+
+# # | translated from communitytranslateid=17244
+# | communitytranslateid=21331
+msgid "Command 35"
+msgstr "Εντολή 35"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=21250
+msgid "Command 34"
+msgstr "Εντολή 34"
+
+# # | translated from communitytranslateid=17242
+# | communitytranslateid=21269
+msgid "Command 33"
+msgstr "Εντολή 33"
+
+# # | translated from communitytranslateid=17241
+# | communitytranslateid=21241
+msgid "Command 32"
+msgstr "Εντολή 32"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=21377
+msgid "Command 31"
+msgstr "Εντολή 31"
+
+# # | translated from communitytranslateid=17239
+# | communitytranslateid=21179
+msgid "Command 30"
+msgstr "Εντολή 30"
+
+# # | translated from communitytranslateid=17212
+# | communitytranslateid=21461
+msgid "Command 3"
+msgstr "Εντολή 3"
+
+# # | translated from communitytranslateid=17238
+# | communitytranslateid=21427
+msgid "Command 29"
+msgstr "Εντολή 29"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=21454
+msgid "Command 28"
+msgstr "Εντολή 28"
+
+# # | translated from communitytranslateid=17236
+# | communitytranslateid=21199
+msgid "Command 27"
+msgstr "Εντολή 27"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=21227
+msgid "Command 26"
+msgstr "Εντολή 26"
+
+# # | translated from communitytranslateid=17234
+# | communitytranslateid=21242
+msgid "Command 25"
+msgstr "Εντολή 25"
+
+# # | translated from communitytranslateid=17233
+# | communitytranslateid=21327
+msgid "Command 24"
+msgstr "Εντολή 24"
+
+# # | translated from communitytranslateid=17232
+# | communitytranslateid=21410
+msgid "Command 23"
+msgstr "Εντολή 23"
+
+# # | translated from communitytranslateid=17231
+# | communitytranslateid=21350
+msgid "Command 22"
+msgstr "Εντολή 22"
+
+# # | translated from communitytranslateid=17230
+# | communitytranslateid=21297
+msgid "Command 21"
+msgstr "Εντολή 21"
+
+# # | translated from communitytranslateid=17229
+# | communitytranslateid=21436
+msgid "Command 20"
+msgstr "Εντολή 20"
+
+# # | translated from communitytranslateid=17211
+# | communitytranslateid=21296
+msgid "Command 2"
+msgstr "Εντολή 2"
+
+# # | translated from communitytranslateid=17228
+# | communitytranslateid=21295
+msgid "Command 19"
+msgstr "Εντολή 19"
+
+# # | translated from communitytranslateid=17227
+# | communitytranslateid=21293
+msgid "Command 18"
+msgstr "Εντολή 18"
+
+# # | translated from communitytranslateid=17226
+# | communitytranslateid=21207
+msgid "Command 17"
+msgstr "Εντολη 17"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=21292
+msgid "Command 16"
+msgstr "Εντολή 16"
+
+# # | translated from communitytranslateid=17224
+# | communitytranslateid=21291
+msgid "Command 15"
+msgstr "Εντολή 15"
+
+# # | translated from communitytranslateid=17223
+# | communitytranslateid=21290
+msgid "Command 14"
+msgstr "Εντολή 14"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=21286
+msgid "Command 13"
+msgstr "Εντολή 13"
+
+# # | translated from communitytranslateid=17221
+# | communitytranslateid=21208
+msgid "Command 12"
+msgstr "Εντολή 12"
+
+# # | translated from communitytranslateid=17220
+# | communitytranslateid=21281
+msgid "Command 11"
+msgstr "Εντολή 11"
+
+# # | translated from communitytranslateid=17219
+# | communitytranslateid=21287
+msgid "Command 10"
+msgstr "Εντολή 10"
+
+# # | translated from communitytranslateid=17210
+# | communitytranslateid=21263
+msgid "Command 1"
+msgstr "Εντολή 1"
+
+# | communitytranslateid=16255
+msgid "Cockpit options"
+msgstr "Ρυθμίσεις Πιλοτήριου"
+
+# | communitytranslateid=16198
+msgid "close this dialog"
+msgstr "Κλείσιμο αυτού του διαλόγου"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=21308
+msgid "Click on blue hyperlinks to select a server."
+msgstr "Κάνε κλίκ στους μπλέ συνδέσμους για να επιλέξεις εναν σέρβερ"
+
+# # | translated from communitytranslateid=10773
+# | communitytranslateid=17110
+msgid "Clear cache"
+msgstr "Καθαρισμός προσωρινής μνήμης"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=21328
+msgid "Choose a file"
+msgstr "Επέλεξε έναν φάκελο"
+
+# # | translated from communitytranslateid=15264
+# | communitytranslateid=17129
+msgid "checking for new zips in "
+msgstr "Έλεγχος για καινούρια συμπιεσμένα σε"
+
+# # | translated from communitytranslateid=15265
+# | communitytranslateid=17120
+msgid "checking for new directories in "
+msgstr "Ελέγχονται καινούριες διαδρομές αρχείων σε"
+
+# # | translated from communitytranslateid=17191
+# | communitytranslateid=21195
+msgid "change camera mode"
+msgstr "άλλαξε την λειουργεία της κάμερας"
+
+# # | translated from communitytranslateid=17180
+# | communitytranslateid=21193
+msgid "center the rudder"
+msgstr "Κεντράρισε το πτερύγιο ουράς"
+
+# | communitytranslateid=16211
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Ακύρωση των αλλαγών και κλείσιμο του προγράμματος ρυθμίσεων."
+
+# | communitytranslateid=16144
+msgid "Cancel"
+msgstr "Άκυρο."
+
+# | communitytranslateid=16240
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Ο ουρανός κάελουμ ειναι ωραίος αλλά αρκετά αργος εκτος και αν έχετε δινατή καρτα γραφικών"
+
+# # | translated from communitytranslateid=17155
+# | communitytranslateid=21257
+msgid "Cache regeneration done.\n"
+msgstr "Αναζοογώνιση της προσωρινής μνήμης ολοκληρώθηκε. \n"
+
+# | communitytranslateid=16172
+msgid "broken: "
+msgstr "Σπασμένο:"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=21233
+msgid "brake"
+msgstr "φρένο"
+
+# | communitytranslateid=16163
+msgid "Boat"
+msgstr "Σκάφος"
+
+# # | translated from communitytranslateid=10746
+# | communitytranslateid=17119
+msgid "Bloom"
+msgstr "Εφε φωτισμού ανθηση"
+
+# | communitytranslateid=16107
+msgid "Best FPS: "
+msgstr "Καλύτερα καρέ/δευτ:"
+
+# | communitytranslateid=16171
+msgid "beam count: "
+msgstr "Αριθμός ακτίνων:"
+
+# | communitytranslateid=16226
+msgid "Balanced"
+msgstr "Ισσοροπιμένο"
+
+# | communitytranslateid=16112
+msgid "Bad server port"
+msgstr "Σφαλμένη πόρτα για τον σέρβερ."
+
+# | communitytranslateid=16177
+msgid "average stress: "
+msgstr "Μέση πίεση:"
+
+# | communitytranslateid=16106
+msgid "Average FPS: "
+msgstr "Μέσα καρέ/δευτ:"
+
+# | communitytranslateid=16176
+msgid "average deformation: "
+msgstr "Μέση παραμόρφωση:"
+
+# | communitytranslateid=16122
+msgid "Automatic shift"
+msgstr "Αυτόματες ταχύτητες."
+
+# | communitytranslateid=16152
+msgid "Authors: "
+msgstr "Συντάκτες:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=21309
+msgid "Author: "
+msgstr "Συντάκτης:"
+
+# | communitytranslateid=16233
+msgid "Anti-aliasing:"
+msgstr "Anti-aliasing:"
+
+# # | translated from communitytranslateid=10757
+# | communitytranslateid=16737
+msgid "Anonymous"
+msgstr "Ανώνυμος"
+
+# | communitytranslateid=16190
+msgid "Altitude:"
+msgstr "Υψόμετρο:"
+
+# # | translated from communitytranslateid=17349
+# | communitytranslateid=21256
+msgid "airplane throttle"
+msgstr "ώθηση αεροπλάνου"
+
+# # | translated from communitytranslateid=17169
+# | communitytranslateid=21359
+msgid "airplane parking brake."
+msgstr "φρένο στάθμευσης αεροπλάνων"
+
+# | communitytranslateid=16162
+msgid "Airplane"
+msgstr "Αεροπλάνο"
+
+# | communitytranslateid=16221
+msgid "Advanced"
+msgstr "Προχωρημένες"
+
+# | communitytranslateid=16197
+msgid "Add the key"
+msgstr "Προσθήκη του πλήκτρου"
+
+# | communitytranslateid=16196
+msgid "Add"
+msgstr "Πρόσθεσε"
+
+# # | translated from communitytranslateid=17306
+# | communitytranslateid=21192
+msgid "accelerate the truck"
+msgstr "Επιτάχυνε το όχημα"
+
+# | communitytranslateid=16113
+msgid "A network error occured"
+msgstr "Παρουσιάστηκε πρόβλημα στο δίκτυο"
+
+# # | translated from communitytranslateid=10827
+# | communitytranslateid=16745
+msgid "5% deadzone"
+msgstr "Νεκρή ζώνη 5%"
+
+# # | translated from communitytranslateid=10826
+# | communitytranslateid=16738
+msgid "5 %"
+msgstr "5 %"
+
+# # | translated from communitytranslateid=10835
+# | communitytranslateid=16746
+msgid "30% deadzone"
+msgstr "Νεκρή ζώνη 30%"
+
+# # | translated from communitytranslateid=10834
+# | communitytranslateid=16739
+msgid "30 %"
+msgstr "30 %"
+
+# # | translated from communitytranslateid=10833
+# | communitytranslateid=16747
+msgid "20% deadzone"
+msgstr "Νεκρή ζώνη 20%"
+
+# # | translated from communitytranslateid=10832
+# | communitytranslateid=16740
+msgid "20 %"
+msgstr "20 %"
+
+# # | translated from communitytranslateid=10831
+# | communitytranslateid=16748
+msgid "15% deadzone"
+msgstr "Νεκρή ζώνη 15%"
+
+# # | translated from communitytranslateid=10830
+# | communitytranslateid=16741
+msgid "15 %"
+msgstr "15 %"
+
+# # | translated from communitytranslateid=10761
+# | communitytranslateid=16742
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# # | translated from communitytranslateid=10763
+# | communitytranslateid=16743
+msgid "12333"
+msgstr "12333"
+
+# # | translated from communitytranslateid=10829
+# | communitytranslateid=16749
+msgid "10% deadzone"
+msgstr "Νεκρή ζώνη 10%"
+
+# # | translated from communitytranslateid=10828
+# | communitytranslateid=16744
+msgid "10 %"
+msgstr "10 %"
+
+# # | translated from communitytranslateid=19403
+# | communitytranslateid=21239
+msgid "0 % (Total Linear)"
+msgstr "0 % (Πληρες ευθυγραμμισμένο)"
+
+# # | translated from communitytranslateid=10824
+# | communitytranslateid=16750
+msgid "0 % (No deadzone)"
+msgstr "Νεκρή ζώνη 0 %"
+
+# # | translated from communitytranslateid=10759
+# | communitytranslateid=16720
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Πως παίζεις με άλλους παίχτες</p><br><ol><li>Πάτα στο κουμπί <b>Eνημέρωση</b> για να δεις εδώ διαθέσιμους υπολογιστές-εξυπηρετητές.</li><li>Πάτα σε οποιονδήποτε υπογραμμισμένο εξυπηρετητή στην λίστα.</li><li>Πάτα στο κουμπί <b>Αποθήκευση και Παίξε</b> για να ξεκινήσει το παιχνίδι.</li></ol>"
+
+# # | translated from communitytranslateid=15252
+# | communitytranslateid=21224
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Τελευταία νέα</h2>Κανένα προς το παρόν<h2>Υποστήριξη / Κοινότητα</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (Αυτή η ιστοσελίδα θα ενημερωθεί...)"
+
+# # | translated from communitytranslateid=19402
+# | communitytranslateid=21301
+msgid "+5% multiplication"
+msgstr "+5% πολλαπλασιασμού"
+
+# # | translated from communitytranslateid=19401
+# | communitytranslateid=21441
+msgid "+5 %"
+msgstr "+5 %"
+
+# # | translated from communitytranslateid=19392
+# | communitytranslateid=21460
+msgid "+30% multiplication"
+msgstr "+30% πολλαπλασιασμού"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=21424
+msgid "+30 %"
+msgstr "+30 %"
+
+# # | translated from communitytranslateid=19394
+# | communitytranslateid=21259
+msgid "+25% multiplication"
+msgstr "+25% πολλαπλασιασμού"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=21417
+msgid "+25 %"
+msgstr "+25 %"
+
+# # | translated from communitytranslateid=19396
+# | communitytranslateid=21437
+msgid "+20% multiplication"
+msgstr "+20% πολλαπλασιασμού"
+
+# # | translated from communitytranslateid=19395
+# | communitytranslateid=21325
+msgid "+20 %"
+msgstr "+20 %"
+
+# # | translated from communitytranslateid=19398
+# | communitytranslateid=21228
+msgid "+15% multiplication"
+msgstr "+15% πολλαπλασιασμού"
+
+# # | translated from communitytranslateid=19397
+# | communitytranslateid=21298
+msgid "+15 %"
+msgstr "+15 %"
+
+# # | translated from communitytranslateid=19400
+# | communitytranslateid=21398
+msgid "+10% multiplication"
+msgstr "+10% πολλαπλασιασμού"
+
+# # | translated from communitytranslateid=19399
+# | communitytranslateid=21238
+msgid "+10 %"
+msgstr "+10 %"
+
+# | communitytranslateid=16179
+msgid "(Please press a key)"
+msgstr "(παρακαλώ πιέστε ένα πλήκτρο)"
+
+# | communitytranslateid=16180
+msgid "(Please press a Joystick Button)"
+msgstr "(πατήστε ένα κουμπί του joystick)"
+
+# | communitytranslateid=16181
+msgid "(Please move an Axis)\n"
+msgstr "(παρακαλώ κινείστε τον άξονα)\n"
+
+# # | translated from communitytranslateid=19387
+# | communitytranslateid=21343
+msgid "(Please move a Slider)\n"
+msgstr "(Παρακαλώ κουνίστε έναν άξονα)\n"
+
+# | communitytranslateid=16182
+msgid "(No Languages found)"
+msgstr "(Δεν βρέθηκαν γλώσσες)"
+
+# | communitytranslateid=16170
+msgid "(no author information available)"
+msgstr "(no author information available)"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=21426
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "... γίνεται φόρτωση ... (ίσως να χρειαστεί να ελέγξεις την σύνδεση σου στο ίντερνετ)"
+
+# # | translated from communitytranslateid=19406
+# | communitytranslateid=21213
+msgid "-5% multiplication"
+msgstr "-5% πολλαπλασιασμού"
+
+# # | translated from communitytranslateid=19405
+# | communitytranslateid=21288
+msgid "-5 %"
+msgstr "-5 %"
+
+# # | translated from communitytranslateid=19416
+# | communitytranslateid=21181
+msgid "-30% multiplication"
+msgstr "-30% πολλαπλασιασμό"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=21340
+msgid "-30 %"
+msgstr "-30 %"
+
+# # | translated from communitytranslateid=19414
+# | communitytranslateid=21237
+msgid "-25% multiplication"
+msgstr "-25% πολλαπλασιασμού"
+
+# # | translated from communitytranslateid=19413
+# | communitytranslateid=21278
+msgid "-25 %"
+msgstr "-25 %"
+
+# # | translated from communitytranslateid=19412
+# | communitytranslateid=21191
+msgid "-20% multiplication"
+msgstr "-20% πολλαπλασιασμού"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=21312
+msgid "-20 %"
+msgstr "-20 %"
+
+# # | translated from communitytranslateid=19410
+# | communitytranslateid=21214
+msgid "-15% multiplication"
+msgstr "15% πολλαπλασιασμού"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=21465
+msgid "-15 %"
+msgstr "-15 %"
+
+# # | translated from communitytranslateid=19408
+# | communitytranslateid=21433
+msgid "-10% multiplication"
+msgstr "-10% πολλαπλασιασμού"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=21265
+msgid "-10 %"
+msgstr "-10 %"
+
+# | communitytranslateid=16126
+msgid "^8 Player: ^7"
+msgstr "^8 παίχτης: ^7"
+
+# | communitytranslateid=16129
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 χρήση: /rcmd [εντόλή] [προαιρετικές παράμετροι]"
+
+# | communitytranslateid=16137
+msgid "^1 unkown Command: "
+msgstr "^1 άγνωστη εντολή:"
+
+# | communitytranslateid=16128
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 ΣΦΑΛΜΑ: πρέπει να χρησημοποιηθεί /rlogin [κωδικός] πρώτα"
+
+# | communitytranslateid=16135
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 Σφάλμα: σφάλμα προτοκόλλου καθώς γίνονταν προσπάθεια να σταλεί εντόλή στο RCON:"
+
+# | communitytranslateid=16127
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 Σφάλμα: σφάλμα Πρωτοκόλλου στην προσπάθεια σύνδεσης με RCON:"
+
+# | communitytranslateid=16136
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 Σφάλμα: δεν βρίσκεστε στην λειτουργεία δικτύου"
+
+# | communitytranslateid=16140
+msgid "^1 Error Parsing command"
+msgstr "^1 Σφάλμα κατα την επεξεργασία εντολής"
+
+# | communitytranslateid=16184
+msgid " not existing"
+msgstr "δεν υπάρχει"
+
+# | communitytranslateid=16183
+msgid " changed"
+msgstr "αλλάχτηκε"
+

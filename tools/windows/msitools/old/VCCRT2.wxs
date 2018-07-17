@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+
+<?include $(sys.SOURCEFILEDIR)\VCCRT2.wxi ?>
+
+<Wix xmlns='http://schemas.microsoft.com/wix/2003/01/wi'>
+   <Product Id='$(var.PRODUCT_ID)'
+                                    Name='MSI v2 to redistribute Rigs of Rods'
+                                    Language='1033' Version='1.0.0.0' Manufacturer='Pricorde'>
+            <Package Id='$(var.PACKAGE_ID)'
+                        Description='MSI  v2 to redistribute Rigs of Rods'
+                        Comments='MSI v2 to redistribute Rigs of Rods'
+                        Manufacturer='Pricorde'
+                        InstallerVersion='300'
+                        Compressed='yes' />
+            <Media Id='1' Cabinet='VCCRT.cab' EmbedCab='yes' />
+            <Directory Id='TARGETDIR' Name='SourceDir'>
+                        <Merge Id='CRT' Language='0' src='C:\Program Files\Fichiers communs\Merge Modules\Microsoft_VC80_CRT_x86.msm' DiskId='1' />
+                        <Merge Id='CRT Policy' Language='0' src='C:\Program Files\Fichiers communs\Merge Modules\policy_8_0_Microsoft_VC80_CRT_x86.msm' DiskId='1' />
+            </Directory>
+            <Feature Id='CRT_WinSXS' Title='CRT WinSXS' Level='1'>
+                        <MergeRef Id='CRT' />
+                        <MergeRef Id='CRT Policy' />
+            </Feature>
+            <InstallExecuteSequence>
+                        <RemoveRegistryValues/>
+                        <RemoveFiles/>
+                        <InstallFiles/>
+                        <WriteRegistryValues/>
+            </InstallExecuteSequence>
+   </Product>
+</Wix>

@@ -1,0 +1,460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=22360
+msgid "zoom into the overview map in interactive mode"
+msgstr "zoom inn i oversikts kartet i interkativ modus"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=22644
+msgid "zoom camera out faster"
+msgstr "Zoome ut camera fortere"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=22348
+msgid "zoom camera out"
+msgstr "zoom ut kamera"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=22645
+msgid "zoom camera in faster"
+msgstr "Zoome camera in Fortere"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=19647
+msgid "zoom camera in"
+msgstr "Zoom inn kameraet fortere"
+
+# # | translated from communitytranslateid=10758
+# | communitytranslateid=22457
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Nettverksnavnet ditt. Maksimum 20 bokstaver."
+
+# # | translated from communitytranslateid=10767
+# | communitytranslateid=22355
+msgid "Your Forum User Token."
+msgstr "Din Forum Bruker ID."
+
+# # | translated from communitytranslateid=10804
+# | communitytranslateid=22461
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Du må lagre og starte programmet på nytt for å aktivere det nye språket!"
+
+# # | translated from communitytranslateid=10769
+# | communitytranslateid=22369
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Du trenger ikke forandre disse instillingene med mindre du opplever problemer"
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=22840
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Du kan deaktivere standard knirke lyden ved å merke av denne boksen"
+
+# # | translated from communitytranslateid=10619
+# | communitytranslateid=22364
+msgid "wrote screenshot:"
+msgstr "skrev skjermbilde:"
+
+# # | translated from communitytranslateid=10612
+# | communitytranslateid=22349
+msgid "Worst FPS: "
+msgstr "Dårligste FPS:"
+
+# # | translated from communitytranslateid=10644
+# | communitytranslateid=22354
+msgid "Wheels: "
+msgstr "Hjul:"
+
+# # | translated from communitytranslateid=10727
+# | communitytranslateid=22458
+msgid "Water type:"
+msgstr "Vann type:"
+
+# # | translated from communitytranslateid=10731
+# | communitytranslateid=22646
+msgid "Water spray"
+msgstr "Vann sprut"
+
+# # | translated from communitytranslateid=10728
+# | communitytranslateid=22362
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Vann refleksjon er tregere og trenger en god GPU. I farts optimalisert modus kan du oppleve mye kamera risting."
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=22350
+msgid "Warning"
+msgstr "Advarsel"
+
+# # | translated from communitytranslateid=10722
+# | communitytranslateid=22374
+msgid "VSync"
+msgstr "VSync"
+
+# # | translated from communitytranslateid=10743
+# | communitytranslateid=22462
+msgid "Visual effects"
+msgstr "Visuelle effekter"
+
+# # | translated from communitytranslateid=10717
+# | communitytranslateid=22377
+msgid "Video mode:"
+msgstr "Video modus:"
+
+# # | translated from communitytranslateid=10654
+# | communitytranslateid=22370
+msgid "Vehicle Type: "
+msgstr "Kjøretøy type:"
+
+# # | translated from communitytranslateid=10733
+# | communitytranslateid=22353
+msgid "Vegetation:"
+msgstr "Vegetasjon:"
+
+# # | translated from communitytranslateid=10766
+# | communitytranslateid=22356
+msgid "User Token: "
+msgstr "Bruker ID:"
+
+# # | translated from communitytranslateid=10819
+# | communitytranslateid=22368
+msgid "Upper"
+msgstr "Øvre"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=22352
+msgid "Updates"
+msgstr "Oppdateringer"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=22361
+msgid "Update now"
+msgstr "Oppdater nå"
+
+# # | translated from communitytranslateid=10768
+# | communitytranslateid=22351
+msgid "Update"
+msgstr "Oppdatering"
+
+# # | translated from communitytranslateid=10655
+# | communitytranslateid=22375
+msgid "unkown encoding problem"
+msgstr "Ukjent koding problem"
+
+# # | translated from communitytranslateid=10641
+# | communitytranslateid=22371
+msgid "unknown.dds"
+msgstr "ukjent.dds"
+
+# # | translated from communitytranslateid=10778
+# | communitytranslateid=22647
+msgid "Uncheck in case you have a fog problem"
+msgstr "Deaktiver denne hvis du har et tåke problem"
+
+# # | translated from communitytranslateid=10616
+# | communitytranslateid=22363
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Kunne ikke koble til serveren. Den er muligens nede eller du har nettverksproblemer."
+
+# # | translated from communitytranslateid=15267
+# | communitytranslateid=22460
+msgid "Unable to connect to server"
+msgstr "Kunne ikke koble til tjener"
+
+# # | translated from communitytranslateid=10807
+# | communitytranslateid=22359
+msgid "Type"
+msgstr "Type"
+
+# # | translated from communitytranslateid=15266
+# | communitytranslateid=22459
+msgid "Trying to connect to server ..."
+msgstr "Prøver å koble til tjener ..."
+
+# # | translated from communitytranslateid=10650
+# | communitytranslateid=23505
+msgid "Truck"
+msgstr "Lastebil"
+
+# # | translated from communitytranslateid=10648
+# | communitytranslateid=22643
+msgid "Torque: "
+msgstr "Turtall"
+
+# # | translated from communitytranslateid=10646
+# | communitytranslateid=22365
+msgid "tons"
+msgstr "tonn"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=22649
+msgid "toggle truck front lights"
+msgstr "Skru på/av frontlykter"
+
+# # | translated from communitytranslateid=17325
+# | communitytranslateid=22648
+msgid "toggle parking brake"
+msgstr "Håndbrekk"
+
+# # | translated from communitytranslateid=17331
+# | communitytranslateid=22650
+msgid "toggle ignition"
+msgstr "Skru på/av tenning"
+
+# # | translated from communitytranslateid=17334
+# | communitytranslateid=22651
+msgid "toggle between windowed and fullscreen mode"
+msgstr "Vindu eller full skjerm modus"
+
+# # | translated from communitytranslateid=17330
+# | communitytranslateid=22653
+msgid "toggle between transmission modes"
+msgstr "Bytt mellom girtyper"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=22652
+msgid "tie a load to the truck"
+msgstr "Stropp fast last"
+
+# # | translated from communitytranslateid=10753
+# | communitytranslateid=22463
+msgid "Thread number:"
+msgstr "Antall tråder:"
+
+# # | translated from communitytranslateid=17147
+# | communitytranslateid=22654
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr "Dette aktiverer automatisk nedlasting av tilleg i spillet i flerspillermodus"
+
+# # | translated from communitytranslateid=10765
+# | communitytranslateid=22657
+msgid "The server password, if required."
+msgstr "Server passord, hvis nødvendig"
+
+# # | translated from communitytranslateid=10617
+# | communitytranslateid=22376
+msgid "Terrain not found: "
+msgstr "Terreng ble ikke funnet:"
+
+# # | translated from communitytranslateid=10618
+# | communitytranslateid=22655
+msgid "Terrain loading error"
+msgstr "Terreng innlastings feil"
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=22656
+msgid "teleport to rescue truck"
+msgstr "Teleportere til redningsbil"
+
+# # | translated from communitytranslateid=17179
+# | communitytranslateid=22658
+msgid "switch all engines on / off"
+msgstr "Skru alle motorer på/av"
+
+# # | translated from communitytranslateid=17203
+# | communitytranslateid=22659
+msgid "step forward with the character"
+msgstr "Gå fremmover med personen"
+
+# # | translated from communitytranslateid=17202
+# | communitytranslateid=22660
+msgid "step backwards with the character"
+msgstr "Gå bakover med personen"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=22661
+msgid "steer right"
+msgstr "Styr til Høyre"
+
+# # | translated from communitytranslateid=17173
+# | communitytranslateid=22662
+msgid "steer left"
+msgstr "Styr til Venstre"
+
+# # | translated from communitytranslateid=10723
+# | communitytranslateid=22663
+msgid "Special effects"
+msgstr "Spesial effekter"
+
+# # | translated from communitytranslateid=10698
+# | communitytranslateid=22664
+msgid "Sounds"
+msgstr "Lyder"
+
+# # | translated from communitytranslateid=10724
+# | communitytranslateid=22665
+msgid "Sky type:"
+msgstr "Himmel type:"
+
+# # | translated from communitytranslateid=17157
+# | communitytranslateid=22666
+msgid "Skins"
+msgstr "Utseende"
+
+# # | translated from communitytranslateid=10696
+# | communitytranslateid=22667
+msgid "Simple Settings"
+msgstr "Enkle Innstillinger"
+
+# # | translated from communitytranslateid=17327
+# | communitytranslateid=22669
+msgid "shift to neutral gear in manual transmission mode"
+msgstr "Skift til fri-gir i manuell girkasse modus"
+
+# # | translated from communitytranslateid=17328
+# | communitytranslateid=22670
+msgid "shift one gear up in manual transmission mode"
+msgstr "Skift et gir opp i manuell girkasse modus"
+
+# # | translated from communitytranslateid=17326
+# | communitytranslateid=22668
+msgid "shift one gear down in manual transmission mode"
+msgstr "Skift et gir ned i manuell girkasse modus"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=22671
+msgid "shift directly to third gear"
+msgstr "Skift direkte til tredje gir"
+
+# # | translated from communitytranslateid=19432
+# | communitytranslateid=22672
+msgid "shift directly to second gear"
+msgstr "Skift direkte til andre gir"
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=22673
+msgid "shift directly to reverse gear"
+msgstr "Skift direkte til revers gir"
+
+# # | translated from communitytranslateid=19434
+# | communitytranslateid=22674
+msgid "shift directly to fourth gear"
+msgstr "Skift direkte til fjerde gir"
+
+# # | translated from communitytranslateid=19431
+# | communitytranslateid=22675
+msgid "shift directly to first gear"
+msgstr "skift direkte til første gir"
+
+# # | translated from communitytranslateid=19439
+# | communitytranslateid=22676
+msgid "shift directly to 9th gear"
+msgstr "Skift direkte til niende gir"
+
+# # | translated from communitytranslateid=19438
+# | communitytranslateid=22677
+msgid "shift directly to 8th gear"
+msgstr "Skift direkte til åttende gir"
+
+# # | translated from communitytranslateid=19437
+# | communitytranslateid=22678
+msgid "shift directly to 7th gear"
+msgstr "Skift direkte til syvende gir"
+
+# # | translated from communitytranslateid=19436
+# | communitytranslateid=22679
+msgid "shift directly to 6th gear"
+msgstr "Skift direkte til sjette gir"
+
+# # | translated from communitytranslateid=19435
+# | communitytranslateid=22680
+msgid "shift directly to 5th gear"
+msgstr "Skift direkte til femte gir"
+
+# # | translated from communitytranslateid=19448
+# | communitytranslateid=22683
+msgid "shift directly to 18th gear"
+msgstr "Skift direkte til attende gir"
+
+# # | translated from communitytranslateid=19447
+# | communitytranslateid=22682
+msgid "shift directly to 17th gear"
+msgstr "Skift direkte til syttende gir"
+
+# # | translated from communitytranslateid=19446
+# | communitytranslateid=22681
+msgid "shift directly to 16th gear"
+msgstr "Skift direkte til sekstende gir"
+
+# # | translated from communitytranslateid=19445
+# | communitytranslateid=22684
+msgid "shift directly to 15th gear"
+msgstr "Skift direkte til femtende gir"
+
+# # | translated from communitytranslateid=19444
+# | communitytranslateid=22685
+msgid "shift directly to 14th gear"
+msgstr "Skift direkte til fjortende gir"
+
+# # | translated from communitytranslateid=19443
+# | communitytranslateid=22686
+msgid "shift directly to 13th gear"
+msgstr "Skift direkte til trettende gir"
+
+# # | translated from communitytranslateid=19442
+# | communitytranslateid=22687
+msgid "shift directly to 12th gear"
+msgstr "Skift direkte til tolvte gir"
+
+# # | translated from communitytranslateid=19441
+# | communitytranslateid=22688
+msgid "shift directly to 11th gear"
+msgstr "Skift direkte til ellefte gir"
+
+# # | translated from communitytranslateid=19440
+# | communitytranslateid=22689
+msgid "shift directly to 10th gear"
+msgstr "Skift direkte til tiende gir"
+
+# # | translated from communitytranslateid=17308
+# | communitytranslateid=22690
+msgid "shift automatic transmission one gear up"
+msgstr "Skift automatgir ett gir opp"
+
+# # | translated from communitytranslateid=17307
+# | communitytranslateid=22691
+msgid "shift automatic transmission one gear down"
+msgstr "Skift automatgir ett gir ned"
+
+# # | translated from communitytranslateid=10756
+# | communitytranslateid=22357
+msgid "Nickname: "
+msgstr "Kallenavn:"
+
+# # | translated from communitytranslateid=17286
+# | communitytranslateid=22358
+msgid "EXPERIMENTAL: remove some grass"
+msgstr "EKSPERIMENTELL: fjern litt gress"
+
+# # | translated from communitytranslateid=10707
+# | communitytranslateid=22367
+msgid "Community / Support"
+msgstr "Felleskap / Støtte"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=23506
+msgid "Click on blue hyperlinks to select a server."
+msgstr "klikk på den blå hyperlinken for å velge server"
+
+# # | translated from communitytranslateid=10637
+# | communitytranslateid=22366
+msgid "Cancel"
+msgstr "Avbryt"
+
+# # | translated from communitytranslateid=15252
+# | communitytranslateid=22372
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Siste Nytt</h2>Ingen for øyeblikket<h2>Støtte / Fellesskap</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>Guider</a><p/> (dette området skal bli forbedret...)"
+
+# # | translated from communitytranslateid=10629
+# | communitytranslateid=22373
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 FEIL: du må bruke /rlogin [passord] først"
+

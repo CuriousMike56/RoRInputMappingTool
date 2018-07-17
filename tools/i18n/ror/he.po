@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=22045
+msgid "zoom into the overview map in interactive mode"
+msgstr "Zoom לתוך המפה האינטראקטיבית סקירת מצב"
+
+# # | translated from communitytranslateid=10758
+# | communitytranslateid=16329
+msgid "Your network name. Maximum 20 Characters."
+msgstr "שם הרשת שלך. מקסימום 20 אותיות."
+
+# # | translated from communitytranslateid=10804
+# | communitytranslateid=16355
+msgid "You must save and restart the program to activate the new language!"
+msgstr "אתה חייב לשמור ולהתחיל מחדש את התוכנה כדי להפעיל את השפה החדשה!"
+
+# # | translated from communitytranslateid=10619
+# | communitytranslateid=16356
+msgid "wrote screenshot:"
+msgstr "שמר תמונה"
+
+# # | translated from communitytranslateid=10727
+# | communitytranslateid=16328
+msgid "Water type:"
+msgstr "סוג המים"
+
+# # | translated from communitytranslateid=10768
+# | communitytranslateid=16372
+msgid "Update"
+msgstr "עדכון"
+
+# # | translated from communitytranslateid=10650
+# | communitytranslateid=16357
+msgid "Truck"
+msgstr "משאית"
+
+# # | translated from communitytranslateid=10737
+# | communitytranslateid=16371
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "זה עלול להזיק מעט למהירות המשחק במערכות ישנות, אבל זה נראה טוב."
+
+# # | translated from communitytranslateid=10704
+# | communitytranslateid=16335
+msgid "Test"
+msgstr "בדיקה"
+
+# # | translated from communitytranslateid=10698
+# | communitytranslateid=16337
+msgid "Sounds"
+msgstr "קול"
+
+# # | translated from communitytranslateid=10724
+# | communitytranslateid=16340
+msgid "Sky type:"
+msgstr "סוג שמיים"
+
+# # | translated from communitytranslateid=10726
+# | communitytranslateid=16352
+msgid "Shadow type:"
+msgstr "סוג צל"
+
+# # | translated from communitytranslateid=10762
+# | communitytranslateid=16353
+msgid "Server port number: "
+msgstr "מספר הפורט של השרת"
+
+# # | translated from communitytranslateid=10688
+# | communitytranslateid=16363
+msgid "Rigs of Rods configuration"
+msgstr "הגדרות Rigs of Rods"
+
+# # | translated from communitytranslateid=10817
+# | communitytranslateid=16342
+msgid "reverse axis"
+msgstr "הפוך כיוון"
+
+# # | translated from communitytranslateid=10822
+# | communitytranslateid=16341
+msgid "Region"
+msgstr "אזור"
+
+# # | translated from communitytranslateid=10810
+# | communitytranslateid=16359
+msgid "Ogre config validation error"
+msgstr "טעות בוידוי הגדרות Ogre"
+
+# # | translated from communitytranslateid=10622
+# | communitytranslateid=16336
+msgid "normal camera"
+msgstr "מצב מצלמה רגיל"
+
+# # | translated from communitytranslateid=10801
+# | communitytranslateid=16346
+msgid "minimum visibility range in percent"
+msgstr "מינימום טווח ראייה באחוזים"
+
+# # | translated from communitytranslateid=10821
+# | communitytranslateid=16345
+msgid "Lower"
+msgstr "נמוך יותר"
+
+# # | translated from communitytranslateid=15262
+# | communitytranslateid=16368
+msgid "Loading zips in group "
+msgstr "טוען .zip בקבוצות"
+
+# # | translated from communitytranslateid=10774
+# | communitytranslateid=16350
+msgid "Language:"
+msgstr "שפה"
+
+# # | translated from communitytranslateid=10791
+# | communitytranslateid=16360
+msgid "Hydrax Water System"
+msgstr "מערכת מים Hydrax"
+
+# # | translated from communitytranslateid=10697
+# | communitytranslateid=16333
+msgid "Graphics"
+msgstr "גרפיקה"
+
+# # | translated from communitytranslateid=10620
+# | communitytranslateid=16347
+msgid "fixed free camera"
+msgstr "מצלמה חופשית קבועה"
+
+# # | translated from communitytranslateid=10658
+# | communitytranslateid=16354
+msgid "Error while retrieving user space path"
+msgstr "טעות בטעינת נתיב המשתמש"
+
+# # | translated from communitytranslateid=10779
+# | communitytranslateid=16367
+msgid "Engine smoke"
+msgstr "עשן מנוע"
+
+# # | translated from communitytranslateid=10792
+# | communitytranslateid=16361
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "מפעיל את מערכת המים החדשה. ניסיוני! משתלט על כל הגדרות המים האחרות."
+
+# # | translated from communitytranslateid=10755
+# | communitytranslateid=16339
+msgid "Enable network mode"
+msgstr "הפעל מצב רשת"
+
+# # | translated from communitytranslateid=10715
+# | communitytranslateid=16348
+msgid "Device:"
+msgstr "מכשיר"
+
+# # | translated from communitytranslateid=10664
+# | communitytranslateid=16365
+msgid "deformed: "
+msgstr "מעוות"
+
+# # | translated from communitytranslateid=10836
+# | communitytranslateid=16331
+msgid "Deadzone"
+msgstr "שטח מת"
+
+# # | translated from communitytranslateid=10840
+# | communitytranslateid=16366
+msgid "data\\\\"
+msgstr "מידע\\\\"
+
+# # | translated from communitytranslateid=10609
+# | communitytranslateid=16327
+msgid "Current FPS: "
+msgstr "פריימים לשנייה כרגע"
+
+# # | translated from communitytranslateid=10813
+# | communitytranslateid=16351
+msgid "Could not write config file"
+msgstr "לא יכול לכתוב קובץ הגדרות"
+
+# # | translated from communitytranslateid=10707
+# | communitytranslateid=16358
+msgid "Community / Support"
+msgstr "פורום / תמיכה"
+
+# # | translated from communitytranslateid=10661
+# | communitytranslateid=16330
+msgid "broken: "
+msgstr "שבור"
+
+# # | translated from communitytranslateid=10611
+# | communitytranslateid=16349
+msgid "Best FPS: "
+msgstr "הכי הרבה FPS"
+
+# # | translated from communitytranslateid=10665
+# | communitytranslateid=16343
+msgid "average deformation: "
+msgstr "עיוות ממוצע"
+
+# # | translated from communitytranslateid=10672
+# | communitytranslateid=16373
+msgid "Altitude:"
+msgstr "גובה"
+
+# # | translated from communitytranslateid=10651
+# | communitytranslateid=16369
+msgid "Airplane"
+msgstr "מטוס"
+
+# # | translated from communitytranslateid=10834
+# | communitytranslateid=16332
+msgid "30 %"
+msgstr "30 %"
+
+# # | translated from communitytranslateid=10833
+# | communitytranslateid=16344
+msgid "20% deadzone"
+msgstr "20% שטח מת"
+
+# # | translated from communitytranslateid=10761
+# | communitytranslateid=22046
+msgid "127.0.0.1"
+msgstr "Zoom לתוך המפה האינטראקטיבית סקירת מצב"
+
+# # | translated from communitytranslateid=10687
+# | communitytranslateid=16370
+msgid "(Please move an Axis)\n"
+msgstr "בבקשה הזז ציר( \n"
+
+# # | translated from communitytranslateid=10775
+# | communitytranslateid=16334
+msgid "(No Languages found)"
+msgstr "(לא נמצאו שפות)"
+
+# # | translated from communitytranslateid=15255
+# | communitytranslateid=16364
+msgid " not existing"
+msgstr "לא קיים"
+
+# # | translated from communitytranslateid=15256
+# | communitytranslateid=16362
+msgid " changed"
+msgstr "שונה"
+

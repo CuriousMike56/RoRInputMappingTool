@@ -1,0 +1,1994 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=22446
+msgid "zoom into the overview map in interactive mode"
+msgstr "zoom pe harta"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=22447
+msgid "zoom camera out faster"
+msgstr "departeaza camera mai repede"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=22448
+msgid "zoom camera out"
+msgstr "departeaza camera"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=23605
+msgid "zoom camera in faster"
+msgstr "apropie camera mai repede"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=23622
+msgid "zoom camera in"
+msgstr "apropie camera"
+
+# : source/configurator.cpp:1140
+# | communitytranslateid=11963
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Numele tau din joc. Maxim 20 de caractere."
+
+# | communitytranslateid=12680
+msgid "Your Forum User Token."
+msgstr "Numele tau de pe forum."
+
+# | communitytranslateid=12688
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Trebuie sa salvezi si sa restartezi aplicatia pentru a activa noua limba!"
+
+# : source/configurator.cpp:1167
+# | communitytranslateid=11972
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Nu e nevoie sa schimbi aceste setari, decat daca ai probleme"
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=22756
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Puteti dezactiva 'scartaitul' mecanic din aceasta casuta"
+
+# | communitytranslateid=12693
+msgid "wrote screenshot:"
+msgstr "poza facuta:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=22737
+msgid "Write error"
+msgstr "Eroare la scriere"
+
+# | communitytranslateid=12696
+msgid "Worst FPS: "
+msgstr "Cel mai slab FPS:"
+
+# | communitytranslateid=12699
+msgid "Wheels: "
+msgstr "Roti:"
+
+# : source/configurator.cpp:1068
+# | communitytranslateid=11932
+msgid "Water type:"
+msgstr "Modelul apei:"
+
+# : source/configurator.cpp:1074
+# | communitytranslateid=11936
+msgid "Water spray"
+msgstr "Apa pulverizata"
+
+# : source/configurator.cpp:1070
+# | communitytranslateid=11933
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Reflectia apei e inceata si are nevoie de un GPU capabil. In modul optimizat pentru viteza e posibil sa aveti probleme cu tremurarea camerei."
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=22738
+msgid "Warning"
+msgstr "Avertisment"
+
+# : source/configurator.cpp:1044
+# : source/configurator.cpp:1046
+# | communitytranslateid=11927
+msgid "VSync"
+msgstr "VSync"
+
+# : source/configurator.cpp:1098
+# | communitytranslateid=11948
+msgid "Visual effects"
+msgstr "Efecte vizuale"
+
+# : source/configurator.cpp:1023
+# : source/configurator.cpp:1025
+# | communitytranslateid=11922
+msgid "Video mode:"
+msgstr "Modul video:"
+
+# | communitytranslateid=12701
+msgid "Vehicle Type: "
+msgstr "Tipul de vehicul:"
+
+# : source/configurator.cpp:1082
+# | communitytranslateid=11938
+msgid "Vegetation:"
+msgstr "Vegetatie:"
+
+# | communitytranslateid=12703
+msgid "User Token: "
+msgstr "Numele utilizatorului:"
+
+# # | translated from communitytranslateid=17145
+# | communitytranslateid=22754
+msgid "Use this to remove the whole cache and force the generation from ground up."
+msgstr "Utilizati aceasta pentru a elimina intregul cache si forta generata de la sol in sus."
+
+# : source/configurator.cpp:1956
+# | communitytranslateid=12009
+msgid "Upper"
+msgstr "Mai sus"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=22739
+msgid "Updates"
+msgstr "Actualizare"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=22740
+msgid "Update now"
+msgstr "Actualizeaza acuma"
+
+# : source/configurator.cpp:1165
+# | communitytranslateid=11971
+msgid "Update"
+msgstr "Actualizeaza"
+
+# | communitytranslateid=12709
+msgid "unkown encoding problem"
+msgstr "problema necunoscuta de codificare"
+
+# | communitytranslateid=12712
+msgid "unknown.dds"
+msgstr "necunoscut.dds"
+
+# : source/configurator.cpp:1189
+# | communitytranslateid=11978
+msgid "Uncheck in case you have a fog problem"
+msgstr "Debifeaza daca ai o problema cu ceata"
+
+# | communitytranslateid=12719
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Imposibila conectarea la server. Esti sigur deconectat sau ai probleme cu reteaua."
+
+# # | translated from communitytranslateid=15267
+# | communitytranslateid=22089
+msgid "Unable to connect to server"
+msgstr "Conectare esuata la server"
+
+# : source/configurator.cpp:1300
+# | communitytranslateid=11997
+msgid "Type"
+msgstr "Tip"
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=22087
+msgid "truck horn"
+msgstr "claxon"
+
+# | communitytranslateid=12721
+msgid "Truck"
+msgstr "Camion"
+
+# | communitytranslateid=12723
+msgid "Triangle Count: "
+msgstr "Numar de Triunghiuri:"
+
+# | communitytranslateid=12727
+msgid "tracks/CreditsOverlay"
+msgstr "urme/CrediteSuprapunere"
+
+# # | translated from communitytranslateid=19404
+# | communitytranslateid=23617
+msgid "Total Linear"
+msgstr "Total Liniar"
+
+# | communitytranslateid=12730
+msgid "Torque: "
+msgstr "Cuplu:"
+
+# | communitytranslateid=12732
+msgid "tons"
+msgstr "tone"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=23666
+msgid "toggle truck front lights"
+msgstr "faruri vehicul"
+
+# # | translated from communitytranslateid=17280
+# | communitytranslateid=23697
+msgid "toggle truck beacons"
+msgstr "girofar"
+
+# # | translated from communitytranslateid=17310
+# | communitytranslateid=23631
+msgid "toggle right direction indicator (blinker)"
+msgstr "semnalizeaza dreapta"
+
+# # | translated from communitytranslateid=17325
+# | communitytranslateid=23696
+msgid "toggle parking brake"
+msgstr "frana de mana"
+
+# # | translated from communitytranslateid=17279
+# | communitytranslateid=23698
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr "statistici Ogre (FPS etc.)"
+
+# # | translated from communitytranslateid=17309
+# | communitytranslateid=23695
+msgid "toggle left direction indicator (blinker)"
+msgstr "semnalizeaza stanga"
+
+# # | translated from communitytranslateid=17323
+# | communitytranslateid=23648
+msgid "toggle custom light 9"
+msgstr "lumina 9"
+
+# # | translated from communitytranslateid=17322
+# | communitytranslateid=23673
+msgid "toggle custom light 8"
+msgstr "lumina 8"
+
+# # | translated from communitytranslateid=17321
+# | communitytranslateid=23657
+msgid "toggle custom light 7"
+msgstr "lumina 7"
+
+# # | translated from communitytranslateid=17320
+# | communitytranslateid=23689
+msgid "toggle custom light 6"
+msgstr "lumina 6"
+
+# # | translated from communitytranslateid=17319
+# | communitytranslateid=23643
+msgid "toggle custom light 5"
+msgstr "lumina 5"
+
+# # | translated from communitytranslateid=17318
+# | communitytranslateid=23691
+msgid "toggle custom light 4"
+msgstr "lumina 4"
+
+# # | translated from communitytranslateid=17317
+# | communitytranslateid=23692
+msgid "toggle custom light 3"
+msgstr "lumina 3"
+
+# # | translated from communitytranslateid=17316
+# | communitytranslateid=23693
+msgid "toggle custom light 2"
+msgstr "lumina 2"
+
+# # | translated from communitytranslateid=17315
+# | communitytranslateid=23690
+msgid "toggle custom light 10"
+msgstr "lumina 10"
+
+# # | translated from communitytranslateid=17314
+# | communitytranslateid=23694
+msgid "toggle custom light 1"
+msgstr "lumina 1"
+
+# # | translated from communitytranslateid=17330
+# | communitytranslateid=23676
+msgid "toggle between transmission modes"
+msgstr "alege dintre modurile de transmisie"
+
+# # | translated from communitytranslateid=17305
+# | communitytranslateid=23625
+msgid "toggle between available road types"
+msgstr "alege dintre tipure de drum disponibile"
+
+# # | translated from communitytranslateid=17304
+# | communitytranslateid=23659
+msgid "toggle between available objects"
+msgstr "alege dintre obiectele disponibile"
+
+# # | translated from communitytranslateid=17174
+# | communitytranslateid=23679
+msgid "throttle axis. Only use this if you have fitting hardware :) (i.e. a Slider)"
+msgstr "axa acceleratie. Utilizati doar daca aveti hardware adecvat :) (ex. un Slider)"
+
+# : source/configurator.cpp:1121
+# : source/configurator.cpp:1122
+# | communitytranslateid=11958
+msgid "Thread number:"
+msgstr "Numarul de thread-uri:"
+
+# | communitytranslateid=12739
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Aceasta setare modifica limba originala a sistemului. Trebuie sa restartezi configuratorul pentru a aplica modificarile."
+
+# : source/configurator.cpp:1089
+# | communitytranslateid=11942
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "E posibil sa afecteze cadrele pe secunda pe sistemele vechi, dar arata bine."
+
+# : source/configurator.cpp:1085
+# | communitytranslateid=11939
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Determina cata iarba si cati copaci (si obiecte asemanatoare) vor fi afisate."
+
+# # | translated from communitytranslateid=17152
+# | communitytranslateid=23682
+msgid "The update service is currently only available for windows users."
+msgstr "Serviciul de update este momentan disponibil doar utilizatorilor Windows."
+
+# : source/configurator.cpp:1161
+# | communitytranslateid=11970
+msgid "The server password, if required."
+msgstr "Parola serverului, daca este necesara."
+
+# : source/configurator.cpp:1035
+# : source/configurator.cpp:1037
+# | communitytranslateid=11924
+msgid "Texture filtering:"
+msgstr "Filtrarea texturii:"
+
+# : source/configurator.cpp:994
+# | communitytranslateid=11916
+msgid "Test"
+msgstr "Test"
+
+# | communitytranslateid=12742
+msgid "Terrain not found: "
+msgstr "Terenul nu a fost gasit:"
+
+# | communitytranslateid=12744
+msgid "Terrain loading error"
+msgstr "Eroare incarcare teren"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=23669
+msgid "take a screenshot"
+msgstr "fa o poza"
+
+# : source/configurator.cpp:1099
+# | communitytranslateid=11949
+msgid "Sunburn"
+msgstr "Soare arzator"
+
+# # | translated from communitytranslateid=17203
+# | communitytranslateid=23614
+msgid "step forward with the character"
+msgstr "paseste inainte"
+
+# # | translated from communitytranslateid=17202
+# | communitytranslateid=23609
+msgid "step backwards with the character"
+msgstr "paseste inapoi"
+
+# # | translated from communitytranslateid=17184
+# | communitytranslateid=23662
+msgid "steer right (analog value!)"
+msgstr "vireaza stanga (analog!)"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=23647
+msgid "steer right"
+msgstr "vireaza dreapta"
+
+# # | translated from communitytranslateid=17182
+# | communitytranslateid=23611
+msgid "steer left (analog value!)"
+msgstr "vireaza stanga (analog!)"
+
+# # | translated from communitytranslateid=17173
+# | communitytranslateid=23665
+msgid "steer left"
+msgstr "vireaza stanga"
+
+# | communitytranslateid=12747
+msgid "Startup error"
+msgstr "Eroare de initializare"
+
+# # | translated from communitytranslateid=17274
+# | communitytranslateid=23660
+msgid "start the old truck editor"
+msgstr "porneste editorul vechi de vehicule"
+
+# # | translated from communitytranslateid=15714
+# | communitytranslateid=23677
+msgid "SPECIAL_CHARACTERS"
+msgstr "ă Ă â Â ş Ş ţ Ţ"
+
+# : source/configurator.cpp:1048
+# | communitytranslateid=11928
+msgid "Special effects"
+msgstr "Efecte speciale"
+
+# : source/configurator.cpp:938
+# | communitytranslateid=11910
+msgid "Sounds"
+msgstr "Sunet"
+
+# : source/configurator.cpp:1114
+# : source/configurator.cpp:1117
+# | communitytranslateid=11957
+msgid "Sound rendering:"
+msgstr "Renderare sunet:"
+
+# : source/configurator.cpp:1052
+# | communitytranslateid=11929
+msgid "Sky type:"
+msgstr "Tipul cerului:"
+
+# | communitytranslateid=12750
+msgid "Simple Settings"
+msgstr "Setari simple"
+
+# # | translated from communitytranslateid=17209
+# | communitytranslateid=23608
+msgid "sidestep to the right"
+msgstr "aluneca spre dreapta"
+
+# : source/configurator.cpp:1097
+# | communitytranslateid=11947
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Arata retrovizoarele in modul de vedere 1st person. Poate cauza probleme de compatibilitate pe placi video foarte vechi."
+
+# : source/configurator.cpp:1198
+# | communitytranslateid=11984
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Arata bord dinamic in modul 1st person. Poate cauza problema de compatibilitate pe placi video foarte vechi."
+
+# : source/configurator.cpp:1207
+# | communitytranslateid=11990
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Prezinta toate mesh-urile de coliziune in rosu pentru a le putea pozitiona corect. Foloseste doar pentru debug-ificare!"
+
+# # | translated from communitytranslateid=17327
+# | communitytranslateid=23639
+msgid "shift to neutral gear in manual transmission mode"
+msgstr "schimba pe liber in modul manual de transmisie"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=23640
+msgid "shift directly to third gear"
+msgstr "schimba in viteza 3"
+
+# # | translated from communitytranslateid=19432
+# | communitytranslateid=23653
+msgid "shift directly to second gear"
+msgstr "Schimba in viteza 2"
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=23644
+msgid "shift directly to reverse gear"
+msgstr "schimba in marsarier"
+
+# # | translated from communitytranslateid=19434
+# | communitytranslateid=22085
+msgid "shift directly to fourth gear"
+msgstr "intra direct in viteza a 4-a"
+
+# # | translated from communitytranslateid=19431
+# | communitytranslateid=22758
+msgid "shift directly to first gear"
+msgstr "schimba direct în prima viteză"
+
+# # | translated from communitytranslateid=19439
+# | communitytranslateid=22759
+msgid "shift directly to 9th gear"
+msgstr "schimbă direct in viteza a 9"
+
+# # | translated from communitytranslateid=19438
+# | communitytranslateid=23699
+msgid "shift directly to 8th gear"
+msgstr "schimba in viteza 8"
+
+# # | translated from communitytranslateid=19437
+# | communitytranslateid=23658
+msgid "shift directly to 7th gear"
+msgstr "Schimba in viteza 7"
+
+# # | translated from communitytranslateid=19446
+# | communitytranslateid=23700
+msgid "shift directly to 16th gear"
+msgstr "schimba in viteza 16"
+
+# # | translated from communitytranslateid=19445
+# | communitytranslateid=23683
+msgid "shift directly to 15th gear"
+msgstr "schimba in viteza 15"
+
+# # | translated from communitytranslateid=19444
+# | communitytranslateid=22757
+msgid "shift directly to 14th gear"
+msgstr "schimbă direct în vitaza a 14"
+
+# # | translated from communitytranslateid=19442
+# | communitytranslateid=22746
+msgid "shift directly to 12th gear"
+msgstr "schimba direct in viteza a 12"
+
+# # | translated from communitytranslateid=19441
+# | communitytranslateid=23675
+msgid "shift directly to 11th gear"
+msgstr "schimba in viteza 11"
+
+# : source/configurator.cpp:1059
+# : source/configurator.cpp:1061
+# | communitytranslateid=11931
+msgid "Shadow type:"
+msgstr "Tipul umbrei:"
+
+# # | translated from communitytranslateid=19451
+# | communitytranslateid=23628
+msgid "sets high range (13-18) for H-shaft"
+msgstr "selecteaza raportul mare (13-18) pentru schimbator H"
+
+# | communitytranslateid=12753
+msgid "Sets all settings in a simple way"
+msgstr "Seteaza optiunile intr-un mod simplu"
+
+# : source/configurator.cpp:1148
+# : source/configurator.cpp:1507
+# | communitytranslateid=11967
+msgid "Server port number: "
+msgstr "Numarul de port al serverului:"
+
+# : source/configurator.cpp:1154
+# | communitytranslateid=11969
+msgid "Server password: "
+msgstr "Parola serverului:"
+
+# : source/configurator.cpp:1144
+# : source/configurator.cpp:1505
+# | communitytranslateid=11965
+msgid "Server host name: "
+msgstr "Nume server gazda:"
+
+# # | translated from communitytranslateid=17294
+# | communitytranslateid=22742
+msgid "select previous category"
+msgstr "selectaţi categoria precedentă"
+
+# # | translated from communitytranslateid=17295
+# | communitytranslateid=22741
+msgid "select next category"
+msgstr "Selectează următoarea categorie"
+
+# | communitytranslateid=12754
+msgid "Search"
+msgstr "Cauta"
+
+# : source/configurator.cpp:1171
+# | communitytranslateid=11973
+msgid "Screenshot Format:"
+msgstr "Formatul pozelor:"
+
+# : source/configurator.cpp:1007
+# | communitytranslateid=11919
+msgid "Screen configuration"
+msgstr "Configuratiile ecranului"
+
+# : source/configurator.cpp:920
+# | communitytranslateid=11905
+msgid "Save the current configuration and start RoR."
+msgstr "Salveaza configuratiile curente si porneste RoR."
+
+# : source/configurator.cpp:924
+# | communitytranslateid=11907
+msgid "Save the current configuration and close the configuration program."
+msgstr "Salveaza configuratiile curente si inchide programul."
+
+# : source/configurator.cpp:918
+# : source/configurator.cpp:927
+# | communitytranslateid=11904
+msgid "Save and Play"
+msgstr "Salveaza si joaca"
+
+# : source/configurator.cpp:921
+# | communitytranslateid=11906
+msgid "Save and Exit"
+msgstr "Salveaza si iesi"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=22451
+msgid "rudder left"
+msgstr "profundor stânga"
+
+# : source/configurator.cpp:1014
+# : source/configurator.cpp:1019
+# : source/configurator.cpp:1021
+# | communitytranslateid=11921
+msgid "RTT Mode:"
+msgstr "Modul RTT:"
+
+# # | translated from communitytranslateid=17353
+# | communitytranslateid=22748
+msgid "rotate view up"
+msgstr "roteşte vederea in sus"
+
+# # | translated from communitytranslateid=17206
+# | communitytranslateid=23661
+msgid "rotate character right"
+msgstr "rotire caracter dreapta"
+
+# # | translated from communitytranslateid=17197
+# | communitytranslateid=23688
+msgid "rotate camera up"
+msgstr "roteste camera in sus"
+
+# # | translated from communitytranslateid=17194
+# | communitytranslateid=22091
+msgid "rotate camera down"
+msgstr "roteste camera in jos"
+
+# : source/configurator.cpp:897
+# | communitytranslateid=11899
+msgid "Rigs of Rods configuration"
+msgstr "Configuratiile Rigs of Rods"
+
+# : source/configurator.cpp:1953
+# | communitytranslateid=12007
+msgid "reverse axis"
+msgstr "Reverseaza axa"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=12006
+msgid "Reverse"
+msgstr "Revers"
+
+# : source/configurator.cpp:917
+# : source/configurator.cpp:926
+# | communitytranslateid=11903
+msgid "Restore the default configuration."
+msgstr "Revin-o la configuratiile initiale."
+
+# : source/configurator.cpp:915
+# | communitytranslateid=11902
+msgid "Restore Defaults"
+msgstr "Revin-o la setarile initiale"
+
+# # | translated from communitytranslateid=17270
+# | communitytranslateid=23646
+msgid "reset truck to original starting position"
+msgstr "repune vehiculul in punctul original de plecare"
+
+# : source/configurator.cpp:1105
+# | communitytranslateid=11954
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Necesita o placa video recenta. Adauga un efect de miscare in reluare."
+
+# : source/configurator.cpp:1102
+# | communitytranslateid=11952
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Necesita o placa video recenta. Adauga un efect de lumina in ceata."
+
+# : source/configurator.cpp:1100
+# | communitytranslateid=11950
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Necesita o placa video recenta. Adauga un efect albastrui-orbitor."
+
+# : source/configurator.cpp:1201
+# | communitytranslateid=11986
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Modul de reluare. (Poate afecta numarul de cadre pe secunda)"
+
+# : source/configurator.cpp:1199
+# | communitytranslateid=11985
+msgid "Replay Mode"
+msgstr "Mod de redare"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=23654
+msgid "Render System"
+msgstr "Sistem de Redare"
+
+# # | translated from communitytranslateid=17333
+# | communitytranslateid=22743
+msgid "reloads the roads (experimental)"
+msgstr "reîncărca drumuri ( experimental )"
+
+# : source/configurator.cpp:1962
+# | communitytranslateid=12012
+msgid "Region"
+msgstr "Regiune"
+
+# : source/configurator.cpp:1204
+# | communitytranslateid=11988
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Printeaza toate masele de noduri in RoR.log. Foloseste doar pentru debug-ificarea camioanelor!"
+
+# # | translated from communitytranslateid=19418
+# | communitytranslateid=23624
+msgid "Please select what type of device to export"
+msgstr "Selecteaza pentru export"
+
+# : source/configurator.cpp:316
+# | communitytranslateid=11881
+msgid "Please select an input event."
+msgstr "Selecteaza o intrare eveniment"
+
+# | communitytranslateid=12759
+msgid "Please clear the place first"
+msgstr "Elibereaza locul mai intai"
+
+# : source/configurator.cpp:1195
+# | communitytranslateid=11982
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Particule precum umezeala sau urme de roti. Pot fi supra-folosite in Multiplayer."
+
+# : source/configurator.cpp:1086
+# | communitytranslateid=11940
+msgid "Particle systems"
+msgstr "Sisteme de particule"
+
+# : source/configurator.cpp:1833
+# | communitytranslateid=11999
+msgid "Options"
+msgstr "Optiuni"
+
+# : source/configurator.cpp:494
+# : source/configurator.cpp:500
+# | communitytranslateid=11890
+msgid "ok (end test)"
+msgstr "OK (terminare test)"
+
+# | communitytranslateid=12761
+msgid "OK"
+msgstr "OK"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=12000
+msgid "Ogre config validation error"
+msgstr "Eroarea de validare a configuratiilor Ogre"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=12002
+msgid "Ogre config error"
+msgstr "Eroare de configurare Ogre"
+
+# : source/configurator.cpp:1192
+# | communitytranslateid=11980
+msgid "Not much impact on speed."
+msgstr "Nu are prea mare impact asupra performantei."
+
+# | communitytranslateid=12762
+msgid "normal camera"
+msgstr "camera normala"
+
+# # | translated from communitytranslateid=17162
+# | communitytranslateid=23638
+msgid "normal brake for an aircraft"
+msgstr "frana de serviciu pentru avion"
+
+# | communitytranslateid=12765
+msgid "Non-Driveable"
+msgstr "Imposibil de condus"
+
+# | communitytranslateid=12768
+msgid "Nodes: "
+msgstr "Noduri:"
+
+# | communitytranslateid=12770
+msgid "node count: "
+msgstr "numar de noduri:"
+
+# # | translated from communitytranslateid=17177
+# | communitytranslateid=23649
+msgid "no thrust"
+msgstr "motor oprit"
+
+# : source/configurator.cpp:1076
+# | communitytranslateid=11937
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Nu are niciun efect atata timp cat nu stai in apa, dar arata bine."
+
+# # | translated from communitytranslateid=19427
+# | communitytranslateid=23613
+msgid "No differential installed on current vehicle!"
+msgstr "Vehiculul nu are diferential instalat!"
+
+# : source/configurator.cpp:1966
+# | communitytranslateid=12015
+msgid "no deadzone"
+msgstr "fara deadzone"
+
+# | communitytranslateid=12773
+msgid "no author information available"
+msgstr "nu sunt valabile informatii despre autori"
+
+# : source/configurator.cpp:1133
+# : source/configurator.cpp:1503
+# | communitytranslateid=11961
+msgid "Nickname: "
+msgstr "Nume in joc:"
+
+# | communitytranslateid=12776
+msgid "new Language selected"
+msgstr "Limba noua selectata"
+
+# : source/configurator.cpp:997
+# | communitytranslateid=11917
+msgid "Network"
+msgstr "Retea"
+
+# # | translated from communitytranslateid=17338
+# | communitytranslateid=22088
+msgid "move left mirror to the right"
+msgstr "muta oglinda stanga spre dreapta"
+
+# # | translated from communitytranslateid=17337
+# | communitytranslateid=23620
+msgid "move left mirror to the left"
+msgstr "misca oglinda stanga spre stanga"
+
+# : source/configurator.cpp:498
+# | communitytranslateid=11892
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# : source/configurator.cpp:1103
+# | communitytranslateid=11953
+msgid "Motion blur"
+msgstr "Miscare in reluare"
+
+# # | translated from communitytranslateid=17342
+# | communitytranslateid=23630
+msgid "more replay backward"
+msgstr "replay inapoi mai mult"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=23655
+msgid "more airbrakes"
+msgstr "frani planare mai puternice"
+
+# : source/configurator.cpp:1095
+# | communitytranslateid=11946
+msgid "Mirrors"
+msgstr "Retrovizoare"
+
+# : source/configurator.cpp:1216
+# : source/configurator.cpp:1296
+# | communitytranslateid=11995
+msgid "minimum visibility range in percent"
+msgstr "raza vizuala minima in procente"
+
+# | communitytranslateid=12778
+msgid "max Speed:"
+msgstr "viteza maxima:"
+
+# | communitytranslateid=12780
+msgid "Mass: "
+msgstr "Masa:"
+
+# | communitytranslateid=12783
+msgid "Manual shift - Auto clutch"
+msgstr "Schimbator manual - Ambreaj automat"
+
+# | communitytranslateid=12784
+msgid "Machine"
+msgstr "Masina"
+
+# : source/configurator.cpp:1960
+# | communitytranslateid=12011
+msgid "Lower"
+msgstr "Mai jos"
+
+# # | translated from communitytranslateid=19424
+# | communitytranslateid=23685
+msgid "Low range selected"
+msgstr "Raport mic selectat"
+
+# # | translated from communitytranslateid=15262
+# | communitytranslateid=23670
+msgid "Loading zips in group "
+msgstr "Se incarca fisierele zip"
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=23633
+msgid "loading new zip: "
+msgstr "incarca fisier zip:"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=22450
+msgid "loading new directory: "
+msgstr "încărcare director nou:"
+
+# | communitytranslateid=12785
+msgid "Loader"
+msgstr "Incarcator"
+
+# | communitytranslateid=12788
+msgid "List"
+msgstr "Lista"
+
+# : source/configurator.cpp:1180
+# : source/configurator.cpp:1182
+# : source/configurator.cpp:1184
+# | communitytranslateid=11975
+msgid "Light source effects:"
+msgstr "Efectele sursei de lumina:"
+
+# # | translated from communitytranslateid=17204
+# | communitytranslateid=23634
+msgid "let the character jump"
+msgstr "sari"
+
+# # | translated from communitytranslateid=17347
+# | communitytranslateid=23671
+msgid "less airbrakes"
+msgstr "frani planare mai slabe"
+
+# | communitytranslateid=12789
+msgid "Language:"
+msgstr "Limba:"
+
+# : source/configurator.cpp:504
+# | communitytranslateid=11893
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# : source/configurator.cpp:312
+# | communitytranslateid=11880
+msgid "Keyboard"
+msgstr "Tastatura"
+
+# : source/configurator.cpp:1302
+# | communitytranslateid=11998
+msgid "Key/Axis"
+msgstr "Tasta/Axa"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=12005
+msgid "Joystick Options"
+msgstr "Optiunile joystick-ului"
+
+# : source/configurator.cpp:1954
+# | communitytranslateid=12008
+msgid "Joystick Axis Region"
+msgstr "Regiunea axei joystick-ului"
+
+# # | translated from communitytranslateid=19390
+# | communitytranslateid=23636
+msgid "Joystick Axis Linearity"
+msgstr "Liniaritatea Joystick-ului"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=12013
+msgid "Joystick Axis Deadzones"
+msgstr "Zonele moarte ale axelor joystick-ului"
+
+# : source/configurator.cpp:496
+# | communitytranslateid=11891
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# : source/configurator.cpp:323
+# : source/configurator.cpp:976
+# | communitytranslateid=11882
+msgid "Input Type: "
+msgstr "Tipul intrarii:"
+
+# # | translated from communitytranslateid=15258
+# | communitytranslateid=23621
+msgid "incremental check: new content\n"
+msgstr "verificare: continut nou\n"
+
+# # | translated from communitytranslateid=15254
+# | communitytranslateid=23642
+msgid "incremental check: deleted and changed files\n"
+msgstr "verificare: fisiere sterse sau modificate\n"
+
+# # | translated from communitytranslateid=17267
+# | communitytranslateid=23610
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr "creste presiunea pneurilor (nota: doar cateva vehicule suporta functia)"
+
+# : source/configurator.cpp:1173
+# | communitytranslateid=11974
+msgid "In what Format should screenshots be saved?"
+msgstr "In ce format vrei sa fie salvate pozele?"
+
+# : source/configurator.cpp:983
+# | communitytranslateid=11914
+msgid "Import Keymap"
+msgstr "Importeaza model control"
+
+# | communitytranslateid=12796
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Daca folosesti XFire, poti activa aceasta optiune pentru a genera mai multe detalii ale jocului."
+
+# | communitytranslateid=12801
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Daca nu-ti place camera externa cu inclinare, poti sa o dezactivezi de aici."
+
+# : source/configurator.cpp:1208
+# | communitytranslateid=11991
+msgid "Hydrax Water System"
+msgstr "Sistem de apa Hydrax"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=22749
+msgid "hold to start the engine"
+msgstr "apasă pentru a porni motorul"
+
+# : source/configurator.cpp:1106
+# | communitytranslateid=11955
+msgid "High quality reflective effects"
+msgstr "Efecte de reflectie de inalta calitate"
+
+# | communitytranslateid=12803
+msgid "High Quality"
+msgstr "Calitate mare"
+
+# | communitytranslateid=12805
+msgid "High Performance"
+msgstr "Performanta mare"
+
+# # | translated from communitytranslateid=17262
+# | communitytranslateid=23686
+msgid "hide all GUI elements"
+msgstr "ascunde GUI"
+
+# | communitytranslateid=12807
+msgid "here you can get help"
+msgstr "aici poti gasi ajutor"
+
+# : source/configurator.cpp:1090
+# | communitytranslateid=11943
+msgid "HeatHaze"
+msgstr "Valuri de caldura"
+
+# : source/configurator.cpp:1093
+# | communitytranslateid=11944
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Valuri de caldura de la motoare, incetinire majora. (activeaza doar pe dispozitive recente)"
+
+# | communitytranslateid=12808
+msgid "health: "
+msgstr "integritate:"
+
+# | communitytranslateid=12809
+msgid "Graphics Settings"
+msgstr "Setari grafice"
+
+# : source/configurator.cpp:935
+# | communitytranslateid=11909
+msgid "Graphics"
+msgstr "Grafica"
+
+# # | translated from communitytranslateid=19423
+# | communitytranslateid=23645
+msgid "Fully Manual: stick shift with ranges"
+msgstr "Manual: schimbator in etape"
+
+# # | translated from communitytranslateid=19422
+# | communitytranslateid=23632
+msgid "Fully manual: stick shift"
+msgstr "Manual: schimbator viteze"
+
+# | communitytranslateid=12811
+msgid "Fully Manual shift"
+msgstr "Schimbator viteze complet manual"
+
+# # | translated from communitytranslateid=17176
+# | communitytranslateid=22751
+msgid "full thrust"
+msgstr "tracţiune integrala"
+
+# : source/configurator.cpp:1043
+# | communitytranslateid=11926
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Modurile de ecran complet folosesc ceva mai putina memorie"
+
+# : source/configurator.cpp:1041
+# | communitytranslateid=11925
+msgid "Full screen"
+msgstr "Ecran complet"
+
+# : source/configurator.cpp:1958
+# | communitytranslateid=12010
+msgid "Full"
+msgstr "Ful"
+
+# | communitytranslateid=12812
+msgid "free camera"
+msgstr "camera libera"
+
+# : source/configurator.cpp:1187
+# | communitytranslateid=11977
+msgid "Fog"
+msgstr "Ceata"
+
+# | communitytranslateid=12814
+msgid "fixed free camera"
+msgstr "camera libera fixata"
+
+# # | translated from communitytranslateid=17335
+# | communitytranslateid=23651
+msgid "fix the camera to a position"
+msgstr "fixeaza camera intr'o pozitie"
+
+# # | translated from communitytranslateid=19419
+# | communitytranslateid=23637
+msgid "Export selection"
+msgstr "Exporteaza selectia"
+
+# : source/configurator.cpp:986
+# | communitytranslateid=11915
+msgid "Export Keymap"
+msgstr "Exporteaza model control"
+
+# # | translated from communitytranslateid=17290
+# | communitytranslateid=23615
+msgid "EXPERIMENTAL: save changes to the grass density image"
+msgstr "EXPERIMENTAL: salveaza setarile densitati vegetatiei"
+
+# # | translated from communitytranslateid=17287
+# | communitytranslateid=23607
+msgid "EXPERIMENTAL: add some grass"
+msgstr "EXPERIMENTAL: adauga vegetatie"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=23641
+msgid "exit the game"
+msgstr "paraseste jocul"
+
+# : source/configurator.cpp:394
+# | communitytranslateid=11889
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Valoarea evenimentului (stanga = 0%, dreapta = 100%)"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# : source/configurator.cpp:298
+# : source/configurator.cpp:308
+# : source/configurator.cpp:321
+# | communitytranslateid=11879
+msgid "Event Name: "
+msgstr "Numele evenimentului:"
+
+# : source/configurator.cpp:393
+# | communitytranslateid=11888
+msgid "Event Name"
+msgstr "Numele evenimentului"
+
+# : source/configurator.cpp:392
+# | communitytranslateid=11887
+msgid "Event Description: "
+msgstr "Descrierea evenimentului:"
+
+# : source/configurator.cpp:1298
+# | communitytranslateid=11996
+msgid "Event"
+msgstr "Eveniment"
+
+# | communitytranslateid=12817
+msgid "Error while retrieving user space path"
+msgstr "Eroare in timpul primirii caii de distribuire a spatiului"
+
+# | communitytranslateid=12823
+msgid "Error while retrieving program space path"
+msgstr "Eroare in timpul primirii caii de spatiu a programului"
+
+# : source/configurator.cpp:1190
+# | communitytranslateid=11979
+msgid "Engine smoke"
+msgstr "Fum de la motor"
+
+# : source/configurator.cpp:1073
+# | communitytranslateid=11935
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Activarea valurilor ofera multa distractie in barci, dar poate avea un impact mare asupra performantei pe unele dispozitive."
+
+# : source/configurator.cpp:1210
+# | communitytranslateid=11992
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Activeaza noul sistem de renderare a apei. EXPERIMENTAL. Ignora orice alte setari ale apei."
+
+# | communitytranslateid=12826
+msgid "Enable XFire Extension"
+msgstr "Activeaza extensia XFire"
+
+# : source/configurator.cpp:1071
+# | communitytranslateid=11934
+msgid "Enable waves"
+msgstr "Activeaza valuri"
+
+# | communitytranslateid=13552
+msgid "Enable Visual Beam Debug"
+msgstr "Activeaza Debug-ificatorul de bare vizuale"
+
+# : source/configurator.cpp:1129
+# : source/configurator.cpp:1132
+# | communitytranslateid=11960
+msgid "Enable network mode"
+msgstr "Permite modul de retea"
+
+# : source/configurator.cpp:1109
+# | communitytranslateid=11956
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Permite efecte de reflectie de inalta calitate. Cauzeaza o incetinire."
+
+# # | translated from communitytranslateid=17146
+# | communitytranslateid=22750
+msgid "Enable Auto-Downloader"
+msgstr "Activează  downloadarea automată"
+
+# : source/configurator.cpp:1123
+# : source/configurator.cpp:1128
+# | communitytranslateid=11959
+msgid "Enable advanced wheel model"
+msgstr "Permite model avansat de roti"
+
+# : source/configurator.cpp:1087
+# | communitytranslateid=11941
+msgid "Dust"
+msgstr "Praf"
+
+# | communitytranslateid=13561
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Afiseaza numarul de noduri si mai multe informatii despre noduri si bare."
+
+# # | translated from communitytranslateid=17351
+# | communitytranslateid=23656
+msgid "display or hide net chat"
+msgstr "Afiseaza sau ascunde Chat-ul"
+
+# : source/configurator.cpp:1213
+# | communitytranslateid=11994
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "Dezactiveaza harta. Este doar pentru testare, nu o sa ai cresteri de cadre pe secunda cu asta."
+
+# : source/configurator.cpp:1211
+# | communitytranslateid=11993
+msgid "Disable Overview Map"
+msgstr "Dezactiveaza vederea de ansamblu a hartii"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=23606
+msgid "disable creak sound"
+msgstr "fara 'scartait' mecanic"
+
+# | communitytranslateid=13598
+msgid "Disable Camera Pitching"
+msgstr "Dezactiveaza inclinarea camerei"
+
+# : source/configurator.cpp:1009
+# : source/configurator.cpp:1012
+# : source/configurator.cpp:1017
+# | communitytranslateid=11920
+msgid "Device:"
+msgstr "Dispozitiv:"
+
+# | communitytranslateid=13608
+msgid "destruction: "
+msgstr "avarie:"
+
+# # | translated from communitytranslateid=17160
+# | communitytranslateid=23672
+msgid "Description: "
+msgstr "Descriere:"
+
+# : source/configurator.cpp:981
+# | communitytranslateid=11913
+msgid "Delete selected"
+msgstr "Sterge selectia"
+
+# # | translated from communitytranslateid=17350
+# | communitytranslateid=22851
+msgid "delete current truck"
+msgstr "şterge camionul actual"
+
+# | communitytranslateid=13610
+msgid "deformed: "
+msgstr "deformare:"
+
+# # | translated from communitytranslateid=17175
+# | communitytranslateid=23616
+msgid "decreases the airplane thrust"
+msgstr "reduce puterea motorului de avion"
+
+# : source/configurator.cpp:1202
+# | communitytranslateid=11987
+msgid "Debug Truck Mass"
+msgstr "Testeaza Masele Vehiculelor"
+
+# # | translated from communitytranslateid=17276
+# | communitytranslateid=23623
+msgid "debug purpose - dont use"
+msgstr "pentru testare - a nu se folosi"
+
+# : source/configurator.cpp:1205
+# | communitytranslateid=11989
+msgid "Debug Collision Meshes"
+msgstr "Testeaza Mesh-urile de Coliziune"
+
+# : source/configurator.cpp:2276
+# : source/configurator.cpp:2287
+# | communitytranslateid=12026
+msgid "Deadzone"
+msgstr "Deadzone"
+
+# : source/configurator.cpp:900
+# : source/configurator.cpp:902
+# : source/configurator.cpp:908
+# | communitytranslateid=11900
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# : source/configurator.cpp:507
+# : source/configurator.cpp:510
+# | communitytranslateid=11894
+# | communitytranslateid=16716
+msgid "data\\\\\\\\config.bmp"
+msgstr "data\\\\\\\\config.bmp"
+
+# : source/configurator.cpp:914
+# | communitytranslateid=11901
+# | communitytranslateid=16717
+msgid "data\\\\\\\\"
+msgstr "data\\\\\\\\"
+
+# : source/configurator.cpp:507
+# : source/configurator.cpp:510
+# | communitytranslateid=11894
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# : source/configurator.cpp:914
+# | communitytranslateid=11901
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# : source/configurator.cpp:565
+# | communitytranslateid=11895
+msgid "data/"
+msgstr "data/"
+
+# : source/configurator.cpp:1196
+# | communitytranslateid=11983
+msgid "Dashboard"
+msgstr "Bord"
+
+# # | translated from communitytranslateid=19452
+# | communitytranslateid=23668
+msgid "Cycle between available differental models"
+msgstr "Alege dintre diferentialele disponibile"
+
+# : source/configurator.cpp:1193
+# | communitytranslateid=11981
+msgid "Custom Particles"
+msgstr "Particule Diverse"
+
+# | communitytranslateid=13638
+msgid "current Speed:"
+msgstr "viteza curenta:"
+
+# | communitytranslateid=13636
+msgid "current RPM:"
+msgstr "RPM curent:"
+
+# | communitytranslateid=13634
+msgid "current mass:"
+msgstr "masa curenta:"
+
+# | communitytranslateid=13564
+msgid "Current FPS: "
+msgstr "FPS curent:"
+
+# | communitytranslateid=13647
+msgid "CPU Settings"
+msgstr "Setari CPU"
+
+# : source/configurator.cpp:941
+# | communitytranslateid=11911
+msgid "CPU"
+msgstr "CPU"
+
+# # | translated from communitytranslateid=19388
+# | communitytranslateid=22747
+msgid "Could not write to input.map file"
+msgstr "Nu s-a putut scrie fisierul input.map"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=12003
+msgid "Could not write config file"
+msgstr "Nu s-a putut scrie fisierul config"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=12001
+msgid "Could not open Rendering device"
+msgstr "Nu s-a putut deschide dispozitivul de renderare"
+
+# : source/configurator.cpp:977
+# | communitytranslateid=11912
+msgid "Controls"
+msgstr "Controale"
+
+# : source/configurator.cpp:1948
+# | communitytranslateid=12004
+msgid "Configure error"
+msgstr "Eroare de configurare"
+
+# | communitytranslateid=13644
+msgid "Community / Support"
+msgstr "Comunitate / Suport"
+
+# | communitytranslateid=13641
+msgid "Commands:"
+msgstr "Comenzi:"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=22760
+msgid "Command 9"
+msgstr "Comanda 9"
+
+# # | translated from communitytranslateid=17217
+# | communitytranslateid=22761
+msgid "Command 8"
+msgstr "Comanda 8"
+
+# # | translated from communitytranslateid=17216
+# | communitytranslateid=22762
+msgid "Command 7"
+msgstr "Comanda 7"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=22763
+msgid "Command 6"
+msgstr "Comanda 6"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=22764
+msgid "Command 5"
+msgstr "Comanda 5"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=22765
+msgid "Command 48"
+msgstr "Comanda 48"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=22766
+msgid "Command 47"
+msgstr "Comanda 47"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=22767
+msgid "Command 46"
+msgstr "Comanda 46"
+
+# # | translated from communitytranslateid=17254
+# | communitytranslateid=22768
+msgid "Command 45"
+msgstr "Comanda 45"
+
+# # | translated from communitytranslateid=17253
+# | communitytranslateid=22769
+msgid "Command 44"
+msgstr "Comanda 44"
+
+# # | translated from communitytranslateid=17252
+# | communitytranslateid=22770
+msgid "Command 43"
+msgstr "Comanda 43"
+
+# # | translated from communitytranslateid=17251
+# | communitytranslateid=22771
+msgid "Command 42"
+msgstr "Comanda 42"
+
+# # | translated from communitytranslateid=17250
+# | communitytranslateid=22772
+msgid "Command 41"
+msgstr "Comanda 41"
+
+# # | translated from communitytranslateid=17249
+# | communitytranslateid=22773
+msgid "Command 40"
+msgstr "Comanda 40"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=22774
+msgid "Command 4"
+msgstr "Comanda 4"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=22775
+msgid "Command 39"
+msgstr "Comanda 39"
+
+# # | translated from communitytranslateid=17247
+# | communitytranslateid=22776
+msgid "Command 38"
+msgstr "Comanda 38"
+
+# # | translated from communitytranslateid=17246
+# | communitytranslateid=22777
+msgid "Command 37"
+msgstr "Comanda 37"
+
+# # | translated from communitytranslateid=17245
+# | communitytranslateid=22755
+msgid "Command 36"
+msgstr "Comanda 36"
+
+# # | translated from communitytranslateid=17244
+# | communitytranslateid=22778
+msgid "Command 35"
+msgstr "Comanda 35"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=22779
+msgid "Command 34"
+msgstr "Comanda 34"
+
+# # | translated from communitytranslateid=17242
+# | communitytranslateid=22780
+msgid "Command 33"
+msgstr "Comanda 33"
+
+# # | translated from communitytranslateid=17241
+# | communitytranslateid=22781
+msgid "Command 32"
+msgstr "Comanda 32"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=22449
+msgid "Command 31"
+msgstr "Comanda 31"
+
+# # | translated from communitytranslateid=17239
+# | communitytranslateid=23618
+msgid "Command 30"
+msgstr "Comanda 30"
+
+# # | translated from communitytranslateid=17212
+# | communitytranslateid=23652
+msgid "Command 3"
+msgstr "Comanda 3"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=23629
+msgid "Command 28"
+msgstr "Comanda 28"
+
+# # | translated from communitytranslateid=17236
+# | communitytranslateid=23667
+msgid "Command 27"
+msgstr "Comanda 27"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=23612
+msgid "Command 26"
+msgstr "Comanda 26"
+
+# # | translated from communitytranslateid=17234
+# | communitytranslateid=23627
+msgid "Command 25"
+msgstr "Comanda 25"
+
+# # | translated from communitytranslateid=17233
+# | communitytranslateid=23681
+msgid "Command 24"
+msgstr "Comanda 24"
+
+# # | translated from communitytranslateid=17230
+# | communitytranslateid=22090
+msgid "Command 21"
+msgstr "Comanda 21"
+
+# # | translated from communitytranslateid=17228
+# | communitytranslateid=23678
+msgid "Command 19"
+msgstr "Comanda 19"
+
+# # | translated from communitytranslateid=17226
+# | communitytranslateid=23664
+msgid "Command 17"
+msgstr "Comanda 17"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=23701
+msgid "Command 16"
+msgstr "Comanda 16"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=23702
+msgid "Command 13"
+msgstr "Comanda 13"
+
+# : source/configurator.cpp:1094
+# | communitytranslateid=11945
+msgid "Cockpit options"
+msgstr "Optiunile cabinei"
+
+# : source/configurator.cpp:336
+# | communitytranslateid=11886
+msgid "close this dialog"
+msgstr "Inchide aceasta fereastra"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=23684
+msgid "Click on blue hyperlinks to select a server."
+msgstr "Apasa pe cuvintele subliniate pentru a selecta un server."
+
+# : source/configurator.cpp:1186
+# | communitytranslateid=11976
+msgid "Clear cache"
+msgstr "Goleste cache-ul"
+
+# # | translated from communitytranslateid=15264
+# | communitytranslateid=16285
+msgid "checking for new zips in "
+msgstr "de verificare pentru noi zips în"
+
+# # | translated from communitytranslateid=15265
+# | communitytranslateid=16284
+msgid "checking for new directories in "
+msgstr "control pentru nou anuare în"
+
+# : source/configurator.cpp:932
+# | communitytranslateid=11908
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Blocheaza schimbarile de configuratie si inchide programul de setari."
+
+# : source/configurator.cpp:327
+# | communitytranslateid=11885
+msgid "Cancel"
+msgstr "Inchide"
+
+# : source/configurator.cpp:1054
+# | communitytranslateid=11930
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Cerul Caelum e placut dar e incet, doar daca nu ai o placa video puternica."
+
+# | communitytranslateid=13629
+msgid "broken: "
+msgstr "stricat:"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=22745
+msgid "brake"
+msgstr "frâna"
+
+# | communitytranslateid=13623
+msgid "Boat"
+msgstr "Barca"
+
+# : source/configurator.cpp:1101
+# | communitytranslateid=11951
+msgid "Bloom"
+msgstr "Incetosat"
+
+# | communitytranslateid=13567
+msgid "Best FPS: "
+msgstr "Cel mai bun FPS:"
+
+# | communitytranslateid=13628
+msgid "beam count: "
+msgstr "numarul de bare:"
+
+# | communitytranslateid=13652
+msgid "Balanced"
+msgstr "Echilibrat"
+
+# | communitytranslateid=13570
+msgid "Bad server port"
+msgstr "Port server nevalabil"
+
+# | communitytranslateid=13632
+msgid "average stress: "
+msgstr "stres mediu:"
+
+# | communitytranslateid=13566
+msgid "Average FPS: "
+msgstr "FPS mediu:"
+
+# | communitytranslateid=13630
+msgid "average deformation: "
+msgstr "deformare medie:"
+
+# | communitytranslateid=13573
+msgid "Automatic shift"
+msgstr "Shimbator automat"
+
+# | communitytranslateid=13618
+msgid "Authors: "
+msgstr "Autori:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=22744
+msgid "Author: "
+msgstr "Autor:"
+
+# : source/configurator.cpp:1027
+# : source/configurator.cpp:1029
+# | communitytranslateid=11923
+msgid "Anti-aliasing:"
+msgstr "Anti-aliasing:"
+
+# : source/configurator.cpp:1134
+# | communitytranslateid=11962
+msgid "Anonymous"
+msgstr "Anonim"
+
+# | communitytranslateid=13640
+msgid "Altitude:"
+msgstr "Altitudinea:"
+
+# | communitytranslateid=13621
+msgid "Airplane"
+msgstr "Avion"
+
+# : source/configurator.cpp:1003
+# | communitytranslateid=11918
+msgid "Advanced"
+msgstr "Avansat"
+
+# : source/configurator.cpp:326
+# : source/configurator.cpp:923
+# | communitytranslateid=11884
+msgid "Add the key"
+msgstr "Adauga o comanda"
+
+# : source/configurator.cpp:324
+# | communitytranslateid=11883
+msgid "Add"
+msgstr "Adauga"
+
+# # | translated from communitytranslateid=17306
+# | communitytranslateid=22752
+msgid "accelerate the truck"
+msgstr "accelerează camionul"
+
+# | communitytranslateid=13572
+msgid "A network error occured"
+msgstr "A survenit o eroare in retea"
+
+# : source/configurator.cpp:1969
+# | communitytranslateid=12017
+msgid "5% deadzone"
+msgstr "5% zona moarta"
+
+# : source/configurator.cpp:1966
+# , c-format
+# | communitytranslateid=12016
+msgid "5 %"
+msgstr "5%"
+
+# : source/configurator.cpp:1981
+# | communitytranslateid=12025
+msgid "30% deadzone"
+msgstr "30% zona moarta"
+
+# : source/configurator.cpp:1978
+# , c-format
+# | communitytranslateid=12024
+msgid "30 %"
+msgstr "30%"
+
+# : source/configurator.cpp:1978
+# | communitytranslateid=12023
+msgid "20% deadzone"
+msgstr "20% zona moarta"
+
+# : source/configurator.cpp:1975
+# , c-format
+# | communitytranslateid=12022
+msgid "20 %"
+msgstr "20%"
+
+# : source/configurator.cpp:1975
+# | communitytranslateid=12021
+msgid "15% deadzone"
+msgstr "15% zona moarta"
+
+# : source/configurator.cpp:1972
+# , c-format
+# | communitytranslateid=12020
+msgid "15 %"
+msgstr "15%"
+
+# : source/configurator.cpp:1145
+# : source/configurator.cpp:1149
+# : source/configurator.cpp:1147
+# | communitytranslateid=11966
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# : source/configurator.cpp:1152
+# | communitytranslateid=11968
+msgid "12333"
+msgstr "12333"
+
+# : source/configurator.cpp:1972
+# | communitytranslateid=12019
+msgid "10% deadzone"
+msgstr "10% zona moarta"
+
+# : source/configurator.cpp:1969
+# , c-format
+# | communitytranslateid=12018
+msgid "10 %"
+msgstr "10%"
+
+# # | translated from communitytranslateid=19403
+# | communitytranslateid=23635
+msgid "0 % (Total Linear)"
+msgstr "0 % (Total Liniar)"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=12014
+msgid "0 % (No deadzone)"
+msgstr "0% (Fara zona moarta)"
+
+# : source/configurator.cpp:1141
+# : source/configurator.cpp:1143
+# | communitytranslateid=11964
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Ce sa faci in Multiplayer:</p><br><ol><li>Apasa pe <b>Actualizare</b> pentru a vedea serverele disponible.</li><li>Apasa pe orice server subliniat din lista.</li><li>Apasa pe <b>Salveaza si joaca</b> pentru a porni.</li></ol>"
+
+# # | translated from communitytranslateid=15252
+# | communitytranslateid=23619
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Ultimele Stiri</h2>Fara atm<h2>Suport / Comunitate</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutoriale</a><p/> (acest site va fi imbunatatit...)"
+
+# # | translated from communitytranslateid=19392
+# | communitytranslateid=23680
+msgid "+30% multiplication"
+msgstr "+30% multiplicare"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=22086
+msgid "+30 %"
+msgstr "+30 %"
+
+# # | translated from communitytranslateid=19396
+# | communitytranslateid=23650
+msgid "+20% multiplication"
+msgstr "+20% multiplicare"
+
+# # | translated from communitytranslateid=19397
+# | communitytranslateid=22850
+msgid "+15 %"
+msgstr "+15 %"
+
+# # | translated from communitytranslateid=19399
+# | communitytranslateid=22849
+msgid "+10 %"
+msgstr "+10 %"
+
+# : source/configurator.cpp:587
+# | communitytranslateid=11896
+msgid "(Please press a key)"
+msgstr "(Apasa o tasta)"
+
+# : source/configurator.cpp:613
+# | communitytranslateid=11897
+msgid "(Please press a Joystick Button)"
+msgstr "(Apasa un buton de pe Joystick)"
+
+# : source/configurator.cpp:829
+# | communitytranslateid=11898
+msgid "(Please move an Axis)\n"
+msgstr "(Misca o axa)\n"
+
+# # | translated from communitytranslateid=19387
+# | communitytranslateid=23687
+msgid "(Please move a Slider)\n"
+msgstr "(Misca un Slider)\n"
+
+# | communitytranslateid=13654
+msgid "(No Languages found)"
+msgstr "(Nu a fost gasita nicio limba)"
+
+# | communitytranslateid=13627
+msgid "(no author information available)"
+msgstr "(nu sunt valabile informatii despre autor)"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=22753
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "... se incarca ... (poate ar trebui sa verificati conexiunea la internet)"
+
+# # | translated from communitytranslateid=19405
+# | communitytranslateid=22848
+msgid "-5 %"
+msgstr "-5 %"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=22847
+msgid "-30 %"
+msgstr "-30 %"
+
+# # | translated from communitytranslateid=19414
+# | communitytranslateid=23674
+msgid "-25% multiplication"
+msgstr "-25% multiplicare"
+
+# # | translated from communitytranslateid=19413
+# | communitytranslateid=22846
+msgid "-25 %"
+msgstr "-25 %"
+
+# # | translated from communitytranslateid=19412
+# | communitytranslateid=23626
+msgid "-20% multiplication"
+msgstr "-20% multiplicare"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=22845
+msgid "-20 %"
+msgstr "-20 %"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=22844
+msgid "-15 %"
+msgstr "-15 %"
+
+# # | translated from communitytranslateid=19408
+# | communitytranslateid=23663
+msgid "-10% multiplication"
+msgstr "-10% multiplicare"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=22843
+msgid "-10 %"
+msgstr "-10 %"
+
+# | communitytranslateid=13576
+msgid "^8 Player: ^7"
+msgstr "^8 Jucator: ^7"
+
+# | communitytranslateid=13587
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 utilizare: /rcmd [command] [optional arguments]"
+
+# | communitytranslateid=13603
+msgid "^1 unkown Command: "
+msgstr "^1 Comanda necunsocuta:"
+
+# | communitytranslateid=13585
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 EROARE: trebuie sa folosesti /rlogin [password] prima data"
+
+# | communitytranslateid=13595
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 EROARE: eroare de protocol in timpul transmiterii comenzii la RCON:"
+
+# | communitytranslateid=13581
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 EROARE: eroare de protocol in timpul logarii la RCON:"
+
+# | communitytranslateid=13601
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 EROARE: nu esti in modul de retea"
+
+# | communitytranslateid=13617
+msgid "^1 Error Parsing command"
+msgstr "^1 Eroare in parsarea comenzii"
+
+# # | translated from communitytranslateid=15255
+# | communitytranslateid=16283
+msgid " not existing"
+msgstr "nu existente"
+
+# # | translated from communitytranslateid=15256
+# | communitytranslateid=16282
+msgid " changed"
+msgstr "modificat"
+

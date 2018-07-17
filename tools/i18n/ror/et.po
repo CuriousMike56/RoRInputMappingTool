@@ -1,0 +1,2638 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=17364
+msgid "zoom into the overview map in interactive mode"
+msgstr "suumi interaktiivses režiimis ülevaatekaarti"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=17359
+msgid "zoom camera out faster"
+msgstr "suumi kaamerat kiiremini välja"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=17378
+msgid "zoom camera out"
+msgstr "suumi kaamerat välja"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=17381
+msgid "zoom camera in faster"
+msgstr "suumi kaamerat kiiremini"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=17414
+msgid "zoom camera in"
+msgstr "suumi kaamerat"
+
+# : source/configurator.cpp:1140
+# | communitytranslateid=10928
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Sinu võrgunimi. Maksimaalselt 20 tähte."
+
+# | communitytranslateid=13082
+msgid "Your Forum User Token."
+msgstr "Sinu foorumikasutaja pääse"
+
+# | communitytranslateid=12758
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Uue keele aktiveerimiseks pead salvestama ja programmi taaskäivitama!"
+
+# : source/configurator.cpp:1167
+# | communitytranslateid=10937
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Sa ei pea neid seadeid  muutma, kui sul ei esine probleeme."
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=17429
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Sa võid kriuksumisheli keelata, pannes siia kasti linnukese"
+
+# | communitytranslateid=12893
+msgid "wrote screenshot:"
+msgstr "ekraanipilt:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=19456
+msgid "Write error"
+msgstr "Kirjuta error"
+
+# # | translated from communitytranslateid=17265
+# | communitytranslateid=17438
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr "logi praegune asend logifaili (sa võid logifaili avades seda asendit kasutada)"
+
+# | communitytranslateid=12713
+msgid "Worst FPS: "
+msgstr "Halvim FPS:"
+
+# | communitytranslateid=12813
+msgid "Wheels: "
+msgstr "Rattad:"
+
+# : source/configurator.cpp:1068
+# | communitytranslateid=10897
+msgid "Water type:"
+msgstr "Vee tüüp:"
+
+# : source/configurator.cpp:1074
+# | communitytranslateid=10901
+msgid "Water spray"
+msgstr "Veepritsmed"
+
+# : source/configurator.cpp:1070
+# | communitytranslateid=10898
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Vee peegeldus on aeglasem ja vajab head graafikaprotsessorit. Kiirusele seadistatud režiimis võib kogeda tugevat kaamera rappumist."
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=17451
+msgid "Warning"
+msgstr "Hoiatus"
+
+# : source/configurator.cpp:1044
+# : source/configurator.cpp:1046
+# | communitytranslateid=10892
+msgid "VSync"
+msgstr "VSync"
+
+# : source/configurator.cpp:1098
+# | communitytranslateid=10913
+msgid "Visual effects"
+msgstr "Visuaalefektid"
+
+# : source/configurator.cpp:1023
+# : source/configurator.cpp:1025
+# | communitytranslateid=10887
+msgid "Video mode:"
+msgstr "Video esitusviis:"
+
+# | communitytranslateid=12716
+msgid "Vehicle Type: "
+msgstr "Sõiduki tüüp:"
+
+# : source/configurator.cpp:1082
+# | communitytranslateid=10903
+msgid "Vegetation:"
+msgstr "Taimkate:"
+
+# | communitytranslateid=13080
+msgid "User Token: "
+msgstr "Kasutajapääse:"
+
+# # | translated from communitytranslateid=17145
+# | communitytranslateid=17409
+msgid "Use this to remove the whole cache and force the generation from ground up."
+msgstr "Kasuta seda vahemälu kustutamiseks ja nullist loomiseks."
+
+# # | translated from communitytranslateid=17144
+# | communitytranslateid=17411
+msgid "Use this to regenerate the cache outside of RoR. If this does not work, use the clear cache button."
+msgstr "Kasuta vahemälu taasloomiseks. Kui see ei toimi, kasuta tühjenda vahemälu nuppu."
+
+# : source/configurator.cpp:1956
+# | communitytranslateid=10974
+msgid "Upper"
+msgstr "Ülemine"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=17357
+msgid "Updates"
+msgstr "Värskendused"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=17447
+msgid "Update now"
+msgstr "Uuenda kohe"
+
+# : source/configurator.cpp:1165
+# | communitytranslateid=10936
+msgid "Update"
+msgstr "Uuenda"
+
+# | communitytranslateid=12733
+msgid "unkown encoding problem"
+msgstr "tundmatu kodeerimise probleem"
+
+# | communitytranslateid=12908
+msgid "unknown.dds"
+msgstr "unknown.dds"
+
+# : source/configurator.cpp:1189
+# | communitytranslateid=10943
+msgid "Uncheck in case you have a fog problem"
+msgstr "Eemalda linnuke, kui sul on uduga probleeme"
+
+# | communitytranslateid=12907
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Ei õnnestunud serveriga liituda. Server on maas või sul esineb võrguprobleeme."
+
+# | communitytranslateid=15280
+msgid "Unable to connect to server"
+msgstr "Ei saanud serveriga ühenduda"
+
+# : source/configurator.cpp:1300
+# | communitytranslateid=10962
+msgid "Type"
+msgstr "Tüüp"
+
+# | communitytranslateid=15279
+msgid "Trying to connect to server ..."
+msgstr "Proovin serveriga ühenduda ..."
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=17369
+msgid "truck horn"
+msgstr "veoki signaal"
+
+# | communitytranslateid=12775
+msgid "Truck"
+msgstr "Veok"
+
+# | communitytranslateid=13070
+msgid "Triangle Count: "
+msgstr "Kolmnurkade arv:"
+
+# | communitytranslateid=13065
+msgid "tracks/CreditsOverlay"
+msgstr "tracks/CreditsOverlay"
+
+# # | translated from communitytranslateid=19404
+# | communitytranslateid=19494
+msgid "Total Linear"
+msgstr "Täiesti lineaarne"
+
+# | communitytranslateid=12815
+msgid "Torque: "
+msgstr "Pöördemoment:"
+
+# | communitytranslateid=13060
+msgid "tons"
+msgstr "tonni"
+
+# # | translated from communitytranslateid=17282
+# | communitytranslateid=17462
+msgid "toggle truck HUD"
+msgstr "veoki juhtpaneel"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=17433
+msgid "toggle truck front lights"
+msgstr "veoki esituled"
+
+# # | translated from communitytranslateid=17280
+# | communitytranslateid=17454
+msgid "toggle truck beacons"
+msgstr "veoki vilkurid"
+
+# # | translated from communitytranslateid=17264
+# | communitytranslateid=17469
+msgid "toggle translucency of overview-map"
+msgstr "ülevaatekaardi läbipaistvus"
+
+# # | translated from communitytranslateid=17273
+# | communitytranslateid=17388
+msgid "toggle skeleton display mode"
+msgstr "karkassvaade"
+
+# # | translated from communitytranslateid=17310
+# | communitytranslateid=17374
+msgid "toggle right direction indicator (blinker)"
+msgstr "parem suunatuli"
+
+# # | translated from communitytranslateid=17277
+# | communitytranslateid=17408
+msgid "toggle render mode (solid, wireframe and points)"
+msgstr "visualiseerimisviis (täieliku, sõrestiku ja punktidena)"
+
+# # | translated from communitytranslateid=17275
+# | communitytranslateid=17471
+msgid "toggle particle cannon"
+msgstr "eriosakeste pritsija"
+
+# # | translated from communitytranslateid=17325
+# | communitytranslateid=17484
+msgid "toggle parking brake"
+msgstr "käsipidur"
+
+# # | translated from communitytranslateid=17292
+# | communitytranslateid=17362
+msgid "toggle overview map interactive mode"
+msgstr "ülevaatekaardi interaktiivne režiim"
+
+# # | translated from communitytranslateid=17279
+# | communitytranslateid=17399
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr "Ogre statistika (FPS jne)"
+
+# # | translated from communitytranslateid=17283
+# | communitytranslateid=17486
+msgid "toggle map modes"
+msgstr "lülitu kaartide vahel"
+
+# # | translated from communitytranslateid=17309
+# | communitytranslateid=17489
+msgid "toggle left direction indicator (blinker)"
+msgstr "vasak suunatuli"
+
+# # | translated from communitytranslateid=17331
+# | communitytranslateid=17470
+msgid "toggle ignition"
+msgstr "süüde"
+
+# # | translated from communitytranslateid=17323
+# | communitytranslateid=17394
+msgid "toggle custom light 9"
+msgstr "lisatuled 9"
+
+# # | translated from communitytranslateid=17322
+# | communitytranslateid=17501
+msgid "toggle custom light 8"
+msgstr "lisatuled 8"
+
+# # | translated from communitytranslateid=17321
+# | communitytranslateid=17460
+msgid "toggle custom light 7"
+msgstr "lisatuled 7"
+
+# # | translated from communitytranslateid=17320
+# | communitytranslateid=17371
+msgid "toggle custom light 6"
+msgstr "lisatuled 6"
+
+# # | translated from communitytranslateid=17319
+# | communitytranslateid=17498
+msgid "toggle custom light 5"
+msgstr "lisatuled 5"
+
+# # | translated from communitytranslateid=17318
+# | communitytranslateid=17453
+msgid "toggle custom light 4"
+msgstr "lisatuled 4"
+
+# # | translated from communitytranslateid=17317
+# | communitytranslateid=17502
+msgid "toggle custom light 3"
+msgstr "lisatuled 3"
+
+# # | translated from communitytranslateid=17316
+# | communitytranslateid=17404
+msgid "toggle custom light 2"
+msgstr "lisatuled 2"
+
+# # | translated from communitytranslateid=17315
+# | communitytranslateid=17391
+msgid "toggle custom light 10"
+msgstr "lisatuled 10"
+
+# # | translated from communitytranslateid=17314
+# | communitytranslateid=17509
+msgid "toggle custom light 1"
+msgstr "lisatuled 1"
+
+# # | translated from communitytranslateid=17334
+# | communitytranslateid=17464
+msgid "toggle between windowed and fullscreen mode"
+msgstr "lülitu akna ja täisekraani vahel"
+
+# # | translated from communitytranslateid=17330
+# | communitytranslateid=17516
+msgid "toggle between transmission modes"
+msgstr "lülitu käigukastitüüpide vahel"
+
+# # | translated from communitytranslateid=17352
+# | communitytranslateid=17479
+msgid "toggle between net chat display modes"
+msgstr "muuda võrguvestluse kuvaviise"
+
+# # | translated from communitytranslateid=17305
+# | communitytranslateid=17393
+msgid "toggle between available road types"
+msgstr "lülitu olemasolevate teetüüpide vahel"
+
+# # | translated from communitytranslateid=17304
+# | communitytranslateid=17524
+msgid "toggle between available objects"
+msgstr "lülitu olemasolevate objektide vahel"
+
+# # | translated from communitytranslateid=17259
+# | communitytranslateid=17424
+msgid "toggle appearance of console"
+msgstr "Näita konsooli"
+
+# # | translated from communitytranslateid=17311
+# | communitytranslateid=17495
+msgid "toggle all direction indicators"
+msgstr "ohutuled"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=17376
+msgid "tie a load to the truck"
+msgstr "kinnita koorem veokile"
+
+# # | translated from communitytranslateid=17174
+# | communitytranslateid=17363
+msgid "throttle axis. Only use this if you have fitting hardware :) (i.e. a Slider)"
+msgstr "gaasipedaali telg. Kasuta seda ainult sobiva riistvara olemasolul ')"
+
+# : source/configurator.cpp:1121
+# : source/configurator.cpp:1122
+# | communitytranslateid=10923
+msgid "Thread number:"
+msgstr "Tuumade arv:"
+
+# | communitytranslateid=13059
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "See säte tühistab süsteemi vaikekeele. Muutuste rakendamiseks pead seadistaja taaskäivitama."
+
+# : source/configurator.cpp:1089
+# | communitytranslateid=10907
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "See võib vähendada mõne vanema süsteemi jõudlust, aga näeb hea välja."
+
+# # | translated from communitytranslateid=17147
+# | communitytranslateid=17481
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr "Lubab võrgumängus puuduvate sõidukite automaatse allalaadimise."
+
+# : source/configurator.cpp:1085
+# | communitytranslateid=10904
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "See määratleb muru, puude (ja sarnaste objektide) hulga."
+
+# # | translated from communitytranslateid=17152
+# | communitytranslateid=17467
+msgid "The update service is currently only available for windows users."
+msgstr "Uuendamise teenus on hetkel saadaval ainult windowsi kasutajatele."
+
+# : source/configurator.cpp:1161
+# | communitytranslateid=10935
+msgid "The server password, if required."
+msgstr "Serveri salasõna, kui on vajalik."
+
+# : source/configurator.cpp:1035
+# : source/configurator.cpp:1037
+# | communitytranslateid=10889
+msgid "Texture filtering:"
+msgstr "Tekstuuri filtreerimine:"
+
+# : source/configurator.cpp:994
+# | communitytranslateid=10881
+msgid "Test"
+msgstr "Testi"
+
+# | communitytranslateid=12774
+msgid "Terrain not found: "
+msgstr "Maastikku ei leitud:"
+
+# | communitytranslateid=12779
+msgid "Terrain loading error"
+msgstr "Maastiku laadimise viga"
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=17511
+msgid "teleport to rescue truck"
+msgstr "teleporteeru puksiiri juurde"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=17365
+msgid "take a screenshot"
+msgstr "tee ekraanipilt"
+
+# # | translated from communitytranslateid=17303
+# | communitytranslateid=17412
+msgid "switch to road laying mode"
+msgstr "teedeehitusrežiim"
+
+# # | translated from communitytranslateid=17179
+# | communitytranslateid=17463
+msgid "switch all engines on / off"
+msgstr "lülita kõik mootorid sisse / välja"
+
+# : source/configurator.cpp:1099
+# | communitytranslateid=10914
+msgid "Sunburn"
+msgstr "Päikesekuumus"
+
+# # | translated from communitytranslateid=17203
+# | communitytranslateid=17488
+msgid "step forward with the character"
+msgstr "astu tegelasega ettepoole"
+
+# # | translated from communitytranslateid=17202
+# | communitytranslateid=17487
+msgid "step backwards with the character"
+msgstr "astu tegelasega tahapoole"
+
+# # | translated from communitytranslateid=17183
+# | communitytranslateid=17423
+msgid "steer right a step"
+msgstr "rooli veidi paremale"
+
+# # | translated from communitytranslateid=17184
+# | communitytranslateid=17379
+msgid "steer right (analog value!)"
+msgstr "rooli paremale (analoogväärtus!)"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=17465
+msgid "steer right"
+msgstr "rooli paremale"
+
+# # | translated from communitytranslateid=17181
+# | communitytranslateid=17536
+msgid "steer left a step"
+msgstr "rooli veidi vasakule"
+
+# # | translated from communitytranslateid=17182
+# | communitytranslateid=17389
+msgid "steer left (analog value!)"
+msgstr "rooli vasakule (analoogväärtus!)"
+
+# # | translated from communitytranslateid=17173
+# | communitytranslateid=17537
+msgid "steer left"
+msgstr "rooli vasakule"
+
+# | communitytranslateid=12797
+msgid "Startup error"
+msgstr "Käivitusviga"
+
+# # | translated from communitytranslateid=17274
+# | communitytranslateid=17519
+msgid "start the old truck editor"
+msgstr "käivita vana veokiredaktor"
+
+# | communitytranslateid=15718
+msgid "SPECIAL_CHARACTERS"
+msgstr "Š š Ž ž Õ õ Ä ä Ö ö Ü ü"
+
+# : source/configurator.cpp:1048
+# | communitytranslateid=10893
+msgid "Special effects"
+msgstr "Eriefektid"
+
+# : source/configurator.cpp:938
+# | communitytranslateid=10875
+msgid "Sounds"
+msgstr "Heli"
+
+# : source/configurator.cpp:1114
+# : source/configurator.cpp:1117
+# | communitytranslateid=10922
+msgid "Sound rendering:"
+msgstr "Heliedastus:"
+
+# : source/configurator.cpp:1052
+# | communitytranslateid=10894
+msgid "Sky type:"
+msgstr "Taeva tüüp:"
+
+# # | translated from communitytranslateid=17157
+# | communitytranslateid=17456
+msgid "Skins"
+msgstr "Skinnid"
+
+# | communitytranslateid=13077
+msgid "Simple Settings"
+msgstr "Lihtseaded"
+
+# # | translated from communitytranslateid=17209
+# | communitytranslateid=17493
+msgid "sidestep to the right"
+msgstr "astu paremale küljele"
+
+# # | translated from communitytranslateid=17208
+# | communitytranslateid=17406
+msgid "sidestep to the left"
+msgstr "astu vasakule küljele"
+
+# : source/configurator.cpp:1097
+# | communitytranslateid=10912
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Näitab tahavaatepeegleid inimese vaatest. Võib konfliktida vanade videokaartidega."
+
+# : source/configurator.cpp:1198
+# | communitytranslateid=10949
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Näitab armatuurlauda sisevaates. Võib tekitada probleeme väga vanade videokaartidega."
+
+# : source/configurator.cpp:1207
+# | communitytranslateid=10955
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Näitab kõiki kokkupõrke meshe punasena, et saaks neid õigesti paigutada. Kasuta ainult vigade avastamiseks!"
+
+# # | translated from communitytranslateid=17332
+# | communitytranslateid=17544
+msgid "show truck tool"
+msgstr "näita veokitööriista"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=17385
+msgid "show / hide the console"
+msgstr "näita / peida konsool"
+
+# # | translated from communitytranslateid=17327
+# | communitytranslateid=17538
+msgid "shift to neutral gear in manual transmission mode"
+msgstr "lülitu vabakäigule (manuaalkäigukasti kasutades)"
+
+# # | translated from communitytranslateid=17328
+# | communitytranslateid=17539
+msgid "shift one gear up in manual transmission mode"
+msgstr "vaheta käik üles(manuaalkäigukasti kasutades)"
+
+# # | translated from communitytranslateid=17326
+# | communitytranslateid=17540
+msgid "shift one gear down in manual transmission mode"
+msgstr "vaheta käik alla(manuaalkäigukasti kasutades)"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=19544
+msgid "shift directly to third gear"
+msgstr "vaheta otse kolmandale käigule"
+
+# # | translated from communitytranslateid=19432
+# | communitytranslateid=19568
+msgid "shift directly to second gear"
+msgstr "vaheta otse teisele käigule"
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=19474
+msgid "shift directly to reverse gear"
+msgstr "vaheta otse tagurpidikäigule"
+
+# # | translated from communitytranslateid=19434
+# | communitytranslateid=19476
+msgid "shift directly to fourth gear"
+msgstr "vaheta otse neljandale käigule"
+
+# # | translated from communitytranslateid=19431
+# | communitytranslateid=19574
+msgid "shift directly to first gear"
+msgstr "vaheta otse esimesele käigule"
+
+# # | translated from communitytranslateid=19439
+# | communitytranslateid=19537
+msgid "shift directly to 9th gear"
+msgstr "vaheta otse 9-ndale käigule"
+
+# # | translated from communitytranslateid=19438
+# | communitytranslateid=19491
+msgid "shift directly to 8th gear"
+msgstr "vaheta otse 8-ndale käigule"
+
+# # | translated from communitytranslateid=19437
+# | communitytranslateid=19506
+msgid "shift directly to 7th gear"
+msgstr "vaheta otse 7-ndale käigule"
+
+# # | translated from communitytranslateid=19436
+# | communitytranslateid=19463
+msgid "shift directly to 6th gear"
+msgstr "vaheta otse 6-ndale käigule"
+
+# # | translated from communitytranslateid=19435
+# | communitytranslateid=19504
+msgid "shift directly to 5th gear"
+msgstr "vaheta otse 5-ndale käigule"
+
+# # | translated from communitytranslateid=19448
+# | communitytranslateid=19528
+msgid "shift directly to 18th gear"
+msgstr "vaheta otse 18-ndale käigule"
+
+# # | translated from communitytranslateid=19447
+# | communitytranslateid=19502
+msgid "shift directly to 17th gear"
+msgstr "vaheta otse 17-ndale käigule"
+
+# # | translated from communitytranslateid=19446
+# | communitytranslateid=19575
+msgid "shift directly to 16th gear"
+msgstr "vaheta otse 16-ndale käigule"
+
+# # | translated from communitytranslateid=19445
+# | communitytranslateid=19555
+msgid "shift directly to 15th gear"
+msgstr "vaheta otse 15-ndale käigule"
+
+# # | translated from communitytranslateid=19444
+# | communitytranslateid=19552
+msgid "shift directly to 14th gear"
+msgstr "vaheta otse 14-ndale käigule"
+
+# # | translated from communitytranslateid=19443
+# | communitytranslateid=19578
+msgid "shift directly to 13th gear"
+msgstr "vaheta otse 13-ndale käigule"
+
+# # | translated from communitytranslateid=19442
+# | communitytranslateid=19572
+msgid "shift directly to 12th gear"
+msgstr "vaheta otse 12-ndale käigule"
+
+# # | translated from communitytranslateid=19441
+# | communitytranslateid=19529
+msgid "shift directly to 11th gear"
+msgstr "vaheta otse 11-ndale käigule"
+
+# # | translated from communitytranslateid=19440
+# | communitytranslateid=19546
+msgid "shift directly to 10th gear"
+msgstr "vaheta otse 10-ndale käigule"
+
+# # | translated from communitytranslateid=17308
+# | communitytranslateid=17418
+msgid "shift automatic transmission one gear up"
+msgstr "vaheta automaatkäigukastis käik üles"
+
+# # | translated from communitytranslateid=17307
+# | communitytranslateid=17380
+msgid "shift automatic transmission one gear down"
+msgstr "vaheta automaatkäigukastis käik allapoole"
+
+# : source/configurator.cpp:1059
+# : source/configurator.cpp:1061
+# | communitytranslateid=10896
+msgid "Shadow type:"
+msgstr "Varju tüüp:"
+
+# # | translated from communitytranslateid=19450
+# | communitytranslateid=19535
+msgid "sets middle range (7-12) for H-shaft"
+msgstr "seab keskmise vahemiku (7-12) H-shafti jaoks"
+
+# # | translated from communitytranslateid=19449
+# | communitytranslateid=19549
+msgid "sets low range (1-6) for H-shaft"
+msgstr "seab madala vahemiku (1-6) H-shafti jaoks"
+
+# # | translated from communitytranslateid=19451
+# | communitytranslateid=19470
+msgid "sets high range (13-18) for H-shaft"
+msgstr "seab kõrge vahemiku (13-18) H-shafti jaoks"
+
+# | communitytranslateid=13079
+msgid "Sets all settings in a simple way"
+msgstr "Seadistab lihtsal viisil"
+
+# : source/configurator.cpp:1148
+# : source/configurator.cpp:1507
+# | communitytranslateid=10932
+msgid "Server port number: "
+msgstr "Serveri port:"
+
+# : source/configurator.cpp:1154
+# | communitytranslateid=10934
+msgid "Server password: "
+msgstr "Serveri parool:"
+
+# : source/configurator.cpp:1144
+# : source/configurator.cpp:1505
+# | communitytranslateid=10930
+msgid "Server host name: "
+msgstr "Serveri hosti nimi:"
+
+# # | translated from communitytranslateid=17297
+# | communitytranslateid=17419
+msgid "select previous element in current category"
+msgstr "vali kategoorias eelnev element"
+
+# # | translated from communitytranslateid=17294
+# | communitytranslateid=17437
+msgid "select previous category"
+msgstr "vali eelnev kategooria"
+
+# # | translated from communitytranslateid=17293
+# | communitytranslateid=17541
+msgid "select next element in current category"
+msgstr "vali kategoorias järgnev element"
+
+# # | translated from communitytranslateid=17295
+# | communitytranslateid=17542
+msgid "select next category"
+msgstr "vali järgmine kategooria"
+
+# # | translated from communitytranslateid=17296
+# | communitytranslateid=17473
+msgid "select focussed item and close menu"
+msgstr "vali objekt ja sulge menüü"
+
+# | communitytranslateid=12725
+msgid "Search"
+msgstr "Otsi"
+
+# : source/configurator.cpp:1171
+# | communitytranslateid=10938
+msgid "Screenshot Format:"
+msgstr "Ekraanipildi formaat:"
+
+# : source/configurator.cpp:1007
+# | communitytranslateid=10884
+msgid "Screen configuration"
+msgstr "Ekraani seadistus"
+
+# : source/configurator.cpp:920
+# | communitytranslateid=10870
+msgid "Save the current configuration and start RoR."
+msgstr "Salvesta praegused seaded ja ava RoR"
+
+# : source/configurator.cpp:924
+# | communitytranslateid=10872
+msgid "Save the current configuration and close the configuration program."
+msgstr "Salvesta praegune seadistus ja sulge seadistusprogramm"
+
+# # | translated from communitytranslateid=19420
+# | communitytranslateid=19515
+msgid "Save Mapping to File"
+msgstr "Salvesta kaardistus faili"
+
+# : source/configurator.cpp:918
+# : source/configurator.cpp:927
+# | communitytranslateid=10869
+msgid "Save and Play"
+msgstr "Salvesta ja Mängi"
+
+# : source/configurator.cpp:921
+# | communitytranslateid=10871
+msgid "Save and Exit"
+msgstr "Salvesta ja Välju"
+
+# # | translated from communitytranslateid=17172
+# | communitytranslateid=17426
+msgid "rudder right"
+msgstr "tüüri paremale"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=17402
+msgid "rudder left"
+msgstr "tüüri vasakule"
+
+# : source/configurator.cpp:1014
+# : source/configurator.cpp:1019
+# : source/configurator.cpp:1021
+# | communitytranslateid=10886
+msgid "RTT Mode:"
+msgstr "RTT režiim:"
+
+# # | translated from communitytranslateid=17353
+# | communitytranslateid=17545
+msgid "rotate view up"
+msgstr "pööra vaadet ülespoole"
+
+# # | translated from communitytranslateid=17354
+# | communitytranslateid=17510
+msgid "rotate view down"
+msgstr "pööra vaadet allapoole"
+
+# # | translated from communitytranslateid=17302
+# | communitytranslateid=17361
+msgid "rotate object right"
+msgstr "pööra objekti paremale"
+
+# # | translated from communitytranslateid=17301
+# | communitytranslateid=17392
+msgid "rotate object left"
+msgstr "pööra objekti vasakule"
+
+# # | translated from communitytranslateid=17206
+# | communitytranslateid=17472
+msgid "rotate character right"
+msgstr "pööra tegelast paremale"
+
+# # | translated from communitytranslateid=17205
+# | communitytranslateid=17420
+msgid "rotate character left"
+msgstr "pööra tegelinskit vasakule"
+
+# # | translated from communitytranslateid=17197
+# | communitytranslateid=17546
+msgid "rotate camera up"
+msgstr "pööra kaamerat ülespoole"
+
+# # | translated from communitytranslateid=17196
+# | communitytranslateid=17547
+msgid "rotate camera right"
+msgstr "pööra kaamerat paremale"
+
+# # | translated from communitytranslateid=17195
+# | communitytranslateid=17548
+msgid "rotate camera left"
+msgstr "pööra kaamerat vasakule"
+
+# # | translated from communitytranslateid=17194
+# | communitytranslateid=17494
+msgid "rotate camera down"
+msgstr "pööra kaamerat allapoole"
+
+# : source/configurator.cpp:897
+# | communitytranslateid=10864
+msgid "Rigs of Rods configuration"
+msgstr "Rigs of Rods seadistus"
+
+# # | translated from communitytranslateid=17170
+# | communitytranslateid=17563
+msgid "reverse the turboprops"
+msgstr "turbomootorite tagurpidikäik"
+
+# : source/configurator.cpp:1953
+# | communitytranslateid=10972
+msgid "reverse axis"
+msgstr "pööra telg tagurpidi"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=10971
+msgid "Reverse"
+msgstr "Vastupidi"
+
+# : source/configurator.cpp:917
+# : source/configurator.cpp:926
+# | communitytranslateid=10868
+msgid "Restore the default configuration."
+msgstr "Taasta vaikeseadetele"
+
+# : source/configurator.cpp:915
+# | communitytranslateid=10867
+msgid "Restore Defaults"
+msgstr "Taasta vaikeseaded"
+
+# # | translated from communitytranslateid=17270
+# | communitytranslateid=17549
+msgid "reset truck to original starting position"
+msgstr "aseta veok algasendisse"
+
+# # | translated from communitytranslateid=17193
+# | communitytranslateid=17405
+msgid "reset the camera position"
+msgstr "kaamera algasendisse"
+
+# : source/configurator.cpp:1105
+# | communitytranslateid=10919
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Nõuab uuemat videokaarti. Lisab liikumishägu efekti."
+
+# : source/configurator.cpp:1102
+# | communitytranslateid=10917
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Nõuab uuemat videokaarti. Lisab heleda hägustava efekti."
+
+# : source/configurator.cpp:1100
+# | communitytranslateid=10915
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Nõuab uuemat videokaarti. Lisab sinaka pimestava efekti."
+
+# : source/configurator.cpp:1201
+# | communitytranslateid=10951
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Kordusrežiim. (Võib mõjutada arvuti kiirust)"
+
+# : source/configurator.cpp:1199
+# | communitytranslateid=10950
+msgid "Replay Mode"
+msgstr "Kordusrežiim"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=17443
+msgid "Render System"
+msgstr "Render-süsteem"
+
+# # | translated from communitytranslateid=17333
+# | communitytranslateid=17555
+msgid "reloads the roads (experimental)"
+msgstr "värskendab teed (katsejärgus)"
+
+# : source/configurator.cpp:1962
+# | communitytranslateid=10977
+msgid "Region"
+msgstr "Piirkond"
+
+# # | translated from communitytranslateid=17143
+# | communitytranslateid=17400
+msgid "Regen cache"
+msgstr "Taasta vahemälu"
+
+# # | translated from communitytranslateid=17164
+# | communitytranslateid=17445
+msgid "pull the elevator up in an aircraft."
+msgstr "liiguta lennukis kõrgustüüri üles"
+
+# # | translated from communitytranslateid=17163
+# | communitytranslateid=17551
+msgid "pull the elevator down in an aircraft."
+msgstr "liiguta lennukis kõrgustüüri alla"
+
+# : source/configurator.cpp:1204
+# | communitytranslateid=10953
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Kirjutab sõlmkohtade massid RoR.log faili. Kasuta ainult veoki vigade kõrvaldamiseks!"
+
+# # | translated from communitytranslateid=19386
+# | communitytranslateid=19560
+msgid "Please use any mapped input device in order to test."
+msgstr "Palun kasuta iga kaardistatud sisendseadet slleks, et kontrollida."
+
+# # | translated from communitytranslateid=19418
+# | communitytranslateid=19548
+msgid "Please select what type of device to export"
+msgstr "Palun vali mis tüüpi seadet tahad eksportida"
+
+# : source/configurator.cpp:316
+# | communitytranslateid=10846
+msgid "Please select an input event."
+msgstr "Palun vali sisendsündmus"
+
+# | communitytranslateid=12855
+msgid "Please clear the place first"
+msgstr "Palun vabasta enne koht"
+
+# # | translated from communitytranslateid=17298
+# | communitytranslateid=17413
+msgid "place currently selected object at current position"
+msgstr "aseta valitud objekt praguses asendis"
+
+# # | translated from communitytranslateid=17300
+# | communitytranslateid=17553
+msgid "pitch object foreward"
+msgstr "pööra objekti mööda horisontaali ettepoole"
+
+# # | translated from communitytranslateid=17299
+# | communitytranslateid=17554
+msgid "pitch object backward"
+msgstr "pööra objekti mööda horisontaali tahapoole"
+
+# : source/configurator.cpp:1195
+# | communitytranslateid=10947
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Osakesed, näiteks veekahurid. Võib võrgus üle kasutada."
+
+# : source/configurator.cpp:1086
+# | communitytranslateid=10905
+msgid "Particle systems"
+msgstr "Osakeste süsteem"
+
+# : source/configurator.cpp:1833
+# | communitytranslateid=10964
+msgid "Options"
+msgstr "Valikud"
+
+# # | translated from communitytranslateid=17167
+# | communitytranslateid=17459
+msgid "one step more flaps."
+msgstr "rohkem klappe"
+
+# # | translated from communitytranslateid=17166
+# | communitytranslateid=17396
+msgid "one step less flaps."
+msgstr "vähem klappe"
+
+# : source/configurator.cpp:494
+# : source/configurator.cpp:500
+# | communitytranslateid=10855
+msgid "ok (end test)"
+msgstr "ok (lõpeta test)"
+
+# | communitytranslateid=12741
+msgid "OK"
+msgstr "OK"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=10965
+msgid "Ogre config validation error"
+msgstr "Ogre seadete kontrollimise viga"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=10967
+msgid "Ogre config error"
+msgstr "Ogre seadistusviga"
+
+# : source/configurator.cpp:1192
+# | communitytranslateid=10945
+msgid "Not much impact on speed."
+msgstr "Ei oma suurt mõju kiirusele"
+
+# | communitytranslateid=12856
+msgid "normal camera"
+msgstr "tavavaade"
+
+# # | translated from communitytranslateid=17162
+# | communitytranslateid=17450
+msgid "normal brake for an aircraft"
+msgstr "lennuki tavapidurid"
+
+# | communitytranslateid=13087
+msgid "Non-Driveable"
+msgstr "Sõidukõlbmatu"
+
+# | communitytranslateid=12864
+msgid "Nodes: "
+msgstr "Sõlmkohad:"
+
+# | communitytranslateid=12866
+msgid "node count: "
+msgstr "sõlmede arv:"
+
+# # | translated from communitytranslateid=17177
+# | communitytranslateid=17431
+msgid "no thrust"
+msgstr "tõukejõud nullis"
+
+# # | translated from communitytranslateid=17168
+# | communitytranslateid=17397
+msgid "no flaps."
+msgstr "klapid algasendisse"
+
+# : source/configurator.cpp:1076
+# | communitytranslateid=10902
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Puudub efekt kui ei ole kokkupuudet veega, kuid näeb hea välja."
+
+# # | translated from communitytranslateid=19427
+# | communitytranslateid=19550
+msgid "No differential installed on current vehicle!"
+msgstr "Sellel sõidukil puudub differentsiaal!"
+
+# : source/configurator.cpp:1966
+# | communitytranslateid=10980
+msgid "no deadzone"
+msgstr "tühitsoon puudub"
+
+# | communitytranslateid=12740
+msgid "no author information available"
+msgstr "autori info puudub"
+
+# # | translated from communitytranslateid=17345
+# | communitytranslateid=17432
+msgid "no airbrakes"
+msgstr "õhupidureid pole"
+
+# : source/configurator.cpp:1133
+# : source/configurator.cpp:1503
+# | communitytranslateid=10926
+msgid "Nickname: "
+msgstr "Hüüdnimi:"
+
+# | communitytranslateid=12888
+msgid "new Language selected"
+msgstr "uus Keel valitud"
+
+# : source/configurator.cpp:997
+# | communitytranslateid=10882
+msgid "Network"
+msgstr "Võrk"
+
+# # | translated from communitytranslateid=17340
+# | communitytranslateid=17508
+msgid "move right mirror to the right"
+msgstr "liiguta paremat peeglit paremale"
+
+# # | translated from communitytranslateid=17343
+# | communitytranslateid=17395
+msgid "move replay fast forward"
+msgstr "keri kordusrežiimis kiiresti edasi"
+
+# # | translated from communitytranslateid=17344
+# | communitytranslateid=17500
+msgid "move replay fast backward"
+msgstr "keri kordusrežiimis kiiresti tagasi"
+
+# # | translated from communitytranslateid=17338
+# | communitytranslateid=17505
+msgid "move left mirror to the right"
+msgstr "liiguta vasakut peeglit paremale"
+
+# # | translated from communitytranslateid=17337
+# | communitytranslateid=17455
+msgid "move left mirror to the left"
+msgstr "liiguta vasakut peeglit vasakule"
+
+# # | translated from communitytranslateid=17355
+# | communitytranslateid=17482
+msgid "move character up"
+msgstr "liiguta tegelast üles"
+
+# # | translated from communitytranslateid=17356
+# | communitytranslateid=17550
+msgid "move character down"
+msgstr "liiguta tegelast alla"
+
+# : source/configurator.cpp:498
+# | communitytranslateid=10857
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# : source/configurator.cpp:1103
+# | communitytranslateid=10918
+msgid "Motion blur"
+msgstr "Liikumishägu"
+
+# # | translated from communitytranslateid=17339
+# | communitytranslateid=17442
+msgid "more right mirror to the left"
+msgstr "keera paremat peeglit vasakule"
+
+# # | translated from communitytranslateid=17341
+# | communitytranslateid=17485
+msgid "more replay forward"
+msgstr "keri kordusrežiimis edasi"
+
+# # | translated from communitytranslateid=17342
+# | communitytranslateid=17560
+msgid "more replay backward"
+msgstr "keri kordusrežiimis tagasi"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=17497
+msgid "more airbrakes"
+msgstr "rohkem õhupidureid"
+
+# : source/configurator.cpp:1095
+# | communitytranslateid=10911
+msgid "Mirrors"
+msgstr "Peeglid"
+
+# : source/configurator.cpp:1216
+# : source/configurator.cpp:1296
+# | communitytranslateid=10960
+msgid "minimum visibility range in percent"
+msgstr "Minimaalne nähtavus protsentides"
+
+# # | translated from communitytranslateid=19425
+# | communitytranslateid=19557
+msgid "Mid range selected"
+msgstr "Keskmine vahemik valitud"
+
+# | communitytranslateid=12763
+msgid "max Speed:"
+msgstr "max kiirus:"
+
+# | communitytranslateid=12782
+msgid "Mass: "
+msgstr "Mass:"
+
+# | communitytranslateid=12790
+msgid "Manual shift - Auto clutch"
+msgstr "Manuaalkäigukast - automaatsidur"
+
+# # | translated from communitytranslateid=17324
+# | communitytranslateid=17403
+msgid "manual clutch (for manual transmission)"
+msgstr "sidur (manuaalkäigukasti kasutades)"
+
+# | communitytranslateid=12818
+msgid "Machine"
+msgstr "Masin"
+
+# : source/configurator.cpp:1960
+# | communitytranslateid=10976
+msgid "Lower"
+msgstr "Alumine"
+
+# # | translated from communitytranslateid=19424
+# | communitytranslateid=19508
+msgid "Low range selected"
+msgstr "Madal vahemik valitud"
+
+# # | translated from communitytranslateid=17192
+# | communitytranslateid=17490
+msgid "look back (toggles between normal and lookback)"
+msgstr "vaata tagasi (lülitub tavavaate ja tagasivaate vahel)"
+
+# | communitytranslateid=15276
+msgid "loading...\n"
+msgstr "laadimine...\n"
+
+# | communitytranslateid=15291
+msgid "Loading zips in group "
+msgstr "Laen zippe grupis"
+
+# | communitytranslateid=15278
+msgid "Loading Terrain"
+msgstr "Laen maastikku"
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=17567
+msgid "loading new zip: "
+msgstr "laen uut zippi:"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=17568
+msgid "loading new directory: "
+msgstr "laen uut kataloogi:"
+
+# | communitytranslateid=15282
+msgid "Loading directory\n"
+msgstr "Laen kataloogi\n"
+
+# | communitytranslateid=12905
+msgid "Loader"
+msgstr "Laadija"
+
+# | communitytranslateid=12867
+msgid "List"
+msgstr "Loend"
+
+# # | translated from communitytranslateid=19417
+# | communitytranslateid=19580
+msgid "Linearity"
+msgstr "Lineaarsus"
+
+# : source/configurator.cpp:1180
+# : source/configurator.cpp:1182
+# : source/configurator.cpp:1184
+# | communitytranslateid=10940
+msgid "Light source effects:"
+msgstr "Valgusallika efektid:"
+
+# # | translated from communitytranslateid=17207
+# | communitytranslateid=17556
+msgid "let the character run"
+msgstr "lase tegelasel joosta"
+
+# # | translated from communitytranslateid=17204
+# | communitytranslateid=17440
+msgid "let the character jump"
+msgstr "lase tegelasel hüpata"
+
+# # | translated from communitytranslateid=17347
+# | communitytranslateid=17552
+msgid "less airbrakes"
+msgstr "vähem õhupidureid"
+
+# | communitytranslateid=12767
+msgid "Language:"
+msgstr "Keel:"
+
+# : source/configurator.cpp:504
+# | communitytranslateid=10858
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# : source/configurator.cpp:312
+# | communitytranslateid=10845
+msgid "Keyboard"
+msgstr "Klaviatuur"
+
+# : source/configurator.cpp:1302
+# | communitytranslateid=10963
+msgid "Key/Axis"
+msgstr "Klahv/Telg"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=10970
+msgid "Joystick Options"
+msgstr "Juhtkangi valikud"
+
+# : source/configurator.cpp:1954
+# | communitytranslateid=10973
+msgid "Joystick Axis Region"
+msgstr "Juhtkangi telje ala"
+
+# # | translated from communitytranslateid=19390
+# | communitytranslateid=19584
+msgid "Joystick Axis Linearity"
+msgstr "Juhtkangi telje lineaarsus"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=10978
+msgid "Joystick Axis Deadzones"
+msgstr "Juhtkangi telgede tühitsoonid"
+
+# : source/configurator.cpp:496
+# | communitytranslateid=10856
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# : source/configurator.cpp:323
+# : source/configurator.cpp:976
+# | communitytranslateid=10847
+msgid "Input Type: "
+msgstr "Sisendi tüüp:"
+
+# | communitytranslateid=15288
+msgid "incremental check: processing changed zips\n"
+msgstr "lisakontroll: muudetud zippide töötlemine\n"
+
+# | communitytranslateid=15283
+msgid "incremental check: new files\n"
+msgstr "lisakontroll: uued failid\n"
+
+# | communitytranslateid=15286
+msgid "incremental check: new content\n"
+msgstr "lisakontroll: uus sisu\n"
+
+# | communitytranslateid=15284
+msgid "incremental check: duplicates\n"
+msgstr "lisakontroll: kattuvad\n"
+
+# | communitytranslateid=15287
+msgid "incremental check: deleted and changed files\n"
+msgstr "lisakontroll: kustutatud ja muudetud failid\n"
+
+# | communitytranslateid=15285
+msgid "incremental check: deleted and changed files"
+msgstr "lisakontroll: kustutatud ja muudetud failid"
+
+# # | translated from communitytranslateid=17267
+# | communitytranslateid=17577
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr "suurenda rehvirõhku (märkus: seda toetab vaid mõni veok)"
+
+# # | translated from communitytranslateid=17186
+# | communitytranslateid=17375
+msgid "increase throttle"
+msgstr "anna gaasi"
+
+# # | translated from communitytranslateid=17285
+# | communitytranslateid=17367
+msgid "increase the current FOV value"
+msgstr "suurenda vaatevälja suurust"
+
+# # | translated from communitytranslateid=17178
+# | communitytranslateid=17441
+msgid "increase the airplane thrust"
+msgstr "suurenda lennuki tõukejõudu"
+
+# # | translated from communitytranslateid=17190
+# | communitytranslateid=17457
+msgid "increase day-time a lot faster"
+msgstr "kuluta päeva palju kiiremini"
+
+# # | translated from communitytranslateid=17189
+# | communitytranslateid=17557
+msgid "increase day-time"
+msgstr "kuluta päeva"
+
+# : source/configurator.cpp:1173
+# | communitytranslateid=10939
+msgid "In what Format should screenshots be saved?"
+msgstr "Mis formaadis tuleks ekraanipildid salvestada?"
+
+# : source/configurator.cpp:983
+# | communitytranslateid=10879
+msgid "Import Keymap"
+msgstr "Impordi klahviseadistus"
+
+# | communitytranslateid=12873
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Kasutades XFire'it, võib selle seade sisse lülitada, et saada täpsemat mänguinfot."
+
+# | communitytranslateid=12910
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Kui sulle ei sobi kaamera ühtlustumine veoki asendiga, võid selle keelata."
+
+# : source/configurator.cpp:1208
+# | communitytranslateid=10956
+msgid "Hydrax Water System"
+msgstr "Hydrax veesüsteem"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=17517
+msgid "hold to start the engine"
+msgstr "hoia mootori käivitamiseks"
+
+# # | translated from communitytranslateid=19426
+# | communitytranslateid=19511
+msgid "High range selected"
+msgstr "Kõrge vahemik valitud"
+
+# : source/configurator.cpp:1106
+# | communitytranslateid=10920
+msgid "High quality reflective effects"
+msgstr "Kvaliteetne peegeldusefekt"
+
+# | communitytranslateid=12825
+msgid "High Quality"
+msgstr "Kõrge kvaliteet"
+
+# | communitytranslateid=12849
+msgid "High Performance"
+msgstr "Suur jõudlus"
+
+# # | translated from communitytranslateid=17262
+# | communitytranslateid=17503
+msgid "hide all GUI elements"
+msgstr "peida kõik GUI elemendid"
+
+# | communitytranslateid=12795
+msgid "here you can get help"
+msgstr "siit leiad abi"
+
+# : source/configurator.cpp:1090
+# | communitytranslateid=10908
+msgid "HeatHaze"
+msgstr "Kuumushägu"
+
+# : source/configurator.cpp:1093
+# | communitytranslateid=10909
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Kuumushägu mootoritelt-suur aeglustumine(aktiveeri ainult uuema riistvara korral)"
+
+# | communitytranslateid=12906
+msgid "health: "
+msgstr "tervis:"
+
+# | communitytranslateid=12833
+msgid "Graphics Settings"
+msgstr "Graafika Seaded"
+
+# : source/configurator.cpp:935
+# | communitytranslateid=10874
+msgid "Graphics"
+msgstr "Graafika"
+
+# # | translated from communitytranslateid=19423
+# | communitytranslateid=19485
+msgid "Fully Manual: stick shift with ranges"
+msgstr "Manuaalkäigukast: vahemikega käiguvahetus"
+
+# # | translated from communitytranslateid=19422
+# | communitytranslateid=19513
+msgid "Fully manual: stick shift"
+msgstr "Manuaalkäigukast: vahetus käigukangi abil"
+
+# # | translated from communitytranslateid=19421
+# | communitytranslateid=19522
+msgid "Fully Manual: sequencial shift"
+msgstr "Manuaalkäigukast: järjestikune vahetus"
+
+# | communitytranslateid=12904
+msgid "Fully Manual shift"
+msgstr "Manuaalkäigukast"
+
+# # | translated from communitytranslateid=17176
+# | communitytranslateid=17476
+msgid "full thrust"
+msgstr "täielik tõukejõud"
+
+# : source/configurator.cpp:1043
+# | communitytranslateid=10891
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Täisekraan kasutab veidi vähem mäluressursse"
+
+# : source/configurator.cpp:1041
+# | communitytranslateid=10890
+msgid "Full screen"
+msgstr "Täisekraan"
+
+# # | translated from communitytranslateid=17165
+# | communitytranslateid=17461
+msgid "full flaps in an aircraft."
+msgstr "täielikud flaps lennukis"
+
+# # | translated from communitytranslateid=17346
+# | communitytranslateid=17518
+msgid "full airbrakes"
+msgstr "max õhupidureid"
+
+# : source/configurator.cpp:1958
+# | communitytranslateid=10975
+msgid "Full"
+msgstr "Täis"
+
+# | communitytranslateid=12842
+msgid "free camera"
+msgstr "vaba vaade"
+
+# # | translated from communitytranslateid=17156
+# | communitytranslateid=17570
+msgid "FOV: "
+msgstr "Vaateväli:"
+
+# : source/configurator.cpp:1187
+# | communitytranslateid=10942
+msgid "Fog"
+msgstr "Udu"
+
+# | communitytranslateid=12845
+msgid "fixed free camera"
+msgstr "fikseeritud vaba vaade"
+
+# # | translated from communitytranslateid=17335
+# | communitytranslateid=17506
+msgid "fix the camera to a position"
+msgstr "fikseeri kaamera kindlasse asendisse"
+
+# # | translated from communitytranslateid=19419
+# | communitytranslateid=19489
+msgid "Export selection"
+msgstr "Ekspordi valik"
+
+# : source/configurator.cpp:986
+# | communitytranslateid=10880
+msgid "Export Keymap"
+msgstr "Ekspordi klahviseadistus"
+
+# # | translated from communitytranslateid=17288
+# | communitytranslateid=17573
+msgid "EXPERIMENTAL: set maximum amount of grass"
+msgstr "KATSEJÄRGUS: sea rohu maksimaalne hulk"
+
+# # | translated from communitytranslateid=17290
+# | communitytranslateid=17571
+msgid "EXPERIMENTAL: save changes to the grass density image"
+msgstr "KATSEJÄRGUS: salvesta muudatused rohutiheduse pildile"
+
+# # | translated from communitytranslateid=17286
+# | communitytranslateid=17576
+msgid "EXPERIMENTAL: remove some grass"
+msgstr "KATSEJÄRGUS: eemalda veidi rohtu"
+
+# # | translated from communitytranslateid=17289
+# | communitytranslateid=17574
+msgid "EXPERIMENTAL: remove grass completely"
+msgstr "KATSEJÄRGUS: eemalda rohi täielikult"
+
+# # | translated from communitytranslateid=17287
+# | communitytranslateid=17572
+msgid "EXPERIMENTAL: add some grass"
+msgstr "KATSEJÄRGUS: lisa veidi rohtu"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=17543
+msgid "exit the game"
+msgstr "välju mängust"
+
+# : source/configurator.cpp:394
+# | communitytranslateid=10854
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Sündmuse väärtus (vasak = 0%, parem = 100%)"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# : source/configurator.cpp:298
+# : source/configurator.cpp:308
+# : source/configurator.cpp:321
+# | communitytranslateid=10844
+msgid "Event Name: "
+msgstr "Sündmuse nimi:"
+
+# : source/configurator.cpp:393
+# | communitytranslateid=10853
+msgid "Event Name"
+msgstr "Sündmuse nimi"
+
+# : source/configurator.cpp:392
+# | communitytranslateid=10852
+msgid "Event Description: "
+msgstr "Sündmuse kirjeldus:"
+
+# : source/configurator.cpp:1298
+# | communitytranslateid=10961
+msgid "Event"
+msgstr "Sündmus"
+
+# | communitytranslateid=13093
+msgid "Error while retrieving user space path"
+msgstr "Viga kasutajaruumi tee leidmisel"
+
+# | communitytranslateid=13095
+msgid "Error while retrieving program space path"
+msgstr "Viga programmitee leidmisel"
+
+# # | translated from communitytranslateid=17260
+# | communitytranslateid=17430
+msgid "enter the chat"
+msgstr "sisene vestlusse"
+
+# # | translated from communitytranslateid=17261
+# | communitytranslateid=17478
+msgid "enter or exit a truck"
+msgstr "sisene või välju veokist"
+
+# : source/configurator.cpp:1190
+# | communitytranslateid=10944
+msgid "Engine smoke"
+msgstr "Mootorisuits"
+
+# : source/configurator.cpp:1073
+# | communitytranslateid=10900
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Lainete lubamine lisab paadisõidule lõbu, aga võib vähendada jõudlust."
+
+# : source/configurator.cpp:1210
+# | communitytranslateid=10957
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Aktiveerib uue veesüsteemi. KATSEJÄRGUS. Tühistab muud veeseaded."
+
+# | communitytranslateid=12859
+msgid "Enable XFire Extension"
+msgstr "Luba XFire'i laiend"
+
+# : source/configurator.cpp:1071
+# | communitytranslateid=10899
+msgid "Enable waves"
+msgstr "Aktiveeri lained"
+
+# | communitytranslateid=13075
+msgid "Enable Visual Beam Debug"
+msgstr "Luba nähtav talade veaotsing"
+
+# # | translated from communitytranslateid=19429
+# | communitytranslateid=19527
+msgid "enable or disable replay mode"
+msgstr "lülita sisse või välja kordus"
+
+# # | translated from communitytranslateid=17278
+# | communitytranslateid=17561
+msgid "enable of disable replay mode"
+msgstr "luba või keela kordusrežiim"
+
+# : source/configurator.cpp:1129
+# : source/configurator.cpp:1132
+# | communitytranslateid=10925
+msgid "Enable network mode"
+msgstr "Aktiveeri võrgumäng"
+
+# : source/configurator.cpp:1109
+# | communitytranslateid=10921
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Aktiveeri kvaliteetne peegeldusefekt. Põhjustab aeglustumist."
+
+# # | translated from communitytranslateid=17146
+# | communitytranslateid=17422
+msgid "Enable Auto-Downloader"
+msgstr "Luba Auto-allalaadija"
+
+# : source/configurator.cpp:1123
+# : source/configurator.cpp:1128
+# | communitytranslateid=10924
+msgid "Enable advanced wheel model"
+msgstr "Aktiveeri edasiarendatud rattamudel"
+
+# # | translated from communitytranslateid=17336
+# | communitytranslateid=17520
+msgid "enable / disable free camera mode"
+msgstr "luba / keela vaba kaamera"
+
+# : source/configurator.cpp:1087
+# | communitytranslateid=10906
+msgid "Dust"
+msgstr "Tolm"
+
+# | communitytranslateid=12892
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Näitab node numbreid ja lisainfot nodes ja beams kohta."
+
+# # | translated from communitytranslateid=17351
+# | communitytranslateid=17507
+msgid "display or hide net chat"
+msgstr "kuva või peida vestluse aken"
+
+# : source/configurator.cpp:1213
+# | communitytranslateid=10959
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "Ei näita seda kaarti. See on ainult testimiseks, ei tohiks suurendada FPSi."
+
+# : source/configurator.cpp:1211
+# | communitytranslateid=10958
+msgid "Disable Overview Map"
+msgstr "Ära näita ülevaatekaarti"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=17384
+msgid "disable creak sound"
+msgstr "keela kriuksuv hääl"
+
+# | communitytranslateid=12909
+msgid "Disable Camera Pitching"
+msgstr "Keela kaamera ühtlustamine"
+
+# # | translated from communitytranslateid=19428
+# | communitytranslateid=19459
+msgid "Differentials switched to: "
+msgstr "Differentsiaalid lülitatud:"
+
+# : source/configurator.cpp:1009
+# : source/configurator.cpp:1012
+# : source/configurator.cpp:1017
+# | communitytranslateid=10885
+msgid "Device:"
+msgstr "Seade:"
+
+# | communitytranslateid=12903
+msgid "destruction: "
+msgstr "purunenud:"
+
+# # | translated from communitytranslateid=17160
+# | communitytranslateid=17569
+msgid "Description: "
+msgstr "Kirjeldus:"
+
+# : source/configurator.cpp:981
+# | communitytranslateid=10878
+msgid "Delete selected"
+msgstr "Kustuta valik"
+
+# # | translated from communitytranslateid=17350
+# | communitytranslateid=17562
+msgid "delete current truck"
+msgstr "kustuta praegune veok"
+
+# | communitytranslateid=12810
+msgid "deformed: "
+msgstr "moondunud:"
+
+# # | translated from communitytranslateid=17158
+# | communitytranslateid=17535
+msgid "Default Skin"
+msgstr "Vaikeskinn"
+
+# # | translated from communitytranslateid=17284
+# | communitytranslateid=17466
+msgid "decreases the current FOV value"
+msgstr "vähendab vaatevälja suurust"
+
+# # | translated from communitytranslateid=17175
+# | communitytranslateid=17387
+msgid "decreases the airplane thrust"
+msgstr "vähendab lennuki tõukejõudu"
+
+# # | translated from communitytranslateid=17266
+# | communitytranslateid=17575
+msgid "decrease tire pressure (note: only very few trucks support this)"
+msgstr "vähenda rehvirõhku (märkus: seda toetab ainult mõni veok)"
+
+# # | translated from communitytranslateid=17185
+# | communitytranslateid=17480
+msgid "decrease throttle"
+msgstr "vähenda gaasi"
+
+# # | translated from communitytranslateid=17188
+# | communitytranslateid=17558
+msgid "decrease day-time a lot faster"
+msgstr "vähenda päeva-aega palju kiiremini"
+
+# # | translated from communitytranslateid=17187
+# | communitytranslateid=17559
+msgid "decrease day-time"
+msgstr "vähenda päeva-aega kiiremini"
+
+# : source/configurator.cpp:1202
+# | communitytranslateid=10952
+msgid "Debug Truck Mass"
+msgstr "Avasta veoki massis vigu"
+
+# # | translated from communitytranslateid=17276
+# | communitytranslateid=17448
+msgid "debug purpose - dont use"
+msgstr "vigade otsimiseks - ära kasuta"
+
+# : source/configurator.cpp:1205
+# | communitytranslateid=10954
+msgid "Debug Collision Meshes"
+msgstr "Avasta vigu kokkupõrke meshides"
+
+# : source/configurator.cpp:2276
+# : source/configurator.cpp:2287
+# | communitytranslateid=10991
+msgid "Deadzone"
+msgstr "Tühitsoon"
+
+# : source/configurator.cpp:900
+# : source/configurator.cpp:902
+# : source/configurator.cpp:908
+# | communitytranslateid=10865
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# : source/configurator.cpp:507
+# : source/configurator.cpp:510
+# | communitytranslateid=10859
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# : source/configurator.cpp:914
+# | communitytranslateid=10866
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# : source/configurator.cpp:565
+# | communitytranslateid=10860
+msgid "data/"
+msgstr "data/"
+
+# : source/configurator.cpp:1196
+# | communitytranslateid=10948
+msgid "Dashboard"
+msgstr "Armatuurlaud"
+
+# # | translated from communitytranslateid=19452
+# | communitytranslateid=19487
+msgid "Cycle between available differental models"
+msgstr "Tsükkel saadaval differenstiaalide vahel"
+
+# : source/configurator.cpp:1193
+# | communitytranslateid=10946
+msgid "Custom Particles"
+msgstr "Eriosakesed"
+
+# | communitytranslateid=12837
+msgid "current Speed:"
+msgstr "praegune kiirus:"
+
+# | communitytranslateid=12890
+msgid "current RPM:"
+msgstr "praegu pöördeid:"
+
+# | communitytranslateid=12876
+msgid "current mass:"
+msgstr "praegune mass:"
+
+# | communitytranslateid=12746
+msgid "Current FPS: "
+msgstr "Hetke FPS:"
+
+# | communitytranslateid=12840
+msgid "CPU Settings"
+msgstr "Protsessori seaded"
+
+# : source/configurator.cpp:941
+# | communitytranslateid=10876
+msgid "CPU"
+msgstr "Protsessor"
+
+# # | translated from communitytranslateid=19388
+# | communitytranslateid=19539
+msgid "Could not write to input.map file"
+msgstr "Ei saanud kirjutada input.map faili"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=10968
+msgid "Could not write config file"
+msgstr "Ei saanud kirjutada sättefaili"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=10966
+msgid "Could not open Rendering device"
+msgstr "Ei saanud avada visualiseerimisseadet"
+
+# : source/configurator.cpp:977
+# | communitytranslateid=10877
+msgid "Controls"
+msgstr "Klahvistik"
+
+# # | translated from communitytranslateid=17263
+# | communitytranslateid=17477
+msgid "connect hook node to a node in close proximity"
+msgstr "ühenda hook node(konks) lähedalasuva node'iga"
+
+# : source/configurator.cpp:1948
+# | communitytranslateid=10969
+msgid "Configure error"
+msgstr "Seadistusviga"
+
+# | communitytranslateid=12886
+msgid "Community / Support"
+msgstr "Kogukond / Abi"
+
+# | communitytranslateid=12877
+msgid "Commands:"
+msgstr "Käsklused:"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=17358
+msgid "Command 9"
+msgstr "Käsklus 9"
+
+# # | translated from communitytranslateid=17217
+# | communitytranslateid=17370
+msgid "Command 8"
+msgstr "Käsklus 8"
+
+# # | translated from communitytranslateid=17216
+# | communitytranslateid=17425
+msgid "Command 7"
+msgstr "Käsklus 7"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=17468
+msgid "Command 6"
+msgstr "Käsklus 6"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=17377
+msgid "Command 5"
+msgstr "Käsklus 5"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=17421
+msgid "Command 48"
+msgstr "Käsklus 48"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=17452
+msgid "Command 47"
+msgstr "Käsklus 47"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=17368
+msgid "Command 46"
+msgstr "Käsklus 46"
+
+# # | translated from communitytranslateid=17254
+# | communitytranslateid=17491
+msgid "Command 45"
+msgstr "Käsklus 45"
+
+# # | translated from communitytranslateid=17253
+# | communitytranslateid=17496
+msgid "Command 44"
+msgstr "Käsklus 44"
+
+# # | translated from communitytranslateid=17252
+# | communitytranslateid=17499
+msgid "Command 43"
+msgstr "Käsklus 43"
+
+# # | translated from communitytranslateid=17251
+# | communitytranslateid=17504
+msgid "Command 42"
+msgstr "Käsklus 42"
+
+# # | translated from communitytranslateid=17250
+# | communitytranslateid=17474
+msgid "Command 41"
+msgstr "Käsklus 41"
+
+# # | translated from communitytranslateid=17249
+# | communitytranslateid=17458
+msgid "Command 40"
+msgstr "Käsklus 40"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=17514
+msgid "Command 4"
+msgstr "Käsklus 4"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=17427
+msgid "Command 39"
+msgstr "Käsklus 39"
+
+# # | translated from communitytranslateid=17247
+# | communitytranslateid=17449
+msgid "Command 38"
+msgstr "Käsklus 38"
+
+# # | translated from communitytranslateid=17246
+# | communitytranslateid=17515
+msgid "Command 37"
+msgstr "Käsklus 37"
+
+# # | translated from communitytranslateid=17245
+# | communitytranslateid=17372
+msgid "Command 36"
+msgstr "Käsklus 36"
+
+# # | translated from communitytranslateid=17244
+# | communitytranslateid=17522
+msgid "Command 35"
+msgstr "Käsklus 35"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=17401
+msgid "Command 34"
+msgstr "Käsklus 34"
+
+# # | translated from communitytranslateid=17242
+# | communitytranslateid=17360
+msgid "Command 33"
+msgstr "Käsklus 33"
+
+# # | translated from communitytranslateid=17241
+# | communitytranslateid=17415
+msgid "Command 32"
+msgstr "Käsklus 32"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=17523
+msgid "Command 31"
+msgstr "Käsklus 31"
+
+# # | translated from communitytranslateid=17239
+# | communitytranslateid=17492
+msgid "Command 30"
+msgstr "Käsklus 30"
+
+# # | translated from communitytranslateid=17212
+# | communitytranslateid=17398
+msgid "Command 3"
+msgstr "Käsklus 3"
+
+# # | translated from communitytranslateid=17238
+# | communitytranslateid=17475
+msgid "Command 29"
+msgstr "Käsklus 29"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=17366
+msgid "Command 28"
+msgstr "Käsklus 28"
+
+# # | translated from communitytranslateid=17236
+# | communitytranslateid=17527
+msgid "Command 27"
+msgstr "Käsklus 27"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=17532
+msgid "Command 26"
+msgstr "Käsklus 26"
+
+# # | translated from communitytranslateid=17234
+# | communitytranslateid=17407
+msgid "Command 25"
+msgstr "Käsklus 25"
+
+# # | translated from communitytranslateid=17233
+# | communitytranslateid=17533
+msgid "Command 24"
+msgstr "Käsklus 24"
+
+# # | translated from communitytranslateid=17232
+# | communitytranslateid=17444
+msgid "Command 23"
+msgstr "Käsklus 23"
+
+# # | translated from communitytranslateid=17231
+# | communitytranslateid=17390
+msgid "Command 22"
+msgstr "Käsklus 22"
+
+# # | translated from communitytranslateid=17230
+# | communitytranslateid=17512
+msgid "Command 21"
+msgstr "Käsklus 21"
+
+# # | translated from communitytranslateid=17229
+# | communitytranslateid=17417
+msgid "Command 20"
+msgstr "Käsklus 20"
+
+# # | translated from communitytranslateid=17211
+# | communitytranslateid=17373
+msgid "Command 2"
+msgstr "Käsklus 2"
+
+# # | translated from communitytranslateid=17228
+# | communitytranslateid=17534
+msgid "Command 19"
+msgstr "Käsklus 19"
+
+# # | translated from communitytranslateid=17227
+# | communitytranslateid=17526
+msgid "Command 18"
+msgstr "Käsklus 18"
+
+# # | translated from communitytranslateid=17226
+# | communitytranslateid=17483
+msgid "Command 17"
+msgstr "Käsklus 17"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=17531
+msgid "Command 16"
+msgstr "Käsklus 16"
+
+# # | translated from communitytranslateid=17224
+# | communitytranslateid=17428
+msgid "Command 15"
+msgstr "Käsklus 15"
+
+# # | translated from communitytranslateid=17223
+# | communitytranslateid=17382
+msgid "Command 14"
+msgstr "Käsklus 14"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=17435
+msgid "Command 13"
+msgstr "Käsklus 13"
+
+# # | translated from communitytranslateid=17221
+# | communitytranslateid=17434
+msgid "Command 12"
+msgstr "Käsklus 12"
+
+# # | translated from communitytranslateid=17220
+# | communitytranslateid=17530
+msgid "Command 11"
+msgstr "Käsklus 11"
+
+# # | translated from communitytranslateid=17219
+# | communitytranslateid=17416
+msgid "Command 10"
+msgstr "Käsklus 10"
+
+# # | translated from communitytranslateid=17210
+# | communitytranslateid=17521
+msgid "Command 1"
+msgstr "Käsklus 1"
+
+# : source/configurator.cpp:1094
+# | communitytranslateid=10910
+msgid "Cockpit options"
+msgstr "Kabiini seaded"
+
+# : source/configurator.cpp:336
+# | communitytranslateid=10851
+msgid "close this dialog"
+msgstr "sulge aken"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=17386
+msgid "Click on blue hyperlinks to select a server."
+msgstr "Serveri valimiseks kliki sinistel hüperlinkidel"
+
+# : source/configurator.cpp:1186
+# | communitytranslateid=10941
+msgid "Clear cache"
+msgstr "Tühjenda vahemälu"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=17436
+msgid "Choose a file"
+msgstr "Vali fail"
+
+# | communitytranslateid=15290
+msgid "checking for new zips in "
+msgstr "kontrollin uusi zippe kohas"
+
+# | communitytranslateid=15289
+msgid "checking for new directories in "
+msgstr "kontrollin uusi katalooge kohas"
+
+# # | translated from communitytranslateid=17191
+# | communitytranslateid=17529
+msgid "change camera mode"
+msgstr "vaheta kaamerarežiimi"
+
+# # | translated from communitytranslateid=17180
+# | communitytranslateid=17383
+msgid "center the rudder"
+msgstr "tüür algasendisse"
+
+# : source/configurator.cpp:932
+# | communitytranslateid=10873
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Tühista muudatused ja sulge programm"
+
+# : source/configurator.cpp:327
+# | communitytranslateid=10850
+msgid "Cancel"
+msgstr "Katkesta"
+
+# : source/configurator.cpp:1054
+# | communitytranslateid=10895
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Caelum taevas on kena, aga halvema graafikaprotsessori puhul aeglane."
+
+# # | translated from communitytranslateid=17155
+# | communitytranslateid=17528
+msgid "Cache regeneration done.\n"
+msgstr "Vahemälu taastamine valmis.\n"
+
+# | communitytranslateid=12862
+msgid "broken: "
+msgstr "purunenud:"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=17513
+msgid "brake"
+msgstr "pidur"
+
+# | communitytranslateid=12846
+msgid "Boat"
+msgstr "Paat"
+
+# : source/configurator.cpp:1101
+# | communitytranslateid=10916
+msgid "Bloom"
+msgstr "Õitseng"
+
+# | communitytranslateid=12878
+msgid "Best FPS: "
+msgstr "Parim FPS:"
+
+# | communitytranslateid=12902
+msgid "beam count: "
+msgstr "talade arv:"
+
+# | communitytranslateid=12835
+msgid "Balanced"
+msgstr "Tasakaalustatud"
+
+# | communitytranslateid=12880
+msgid "Bad server port"
+msgstr "Halb serveri port"
+
+# | communitytranslateid=12831
+msgid "average stress: "
+msgstr "keskmine surve:"
+
+# | communitytranslateid=12820
+msgid "Average FPS: "
+msgstr "Keskmine FPS:"
+
+# | communitytranslateid=12827
+msgid "average deformation: "
+msgstr "keskmine deformatsioon:"
+
+# | communitytranslateid=12883
+msgid "Automatic shift"
+msgstr "Automaatkäigukast"
+
+# | communitytranslateid=12806
+msgid "Authors: "
+msgstr "Autorid:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=17566
+msgid "Author: "
+msgstr "Autor'"
+
+# : source/configurator.cpp:1027
+# : source/configurator.cpp:1029
+# | communitytranslateid=10888
+msgid "Anti-aliasing:"
+msgstr "Silumine:"
+
+# : source/configurator.cpp:1134
+# | communitytranslateid=10927
+msgid "Anonymous"
+msgstr "Anonüümne"
+
+# | communitytranslateid=12799
+msgid "Altitude:"
+msgstr "Kõrgus:"
+
+# # | translated from communitytranslateid=17349
+# | communitytranslateid=17525
+msgid "airplane throttle"
+msgstr "lennuki gaas"
+
+# # | translated from communitytranslateid=17169
+# | communitytranslateid=17439
+msgid "airplane parking brake."
+msgstr "lennuki käsipidur"
+
+# | communitytranslateid=12749
+msgid "Airplane"
+msgstr "Lennuk"
+
+# : source/configurator.cpp:1003
+# | communitytranslateid=10883
+msgid "Advanced"
+msgstr "Täpsemalt"
+
+# : source/configurator.cpp:326
+# : source/configurator.cpp:923
+# | communitytranslateid=10849
+msgid "Add the key"
+msgstr "Lisa klahv"
+
+# : source/configurator.cpp:324
+# | communitytranslateid=10848
+msgid "Add"
+msgstr "Lisa"
+
+# # | translated from communitytranslateid=17306
+# | communitytranslateid=17446
+msgid "accelerate the truck"
+msgstr "kiirenda veokit"
+
+# | communitytranslateid=12804
+msgid "A network error occured"
+msgstr "Võrgu viga"
+
+# : source/configurator.cpp:1969
+# | communitytranslateid=10982
+msgid "5% deadzone"
+msgstr "5% tühitsooni"
+
+# : source/configurator.cpp:1966
+# , c-format
+# | communitytranslateid=10981
+msgid "5 %"
+msgstr "5 %"
+
+# : source/configurator.cpp:1981
+# | communitytranslateid=10990
+msgid "30% deadzone"
+msgstr "30% tühitsooni"
+
+# : source/configurator.cpp:1978
+# , c-format
+# | communitytranslateid=10989
+msgid "30 %"
+msgstr "30 %"
+
+# : source/configurator.cpp:1978
+# | communitytranslateid=10988
+msgid "20% deadzone"
+msgstr "20% tühitsooni"
+
+# : source/configurator.cpp:1975
+# , c-format
+# | communitytranslateid=10987
+msgid "20 %"
+msgstr "20 %"
+
+# : source/configurator.cpp:1975
+# | communitytranslateid=10986
+msgid "15% deadzone"
+msgstr "15% tühitsooni"
+
+# : source/configurator.cpp:1972
+# , c-format
+# | communitytranslateid=10985
+msgid "15 %"
+msgstr "15 %"
+
+# : source/configurator.cpp:1145
+# : source/configurator.cpp:1149
+# : source/configurator.cpp:1147
+# | communitytranslateid=10931
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# : source/configurator.cpp:1152
+# | communitytranslateid=10933
+msgid "12333"
+msgstr "12333"
+
+# : source/configurator.cpp:1972
+# | communitytranslateid=10984
+msgid "10% deadzone"
+msgstr "10% tühitsooni"
+
+# : source/configurator.cpp:1969
+# , c-format
+# | communitytranslateid=10983
+msgid "10 %"
+msgstr "10 %"
+
+# # | translated from communitytranslateid=19403
+# | communitytranslateid=19553
+msgid "0 % (Total Linear)"
+msgstr "0 % (Täiesti Lineaarne)"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=10979
+msgid "0 % (No deadzone)"
+msgstr "0 % (Tühitsoonita)"
+
+# : source/configurator.cpp:1141
+# : source/configurator.cpp:1143
+# | communitytranslateid=10929
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Kuidas mängida võrgus:</p><br><ol><li>Vajuta <b>Uuenda</b> nupule, et näha servereid.</li><li>Vajuta mõnele allajoonitud serverile.</li><li>Vajuta <b>Salvesta ja mängi</b> nuppu, et alustada mängu.</li></ol>"
+
+# | communitytranslateid=15281
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Viimased Uudised</h2>Ei ole hetkel<h2>Abi / Kogukond</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>õpetused</a><p/> (see leht on täiustamisel...)"
+
+# # | translated from communitytranslateid=19402
+# | communitytranslateid=19540
+msgid "+5% multiplication"
+msgstr "+5% mitmekordistust"
+
+# # | translated from communitytranslateid=19401
+# | communitytranslateid=19554
+msgid "+5 %"
+msgstr "+5 %"
+
+# # | translated from communitytranslateid=19392
+# | communitytranslateid=19473
+msgid "+30% multiplication"
+msgstr "+30% mitmekordistust"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=19576
+msgid "+30 %"
+msgstr "+30 %"
+
+# # | translated from communitytranslateid=19394
+# | communitytranslateid=19541
+msgid "+25% multiplication"
+msgstr "+25% mitmekordistust"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=19495
+msgid "+25 %"
+msgstr "+25 %"
+
+# # | translated from communitytranslateid=19396
+# | communitytranslateid=19536
+msgid "+20% multiplication"
+msgstr "+20% mitmekordistust"
+
+# # | translated from communitytranslateid=19395
+# | communitytranslateid=19475
+msgid "+20 %"
+msgstr "+20 %"
+
+# # | translated from communitytranslateid=19398
+# | communitytranslateid=19478
+msgid "+15% multiplication"
+msgstr "+15% mitmekordistust"
+
+# # | translated from communitytranslateid=19397
+# | communitytranslateid=19457
+msgid "+15 %"
+msgstr "+15 %"
+
+# # | translated from communitytranslateid=19400
+# | communitytranslateid=19512
+msgid "+10% multiplication"
+msgstr "-10% mitmekordistust"
+
+# # | translated from communitytranslateid=19399
+# | communitytranslateid=19524
+msgid "+10 %"
+msgstr "+10 %"
+
+# : source/configurator.cpp:587
+# | communitytranslateid=10861
+msgid "(Please press a key)"
+msgstr "(Palun vajuta üht klahvi)"
+
+# : source/configurator.cpp:613
+# | communitytranslateid=10862
+msgid "(Please press a Joystick Button)"
+msgstr "(Palun vajuda üht juhtkanginuppu)"
+
+# : source/configurator.cpp:829
+# | communitytranslateid=10863
+msgid "(Please move an Axis)\n"
+msgstr "(Palun liiguta üht telge)\n"
+
+# # | translated from communitytranslateid=19387
+# | communitytranslateid=19519
+msgid "(Please move a Slider)\n"
+msgstr "(Palun liiguta Liugurit)\n"
+
+# | communitytranslateid=12735
+msgid "(No Languages found)"
+msgstr "(ühtki keelt ei leitud)"
+
+# | communitytranslateid=12736
+msgid "(no author information available)"
+msgstr "(autori info puudub)"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=17410
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "... laadimine ...  (ehk sa peaksid kontrollima võrguühendust)"
+
+# # | translated from communitytranslateid=19406
+# | communitytranslateid=19479
+msgid "-5% multiplication"
+msgstr "-5% mitmekordistust"
+
+# # | translated from communitytranslateid=19405
+# | communitytranslateid=19509
+msgid "-5 %"
+msgstr "-5 %"
+
+# # | translated from communitytranslateid=19416
+# | communitytranslateid=19561
+msgid "-30% multiplication"
+msgstr "-30% mitmekordistust"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=19516
+msgid "-30 %"
+msgstr "-30 %"
+
+# # | translated from communitytranslateid=19414
+# | communitytranslateid=19499
+msgid "-25% multiplication"
+msgstr "-25% mitmekordistust"
+
+# # | translated from communitytranslateid=19413
+# | communitytranslateid=19458
+msgid "-25 %"
+msgstr "-25 %"
+
+# # | translated from communitytranslateid=19412
+# | communitytranslateid=19531
+msgid "-20% multiplication"
+msgstr "-20% mitmekordistust"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=19500
+msgid "-20 %"
+msgstr "-20 %"
+
+# # | translated from communitytranslateid=19410
+# | communitytranslateid=19523
+msgid "-15% multiplication"
+msgstr "-15% mitmekordistust"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=19497
+msgid "-15 %"
+msgstr "-15 %"
+
+# # | translated from communitytranslateid=19408
+# | communitytranslateid=19503
+msgid "-10% multiplication"
+msgstr "-10% mitmekordistust"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=19551
+msgid "-10 %"
+msgstr "-10 %"
+
+# | communitytranslateid=12894
+msgid "^8 Player: ^7"
+msgstr "^8 Mängija: ^7"
+
+# | communitytranslateid=12901
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 kasutus: /rcmd [käsklus] [valikargumendid]"
+
+# | communitytranslateid=12896
+msgid "^1 unkown Command: "
+msgstr "^1 tundmatu Käsklus:"
+
+# | communitytranslateid=12900
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 VIGA: pead esmalt kasutama /rlogin [salasõna]"
+
+# | communitytranslateid=12899
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 VIGA: protokolli viga käskluste saatmisel RCON'i:"
+
+# | communitytranslateid=12898
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 VIGA: protokolli viga logides RCON'i:"
+
+# | communitytranslateid=12895
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 VIGA: ei ole võrgurežiim"
+
+# | communitytranslateid=12897
+msgid "^1 Error Parsing command"
+msgstr "^1 Viga käskluse tuvastusel"
+
+# | communitytranslateid=15292
+msgid " not existing"
+msgstr "puuduvad"
+
+# | communitytranslateid=15277
+msgid " changed"
+msgstr "muudetud"
+

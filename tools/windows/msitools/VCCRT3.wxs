@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+
+<Wix xmlns='http://schemas.microsoft.com/wix/2006/wi'>
+   <Product Id='4AB4F14A-CBB9-11DE-9ADF-47E255D89593'
+            Name='Visual C++ Runtime'
+            Language='1033' 
+            Version='1.0.0.0' 
+            Manufacturer='Pricorde'
+            UpgradeCode='67024821-af62-4aad-8469-18f7ebcf5c75'
+            >
+            <Package 
+                        Description='Visual C++ Runtime'
+                        Comments='Visual C++ Runtime'
+                        Manufacturer='Pricorde'
+                        InstallerVersion='300'
+                        Compressed='yes' />
+            <Media Id='1' Cabinet='VCCRT.cab' EmbedCab='yes' />
+            <Directory Id='TARGETDIR' Name='SourceDir'>
+                        <Merge Id='VCRedist' Language='0' SourceFile='C:\Program Files (x86)\Common Files\Merge Modules\Microsoft_VC90_CRT_x86.msm' DiskId='1' />
+            </Directory>
+            <Feature Id='VCRedist' Title='Visual C++ Runtime' AllowAdvertise="no" Display="hidden" Level='1'>
+                        <MergeRef Id='VCRedist' />
+            </Feature>
+            <InstallExecuteSequence>
+                        <RemoveRegistryValues/>
+                        <RemoveFiles/>
+                        <InstallFiles/>
+                        <WriteRegistryValues/>
+            </InstallExecuteSequence>
+   </Product>
+</Wix>

@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# | communitytranslateid=14579
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Þinn net nafn. Hámark 20 Eðli."
+
+# | communitytranslateid=14578
+msgid "Your Forum User Token."
+msgstr "Þinn Notandi Tákn."
+
+# | communitytranslateid=14580
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Þú verða spara og ræsa á ný the program til virkja the nýr tungumál!"
+
+# | communitytranslateid=14581
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Þú gera ekki þörf til breyting þessir stilling nema þú reynsla vandamál"
+
+# | communitytranslateid=14582
+msgid "wrote screenshot:"
+msgstr "fullur bræði screenshot :"
+
+# | communitytranslateid=14586
+msgid "Worst FPS: "
+msgstr "Verstur FPS :"
+
+# | communitytranslateid=14642
+msgid "Wheels: "
+msgstr "Hjolbarðar:"
+
+# | communitytranslateid=14681
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+
+# | communitytranslateid=14670
+msgid "Vehicle Type: "
+msgstr "Ökutæki Tegund :"
+
+# | communitytranslateid=14671
+msgid "unkown encoding problem"
+msgstr "unkown umrita í dulmál vandamál"
+
+# | communitytranslateid=14658
+msgid "unknown.dds"
+msgstr "óþekktur.dds"
+
+# | communitytranslateid=14590
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "A net villa eiga sér stað Ófær til tengja til the framreiðslumaður. Það er vissulega dúnn eða þú hafa net vandamál."
+
+# | communitytranslateid=14666
+msgid "Truck"
+msgstr "trukkur"
+
+# | communitytranslateid=14587
+msgid "Triangle Count: "
+msgstr "Þríhyrningur Telja :"
+
+# | communitytranslateid=14643
+msgid "tracks/CreditsOverlay"
+msgstr "íþróttagalli CreditsOverlay"
+
+# | communitytranslateid=14664
+msgid "Torque: "
+msgstr "snúningsátak:"
+
+# | communitytranslateid=14662
+msgid "tons"
+msgstr "hálskirtill"
+
+# | communitytranslateid=14591
+msgid "Terrain not found: "
+msgstr "Landsvæði ekki Fundin :"
+
+# | communitytranslateid=14592
+msgid "Terrain loading error"
+msgstr "Landsvæði hleðsla villa"
+
+# | communitytranslateid=14673
+msgid "Startup error"
+msgstr "Gangsetning villa"
+
+# | communitytranslateid=14657
+msgid "Search"
+msgstr "leita"
+
+# | communitytranslateid=14652
+msgid "Please clear the place first"
+msgstr "Gjörðu svo vel að hreinsa svæðið first"
+
+# | communitytranslateid=14653
+msgid "OK"
+msgstr "OK"
+
+# | communitytranslateid=14595
+msgid "normal camera"
+msgstr "eðlilegur myndavél"
+
+# | communitytranslateid=14665
+msgid "Non-Driveable"
+msgstr "Non-Ökufær"
+
+# | communitytranslateid=14663
+msgid "Nodes: "
+msgstr "punktur:"
+
+# | communitytranslateid=14659
+msgid "no author information available"
+msgstr "neitun rithöfundur upplýsingar laus"
+
+# | communitytranslateid=14661
+msgid "Mass: "
+msgstr "samansafn:"
+
+# | communitytranslateid=14597
+msgid "Manual shift - Auto clutch"
+msgstr "Handbók breyting Sjálfvirkt farartæki grip"
+
+# | communitytranslateid=14669
+msgid "Machine"
+msgstr "vél"
+
+# | communitytranslateid=14655
+msgid "Loader"
+msgstr "vistunarforrit"
+
+# | communitytranslateid=14656
+msgid "List"
+msgstr "skrá"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=21144
+msgid "hold to start the engine"
+msgstr "halda ini til að starta"
+
+# | communitytranslateid=14678
+msgid "health: "
+msgstr "heilsa:"
+
+# | communitytranslateid=14598
+msgid "Fully Manual shift"
+msgstr "Fullkomlega Handbók breyting"
+
+# | communitytranslateid=14594
+msgid "free camera"
+msgstr "frjáls myndavél"
+
+# | communitytranslateid=14593
+msgid "fixed free camera"
+msgstr "fastur frjáls myndavél"
+
+# | communitytranslateid=14674
+msgid "Error while retrieving user space path"
+msgstr "Villa á meðan bætanlegur notandi rúm gangstígur"
+
+# | communitytranslateid=14672
+msgid "Error while retrieving program space path"
+msgstr "Villa á meðan bætanlegur program rúm gangstígur"
+
+# | communitytranslateid=14679
+msgid "destruction: "
+msgstr "eyðilegging:"
+
+# | communitytranslateid=14680
+msgid "deformed: "
+msgstr "afmyndaður:"
+
+# | communitytranslateid=14583
+msgid "Current FPS: "
+msgstr "Straumur FPS :"
+
+# | communitytranslateid=14654
+msgid "Cancel"
+msgstr "hætta við"
+
+# | communitytranslateid=14677
+msgid "broken: "
+msgstr "brotinn:"
+
+# | communitytranslateid=14668
+msgid "Boat"
+msgstr "bátur"
+
+# | communitytranslateid=14585
+msgid "Best FPS: "
+msgstr "Bestur FPS :"
+
+# | communitytranslateid=14676
+msgid "beam count: "
+msgstr "bjálki telja :"
+
+# | communitytranslateid=14588
+msgid "Bad server port"
+msgstr "Slæmur framreiðslumaður höfn"
+
+# | communitytranslateid=14584
+msgid "Average FPS: "
+msgstr "Meðaltal FPS :"
+
+# | communitytranslateid=14596
+msgid "Automatic shift"
+msgstr "Sjálfvirkur breyting"
+
+# | communitytranslateid=14660
+msgid "Authors: "
+msgstr "höfundar:"
+
+# | communitytranslateid=14667
+msgid "Airplane"
+msgstr "flugvél"
+
+# | communitytranslateid=14589
+msgid "A network error occured"
+msgstr "A net villa eiga sér stað"
+
+# | communitytranslateid=14675
+msgid "(no author information available)"
+msgstr "( neitun rithöfundur upplýsingar laus )"
+
+# | communitytranslateid=14644
+msgid "^8 Player: ^7"
+msgstr "^8 Leikmaður : ^7"
+
+# | communitytranslateid=14647
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 notkun : rcmd [ stjórn ] [ valfrjáls rifrildi ]"
+
+# | communitytranslateid=14650
+msgid "^1 unkown Command: "
+msgstr "unkown Stjórn :"
+
+# | communitytranslateid=14646
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 Villa : þú verða nota rlogin [ lykilorð ] fyrstur"
+
+# | communitytranslateid=14648
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 Villa : siðareglur villa á meðan erfiður til senda stjórn til RCON :"
+
+# | communitytranslateid=14645
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 Villa : siðareglur villa á meðan erfiður til trjábolur inn í RCON :"
+
+# | communitytranslateid=14649
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 Villa : ekki í net unga fólkið"
+
+# | communitytranslateid=14651
+msgid "^1 Error Parsing command"
+msgstr "^1 Villa Flokka stjórn"
+

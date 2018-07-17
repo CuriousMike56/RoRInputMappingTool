@@ -1,0 +1,2466 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=19156
+msgid "zoom into the overview map in interactive mode"
+msgstr "priblizte mapu v ineraktivnim rezimu"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=19165
+msgid "zoom camera out faster"
+msgstr "oddalte kameru rychleji"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=20942
+msgid "zoom camera out"
+msgstr "oddálit kameru"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=21094
+msgid "zoom camera in faster"
+msgstr "priblizit pohled rychleji"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=21095
+msgid "zoom camera in"
+msgstr "priblizit pohled"
+
+# | communitytranslateid=13471
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Zvol svůj nick. Maximálně 20 písmen."
+
+# | communitytranslateid=13804
+msgid "Your Forum User Token."
+msgstr "Vasi uzivatelskou znamku z fora."
+
+# | communitytranslateid=13784
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Nyní musíte restartovat konfigurátor aby se změny projevily."
+
+# | communitytranslateid=13806
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Nemusite tato nastaveni zmenit, pokud se vyskytnou problemy"
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=21098
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Zaškrtnutím tohoto políčka zakážete výchozí zvuk skřípění."
+
+# | communitytranslateid=13485
+msgid "wrote screenshot:"
+msgstr "zalozit snimek:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=20178
+msgid "Write error"
+msgstr "Chyba zápisu"
+
+# # | translated from communitytranslateid=17265
+# | communitytranslateid=21103
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr "zapsat aktuální pozici do logu (pro pozdější použití této pozice)"
+
+# | communitytranslateid=13464
+msgid "Worst FPS: "
+msgstr "Nejhorsi FPS:"
+
+# | communitytranslateid=13493
+msgid "Wheels: "
+msgstr "Kola:"
+
+# | communitytranslateid=13744
+msgid "Water type:"
+msgstr "Typ vody:"
+
+# | communitytranslateid=13752
+msgid "Water spray"
+msgstr "Stříkaní vody"
+
+# | communitytranslateid=13747
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Odrazy vodni hladiny jsou pomalejsi a vyzaduji dobrou GPU. V rezimu optimalizovanem na rychlost muze dochazet k nadmernemu chveni kamery."
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=20172
+msgid "Warning"
+msgstr "Pozor"
+
+# | communitytranslateid=13738
+msgid "VSync"
+msgstr "VSync"
+
+# | communitytranslateid=13773
+msgid "Visual effects"
+msgstr "Visualní efekty"
+
+# | communitytranslateid=13732
+msgid "Video mode:"
+msgstr "Video Mod:"
+
+# | communitytranslateid=13562
+msgid "Vehicle Type: "
+msgstr "Typ vozidla:"
+
+# | communitytranslateid=13756
+msgid "Vegetation:"
+msgstr "Vegetace:"
+
+# | communitytranslateid=13802
+msgid "User Token: "
+msgstr "Uzivatelská známka:"
+
+# # | translated from communitytranslateid=17145
+# | communitytranslateid=19169
+msgid "Use this to remove the whole cache and force the generation from ground up."
+msgstr "Timto odstranite celou cache a vynutite uplne generovani."
+
+# # | translated from communitytranslateid=17144
+# | communitytranslateid=21104
+msgid "Use this to regenerate the cache outside of RoR. If this does not work, use the clear cache button."
+msgstr "Tímto se přegeneruje cache mimo RoR. Pokud toto nefunguje, použijte tlačítko pro smazání cache."
+
+# | communitytranslateid=13855
+msgid "Upper"
+msgstr "Horní"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=21105
+msgid "Updates"
+msgstr "Aktualizace"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=21111
+msgid "Update now"
+msgstr "Aktualizovat nyní"
+
+# | communitytranslateid=13805
+msgid "Update"
+msgstr "Aktualizovat"
+
+# | communitytranslateid=13571
+msgid "unkown encoding problem"
+msgstr "neznámý enkodovací problém"
+
+# | communitytranslateid=13534
+msgid "unknown.dds"
+msgstr "neznámo.dds"
+
+# | communitytranslateid=13816
+msgid "Uncheck in case you have a fog problem"
+msgstr "Odškrtněte v případě, když máte mlžný problém."
+
+# | communitytranslateid=13482
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Nemužete se připojit na server. Je možná spadlý nebo máte sítové problémy."
+
+# # | translated from communitytranslateid=15267
+# | communitytranslateid=21114
+msgid "Unable to connect to server"
+msgstr "Nelze navázat spojení se serverem"
+
+# | communitytranslateid=13860
+msgid "Type"
+msgstr "Typ"
+
+# # | translated from communitytranslateid=15266
+# | communitytranslateid=21124
+msgid "Trying to connect to server ..."
+msgstr "Pokouším se připojit k serveru ..."
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=21037
+msgid "truck horn"
+msgstr "klakson"
+
+# | communitytranslateid=13554
+msgid "Truck"
+msgstr "Kamion"
+
+# | communitytranslateid=13475
+msgid "Triangle Count: "
+msgstr "Počet trojúhelníků:"
+
+# | communitytranslateid=13501
+msgid "tracks/CreditsOverlay"
+msgstr "tracks/CreditsOverlay"
+
+# # | translated from communitytranslateid=19404
+# | communitytranslateid=21543
+msgid "Total Linear"
+msgstr "Zcela Linearni"
+
+# | communitytranslateid=13548
+msgid "Torque: "
+msgstr "Točivý moment:"
+
+# | communitytranslateid=13543
+msgid "tons"
+msgstr "tuny"
+
+# # | translated from communitytranslateid=17282
+# | communitytranslateid=19158
+msgid "toggle truck HUD"
+msgstr "Prepnete HUD na kamion"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=20184
+msgid "toggle truck front lights"
+msgstr "zapni tahače přední světla"
+
+# # | translated from communitytranslateid=17280
+# | communitytranslateid=21128
+msgid "toggle truck beacons"
+msgstr "ovládání majáků náklaďáku"
+
+# # | translated from communitytranslateid=17264
+# | communitytranslateid=21130
+msgid "toggle translucency of overview-map"
+msgstr "zapnout průsvitnost mapy"
+
+# # | translated from communitytranslateid=17273
+# | communitytranslateid=21131
+msgid "toggle skeleton display mode"
+msgstr "zapnout režim zobrazení kostry"
+
+# # | translated from communitytranslateid=17310
+# | communitytranslateid=20215
+msgid "toggle right direction indicator (blinker)"
+msgstr "zapni pravé blinkry"
+
+# # | translated from communitytranslateid=17277
+# | communitytranslateid=21132
+msgid "toggle render mode (solid, wireframe and points)"
+msgstr "přepnout režim vykreslování (výplň, drátěný model a body)"
+
+# # | translated from communitytranslateid=17275
+# | communitytranslateid=21133
+msgid "toggle particle cannon"
+msgstr "zapnout částicomet"
+
+# # | translated from communitytranslateid=17325
+# | communitytranslateid=19157
+msgid "toggle parking brake"
+msgstr "dejte rucni brzdu"
+
+# # | translated from communitytranslateid=17292
+# | communitytranslateid=21523
+msgid "toggle overview map interactive mode"
+msgstr "prepnete prehled mapy do interaktivniho modu"
+
+# # | translated from communitytranslateid=17279
+# | communitytranslateid=20186
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr "zapni Ogre statistiky (FPS atd.)"
+
+# # | translated from communitytranslateid=17283
+# | communitytranslateid=21489
+msgid "toggle map modes"
+msgstr "prepnete mod mapy"
+
+# # | translated from communitytranslateid=17309
+# | communitytranslateid=21524
+msgid "toggle left direction indicator (blinker)"
+msgstr "prepnete levy ukazatel směru (blinkr)"
+
+# # | translated from communitytranslateid=17331
+# | communitytranslateid=21467
+msgid "toggle ignition"
+msgstr "prepnete zapalovani"
+
+# # | translated from communitytranslateid=17323
+# | communitytranslateid=19163
+msgid "toggle custom light 9"
+msgstr "zapnete vlastni svetla 9"
+
+# # | translated from communitytranslateid=17322
+# | communitytranslateid=20211
+msgid "toggle custom light 8"
+msgstr "zapni vlastní světla 8"
+
+# # | translated from communitytranslateid=17321
+# | communitytranslateid=21516
+msgid "toggle custom light 7"
+msgstr "prepnete vlastni svetlo 7"
+
+# # | translated from communitytranslateid=17320
+# | communitytranslateid=21517
+msgid "toggle custom light 6"
+msgstr "prepnete vlastni svetlo 6"
+
+# # | translated from communitytranslateid=17319
+# | communitytranslateid=21518
+msgid "toggle custom light 5"
+msgstr "prepnete vlastni svetlo 5"
+
+# # | translated from communitytranslateid=17318
+# | communitytranslateid=21519
+msgid "toggle custom light 4"
+msgstr "prepnete vlastni svetlo 4"
+
+# # | translated from communitytranslateid=17317
+# | communitytranslateid=21520
+msgid "toggle custom light 3"
+msgstr "prepnete vlastni svetlo 3"
+
+# # | translated from communitytranslateid=17316
+# | communitytranslateid=21521
+msgid "toggle custom light 2"
+msgstr "prepnete vlastni svetlo 2"
+
+# # | translated from communitytranslateid=17315
+# | communitytranslateid=21522
+msgid "toggle custom light 10"
+msgstr "prepnete vlastni svetlo 10"
+
+# # | translated from communitytranslateid=17314
+# | communitytranslateid=21362
+msgid "toggle custom light 1"
+msgstr "zapni vlastní světlo 1"
+
+# # | translated from communitytranslateid=17334
+# | communitytranslateid=21134
+msgid "toggle between windowed and fullscreen mode"
+msgstr "přepnout mezi režimem v okně a na celou obrazovku"
+
+# # | translated from communitytranslateid=17330
+# | communitytranslateid=21502
+msgid "toggle between transmission modes"
+msgstr "prepnete mezi mody razeni"
+
+# # | translated from communitytranslateid=17352
+# | communitytranslateid=21525
+msgid "toggle between net chat display modes"
+msgstr "prepnete mezi mody netoveho chatu"
+
+# # | translated from communitytranslateid=17305
+# | communitytranslateid=21526
+msgid "toggle between available road types"
+msgstr "prepnere mezi mody cesty"
+
+# # | translated from communitytranslateid=17304
+# | communitytranslateid=21528
+msgid "toggle between available objects"
+msgstr "prepnete mezi moznymi objekty"
+
+# # | translated from communitytranslateid=17259
+# | communitytranslateid=21529
+msgid "toggle appearance of console"
+msgstr "prepnete vzhled konzole"
+
+# # | translated from communitytranslateid=17311
+# | communitytranslateid=21527
+msgid "toggle all direction indicators"
+msgstr "prepnete vsechny ukazatele smeru"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=21167
+msgid "tie a load to the truck"
+msgstr "privazte naklad k autu"
+
+# # | translated from communitytranslateid=17174
+# | communitytranslateid=21604
+msgid "throttle axis. Only use this if you have fitting hardware :) (i.e. a Slider)"
+msgstr "osa plynu. Pouzijte pouze pokud mate vhodny hardware :) (i.e. posuvnik)"
+
+# | communitytranslateid=13791
+msgid "Thread number:"
+msgstr "číslo nitky:"
+
+# | communitytranslateid=13814
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Toto nastavení přepíše výchozí jazyk systému. Musíte restartovat konfigurátor když chcete použít změny."
+
+# | communitytranslateid=13764
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Toto může ublížit fps na starých systémech, ale vypadá to docela dobře."
+
+# # | translated from communitytranslateid=17147
+# | communitytranslateid=21605
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr "Toto umoznuje automaticke stahovani chybejicich modu kdyz pouzivate Multiplayer"
+
+# | communitytranslateid=13759
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Toto určuje, kolik trávy a stromů (a podobných objektů) by mělo být zobrazeno."
+
+# # | translated from communitytranslateid=17152
+# | communitytranslateid=21173
+msgid "The update service is currently only available for windows users."
+msgstr "Bohužel z technických důvodů je služba aktualizace zatím možná pouze pro uživatele windows."
+
+# | communitytranslateid=13801
+msgid "The server password, if required."
+msgstr "Heslo na  server, v prřpadě potřeby."
+
+# | communitytranslateid=13735
+msgid "Texture filtering:"
+msgstr "Filtrování textury:"
+
+# | communitytranslateid=13714
+msgid "Test"
+msgstr "Test"
+
+# | communitytranslateid=13483
+msgid "Terrain not found: "
+msgstr "Terén nenalezen:"
+
+# | communitytranslateid=13484
+msgid "Terrain loading error"
+msgstr "Chyba při načítáni terénu"
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=21468
+msgid "teleport to rescue truck"
+msgstr "teleport do zachranneho auta"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=20174
+msgid "take a screenshot"
+msgstr "udělej screenshot"
+
+# # | translated from communitytranslateid=17303
+# | communitytranslateid=21539
+msgid "switch to road laying mode"
+msgstr "prepnete do modu umisteni silnic"
+
+# # | translated from communitytranslateid=17179
+# | communitytranslateid=21500
+msgid "switch all engines on / off"
+msgstr "zapnete/vypnete vsechny motory"
+
+# | communitytranslateid=13774
+msgid "Sunburn"
+msgstr "Úžeh"
+
+# # | translated from communitytranslateid=17203
+# | communitytranslateid=21531
+msgid "step forward with the character"
+msgstr "pokrocte dopredu s figurou"
+
+# # | translated from communitytranslateid=17202
+# | communitytranslateid=21532
+msgid "step backwards with the character"
+msgstr "pokrocte vzad s figurou"
+
+# # | translated from communitytranslateid=17183
+# | communitytranslateid=21530
+msgid "steer right a step"
+msgstr "zatocte doprava o krok"
+
+# # | translated from communitytranslateid=17184
+# | communitytranslateid=21533
+msgid "steer right (analog value!)"
+msgstr "zatocte do prava (analogova hodnota!)"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=21039
+msgid "steer right"
+msgstr "řízení doprava"
+
+# # | translated from communitytranslateid=17181
+# | communitytranslateid=21534
+msgid "steer left a step"
+msgstr "zatocte do leva o krok"
+
+# # | translated from communitytranslateid=17182
+# | communitytranslateid=21535
+msgid "steer left (analog value!)"
+msgstr "zatocte do leva (analogova hodnota!)"
+
+# # | translated from communitytranslateid=17173
+# | communitytranslateid=21536
+msgid "steer left"
+msgstr "zatocte doleva"
+
+# | communitytranslateid=13578
+msgid "Startup error"
+msgstr "Chyba při spuštení"
+
+# # | translated from communitytranslateid=17274
+# | communitytranslateid=21568
+msgid "start the old truck editor"
+msgstr "otevrete stary auto editor"
+
+# # | translated from communitytranslateid=15714
+# | communitytranslateid=21571
+msgid "SPECIAL_CHARACTERS"
+msgstr "SPECIALNI ZNAKY"
+
+# | communitytranslateid=13739
+msgid "Special effects"
+msgstr "Speciální efekty"
+
+# | communitytranslateid=13705
+msgid "Sounds"
+msgstr "Zvuky"
+
+# | communitytranslateid=13790
+msgid "Sound rendering:"
+msgstr "Renderování zvuku:"
+
+# | communitytranslateid=13740
+msgid "Sky type:"
+msgstr "Typ oblohy:"
+
+# # | translated from communitytranslateid=17157
+# | communitytranslateid=21040
+msgid "Skins"
+msgstr "skiny"
+
+# | communitytranslateid=13702
+msgid "Simple Settings"
+msgstr "Jednoduché nastavení"
+
+# # | translated from communitytranslateid=17209
+# | communitytranslateid=21537
+msgid "sidestep to the right"
+msgstr "krok stranou do prava"
+
+# # | translated from communitytranslateid=17208
+# | communitytranslateid=21538
+msgid "sidestep to the left"
+msgstr "krok stranou do leva"
+
+# | communitytranslateid=13772
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Zobrazuje zpětná zrcátka v kokpitu. Může způsobit problémy s kompatibilitou u starých grafických karet."
+
+# | communitytranslateid=13824
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Zobrazuje v kokpitu dynamickou palubní desku. Může způsobit problémy s kompatibilitou u starých grafických karet."
+
+# | communitytranslateid=13832
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Veškeré kolizní klece zobrazí červeně pro umožnění správného umístění. Používat pouze pro ladění!"
+
+# # | translated from communitytranslateid=17332
+# | communitytranslateid=21550
+msgid "show truck tool"
+msgstr "ukaz nastroj/e auta"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=21503
+msgid "show / hide the console"
+msgstr "ukazat/schovat konzoli"
+
+# # | translated from communitytranslateid=17327
+# | communitytranslateid=21475
+msgid "shift to neutral gear in manual transmission mode"
+msgstr "preradte na neutral v manualnim razeni"
+
+# # | translated from communitytranslateid=17328
+# | communitytranslateid=21476
+msgid "shift one gear up in manual transmission mode"
+msgstr "preradte o jednu rychlost vys v manualnim razeni"
+
+# # | translated from communitytranslateid=17326
+# | communitytranslateid=19167
+msgid "shift one gear down in manual transmission mode"
+msgstr "prerad na nizsi stupen v manualnim razeni"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=21473
+msgid "shift directly to third gear"
+msgstr "preradte rovnou na treti rychlost"
+
+# # | translated from communitytranslateid=19432
+# | communitytranslateid=21474
+msgid "shift directly to second gear"
+msgstr "preradte rovnou na druhou ryclost"
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=21477
+msgid "shift directly to reverse gear"
+msgstr "preradte rovnou na zpatecku"
+
+# # | translated from communitytranslateid=19434
+# | communitytranslateid=20214
+msgid "shift directly to fourth gear"
+msgstr "zařad přímo na 4 převodový stupeň"
+
+# # | translated from communitytranslateid=19431
+# | communitytranslateid=21478
+msgid "shift directly to first gear"
+msgstr "preradte rovnou na prvni rychlost"
+
+# # | translated from communitytranslateid=19439
+# | communitytranslateid=21479
+msgid "shift directly to 9th gear"
+msgstr "preradte rovnou na 9tou rychlost"
+
+# # | translated from communitytranslateid=19438
+# | communitytranslateid=20175
+msgid "shift directly to 8th gear"
+msgstr "zařaď přímo na 8 převodový stupeň"
+
+# # | translated from communitytranslateid=19437
+# | communitytranslateid=21480
+msgid "shift directly to 7th gear"
+msgstr "preradte rovnou na 7ou rychlost"
+
+# # | translated from communitytranslateid=19436
+# | communitytranslateid=21481
+msgid "shift directly to 6th gear"
+msgstr "preradte rovnou na 6tou rychlost"
+
+# # | translated from communitytranslateid=19435
+# | communitytranslateid=20216
+msgid "shift directly to 5th gear"
+msgstr "zařad přímo na 5 převodový stupeň"
+
+# # | translated from communitytranslateid=19448
+# | communitytranslateid=21483
+msgid "shift directly to 18th gear"
+msgstr "preradte rovnou na 18tou rychlost"
+
+# # | translated from communitytranslateid=19447
+# | communitytranslateid=21484
+msgid "shift directly to 17th gear"
+msgstr "preradte rovnou na 17tou rychlost"
+
+# # | translated from communitytranslateid=19446
+# | communitytranslateid=21485
+msgid "shift directly to 16th gear"
+msgstr "preradte rovnou na 16tou rychlost"
+
+# # | translated from communitytranslateid=19445
+# | communitytranslateid=21486
+msgid "shift directly to 15th gear"
+msgstr "preradte rovnou na 14tou rychlost"
+
+# # | translated from communitytranslateid=19444
+# | communitytranslateid=21487
+msgid "shift directly to 14th gear"
+msgstr "preradte rovnou na 14tou rychlost"
+
+# # | translated from communitytranslateid=19443
+# | communitytranslateid=20173
+msgid "shift directly to 13th gear"
+msgstr "zařaď přímo na 13 převodový stupeň"
+
+# # | translated from communitytranslateid=19442
+# | communitytranslateid=21488
+msgid "shift directly to 12th gear"
+msgstr "preradte rovnou na 12tou rychlost"
+
+# # | translated from communitytranslateid=19441
+# | communitytranslateid=20189
+msgid "shift directly to 11th gear"
+msgstr "zařaď přímo na 11 převodový stupeň"
+
+# # | translated from communitytranslateid=19440
+# | communitytranslateid=21482
+msgid "shift directly to 10th gear"
+msgstr "preradte rovnou na 10tou rychlost"
+
+# # | translated from communitytranslateid=17308
+# | communitytranslateid=20191
+msgid "shift automatic transmission one gear up"
+msgstr "posuň automatickou převodovkou o jeden rychlostní stupeň nahoru"
+
+# # | translated from communitytranslateid=17307
+# | communitytranslateid=21569
+msgid "shift automatic transmission one gear down"
+msgstr "preradte automaticke razeni o jednu rychlost dolu"
+
+# | communitytranslateid=13743
+msgid "Shadow type:"
+msgstr "Typ stínu:"
+
+# # | translated from communitytranslateid=19450
+# | communitytranslateid=21606
+msgid "sets middle range (7-12) for H-shaft"
+msgstr "nastavuje rozsah (7-12) pro H-osu"
+
+# # | translated from communitytranslateid=19449
+# | communitytranslateid=21607
+msgid "sets low range (1-6) for H-shaft"
+msgstr "nastavuje nizky rozsah (1-16) pro H-osu"
+
+# # | translated from communitytranslateid=19451
+# | communitytranslateid=21608
+msgid "sets high range (13-18) for H-shaft"
+msgstr "nastavuje rozsah (13-18) pro H-osu"
+
+# | communitytranslateid=13722
+msgid "Sets all settings in a simple way"
+msgstr "Nastaví všechny nastavení jednoduchým způsobem"
+
+# | communitytranslateid=13798
+msgid "Server port number: "
+msgstr "Server číslo portu:"
+
+# | communitytranslateid=13800
+msgid "Server password: "
+msgstr "Heslo na server:"
+
+# | communitytranslateid=13797
+msgid "Server host name: "
+msgstr "Hostitelské jméno serveru:"
+
+# # | translated from communitytranslateid=17297
+# | communitytranslateid=21595
+msgid "select previous element in current category"
+msgstr "vyberte predchozi soucast v aktualni kategorii"
+
+# # | translated from communitytranslateid=17294
+# | communitytranslateid=21554
+msgid "select previous category"
+msgstr "vyberte predeslou kategorii"
+
+# # | translated from communitytranslateid=17293
+# | communitytranslateid=21609
+msgid "select next element in current category"
+msgstr "vyberte dalsi soucast v aktualni kategorii"
+
+# # | translated from communitytranslateid=17295
+# | communitytranslateid=21544
+msgid "select next category"
+msgstr "vyberte dalsi kategorii"
+
+# # | translated from communitytranslateid=17296
+# | communitytranslateid=20208
+msgid "select focussed item and close menu"
+msgstr "vyberte položku a zavři menu"
+
+# | communitytranslateid=13533
+msgid "Search"
+msgstr "Hledání"
+
+# | communitytranslateid=13807
+msgid "Screenshot Format:"
+msgstr "Formát snímku:"
+
+# | communitytranslateid=13729
+msgid "Screen configuration"
+msgstr "Obrazová konfigurace"
+
+# | communitytranslateid=13686
+msgid "Save the current configuration and start RoR."
+msgstr "Uložte aktuální konfiguraci a spustte RoR."
+
+# | communitytranslateid=13693
+msgid "Save the current configuration and close the configuration program."
+msgstr "Uložit aktuální nastavení a zavřete konfigurační program."
+
+# # | translated from communitytranslateid=19420
+# | communitytranslateid=21597
+msgid "Save Mapping to File"
+msgstr "Ulozte Mapovani do Souboru"
+
+# | communitytranslateid=13681
+msgid "Save and Play"
+msgstr "Uložit a Hrát"
+
+# | communitytranslateid=13689
+msgid "Save and Exit"
+msgstr "Uložit a ukončit"
+
+# # | translated from communitytranslateid=17172
+# | communitytranslateid=21548
+msgid "rudder right"
+msgstr "kormidlo do prava"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=19168
+msgid "rudder left"
+msgstr "rudder left"
+
+# | communitytranslateid=13731
+msgid "RTT Mode:"
+msgstr "RTT Mod:"
+
+# # | translated from communitytranslateid=17353
+# | communitytranslateid=21492
+msgid "rotate view up"
+msgstr "otocte pohled vzhuru"
+
+# # | translated from communitytranslateid=17354
+# | communitytranslateid=21493
+msgid "rotate view down"
+msgstr "otocte pohled dolu"
+
+# # | translated from communitytranslateid=17302
+# | communitytranslateid=21491
+msgid "rotate object right"
+msgstr "otocte objektem do prava"
+
+# # | translated from communitytranslateid=17301
+# | communitytranslateid=21494
+msgid "rotate object left"
+msgstr "otocte objekt doleva"
+
+# # | translated from communitytranslateid=17206
+# | communitytranslateid=21495
+msgid "rotate character right"
+msgstr "otocte figurou do prava"
+
+# # | translated from communitytranslateid=17205
+# | communitytranslateid=20182
+msgid "rotate character left"
+msgstr "otočte postavou doleva"
+
+# # | translated from communitytranslateid=17197
+# | communitytranslateid=21496
+msgid "rotate camera up"
+msgstr "otocte kamerou nahoru"
+
+# # | translated from communitytranslateid=17196
+# | communitytranslateid=21497
+msgid "rotate camera right"
+msgstr "otocte kamerou do prava"
+
+# # | translated from communitytranslateid=17195
+# | communitytranslateid=21498
+msgid "rotate camera left"
+msgstr "otocte kamerou do leva"
+
+# # | translated from communitytranslateid=17194
+# | communitytranslateid=21499
+msgid "rotate camera down"
+msgstr "otocte kamerou dolu"
+
+# | communitytranslateid=13675
+msgid "Rigs of Rods configuration"
+msgstr "Konfigurace Rigs of Rods"
+
+# # | translated from communitytranslateid=17170
+# | communitytranslateid=21580
+msgid "reverse the turboprops"
+msgstr "obratte turboprops"
+
+# | communitytranslateid=13875
+msgid "reverse axis"
+msgstr "Zpětná osa"
+
+# | communitytranslateid=13871
+msgid "Reverse"
+msgstr "Reverse"
+
+# | communitytranslateid=13678
+msgid "Restore the default configuration."
+msgstr "Obnovit výchozí configuraci."
+
+# | communitytranslateid=13677
+msgid "Restore Defaults"
+msgstr "Obnovit výchozí"
+
+# # | translated from communitytranslateid=17270
+# | communitytranslateid=21546
+msgid "reset truck to original starting position"
+msgstr "obnovit auto na puvodni startovaci pozici"
+
+# # | translated from communitytranslateid=17193
+# | communitytranslateid=21545
+msgid "reset the camera position"
+msgstr "obnovit pozici kamery"
+
+# | communitytranslateid=13786
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Vyžaduje nejnovější grafické karty. Přidá efekt rozmazání pohybu."
+
+# | communitytranslateid=13778
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Vyžaduje nejnovější grafické karty. Přidá efekt rozmazání světla."
+
+# | communitytranslateid=13775
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Vyžaduje nejnovější grafické karty. Přidá sluneční oslepující efekt."
+
+# | communitytranslateid=13827
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Replay mód. (Může ovlivnit fps)"
+
+# | communitytranslateid=13825
+msgid "Replay Mode"
+msgstr "Zpětný přehrávač"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=21166
+msgid "Render System"
+msgstr "Renderovací system"
+
+# # | translated from communitytranslateid=17333
+# | communitytranslateid=21572
+msgid "reloads the roads (experimental)"
+msgstr "znovu nahraje silnice (experimentalni)"
+
+# | communitytranslateid=13880
+msgid "Region"
+msgstr "Region"
+
+# # | translated from communitytranslateid=17143
+# | communitytranslateid=20177
+msgid "Regen cache"
+msgstr "Obnov cache"
+
+# # | translated from communitytranslateid=17164
+# | communitytranslateid=21610
+msgid "pull the elevator up in an aircraft."
+msgstr "vytahnete vrata nahoru v letadle."
+
+# # | translated from communitytranslateid=17163
+# | communitytranslateid=20195
+msgid "pull the elevator down in an aircraft."
+msgstr "vytáhněte vrata dolů v letadle."
+
+# | communitytranslateid=13829
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Vytiskne všechny uzly z hmotnosti do RoR.log. Používat pouze pro ladění náklaďáku!"
+
+# # | translated from communitytranslateid=19386
+# | communitytranslateid=21611
+msgid "Please use any mapped input device in order to test."
+msgstr "Prosím, použijte jakykoliv mapovane zarizeni aby se vyzkouselo."
+
+# # | translated from communitytranslateid=19418
+# | communitytranslateid=21612
+msgid "Please select what type of device to export"
+msgstr "Prosim vyberte jaky typ zarizeni k exportu"
+
+# | communitytranslateid=13631
+msgid "Please select an input event."
+msgstr "Prosím vyberte vstupní akci."
+
+# | communitytranslateid=13524
+msgid "Please clear the place first"
+msgstr "Prosim odklidte prostor"
+
+# # | translated from communitytranslateid=17298
+# | communitytranslateid=21613
+msgid "place currently selected object at current position"
+msgstr "umistete aktualne vybrany objekt na aktualni pozici"
+
+# # | translated from communitytranslateid=17300
+# | communitytranslateid=19166
+msgid "pitch object foreward"
+msgstr "pitch object foreward"
+
+# # | translated from communitytranslateid=17299
+# | communitytranslateid=20217
+msgid "pitch object backward"
+msgstr "postav objekt zpátky"
+
+# | communitytranslateid=13820
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Učinky, jako jsou vodní děla nebo holé stezky. Může být použito v průběhu-Multiplayeru."
+
+# | communitytranslateid=13761
+msgid "Particle systems"
+msgstr "Částicové systémy"
+
+# | communitytranslateid=13863
+msgid "Options"
+msgstr "Volby"
+
+# # | translated from communitytranslateid=17167
+# | communitytranslateid=20193
+msgid "one step more flaps."
+msgstr "o krok pro více klapek."
+
+# # | translated from communitytranslateid=17166
+# | communitytranslateid=21581
+msgid "one step less flaps."
+msgstr "o jeden krok snizte klapky."
+
+# | communitytranslateid=13663
+msgid "ok (end test)"
+msgstr "ok (konec testu)"
+
+# | communitytranslateid=13526
+msgid "OK"
+msgstr "OK"
+
+# | communitytranslateid=13864
+msgid "Ogre config validation error"
+msgstr "Ogre config validační chyba"
+
+# | communitytranslateid=13866
+msgid "Ogre config error"
+msgstr "Chyba Ogre Config"
+
+# | communitytranslateid=13818
+msgid "Not much impact on speed."
+msgstr "Nic moc vliv na rychlost."
+
+# | communitytranslateid=13497
+msgid "normal camera"
+msgstr "puvodní kamera"
+
+# # | translated from communitytranslateid=17162
+# | communitytranslateid=21586
+msgid "normal brake for an aircraft"
+msgstr "normalni brzdy pro letadlo"
+
+# | communitytranslateid=13553
+msgid "Non-Driveable"
+msgstr "Neříditelné"
+
+# | communitytranslateid=13545
+msgid "Nodes: "
+msgstr "Uzly:"
+
+# | communitytranslateid=13600
+msgid "node count: "
+msgstr "počítač uzlu:"
+
+# # | translated from communitytranslateid=17177
+# | communitytranslateid=21490
+msgid "no thrust"
+msgstr "bez tahu"
+
+# # | translated from communitytranslateid=17168
+# | communitytranslateid=21555
+msgid "no flaps."
+msgstr "zadne klapky."
+
+# | communitytranslateid=13754
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Žádný vliv, pokud si blbneš ve vodě, vypadá docela dobře také."
+
+# # | translated from communitytranslateid=19427
+# | communitytranslateid=21614
+msgid "No differential installed on current vehicle!"
+msgstr "Zadny diferencial neni instalonvan na aktualnim vozidle!"
+
+# | communitytranslateid=13884
+msgid "no deadzone"
+msgstr "žádná mrtvá zona"
+
+# | communitytranslateid=13538
+msgid "no author information available"
+msgstr "žádné informace o autorovi"
+
+# # | translated from communitytranslateid=17345
+# | communitytranslateid=19162
+msgid "no airbrakes"
+msgstr "zadne vzdusne brzdy"
+
+# | communitytranslateid=13794
+msgid "Nickname: "
+msgstr "Přezdívka:"
+
+# | communitytranslateid=13858
+msgid "new Language selected"
+msgstr "Nový jazyk zvolen"
+
+# | communitytranslateid=13715
+msgid "Network"
+msgstr "Sít"
+
+# # | translated from communitytranslateid=17340
+# | communitytranslateid=20183
+msgid "move right mirror to the right"
+msgstr "přesunout na pravé zrcátko vpravo"
+
+# # | translated from communitytranslateid=17343
+# | communitytranslateid=21570
+msgid "move replay fast forward"
+msgstr "posunte replay rychle dopredu"
+
+# # | translated from communitytranslateid=17344
+# | communitytranslateid=21575
+msgid "move replay fast backward"
+msgstr "posunte replay rychle dozadu"
+
+# # | translated from communitytranslateid=17338
+# | communitytranslateid=20212
+msgid "move left mirror to the right"
+msgstr "přesun levé zrcátko doprava"
+
+# # | translated from communitytranslateid=17337
+# | communitytranslateid=21585
+msgid "move left mirror to the left"
+msgstr "posunte leve zrcatko do leva"
+
+# # | translated from communitytranslateid=17355
+# | communitytranslateid=20197
+msgid "move character up"
+msgstr "přesuň postavu na horu"
+
+# # | translated from communitytranslateid=17356
+# | communitytranslateid=21584
+msgid "move character down"
+msgstr "posunte figurinu dolu"
+
+# | communitytranslateid=13899
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# | communitytranslateid=13779
+msgid "Motion blur"
+msgstr "Pohybové rozostření"
+
+# # | translated from communitytranslateid=17339
+# | communitytranslateid=21615
+msgid "more right mirror to the left"
+msgstr "vice prave zrcatko do leva"
+
+# # | translated from communitytranslateid=17341
+# | communitytranslateid=21582
+msgid "more replay forward"
+msgstr "jeste replay dopredu"
+
+# # | translated from communitytranslateid=17342
+# | communitytranslateid=21583
+msgid "more replay backward"
+msgstr "jeste replay dozadu"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=21504
+msgid "more airbrakes"
+msgstr "vice vzduchove brzdy"
+
+# | communitytranslateid=13771
+msgid "Mirrors"
+msgstr "Zrcátka"
+
+# | communitytranslateid=13856
+msgid "minimum visibility range in percent"
+msgstr "minimální rozsah viditelnosti v procentech"
+
+# # | translated from communitytranslateid=19425
+# | communitytranslateid=21593
+msgid "Mid range selected"
+msgstr "Stredni rozsah vybran"
+
+# | communitytranslateid=13612
+msgid "max Speed:"
+msgstr "maximální Rychlost:"
+
+# | communitytranslateid=13542
+msgid "Mass: "
+msgstr "Hmotnost:"
+
+# | communitytranslateid=13499
+msgid "Manual shift - Auto clutch"
+msgstr "Manualní řazení - automatická spojka"
+
+# # | translated from communitytranslateid=17324
+# | communitytranslateid=21501
+msgid "manual clutch (for manual transmission)"
+msgstr "manualni spojka (pro manualni razeni)"
+
+# | communitytranslateid=13559
+msgid "Machine"
+msgstr "Stroj"
+
+# | communitytranslateid=13879
+msgid "Lower"
+msgstr "Nižší"
+
+# # | translated from communitytranslateid=19424
+# | communitytranslateid=21592
+msgid "Low range selected"
+msgstr "nizky rozsah vybran"
+
+# # | translated from communitytranslateid=17192
+# | communitytranslateid=21616
+msgid "look back (toggles between normal and lookback)"
+msgstr "kouknete spet (přepíná mezi normalnim a lookbackem)"
+
+# # | translated from communitytranslateid=15261
+# | communitytranslateid=21562
+msgid "loading...\n"
+msgstr "nahravani...\n"
+
+# # | translated from communitytranslateid=15262
+# | communitytranslateid=19159
+msgid "Loading zips in group "
+msgstr "Nacitam Zip ve skupine"
+
+# # | translated from communitytranslateid=15268
+# | communitytranslateid=21174
+msgid "Loading Terrain"
+msgstr "Nahravani mapy"
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=21176
+msgid "loading new zip: "
+msgstr "nacitam novy zip:"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=21566
+msgid "loading new directory: "
+msgstr "nahravam dalsi adresar:"
+
+# # | translated from communitytranslateid=15263
+# | communitytranslateid=21596
+msgid "Loading directory\n"
+msgstr "načítám adresář\n"
+
+# | communitytranslateid=13529
+msgid "Loader"
+msgstr "Nakládač"
+
+# | communitytranslateid=13531
+msgid "List"
+msgstr "Seznam"
+
+# # | translated from communitytranslateid=19417
+# | communitytranslateid=21574
+msgid "Linearity"
+msgstr "Linearita"
+
+# | communitytranslateid=13809
+msgid "Light source effects:"
+msgstr "Světelné efekty:"
+
+# # | translated from communitytranslateid=17207
+# | communitytranslateid=21563
+msgid "let the character run"
+msgstr "nechte figurinu bezet"
+
+# # | translated from communitytranslateid=17204
+# | communitytranslateid=21564
+msgid "let the character jump"
+msgstr "nechte figurinu skocit"
+
+# # | translated from communitytranslateid=17347
+# | communitytranslateid=21617
+msgid "less airbrakes"
+msgstr "mene vzduchovych brzd"
+
+# | communitytranslateid=13811
+msgid "Language:"
+msgstr "Jazyk:"
+
+# | communitytranslateid=13900
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# | communitytranslateid=13626
+msgid "Keyboard"
+msgstr "Klávesnice"
+
+# | communitytranslateid=13861
+msgid "Key/Axis"
+msgstr "Klíč / Osa"
+
+# | communitytranslateid=13869
+msgid "Joystick Options"
+msgstr "Volby Joysticku"
+
+# | communitytranslateid=13877
+msgid "Joystick Axis Region"
+msgstr "Joystick Osa Region"
+
+# # | translated from communitytranslateid=19390
+# | communitytranslateid=20192
+msgid "Joystick Axis Linearity"
+msgstr "Joystick Osa Linearita"
+
+# | communitytranslateid=13881
+msgid "Joystick Axis Deadzones"
+msgstr "Joystick Osa mrtvá zona"
+
+# | communitytranslateid=13897
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# | communitytranslateid=13635
+msgid "Input Type: "
+msgstr "Vstupní jméno:"
+
+# # | translated from communitytranslateid=15257
+# | communitytranslateid=21556
+msgid "incremental check: processing changed zips\n"
+msgstr "dilci kontrola:zpracovani zmenenych zips\n"
+
+# # | translated from communitytranslateid=15259
+# | communitytranslateid=21557
+msgid "incremental check: new files\n"
+msgstr "dilci kontrola:nove soubory\n"
+
+# # | translated from communitytranslateid=15258
+# | communitytranslateid=21558
+msgid "incremental check: new content\n"
+msgstr "dilci kontrola:novy obsah\n"
+
+# # | translated from communitytranslateid=15260
+# | communitytranslateid=21559
+msgid "incremental check: duplicates\n"
+msgstr "dilci kontrola:duplikaty\n"
+
+# # | translated from communitytranslateid=15254
+# | communitytranslateid=21560
+msgid "incremental check: deleted and changed files\n"
+msgstr "dilci kontrola:smazane a zmenene soubory\n"
+
+# # | translated from communitytranslateid=15253
+# | communitytranslateid=21561
+msgid "incremental check: deleted and changed files"
+msgstr "dilci kontrola:smazane a zmenene soubory"
+
+# # | translated from communitytranslateid=17267
+# | communitytranslateid=21622
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr "zvysit tlak pneumatik (poznamka:jenom hodne malo aut to podporuje)"
+
+# # | translated from communitytranslateid=17186
+# | communitytranslateid=21549
+msgid "increase throttle"
+msgstr "pridejte plyn"
+
+# # | translated from communitytranslateid=17285
+# | communitytranslateid=20179
+msgid "increase the current FOV value"
+msgstr "zvýšit současnou hodnotu FOV"
+
+# # | translated from communitytranslateid=17178
+# | communitytranslateid=21590
+msgid "increase the airplane thrust"
+msgstr "zvysuje tah letadla"
+
+# # | translated from communitytranslateid=17190
+# | communitytranslateid=21578
+msgid "increase day-time a lot faster"
+msgstr "pridejte denni cas rychleji"
+
+# # | translated from communitytranslateid=17189
+# | communitytranslateid=21587
+msgid "increase day-time"
+msgstr "zvysit denni cas"
+
+# | communitytranslateid=13808
+msgid "In what Format should screenshots be saved?"
+msgstr "Jaké formáty snímku mohou být uloženy?"
+
+# | communitytranslateid=13711
+msgid "Import Keymap"
+msgstr "Importujte klávesové mapy"
+
+# | communitytranslateid=13840
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Pokud používáte Xfire, můžete přepnout na tuto možnost vytvářet podrobnější info o hře."
+
+# | communitytranslateid=13838
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Pokud máte v oblibě pitchingu vnějším vozidlem kamerou, můžete ho zakázat zde."
+
+# | communitytranslateid=13833
+msgid "Hydrax Water System"
+msgstr "Hydraxovy Vodní systémy"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=21472
+msgid "hold to start the engine"
+msgstr "podrzte k nastartovani motoru"
+
+# # | translated from communitytranslateid=19426
+# | communitytranslateid=20181
+msgid "High range selected"
+msgstr "Vysoké řady vybraných"
+
+# | communitytranslateid=13787
+msgid "High quality reflective effects"
+msgstr "Vysoce kvalitní reflexní efekty"
+
+# | communitytranslateid=13726
+msgid "High Quality"
+msgstr "Vysoká kvalita"
+
+# | communitytranslateid=13723
+msgid "High Performance"
+msgstr "Vysoký výkon"
+
+# # | translated from communitytranslateid=17262
+# | communitytranslateid=19160
+msgid "hide all GUI elements"
+msgstr "zneviditelnit vsechny GUI elementy"
+
+# | communitytranslateid=13857
+msgid "here you can get help"
+msgstr "Zde můžete získat pomoc"
+
+# | communitytranslateid=13766
+msgid "HeatHaze"
+msgstr "Tepelný opar"
+
+# | communitytranslateid=13768
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Opar tepla z motorů, velké zpomalení. (pouze aktivovat s dobrým hardwarem)"
+
+# | communitytranslateid=13592
+msgid "health: "
+msgstr "zdraví:"
+
+# | communitytranslateid=13727
+msgid "Graphics Settings"
+msgstr "Grafické nastavení"
+
+# | communitytranslateid=13703
+msgid "Graphics"
+msgstr "Grafiky"
+
+# # | translated from communitytranslateid=19423
+# | communitytranslateid=21623
+msgid "Fully Manual: stick shift with ranges"
+msgstr "Plny manual:radici paka s rozsahy"
+
+# # | translated from communitytranslateid=19422
+# | communitytranslateid=21591
+msgid "Fully manual: stick shift"
+msgstr "Plny manual:radici paka"
+
+# # | translated from communitytranslateid=19421
+# | communitytranslateid=21600
+msgid "Fully Manual: sequencial shift"
+msgstr "Plny Manual:sekvencni razeni"
+
+# | communitytranslateid=13500
+msgid "Fully Manual shift"
+msgstr "Plné manuální řazení"
+
+# # | translated from communitytranslateid=17176
+# | communitytranslateid=21169
+msgid "full thrust"
+msgstr "plny tah"
+
+# | communitytranslateid=13737
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Celoobrazovkovém režimu používá trochu méně paměti zdrojů"
+
+# | communitytranslateid=13736
+msgid "Full screen"
+msgstr "Plná obrazovka"
+
+# # | translated from communitytranslateid=17165
+# | communitytranslateid=21567
+msgid "full flaps in an aircraft."
+msgstr "Plný plyn na letadle."
+
+# # | translated from communitytranslateid=17346
+# | communitytranslateid=20201
+msgid "full airbrakes"
+msgstr "plné vzduchové brzdy"
+
+# | communitytranslateid=13878
+msgid "Full"
+msgstr "Plně (plný)"
+
+# | communitytranslateid=13496
+msgid "free camera"
+msgstr "Volná kamera"
+
+# # | translated from communitytranslateid=17156
+# | communitytranslateid=21565
+msgid "FOV: "
+msgstr "FOV:"
+
+# | communitytranslateid=13815
+msgid "Fog"
+msgstr "Mlha"
+
+# | communitytranslateid=13495
+msgid "fixed free camera"
+msgstr "upevnena volná kamera"
+
+# # | translated from communitytranslateid=17335
+# | communitytranslateid=21576
+msgid "fix the camera to a position"
+msgstr "upevnit kameru na pozici"
+
+# # | translated from communitytranslateid=19419
+# | communitytranslateid=21599
+msgid "Export selection"
+msgstr "Exportovat vyber"
+
+# | communitytranslateid=13713
+msgid "Export Keymap"
+msgstr "Exportujte klávesové mapy"
+
+# # | translated from communitytranslateid=17288
+# | communitytranslateid=20176
+msgid "EXPERIMENTAL: set maximum amount of grass"
+msgstr "experimentálně: nastav maximum zarostlost trávou"
+
+# # | translated from communitytranslateid=17290
+# | communitytranslateid=21603
+msgid "EXPERIMENTAL: save changes to the grass density image"
+msgstr "EXPERIMENTALNI: ulozte zmeny do obrazu hustoty travy"
+
+# # | translated from communitytranslateid=17286
+# | communitytranslateid=21619
+msgid "EXPERIMENTAL: remove some grass"
+msgstr "EXPERIMENTALNI: odebere nekterou travu"
+
+# # | translated from communitytranslateid=17289
+# | communitytranslateid=21172
+msgid "EXPERIMENTAL: remove grass completely"
+msgstr "EXPERIMENTALNI:odstrani travu-kompletne"
+
+# # | translated from communitytranslateid=17287
+# | communitytranslateid=20209
+msgid "EXPERIMENTAL: add some grass"
+msgstr "Experimentně: přidej nějakou trávu"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=21090
+msgid "exit the game"
+msgstr "ukončit hru"
+
+# | communitytranslateid=13662
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Akční Hodnota (vlevo = 0%, vpravo = 100%)"
+
+# | communitytranslateid=13624
+msgid "Event Name: "
+msgstr "Jméno akce:"
+
+# | communitytranslateid=13655
+msgid "Event Name"
+msgstr "Jméno akce"
+
+# | communitytranslateid=13651
+msgid "Event Description: "
+msgstr "Popis Akce:"
+
+# | communitytranslateid=13859
+msgid "Event"
+msgstr "Akce"
+
+# | communitytranslateid=13580
+msgid "Error while retrieving user space path"
+msgstr "Chyba při načítání programové vesmírné cesty"
+
+# | communitytranslateid=13575
+msgid "Error while retrieving program space path"
+msgstr "Chyba při načítání programové vesmírné cesty"
+
+# # | translated from communitytranslateid=17260
+# | communitytranslateid=21171
+msgid "enter the chat"
+msgstr "vlozte chat"
+
+# # | translated from communitytranslateid=17261
+# | communitytranslateid=21505
+msgid "enter or exit a truck"
+msgstr "nastoupit nebo vystoupit z auta"
+
+# | communitytranslateid=13817
+msgid "Engine smoke"
+msgstr "Kouř motoru"
+
+# | communitytranslateid=13751
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Umožňování vln přináší spoustu zábavy v lodích, ale může mít velký dopad na vykon nektereho specifickeho hardwaru."
+
+# | communitytranslateid=13834
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Umožňuje nový systém zobrazování vody. EXPERIMENTÁLNÍ. Přepíše jakékoli nastavení vody."
+
+# | communitytranslateid=13839
+msgid "Enable XFire Extension"
+msgstr "Povolí XFire Prodloužení"
+
+# | communitytranslateid=13748
+msgid "Enable waves"
+msgstr "Povolit vlny"
+
+# | communitytranslateid=13841
+msgid "Enable Visual Beam Debug"
+msgstr "Povolit vizuální Beam Debug"
+
+# # | translated from communitytranslateid=19429
+# | communitytranslateid=21540
+msgid "enable or disable replay mode"
+msgstr "umoznit nebo neumoznit replayovy mod"
+
+# # | translated from communitytranslateid=17278
+# | communitytranslateid=21541
+msgid "enable of disable replay mode"
+msgstr "umoznit zakaz replayoveho modu"
+
+# | communitytranslateid=13793
+msgid "Enable network mode"
+msgstr "Povolit síťový režim"
+
+# | communitytranslateid=13788
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Povolí vysokou kvalitu reflexního účinku. Způsobuje zpomalení."
+
+# # | translated from communitytranslateid=17146
+# | communitytranslateid=21099
+msgid "Enable Auto-Downloader"
+msgstr "Povolit Auto-Downloader"
+
+# | communitytranslateid=13792
+msgid "Enable advanced wheel model"
+msgstr "Povolit pokročilý model kola"
+
+# # | translated from communitytranslateid=17336
+# | communitytranslateid=21542
+msgid "enable / disable free camera mode"
+msgstr "umoznit nebo neumoznit mod volne kamery"
+
+# | communitytranslateid=13762
+msgid "Dust"
+msgstr "Prach"
+
+# | communitytranslateid=13842
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Zobrazuje čísla uzlu a více info po uzlech a trámy."
+
+# # | translated from communitytranslateid=17351
+# | communitytranslateid=21471
+msgid "display or hide net chat"
+msgstr "zobrazte nebo schovejte netovy chat"
+
+# | communitytranslateid=13836
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "Zakáže mapu. To je pro testovací účely, neměli byste získat jakoukoli FPS s tím."
+
+# | communitytranslateid=13835
+msgid "Disable Overview Map"
+msgstr "Zakázat Přehled Mapy"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=20213
+msgid "disable creak sound"
+msgstr "vypni skřípací zvuk"
+
+# | communitytranslateid=13837
+msgid "Disable Camera Pitching"
+msgstr "Vypne Kamerovy Pitching"
+
+# # | translated from communitytranslateid=19428
+# | communitytranslateid=21573
+msgid "Differentials switched to: "
+msgstr "Diferencialy prepnuty na:"
+
+# | communitytranslateid=13730
+msgid "Device:"
+msgstr "Zařízení:"
+
+# | communitytranslateid=13593
+msgid "destruction: "
+msgstr "destrukce:"
+
+# # | translated from communitytranslateid=17160
+# | communitytranslateid=21089
+msgid "Description: "
+msgstr "Popisek:"
+
+# | communitytranslateid=13709
+msgid "Delete selected"
+msgstr "Vymazat označené"
+
+# # | translated from communitytranslateid=17350
+# | communitytranslateid=21553
+msgid "delete current truck"
+msgstr "vymazte primo toto auto"
+
+# | communitytranslateid=13594
+msgid "deformed: "
+msgstr "deformováno:"
+
+# # | translated from communitytranslateid=17158
+# | communitytranslateid=21168
+msgid "Default Skin"
+msgstr "Puvodni skin"
+
+# # | translated from communitytranslateid=17284
+# | communitytranslateid=21601
+msgid "decreases the current FOV value"
+msgstr "pokles aktualni FOV hodnoty"
+
+# # | translated from communitytranslateid=17175
+# | communitytranslateid=21589
+msgid "decreases the airplane thrust"
+msgstr "snizuje tah letadla"
+
+# # | translated from communitytranslateid=17266
+# | communitytranslateid=21624
+msgid "decrease tire pressure (note: only very few trucks support this)"
+msgstr "snizit tlak tlak pneumatik (poznamka:jenom hodne malo aut to podporuje)"
+
+# # | translated from communitytranslateid=17185
+# | communitytranslateid=21551
+msgid "decrease throttle"
+msgstr "uberte plyn"
+
+# # | translated from communitytranslateid=17188
+# | communitytranslateid=21579
+msgid "decrease day-time a lot faster"
+msgstr "uberte denni cas rychleji"
+
+# # | translated from communitytranslateid=17187
+# | communitytranslateid=21577
+msgid "decrease day-time"
+msgstr "uberte denni cas"
+
+# | communitytranslateid=13828
+msgid "Debug Truck Mass"
+msgstr "Debug Truck Mass"
+
+# # | translated from communitytranslateid=17276
+# | communitytranslateid=20204
+msgid "debug purpose - dont use"
+msgstr "ladicí účely -  nepouživat"
+
+# | communitytranslateid=13830
+msgid "Debug Collision Meshes"
+msgstr "Debug Collision Meshes"
+
+# | communitytranslateid=13896
+msgid "Deadzone"
+msgstr "Mrtva zona"
+
+# | communitytranslateid=13903
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# | communitytranslateid=13901
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# | communitytranslateid=13904
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# | communitytranslateid=13902
+msgid "data/"
+msgstr "data/"
+
+# | communitytranslateid=13822
+msgid "Dashboard"
+msgstr "Přístrojová deska"
+
+# # | translated from communitytranslateid=19452
+# | communitytranslateid=21621
+msgid "Cycle between available differental models"
+msgstr "Cykli mezi moznymi rozdilnymi modely"
+
+# | communitytranslateid=13819
+msgid "Custom Particles"
+msgstr "Vlastní učinky"
+
+# | communitytranslateid=13609
+msgid "current Speed:"
+msgstr "aktuální rychlost:"
+
+# | communitytranslateid=13605
+msgid "current RPM:"
+msgstr "aktuální otáčky:"
+
+# | communitytranslateid=13602
+msgid "current mass:"
+msgstr "aktuální hmotnost:"
+
+# | communitytranslateid=13458
+msgid "Current FPS: "
+msgstr "Aktuální FPS:"
+
+# | communitytranslateid=13720
+msgid "CPU Settings"
+msgstr "Nastavení procesoru"
+
+# | communitytranslateid=13706
+msgid "CPU"
+msgstr "Procesory"
+
+# # | translated from communitytranslateid=19388
+# | communitytranslateid=21620
+msgid "Could not write to input.map file"
+msgstr "Nelze zapsat do imput.map souboru"
+
+# | communitytranslateid=13867
+msgid "Could not write config file"
+msgstr "Nelze zapsat konfigurační soubor"
+
+# | communitytranslateid=13865
+msgid "Could not open Rendering device"
+msgstr "Nepodařilo se otevřít vykreslovcí zařízení"
+
+# | communitytranslateid=13707
+msgid "Controls"
+msgstr "Ovládání"
+
+# # | translated from communitytranslateid=17263
+# | communitytranslateid=21602
+msgid "connect hook node to a node in close proximity"
+msgstr "pripojte hacek uzlu k uzlu v těsné blízkosti"
+
+# | communitytranslateid=13868
+msgid "Configure error"
+msgstr "Chyba nastavení"
+
+# | communitytranslateid=13718
+msgid "Community / Support"
+msgstr "Obec / Podpora"
+
+# | communitytranslateid=13619
+msgid "Commands:"
+msgstr "Příkazy:"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=21052
+msgid "Command 9"
+msgstr "Příkaz 9"
+
+# # | translated from communitytranslateid=17217
+# | communitytranslateid=20206
+msgid "Command 8"
+msgstr "Příkaz 8"
+
+# # | translated from communitytranslateid=17216
+# | communitytranslateid=20194
+msgid "Command 7"
+msgstr "Příkaz 7"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=20187
+msgid "Command 6"
+msgstr "Příkaz 6"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=21053
+msgid "Command 5"
+msgstr "Příkaz 5"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=21057
+msgid "Command 48"
+msgstr "Příkaz 48"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=20188
+msgid "Command 47"
+msgstr "Příkaz 47"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=21058
+msgid "Command 46"
+msgstr "Příkaz 46"
+
+# # | translated from communitytranslateid=17254
+# | communitytranslateid=20210
+msgid "Command 45"
+msgstr "Příkaz 45"
+
+# # | translated from communitytranslateid=17253
+# | communitytranslateid=21059
+msgid "Command 44"
+msgstr "Příkaz 44"
+
+# # | translated from communitytranslateid=17252
+# | communitytranslateid=21063
+msgid "Command 43"
+msgstr "Příkaz 43"
+
+# # | translated from communitytranslateid=17251
+# | communitytranslateid=21064
+msgid "Command 42"
+msgstr "Příkaz 42"
+
+# # | translated from communitytranslateid=17250
+# | communitytranslateid=21065
+msgid "Command 41"
+msgstr "Příkaz 41"
+
+# # | translated from communitytranslateid=17249
+# | communitytranslateid=21067
+msgid "Command 40"
+msgstr "Příkaz 40"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=21056
+msgid "Command 4"
+msgstr "Příkaz 4"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=21072
+msgid "Command 39"
+msgstr "Příkaz 39"
+
+# # | translated from communitytranslateid=17247
+# | communitytranslateid=21074
+msgid "Command 38"
+msgstr "Příkaz 38"
+
+# # | translated from communitytranslateid=17246
+# | communitytranslateid=21079
+msgid "Command 37"
+msgstr "Příkaz 37"
+
+# # | translated from communitytranslateid=17245
+# | communitytranslateid=21080
+msgid "Command 36"
+msgstr "Příkaz 36"
+
+# # | translated from communitytranslateid=17244
+# | communitytranslateid=21081
+msgid "Command 35"
+msgstr "Příkaz 35"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=21082
+msgid "Command 34"
+msgstr "Příkaz 34"
+
+# # | translated from communitytranslateid=17242
+# | communitytranslateid=21083
+msgid "Command 33"
+msgstr "Příkaz 33"
+
+# # | translated from communitytranslateid=17241
+# | communitytranslateid=21084
+msgid "Command 32"
+msgstr "Příkaz 32"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=21085
+msgid "Command 31"
+msgstr "Příkaz 31"
+
+# # | translated from communitytranslateid=17239
+# | communitytranslateid=20203
+msgid "Command 30"
+msgstr "Příkaz 30"
+
+# # | translated from communitytranslateid=17212
+# | communitytranslateid=20199
+msgid "Command 3"
+msgstr "Příkaz 3"
+
+# # | translated from communitytranslateid=17238
+# | communitytranslateid=21086
+msgid "Command 29"
+msgstr "Příkaz 29"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=21087
+msgid "Command 28"
+msgstr "Příkaz 28"
+
+# # | translated from communitytranslateid=17236
+# | communitytranslateid=21088
+msgid "Command 27"
+msgstr "Příkaz 27"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=21077
+msgid "Command 26"
+msgstr "Příkaz 26"
+
+# # | translated from communitytranslateid=17234
+# | communitytranslateid=20202
+msgid "Command 25"
+msgstr "Příkaz 17"
+
+# # | translated from communitytranslateid=17233
+# | communitytranslateid=21076
+msgid "Command 24"
+msgstr "Příkaz 24"
+
+# # | translated from communitytranslateid=17232
+# | communitytranslateid=21075
+msgid "Command 23"
+msgstr "Příkaz 23"
+
+# # | translated from communitytranslateid=17231
+# | communitytranslateid=20205
+msgid "Command 22"
+msgstr "Příkaz 22"
+
+# # | translated from communitytranslateid=17230
+# | communitytranslateid=21073
+msgid "Command 21"
+msgstr "Příkaz 21"
+
+# # | translated from communitytranslateid=17229
+# | communitytranslateid=21071
+msgid "Command 20"
+msgstr "Příkaz 20"
+
+# # | translated from communitytranslateid=17211
+# | communitytranslateid=21054
+msgid "Command 2"
+msgstr "Příkaz 2"
+
+# # | translated from communitytranslateid=17228
+# | communitytranslateid=20185
+msgid "Command 19"
+msgstr "Příkaz 19"
+
+# # | translated from communitytranslateid=17227
+# | communitytranslateid=21070
+msgid "Command 18"
+msgstr "Příkaz 18"
+
+# # | translated from communitytranslateid=17226
+# | communitytranslateid=20198
+msgid "Command 17"
+msgstr "Příkaz 17"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=21069
+msgid "Command 16"
+msgstr "Příkaz 16"
+
+# # | translated from communitytranslateid=17224
+# | communitytranslateid=21068
+msgid "Command 15"
+msgstr "Příkaz 15"
+
+# # | translated from communitytranslateid=17223
+# | communitytranslateid=21066
+msgid "Command 14"
+msgstr "Příkaz 14"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=21062
+msgid "Command 13"
+msgstr "Příkaz 13"
+
+# # | translated from communitytranslateid=17221
+# | communitytranslateid=19164
+msgid "Command 12"
+msgstr "Příkaz 12"
+
+# # | translated from communitytranslateid=17220
+# | communitytranslateid=21061
+msgid "Command 11"
+msgstr "Příkaz 11"
+
+# # | translated from communitytranslateid=17219
+# | communitytranslateid=21060
+msgid "Command 10"
+msgstr "Příkaz 10"
+
+# # | translated from communitytranslateid=17210
+# | communitytranslateid=21055
+msgid "Command 1"
+msgstr "Příkaz 1"
+
+# | communitytranslateid=13770
+msgid "Cockpit options"
+msgstr "Volby kokpitu"
+
+# | communitytranslateid=13645
+msgid "close this dialog"
+msgstr "zavřít tento dialog"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=21588
+msgid "Click on blue hyperlinks to select a server."
+msgstr "Kliknete na modre hyperlinky k vybrani serveru."
+
+# | communitytranslateid=13810
+msgid "Clear cache"
+msgstr "Vyčistit cache"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=21078
+msgid "Choose a file"
+msgstr "Vyberte soubor"
+
+# # | translated from communitytranslateid=15264
+# | communitytranslateid=16280
+msgid "checking for new zips in "
+msgstr "kontrola nových zip"
+
+# # | translated from communitytranslateid=15265
+# | communitytranslateid=16279
+msgid "checking for new directories in "
+msgstr "kontrola nových adresářů"
+
+# # | translated from communitytranslateid=17191
+# | communitytranslateid=21170
+msgid "change camera mode"
+msgstr "zmenit mod kamery"
+
+# # | translated from communitytranslateid=17180
+# | communitytranslateid=21552
+msgid "center the rudder"
+msgstr "vycentrujte kormidlo"
+
+# | communitytranslateid=13700
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Zrušte změny konfigurace a zavřete konfigurační program."
+
+# | communitytranslateid=13527
+msgid "Cancel"
+msgstr "Zrušit"
+
+# | communitytranslateid=13741
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Caelum je pěkné nebe, ale je docela pomalé, pokud jste ve vysoce-napájeném GPU."
+
+# # | translated from communitytranslateid=17155
+# | communitytranslateid=21618
+msgid "Cache regeneration done.\n"
+msgstr "Cache regenerace dokoncena.\n"
+
+# | communitytranslateid=13591
+msgid "broken: "
+msgstr "rozbito:"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=21038
+msgid "brake"
+msgstr "brzda"
+
+# | communitytranslateid=13558
+msgid "Boat"
+msgstr "Lod"
+
+# | communitytranslateid=13776
+msgid "Bloom"
+msgstr "Bloom"
+
+# | communitytranslateid=13463
+msgid "Best FPS: "
+msgstr "Nejlepší FPS za vteřinu:"
+
+# | communitytranslateid=13588
+msgid "beam count: "
+msgstr "vypočítáno nosníků:"
+
+# | communitytranslateid=13724
+msgid "Balanced"
+msgstr "Balancováno"
+
+# | communitytranslateid=13477
+msgid "Bad server port"
+msgstr "Spatny serverový port"
+
+# | communitytranslateid=13599
+msgid "average stress: "
+msgstr "pruměrný stres:"
+
+# | communitytranslateid=13460
+msgid "Average FPS: "
+msgstr "Pruměrové FPS:"
+
+# | communitytranslateid=13597
+msgid "average deformation: "
+msgstr "pruměrná deformace:"
+
+# | communitytranslateid=13498
+msgid "Automatic shift"
+msgstr "Automaticke řazení"
+
+# | communitytranslateid=13540
+msgid "Authors: "
+msgstr "Autorové:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=20180
+msgid "Author: "
+msgstr "Autor:"
+
+# | communitytranslateid=13733
+msgid "Anti-aliasing:"
+msgstr "Anti-aliasing:"
+
+# | communitytranslateid=13795
+msgid "Anonymous"
+msgstr "Anonym"
+
+# | communitytranslateid=13616
+msgid "Altitude:"
+msgstr "Nadmořská výška:"
+
+# # | translated from communitytranslateid=17349
+# | communitytranslateid=21469
+msgid "airplane throttle"
+msgstr "plyn letadla"
+
+# # | translated from communitytranslateid=17169
+# | communitytranslateid=21175
+msgid "airplane parking brake."
+msgstr "parkovací brzda letadla."
+
+# | communitytranslateid=13556
+msgid "Airplane"
+msgstr "Letadlo"
+
+# | communitytranslateid=13717
+msgid "Advanced"
+msgstr "Rozšířené"
+
+# | communitytranslateid=13642
+msgid "Add the key"
+msgstr "Přidat klíč"
+
+# | communitytranslateid=13637
+msgid "Add"
+msgstr "Přidat"
+
+# # | translated from communitytranslateid=17306
+# | communitytranslateid=19161
+msgid "accelerate the truck"
+msgstr "akcelerujte"
+
+# | communitytranslateid=13478
+msgid "A network error occured"
+msgstr "Sítová chyba"
+
+# | communitytranslateid=13886
+msgid "5% deadzone"
+msgstr "5% mrtvé zony"
+
+# | communitytranslateid=13885
+msgid "5 %"
+msgstr "5%"
+
+# | communitytranslateid=13895
+msgid "30% deadzone"
+msgstr "30% mrtvé zony"
+
+# | communitytranslateid=13894
+msgid "30 %"
+msgstr "30%"
+
+# | communitytranslateid=13893
+msgid "20% deadzone"
+msgstr "20% mrtvé zony"
+
+# | communitytranslateid=13892
+msgid "20 %"
+msgstr "20%"
+
+# | communitytranslateid=13891
+msgid "15% deadzone"
+msgstr "15% mrtvé zony"
+
+# | communitytranslateid=13890
+msgid "15 %"
+msgstr "15 %"
+
+# | communitytranslateid=13492
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# | communitytranslateid=13799
+msgid "12333"
+msgstr "12333"
+
+# | communitytranslateid=13889
+msgid "10% deadzone"
+msgstr "10% mrtvé zony"
+
+# | communitytranslateid=13887
+msgid "10 %"
+msgstr "10 %"
+
+# # | translated from communitytranslateid=19403
+# | communitytranslateid=21598
+msgid "0 % (Total Linear)"
+msgstr "0% (Zcela Linearni)"
+
+# | communitytranslateid=13883
+msgid "0 % (No deadzone)"
+msgstr "0% (žádná mrtvá zona)"
+
+# | communitytranslateid=13490
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Jak hrát Multiplayer:</p><br><ol><li>Klikněte na <b>Aktualizovat</b> a objeví se seznam serveru.</li><li>Pak klikněte na jakýkoliv server v seznamu a klikněte na sítovy mod.</li><li>A pak klikněte na <b>Uložit a Hrát</b></li></ol>"
+
+# # | translated from communitytranslateid=15252
+# | communitytranslateid=21594
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Posledni Zpravy</h2>Zadny atm<h2>Pomoc/Podpora</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorialy'>tutorials</a><p/> (tato stranka bude rozsirena...)"
+
+# # | translated from communitytranslateid=19402
+# | communitytranslateid=21507
+msgid "+5% multiplication"
+msgstr "+5% nasobek"
+
+# # | translated from communitytranslateid=19401
+# | communitytranslateid=20200
+msgid "+5 %"
+msgstr "+5 procent"
+
+# # | translated from communitytranslateid=19392
+# | communitytranslateid=21508
+msgid "+30% multiplication"
+msgstr "+30% nasobek"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=21041
+msgid "+30 %"
+msgstr "+30 %"
+
+# # | translated from communitytranslateid=19394
+# | communitytranslateid=21509
+msgid "+25% multiplication"
+msgstr "+25% nasobek"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=21042
+msgid "+25 %"
+msgstr "+25 %"
+
+# # | translated from communitytranslateid=19396
+# | communitytranslateid=21512
+msgid "+20% multiplication"
+msgstr "+20% nasobek"
+
+# # | translated from communitytranslateid=19395
+# | communitytranslateid=21051
+msgid "+20 %"
+msgstr "+20 %"
+
+# # | translated from communitytranslateid=19398
+# | communitytranslateid=21514
+msgid "+15% multiplication"
+msgstr "+15% nasobek"
+
+# # | translated from communitytranslateid=19397
+# | communitytranslateid=21050
+msgid "+15 %"
+msgstr "+15 %"
+
+# # | translated from communitytranslateid=19400
+# | communitytranslateid=20207
+msgid "+10% multiplication"
+msgstr "+10% Množení"
+
+# # | translated from communitytranslateid=19399
+# | communitytranslateid=21049
+msgid "+10 %"
+msgstr "+10 %"
+
+# | communitytranslateid=13667
+msgid "(Please press a key)"
+msgstr "(Prosím zmačknete klavesu)"
+
+# | communitytranslateid=13669
+msgid "(Please press a Joystick Button)"
+msgstr "(Prosím, stiskněte tlačítko na Joysticku)"
+
+# | communitytranslateid=13672
+msgid "(Please move an Axis)\n"
+msgstr "(Prosím přesunte Osu)\n"
+
+# # | translated from communitytranslateid=19387
+# | communitytranslateid=21470
+msgid "(Please move a Slider)\n"
+msgstr "(prosim presunte posuvnik)\n"
+
+# | communitytranslateid=13813
+msgid "(No Languages found)"
+msgstr "(žádné jazyky nenalezeny)"
+
+# | communitytranslateid=13583
+msgid "(no author information available)"
+msgstr "žádné informace o autorovi"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=20190
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "...načítání...(Možná byste měli zkontrolovat připojení k internetu)"
+
+# # | translated from communitytranslateid=19406
+# | communitytranslateid=20196
+msgid "-5% multiplication"
+msgstr "-5% Množení"
+
+# # | translated from communitytranslateid=19405
+# | communitytranslateid=21048
+msgid "-5 %"
+msgstr "-5 %"
+
+# # | translated from communitytranslateid=19416
+# | communitytranslateid=21515
+msgid "-30% multiplication"
+msgstr "-30% nasobek"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=21047
+msgid "-30 %"
+msgstr "-30 %"
+
+# # | translated from communitytranslateid=19414
+# | communitytranslateid=21513
+msgid "-25% multiplication"
+msgstr "-25% nasobek"
+
+# # | translated from communitytranslateid=19413
+# | communitytranslateid=21046
+msgid "-25 %"
+msgstr "-25 %"
+
+# # | translated from communitytranslateid=19412
+# | communitytranslateid=21511
+msgid "-20% multiplication"
+msgstr "-20% nasobek"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=21045
+msgid "-20 %"
+msgstr "-20 %"
+
+# # | translated from communitytranslateid=19410
+# | communitytranslateid=21510
+msgid "-15% multiplication"
+msgstr "-15% nasobek"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=21044
+msgid "-15 %"
+msgstr "-15 %"
+
+# # | translated from communitytranslateid=19408
+# | communitytranslateid=21506
+msgid "-10% multiplication"
+msgstr "-10% nasobek"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=21043
+msgid "-10 %"
+msgstr "-10 %"
+
+# | communitytranslateid=13503
+msgid "^8 Player: ^7"
+msgstr "^8 Hráč: ^7"
+
+# | communitytranslateid=13510
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 usage: /rcmd [command] [optional arguments]"
+
+# | communitytranslateid=13518
+msgid "^1 unkown Command: "
+msgstr "^1 neznámý příkaz:"
+
+# | communitytranslateid=13509
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 CHYBA: Musíte použít /rlogin [heslo]"
+
+# | communitytranslateid=13515
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 CHYBA: chyba protokolu při posílání příkazu na RCON:"
+
+# | communitytranslateid=13505
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 CHYBA: Protokolní chyba při přihlašování na RCON:"
+
+# | communitytranslateid=13517
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 CHYBA: Nemáte zapnutý sítový mod"
+
+# | communitytranslateid=13522
+msgid "^1 Error Parsing command"
+msgstr "^1 Chyba při parsování příkazu"
+
+# # | translated from communitytranslateid=15255
+# | communitytranslateid=16278
+msgid " not existing"
+msgstr "neexistující"
+
+# # | translated from communitytranslateid=15256
+# | communitytranslateid=16277
+msgid " changed"
+msgstr "změněno"
+

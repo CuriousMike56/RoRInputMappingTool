@@ -1,0 +1,1719 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=22070
+msgid "zoom into the overview map in interactive mode"
+msgstr "Büyük haritaya yaklaş"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=22069
+msgid "zoom camera out faster"
+msgstr "Görüntüden daha hızlı uzaklaş"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=22080
+msgid "zoom camera out"
+msgstr "Uzaklaş"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=22083
+msgid "zoom camera in faster"
+msgstr "Daha hızlı yakınlaş"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=22193
+msgid "zoom camera in"
+msgstr "Yakınlaş"
+
+# | communitytranslateid=14632
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Ağ isminiz. En fazla 20 karakter."
+
+# | communitytranslateid=14952
+msgid "Your Forum User Token."
+msgstr "Forum Kullanıcı Adınız."
+
+# | communitytranslateid=14951
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Yeni dili aktif hale getirmek için programı kaydedip yeniden başlatmalısınız."
+
+# : source/configurator.cpp:1167
+# | communitytranslateid=12564
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Bu ayarları bir problemle karşılaşmadığınız sürece değiştirmek zorunda değilsiniz"
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=22196
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Bu kutucuğun işaretini kaldırarak oyundaki gıcırdama sesini kapatabilirsiniz."
+
+# # | translated from communitytranslateid=10619
+# | communitytranslateid=22198
+msgid "wrote screenshot:"
+msgstr "Ekran görüntüsü şuraya kaydedildi:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=22209
+msgid "Write error"
+msgstr "Yazma hatası"
+
+# # | translated from communitytranslateid=17265
+# | communitytranslateid=22236
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr "Mevcut konumu günlüğe yaz.(Daha sonra günlük dosyasını açabilir ve kayıtlı konumu tekrar kullanabilirsiniz.)"
+
+# | communitytranslateid=14635
+msgid "Worst FPS: "
+msgstr "En kötü FPS:"
+
+# # | translated from communitytranslateid=10644
+# | communitytranslateid=16539
+msgid "Wheels: "
+msgstr "Tekerlekler"
+
+# : source/configurator.cpp:1068
+# | communitytranslateid=12524
+msgid "Water type:"
+msgstr "Su tipi:"
+
+# : source/configurator.cpp:1074
+# | communitytranslateid=12528
+msgid "Water spray"
+msgstr "Su spreyi"
+
+# : source/configurator.cpp:1070
+# | communitytranslateid=12525
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Su yansıması yavaştır , iyi grafik kartı gerektirir. Hız odaklı modda kamera titreşimi görülebilir."
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=22031
+msgid "Warning"
+msgstr "Uyarı"
+
+# : source/configurator.cpp:1044
+# : source/configurator.cpp:1046
+# | communitytranslateid=12519
+msgid "VSync"
+msgstr "VSync"
+
+# : source/configurator.cpp:1098
+# | communitytranslateid=12540
+msgid "Visual effects"
+msgstr "Görsel efektler"
+
+# : source/configurator.cpp:1023
+# : source/configurator.cpp:1025
+# | communitytranslateid=12514
+msgid "Video mode:"
+msgstr "Video Modu"
+
+# # | translated from communitytranslateid=10654
+# | communitytranslateid=16540
+msgid "Vehicle Type: "
+msgstr "Araç Türü"
+
+# : source/configurator.cpp:1082
+# | communitytranslateid=12530
+msgid "Vegetation:"
+msgstr "Ağaçlar ve Bitkiler:"
+
+# # | translated from communitytranslateid=10766
+# | communitytranslateid=16712
+msgid "User Token: "
+msgstr "Kullanıcı Adı"
+
+# # | translated from communitytranslateid=17145
+# | communitytranslateid=22242
+msgid "Use this to remove the whole cache and force the generation from ground up."
+msgstr "Bu seçeneği önbelleği boşaltmak ve dosyaların en baştan kontrol edilip belleğe alınmasını sağlamak için kullanın."
+
+# # | translated from communitytranslateid=17144
+# | communitytranslateid=22251
+msgid "Use this to regenerate the cache outside of RoR. If this does not work, use the clear cache button."
+msgstr "Bu seçeneği önbelleği yeniden oluşturmak için kullanın.Eğer işe yaramazsa, 'Önbelleği temizle' seçeneğini kullanın."
+
+# : source/configurator.cpp:1956
+# | communitytranslateid=12601
+msgid "Upper"
+msgstr "Yukarı"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=22037
+msgid "Updates"
+msgstr "Güncelleştirmeler"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=22215
+msgid "Update now"
+msgstr "Şimdi güncelle"
+
+# : source/configurator.cpp:1165
+# | communitytranslateid=12563
+msgid "Update"
+msgstr "Güncelle"
+
+# # | translated from communitytranslateid=10655
+# | communitytranslateid=16542
+msgid "unkown encoding problem"
+msgstr "Bilinmeyen kodlama hatası"
+
+# # | translated from communitytranslateid=10641
+# | communitytranslateid=16545
+msgid "unknown.dds"
+msgstr "Bilinmeyen .dds dosyası"
+
+# : source/configurator.cpp:1189
+# | communitytranslateid=12570
+msgid "Uncheck in case you have a fog problem"
+msgstr "Sis sorununuz varsa deaktive edin"
+
+# | communitytranslateid=14639
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Server bağlanılamıyor. Server devre dışı veya ağla ilgili problemleriniz var."
+
+# # | translated from communitytranslateid=15267
+# | communitytranslateid=16546
+msgid "Unable to connect to server"
+msgstr "Sunucuya bağlanılamıyor"
+
+# : source/configurator.cpp:1300
+# | communitytranslateid=12589
+msgid "Type"
+msgstr "Tip"
+
+# # | translated from communitytranslateid=15266
+# | communitytranslateid=16547
+msgid "Trying to connect to server ..."
+msgstr "Sunucuya bağlanılmaya çalışılıyor"
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=22232
+msgid "truck horn"
+msgstr "Korna"
+
+# # | translated from communitytranslateid=10650
+# | communitytranslateid=16531
+msgid "Truck"
+msgstr "Kamyon"
+
+# | communitytranslateid=14636
+msgid "Triangle Count: "
+msgstr "Üçgen Sayısı:"
+
+# # | translated from communitytranslateid=10648
+# | communitytranslateid=16527
+msgid "Torque: "
+msgstr "Tork"
+
+# # | translated from communitytranslateid=10646
+# | communitytranslateid=16549
+msgid "tons"
+msgstr "Ton"
+
+# # | translated from communitytranslateid=17282
+# | communitytranslateid=22219
+msgid "toggle truck HUD"
+msgstr "Gösterge panelini göster/gizle"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=22221
+msgid "toggle truck front lights"
+msgstr "Kamyon ön farlarını aç/kapa"
+
+# # | translated from communitytranslateid=17280
+# | communitytranslateid=22697
+msgid "toggle truck beacons"
+msgstr "Kamyon lambalarını aç/kapa"
+
+# # | translated from communitytranslateid=17279
+# | communitytranslateid=22249
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr "Ogre istatistiklerini(FPS vs.)aç/kapa"
+
+# # | translated from communitytranslateid=17322
+# | communitytranslateid=22233
+msgid "toggle custom light 8"
+msgstr "8 numaralı özel lamba kontrolü"
+
+# # | translated from communitytranslateid=17319
+# | communitytranslateid=22234
+msgid "toggle custom light 5"
+msgstr "5 numaralı özel lamba kontrolü"
+
+# # | translated from communitytranslateid=17316
+# | communitytranslateid=22207
+msgid "toggle custom light 2"
+msgstr "2 Numaralı özel lamba kontrolü"
+
+# # | translated from communitytranslateid=17314
+# | communitytranslateid=22081
+msgid "toggle custom light 1"
+msgstr "1 Numaralı özel lamba kontrolü"
+
+# # | translated from communitytranslateid=17334
+# | communitytranslateid=22206
+msgid "toggle between windowed and fullscreen mode"
+msgstr "Pencere ve tam ekran görünümü arasında geçiş yap"
+
+# # | translated from communitytranslateid=17330
+# | communitytranslateid=22698
+msgid "toggle between transmission modes"
+msgstr "Şanzıman çeşitleri arasında geçiş yap"
+
+# # | translated from communitytranslateid=17352
+# | communitytranslateid=22036
+msgid "toggle between net chat display modes"
+msgstr "net sohbet gösterim modları arasında geçiş yap"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=22226
+msgid "tie a load to the truck"
+msgstr "Yükü kamyona bağla"
+
+# : source/configurator.cpp:1121
+# : source/configurator.cpp:1122
+# | communitytranslateid=12550
+msgid "Thread number:"
+msgstr "İşlemci sayısı"
+
+# # | translated from communitytranslateid=10776
+# | communitytranslateid=16550
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Bu ayar sistemin mevcut dilinin üzerinde etkili olur.Değişiklikleri uygulamak için yapılandırıcıyı yeniden başlatmanız gerekmektedir."
+
+# : source/configurator.cpp:1089
+# | communitytranslateid=12534
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Bu özellik eski sistemlerde performans kaybına yol açar , ama güzel bir görsel özelliktir."
+
+# # | translated from communitytranslateid=17147
+# | communitytranslateid=22078
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr "Bu seçenek,çoklu oyun modunda eksik dosyaların otomatik olarak indirilmesini sağlar."
+
+# : source/configurator.cpp:1085
+# | communitytranslateid=12531
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Bu seçenek ne kadar çim ve ağaç görüntüleneceğini belirler."
+
+# : source/configurator.cpp:1161
+# | communitytranslateid=12562
+msgid "The server password, if required."
+msgstr "Server şifresi, eğer gerekliyse."
+
+# : source/configurator.cpp:1035
+# : source/configurator.cpp:1037
+# | communitytranslateid=12516
+msgid "Texture filtering:"
+msgstr "Doku Filtreleme"
+
+# : source/configurator.cpp:994
+# | communitytranslateid=12508
+msgid "Test"
+msgstr "Test et"
+
+# | communitytranslateid=14640
+msgid "Terrain not found: "
+msgstr "Harita bulunamadı."
+
+# | communitytranslateid=14641
+msgid "Terrain loading error"
+msgstr "Harita yükleme hatası"
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=22231
+msgid "teleport to rescue truck"
+msgstr "Çekiçiye git"
+
+# : source/configurator.cpp:1099
+# | communitytranslateid=12541
+msgid "Sunburn"
+msgstr "Sunburn"
+
+# # | translated from communitytranslateid=17183
+# | communitytranslateid=22216
+msgid "steer right a step"
+msgstr "Bir adım sağa dön"
+
+# # | translated from communitytranslateid=10657
+# | communitytranslateid=16532
+msgid "Startup error"
+msgstr "Başlangıç Hatası"
+
+# # | translated from communitytranslateid=15714
+# | communitytranslateid=16701
+msgid "SPECIAL_CHARACTERS"
+msgstr "ğ ı i ö ş ü ç İ Ç Ş Ü Ö Ğ"
+
+# : source/configurator.cpp:1048
+# | communitytranslateid=12520
+msgid "Special effects"
+msgstr "Özel efektler"
+
+# : source/configurator.cpp:938
+# | communitytranslateid=12502
+msgid "Sounds"
+msgstr "Ses"
+
+# : source/configurator.cpp:1114
+# : source/configurator.cpp:1117
+# | communitytranslateid=12549
+msgid "Sound rendering:"
+msgstr "Ses işleme"
+
+# : source/configurator.cpp:1052
+# | communitytranslateid=12521
+msgid "Sky type:"
+msgstr "Gökyüzü tipi:"
+
+# # | translated from communitytranslateid=10696
+# | communitytranslateid=16548
+msgid "Simple Settings"
+msgstr "Basit Ayarlar"
+
+# : source/configurator.cpp:1097
+# | communitytranslateid=12539
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Aynaları aktive eder, Eski grafik kartlarında sorun çıkartabilir."
+
+# : source/configurator.cpp:1198
+# | communitytranslateid=12576
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Torpidoyu göster . Eski grafik kartlarında uyumsuzluk sorununa yol açabilir."
+
+# : source/configurator.cpp:1207
+# | communitytranslateid=12582
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Bütün collision mesh'lerini doğru konumlandırmanız için kırmızı gösterir. Sadece sorun gidermek için kullanılmalıdır!"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=22041
+msgid "show / hide the console"
+msgstr "konsolu göster / gizle"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=22223
+msgid "shift directly to third gear"
+msgstr "Direkt olarak 3.vitese geç."
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=22077
+msgid "shift directly to reverse gear"
+msgstr "Direkt olarak geri vitese geç"
+
+# # | translated from communitytranslateid=19436
+# | communitytranslateid=22194
+msgid "shift directly to 6th gear"
+msgstr "Direkt olarak 6.vitese geç."
+
+# # | translated from communitytranslateid=19435
+# | communitytranslateid=22073
+msgid "shift directly to 5th gear"
+msgstr "Direkt olarak 5. vitese geç"
+
+# # | translated from communitytranslateid=19447
+# | communitytranslateid=22213
+msgid "shift directly to 17th gear"
+msgstr "Direkt olarak 17.vitese geç."
+
+# # | translated from communitytranslateid=19443
+# | communitytranslateid=22071
+msgid "shift directly to 13th gear"
+msgstr "Direkt olarak 13. vitese geç"
+
+# # | translated from communitytranslateid=19442
+# | communitytranslateid=22195
+msgid "shift directly to 12th gear"
+msgstr "Direkt olarak 12.vitese geç."
+
+# # | translated from communitytranslateid=19441
+# | communitytranslateid=22032
+msgid "shift directly to 11th gear"
+msgstr "doğrudan 11. vitese geç"
+
+# # | translated from communitytranslateid=19440
+# | communitytranslateid=22208
+msgid "shift directly to 10th gear"
+msgstr "Direkt olarak 10.vitese geç."
+
+# : source/configurator.cpp:1059
+# : source/configurator.cpp:1061
+# | communitytranslateid=12523
+msgid "Shadow type:"
+msgstr "Gölge tipi:"
+
+# # | translated from communitytranslateid=10709
+# | communitytranslateid=16702
+msgid "Sets all settings in a simple way"
+msgstr "Tüm ayarları basit bir şekilde yapılandırır."
+
+# : source/configurator.cpp:1148
+# : source/configurator.cpp:1507
+# | communitytranslateid=12559
+msgid "Server port number: "
+msgstr "Server port numarası:"
+
+# : source/configurator.cpp:1154
+# | communitytranslateid=12561
+msgid "Server password: "
+msgstr "Server şifresi:"
+
+# : source/configurator.cpp:1144
+# : source/configurator.cpp:1505
+# | communitytranslateid=12557
+msgid "Server host name: "
+msgstr "Server host adı:"
+
+# # | translated from communitytranslateid=17297
+# | communitytranslateid=22244
+msgid "select previous element in current category"
+msgstr "Mevcut kategorideki bir önceki seçeneği seçin"
+
+# # | translated from communitytranslateid=10640
+# | communitytranslateid=16551
+msgid "Search"
+msgstr "Ara"
+
+# : source/configurator.cpp:1171
+# | communitytranslateid=12565
+msgid "Screenshot Format:"
+msgstr "Screenshot Formatı"
+
+# : source/configurator.cpp:1007
+# | communitytranslateid=12511
+msgid "Screen configuration"
+msgstr "Ekran ayarları"
+
+# : source/configurator.cpp:920
+# | communitytranslateid=12497
+msgid "Save the current configuration and start RoR."
+msgstr "Mevcut ayarları kaydet ve RoR'u başlat."
+
+# : source/configurator.cpp:924
+# | communitytranslateid=12499
+msgid "Save the current configuration and close the configuration program."
+msgstr "Mevcut ayarları kaydet ve ayar programından çık."
+
+# : source/configurator.cpp:918
+# : source/configurator.cpp:927
+# | communitytranslateid=12496
+msgid "Save and Play"
+msgstr "Kaydet ve Oyna"
+
+# : source/configurator.cpp:921
+# | communitytranslateid=12498
+msgid "Save and Exit"
+msgstr "Kaydet ve Çık"
+
+# : source/configurator.cpp:1014
+# : source/configurator.cpp:1019
+# : source/configurator.cpp:1021
+# | communitytranslateid=12513
+msgid "RTT Mode:"
+msgstr "RTT Modu"
+
+# # | translated from communitytranslateid=17206
+# | communitytranslateid=22202
+msgid "rotate character right"
+msgstr "Karakteri sağa döndür"
+
+# # | translated from communitytranslateid=17196
+# | communitytranslateid=22222
+msgid "rotate camera right"
+msgstr "Kamerayı sağa döndür"
+
+# : source/configurator.cpp:897
+# | communitytranslateid=12491
+msgid "Rigs of Rods configuration"
+msgstr "Rigs of Rods Ayarları"
+
+# : source/configurator.cpp:1953
+# | communitytranslateid=12599
+msgid "reverse axis"
+msgstr "Ters eksen"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=12598
+msgid "Reverse"
+msgstr "Ters"
+
+# : source/configurator.cpp:917
+# : source/configurator.cpp:926
+# | communitytranslateid=12495
+msgid "Restore the default configuration."
+msgstr "Varsayılan ayarlara dönmenizi sağlar."
+
+# : source/configurator.cpp:915
+# | communitytranslateid=12494
+msgid "Restore Defaults"
+msgstr "Varsayılan Ayarlar"
+
+# # | translated from communitytranslateid=17270
+# | communitytranslateid=22033
+msgid "reset truck to original starting position"
+msgstr "kamyonu orjinal başlangıç pozisyonuna götür"
+
+# # | translated from communitytranslateid=17193
+# | communitytranslateid=22225
+msgid "reset the camera position"
+msgstr "Kamera ayarını sıfırla"
+
+# : source/configurator.cpp:1105
+# | communitytranslateid=12546
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Görüntüyü bulandırır.Güncel bir grafik kartı gerektirir."
+
+# : source/configurator.cpp:1102
+# | communitytranslateid=12544
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Işığa tazelik verir.Güncel bir grafik kartı gerektirir."
+
+# : source/configurator.cpp:1100
+# | communitytranslateid=12542
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Güneş ışığı efekti katar.Güncel bir grafik kartı gerektirir."
+
+# : source/configurator.cpp:1201
+# | communitytranslateid=12578
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Tekrar modu. (Performansı düşürebilir)"
+
+# : source/configurator.cpp:1199
+# | communitytranslateid=12577
+msgid "Replay Mode"
+msgstr "Tekrar Modu"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=22203
+msgid "Render System"
+msgstr "Görselleme Sistemi"
+
+# : source/configurator.cpp:1962
+# | communitytranslateid=12604
+msgid "Region"
+msgstr "Bölge"
+
+# : source/configurator.cpp:1204
+# | communitytranslateid=12580
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Bütün nokta ağırlıklarını RoR.log 'a yazdırır. Sadece sorun gidermek için kullanılmalıdır!"
+
+# # | translated from communitytranslateid=19386
+# | communitytranslateid=22239
+msgid "Please use any mapped input device in order to test."
+msgstr "Lütfen test etmek için herhangi bir giriş aygıtını(kontrolü) kullanın."
+
+# : source/configurator.cpp:316
+# | communitytranslateid=12473
+msgid "Please select an input event."
+msgstr "Lütfen bir giriş seçin."
+
+# # | translated from communitytranslateid=10635
+# | communitytranslateid=16537
+msgid "Please clear the place first"
+msgstr "Lütfen alanı boşaltın"
+
+# : source/configurator.cpp:1195
+# | communitytranslateid=12574
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Su spreyleri veya Toz parçaçıkları . Multiplayer moddada kullanılabilir."
+
+# : source/configurator.cpp:1086
+# | communitytranslateid=12532
+msgid "Particle systems"
+msgstr "Parçacık Sistemleri"
+
+# : source/configurator.cpp:1833
+# | communitytranslateid=12591
+msgid "Options"
+msgstr "Seçenekler"
+
+# : source/configurator.cpp:494
+# : source/configurator.cpp:500
+# | communitytranslateid=12482
+msgid "ok (end test)"
+msgstr "Testi bitir"
+
+# # | translated from communitytranslateid=10636
+# | communitytranslateid=16552
+msgid "OK"
+msgstr "Tamam"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=12592
+msgid "Ogre config validation error"
+msgstr "Ogre ayar doğrulama hatası"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=12594
+msgid "Ogre config error"
+msgstr "Ogre ayar hatası"
+
+# : source/configurator.cpp:1192
+# | communitytranslateid=12572
+msgid "Not much impact on speed."
+msgstr "Hıza fazla etkisi yoktur."
+
+# # | translated from communitytranslateid=10622
+# | communitytranslateid=16553
+msgid "normal camera"
+msgstr "Normal Kamera"
+
+# # | translated from communitytranslateid=17162
+# | communitytranslateid=22211
+msgid "normal brake for an aircraft"
+msgstr "Fren (Uçak için)"
+
+# # | translated from communitytranslateid=10649
+# | communitytranslateid=16554
+msgid "Non-Driveable"
+msgstr "Sürülemez"
+
+# # | translated from communitytranslateid=10647
+# | communitytranslateid=16653
+msgid "Nodes: "
+msgstr "Bağlantı noktaları"
+
+# # | translated from communitytranslateid=10667
+# | communitytranslateid=16655
+msgid "node count: "
+msgstr "Bağlantı noktaları sayısı"
+
+# # | translated from communitytranslateid=17168
+# | communitytranslateid=22250
+msgid "no flaps."
+msgstr "Kanatçıklar kapalı"
+
+# : source/configurator.cpp:1076
+# | communitytranslateid=12529
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Su spreyini çalıştırmadıkça bir etkisi yoktur , güzel bir özelliktir."
+
+# : source/configurator.cpp:1966
+# | communitytranslateid=12607
+msgid "no deadzone"
+msgstr "Ölü bölge yok"
+
+# # | translated from communitytranslateid=10642
+# | communitytranslateid=16555
+msgid "no author information available"
+msgstr "Tasarımcı bilgisi yok."
+
+# : source/configurator.cpp:1133
+# : source/configurator.cpp:1503
+# | communitytranslateid=12553
+msgid "Nickname: "
+msgstr "Takma Ad"
+
+# # | translated from communitytranslateid=10805
+# | communitytranslateid=16556
+msgid "new Language selected"
+msgstr "Yeni bir dil seçildi"
+
+# : source/configurator.cpp:997
+# | communitytranslateid=12509
+msgid "Network"
+msgstr "Ağ"
+
+# : source/configurator.cpp:498
+# | communitytranslateid=12484
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# : source/configurator.cpp:1103
+# | communitytranslateid=12545
+msgid "Motion blur"
+msgstr "Motion blur"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=22201
+msgid "more airbrakes"
+msgstr "Daha fazla fren"
+
+# : source/configurator.cpp:1095
+# | communitytranslateid=12538
+msgid "Mirrors"
+msgstr "Aynalar"
+
+# : source/configurator.cpp:1216
+# : source/configurator.cpp:1296
+# | communitytranslateid=12587
+msgid "minimum visibility range in percent"
+msgstr "Yüzde olarak minimum görüş menzili"
+
+# # | translated from communitytranslateid=10671
+# | communitytranslateid=16557
+msgid "max Speed:"
+msgstr "En yüksek hız"
+
+# # | translated from communitytranslateid=10645
+# | communitytranslateid=16558
+msgid "Mass: "
+msgstr "Ağırlık"
+
+# # | translated from communitytranslateid=10624
+# | communitytranslateid=16559
+msgid "Manual shift - Auto clutch"
+msgstr "Düz vites-Otomatik debriyaj"
+
+# # | translated from communitytranslateid=17324
+# | communitytranslateid=22253
+msgid "manual clutch (for manual transmission)"
+msgstr "Manuel debriyaj (Düz vites için)"
+
+# # | translated from communitytranslateid=10653
+# | communitytranslateid=16560
+msgid "Machine"
+msgstr "Makine"
+
+# : source/configurator.cpp:1960
+# | communitytranslateid=12603
+msgid "Lower"
+msgstr "Aşağı"
+
+# # | translated from communitytranslateid=17192
+# | communitytranslateid=22039
+msgid "look back (toggles between normal and lookback)"
+msgstr "geriye bak (normal ve geriye bak arasında geçiş yapar)"
+
+# # | translated from communitytranslateid=15261
+# | communitytranslateid=16566
+msgid "loading...\n"
+msgstr "Yükleniyor\n"
+
+# # | translated from communitytranslateid=15262
+# | communitytranslateid=16561
+msgid "Loading zips in group "
+msgstr "Sıkıştırılmış dosyalar yükleniyor"
+
+# # | translated from communitytranslateid=15268
+# | communitytranslateid=16562
+msgid "Loading Terrain"
+msgstr "Harita Yükleniyor"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=22076
+msgid "loading new directory: "
+msgstr "Yeni klasör yükleniyor:"
+
+# # | translated from communitytranslateid=15263
+# | communitytranslateid=16567
+msgid "Loading directory\n"
+msgstr "Yükleme Dosyası\n"
+
+# # | translated from communitytranslateid=10638
+# | communitytranslateid=16568
+msgid "Loader"
+msgstr "Yükleyici"
+
+# # | translated from communitytranslateid=10639
+# | communitytranslateid=16571
+msgid "List"
+msgstr "Liste"
+
+# # | translated from communitytranslateid=19417
+# | communitytranslateid=22038
+msgid "Linearity"
+msgstr "Doğrusallık"
+
+# : source/configurator.cpp:1180
+# : source/configurator.cpp:1182
+# : source/configurator.cpp:1184
+# | communitytranslateid=12567
+msgid "Light source effects:"
+msgstr "Işık kaynağı efektleri"
+
+# # | translated from communitytranslateid=17347
+# | communitytranslateid=22229
+msgid "less airbrakes"
+msgstr "Daha az fren"
+
+# # | translated from communitytranslateid=10774
+# | communitytranslateid=16574
+msgid "Language:"
+msgstr "Dil"
+
+# : source/configurator.cpp:504
+# | communitytranslateid=12485
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# : source/configurator.cpp:312
+# | communitytranslateid=12472
+msgid "Keyboard"
+msgstr "Klavye"
+
+# : source/configurator.cpp:1302
+# | communitytranslateid=12590
+msgid "Key/Axis"
+msgstr "Tuş/Eksen"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=12597
+msgid "Joystick Options"
+msgstr "Joystick Seçenekleri"
+
+# : source/configurator.cpp:1954
+# | communitytranslateid=12600
+msgid "Joystick Axis Region"
+msgstr "Joystick Eksen Bölgesi"
+
+# # | translated from communitytranslateid=19390
+# | communitytranslateid=22212
+msgid "Joystick Axis Linearity"
+msgstr "Oyun çubuğu ekseni çizgiselliği"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=12605
+msgid "Joystick Axis Deadzones"
+msgstr "Joystick Eksen Ölü bölgeleri"
+
+# : source/configurator.cpp:496
+# | communitytranslateid=12483
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# : source/configurator.cpp:323
+# : source/configurator.cpp:976
+# | communitytranslateid=12474
+msgid "Input Type: "
+msgstr "Giriş Tipi:"
+
+# # | translated from communitytranslateid=15257
+# | communitytranslateid=16683
+msgid "incremental check: processing changed zips\n"
+msgstr "Değişen sıkıştırılmış dosyalar işleniyor.\n"
+
+# # | translated from communitytranslateid=15259
+# | communitytranslateid=16684
+msgid "incremental check: new files\n"
+msgstr "Yeni dosyalar kontrol ediliyor.\n"
+
+# # | translated from communitytranslateid=15258
+# | communitytranslateid=16688
+msgid "incremental check: new content\n"
+msgstr "Yeni içerik kontrol ediliyor.\n"
+
+# # | translated from communitytranslateid=15260
+# | communitytranslateid=16689
+msgid "incremental check: duplicates\n"
+msgstr "Tekrar eden dosyalar kontrol ediliyor.\n"
+
+# # | translated from communitytranslateid=15254
+# | communitytranslateid=16691
+msgid "incremental check: deleted and changed files\n"
+msgstr "Silinmiş ve değiştirilmiş dosyalar kontrol ediliyor.\n"
+
+# # | translated from communitytranslateid=15253
+# | communitytranslateid=16692
+msgid "incremental check: deleted and changed files"
+msgstr "Silinmiş ve değiştirilmiş dosyalar kontrol ediliyor."
+
+# # | translated from communitytranslateid=17267
+# | communitytranslateid=22230
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr "Lastik havasını arttır.(Sadece birkaç kamyon bu özelliği desteklemektedir.)"
+
+# # | translated from communitytranslateid=17285
+# | communitytranslateid=22072
+msgid "increase the current FOV value"
+msgstr "Mevcut FOV değerini arttır"
+
+# # | translated from communitytranslateid=17178
+# | communitytranslateid=22246
+msgid "increase the airplane thrust"
+msgstr "Uçağın gazını arttır"
+
+# : source/configurator.cpp:1173
+# | communitytranslateid=12566
+msgid "In what Format should screenshots be saved?"
+msgstr "Screenshot'lar hangi formatta kaydedilsin?"
+
+# : source/configurator.cpp:983
+# | communitytranslateid=12506
+msgid "Import Keymap"
+msgstr "Import Keymap"
+
+# # | translated from communitytranslateid=10798
+# | communitytranslateid=16659
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Eğer XFire kullanıyorsanız,oyun hakkında daha detaylı bilgi için bu seçeneği etkin hale getirebilirsiniz."
+
+# # | translated from communitytranslateid=10796
+# | communitytranslateid=16679
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Eğer hareketli dış kamerayı istemiyorsanız,buradan kapatabilirsiniz."
+
+# : source/configurator.cpp:1208
+# | communitytranslateid=12583
+msgid "Hydrax Water System"
+msgstr "Hydrax Su Sistemi"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=22228
+msgid "hold to start the engine"
+msgstr "Basılı tutarak motoru çalıştırın"
+
+# : source/configurator.cpp:1106
+# | communitytranslateid=12547
+msgid "High quality reflective effects"
+msgstr "Yüksek kalite yansıma efektleri"
+
+# # | translated from communitytranslateid=10712
+# | communitytranslateid=16583
+msgid "High Quality"
+msgstr "Yüksek Kalite"
+
+# # | translated from communitytranslateid=10710
+# | communitytranslateid=16584
+msgid "High Performance"
+msgstr "Yüksek Performans"
+
+# # | translated from communitytranslateid=17262
+# | communitytranslateid=22224
+msgid "hide all GUI elements"
+msgstr "Bütün grafik arayüz elemanlarını gizle"
+
+# # | translated from communitytranslateid=10803
+# | communitytranslateid=16585
+msgid "here you can get help"
+msgstr "Buradan yardım alabilirsiniz"
+
+# : source/configurator.cpp:1090
+# | communitytranslateid=12535
+msgid "HeatHaze"
+msgstr "Su buharı"
+
+# : source/configurator.cpp:1093
+# | communitytranslateid=12536
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Motorlardan çıkan su buharı, performans kaybına yol açar. (sadece güncel donanımlarda çalıştırın)"
+
+# # | translated from communitytranslateid=10662
+# | communitytranslateid=16586
+msgid "health: "
+msgstr "Sağlamlık"
+
+# # | translated from communitytranslateid=10713
+# | communitytranslateid=16588
+msgid "Graphics Settings"
+msgstr "Görüntü Ayarları"
+
+# : source/configurator.cpp:935
+# | communitytranslateid=12501
+msgid "Graphics"
+msgstr "Grafikler"
+
+# # | translated from communitytranslateid=10625
+# | communitytranslateid=16587
+msgid "Fully Manual shift"
+msgstr "Düz Vites"
+
+# : source/configurator.cpp:1043
+# | communitytranslateid=12518
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Tam ekran modu daha az ram tüketir"
+
+# : source/configurator.cpp:1041
+# | communitytranslateid=12517
+msgid "Full screen"
+msgstr "Tam ekran"
+
+# : source/configurator.cpp:1958
+# | communitytranslateid=12602
+msgid "Full"
+msgstr "Tam"
+
+# # | translated from communitytranslateid=10621
+# | communitytranslateid=16536
+msgid "free camera"
+msgstr "Serbest Kamera"
+
+# : source/configurator.cpp:1187
+# | communitytranslateid=12569
+msgid "Fog"
+msgstr "Sis"
+
+# # | translated from communitytranslateid=10620
+# | communitytranslateid=16664
+msgid "fixed free camera"
+msgstr "Sabit Serbest Kamera"
+
+# : source/configurator.cpp:986
+# | communitytranslateid=12507
+msgid "Export Keymap"
+msgstr "Kontrol Listesini Ver"
+
+# # | translated from communitytranslateid=17289
+# | communitytranslateid=22210
+msgid "EXPERIMENTAL: remove grass completely"
+msgstr "Deneme aşamasında:Çimenleri tamamen kaldır"
+
+# : source/configurator.cpp:394
+# | communitytranslateid=12481
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Olay Değeri (sol = 0%, sağ = 100%)"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# : source/configurator.cpp:298
+# : source/configurator.cpp:308
+# : source/configurator.cpp:321
+# | communitytranslateid=12471
+msgid "Event Name: "
+msgstr "Olay Adı:"
+
+# : source/configurator.cpp:393
+# | communitytranslateid=12480
+msgid "Event Name"
+msgstr "Olay Adı"
+
+# : source/configurator.cpp:392
+# | communitytranslateid=12479
+msgid "Event Description: "
+msgstr "Olay Tanımı"
+
+# : source/configurator.cpp:1298
+# | communitytranslateid=12588
+msgid "Event"
+msgstr "Olay"
+
+# : source/configurator.cpp:1190
+# | communitytranslateid=12571
+msgid "Engine smoke"
+msgstr "Egzoz dumanı"
+
+# : source/configurator.cpp:1073
+# | communitytranslateid=12527
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Dalgaları aktive etmek gemilerle çok eğlencelidir, ama eski sistemlerde büyük performans kaybına yol açabilir."
+
+# : source/configurator.cpp:1210
+# | communitytranslateid=12584
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Yeni su rendering sistemini çalıştırır. DENEYSEL. diğer su sistemlerinin yerine geçer."
+
+# # | translated from communitytranslateid=10797
+# | communitytranslateid=16666
+msgid "Enable XFire Extension"
+msgstr "XFire desteğini etkinleştir."
+
+# : source/configurator.cpp:1071
+# | communitytranslateid=12526
+msgid "Enable waves"
+msgstr "Dalgaları etkinleştir"
+
+# # | translated from communitytranslateid=10799
+# | communitytranslateid=16693
+msgid "Enable Visual Beam Debug"
+msgstr "Görsel Çubuk Hata Ayrıştırmasını Etkinleştir."
+
+# # | translated from communitytranslateid=19429
+# | communitytranslateid=22075
+msgid "enable or disable replay mode"
+msgstr "Yeniden oynatma modunu aç/kapat"
+
+# # | translated from communitytranslateid=17278
+# | communitytranslateid=22235
+msgid "enable of disable replay mode"
+msgstr "Yeniden oynatma seçeneğini aktifleştir/kapat"
+
+# : source/configurator.cpp:1129
+# : source/configurator.cpp:1132
+# | communitytranslateid=12552
+msgid "Enable network mode"
+msgstr "Multiplayer modu aç"
+
+# : source/configurator.cpp:1109
+# | communitytranslateid=12548
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Yüksek kalite yansıma efektlerini aktive et . Performans kaybına yol açabilir."
+
+# # | translated from communitytranslateid=17146
+# | communitytranslateid=22217
+msgid "Enable Auto-Downloader"
+msgstr "Otomatik indirmeyi aktifleştir"
+
+# : source/configurator.cpp:1123
+# : source/configurator.cpp:1128
+# | communitytranslateid=12551
+msgid "Enable advanced wheel model"
+msgstr "Gelişmiş tekerlek modelini etkinleştir."
+
+# # | translated from communitytranslateid=17336
+# | communitytranslateid=22205
+msgid "enable / disable free camera mode"
+msgstr "Serbest kamerayı aç/kapa"
+
+# : source/configurator.cpp:1087
+# | communitytranslateid=12533
+msgid "Dust"
+msgstr "Toz"
+
+# # | translated from communitytranslateid=10800
+# | communitytranslateid=16685
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Bağlantı noktası sayılarını ve bu noktalar ile çubuklar hakkında ayrıntılı bilgiyi gösterir."
+
+# : source/configurator.cpp:1213
+# | communitytranslateid=12586
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "Haritasız mod. Sadece test amaçlı kullanılır, Fps'ye etkisi yoktur."
+
+# : source/configurator.cpp:1211
+# | communitytranslateid=12585
+msgid "Disable Overview Map"
+msgstr "Taslak Haritayı İptal Et"
+
+# # | translated from communitytranslateid=10795
+# | communitytranslateid=16686
+msgid "Disable Camera Pitching"
+msgstr "Kamera Hareketini İptal Et"
+
+# : source/configurator.cpp:1009
+# : source/configurator.cpp:1012
+# : source/configurator.cpp:1017
+# | communitytranslateid=12512
+msgid "Device:"
+msgstr "Cihaz"
+
+# # | translated from communitytranslateid=10663
+# | communitytranslateid=16589
+msgid "destruction: "
+msgstr "Hasar"
+
+# : source/configurator.cpp:981
+# | communitytranslateid=12505
+msgid "Delete selected"
+msgstr "Seçileni sil"
+
+# # | translated from communitytranslateid=17350
+# | communitytranslateid=22043
+msgid "delete current truck"
+msgstr "geçerli kamyonu sil"
+
+# # | translated from communitytranslateid=10664
+# | communitytranslateid=16594
+msgid "deformed: "
+msgstr "deforme olmuş:"
+
+# # | translated from communitytranslateid=17284
+# | communitytranslateid=22199
+msgid "decreases the current FOV value"
+msgstr "Mevcut FOV değerini azaltır"
+
+# # | translated from communitytranslateid=17185
+# | communitytranslateid=22243
+msgid "decrease throttle"
+msgstr "Gazı azalt"
+
+# : source/configurator.cpp:1202
+# | communitytranslateid=12579
+msgid "Debug Truck Mass"
+msgstr "Debug Truck Mass"
+
+# : source/configurator.cpp:1205
+# | communitytranslateid=12581
+msgid "Debug Collision Meshes"
+msgstr "Debug Collision Meshes"
+
+# : source/configurator.cpp:2276
+# : source/configurator.cpp:2287
+# | communitytranslateid=12618
+msgid "Deadzone"
+msgstr "Ölü bölge"
+
+# : source/configurator.cpp:900
+# : source/configurator.cpp:902
+# : source/configurator.cpp:908
+# | communitytranslateid=12492
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# : source/configurator.cpp:507
+# : source/configurator.cpp:510
+# | communitytranslateid=12486
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# : source/configurator.cpp:914
+# | communitytranslateid=12493
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# : source/configurator.cpp:565
+# | communitytranslateid=12487
+msgid "data/"
+msgstr "data/"
+
+# : source/configurator.cpp:1196
+# | communitytranslateid=12575
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+# # | translated from communitytranslateid=19452
+# | communitytranslateid=22237
+msgid "Cycle between available differental models"
+msgstr "Mevcut şanzıman türlerinin arasında dolaş"
+
+# : source/configurator.cpp:1193
+# | communitytranslateid=12573
+msgid "Custom Particles"
+msgstr "Özel Parçacıklar"
+
+# # | translated from communitytranslateid=10670
+# | communitytranslateid=16602
+msgid "current Speed:"
+msgstr "Hız"
+
+# # | translated from communitytranslateid=10669
+# | communitytranslateid=16605
+msgid "current RPM:"
+msgstr "Motor Devri"
+
+# # | translated from communitytranslateid=10668
+# | communitytranslateid=16609
+msgid "current mass:"
+msgstr "Mevcut Ağırlık"
+
+# | communitytranslateid=14631
+msgid "Current FPS: "
+msgstr "Mevcut FPS"
+
+# # | translated from communitytranslateid=10708
+# | communitytranslateid=16613
+msgid "CPU Settings"
+msgstr "İşlemci Ayarları"
+
+# : source/configurator.cpp:941
+# | communitytranslateid=12503
+msgid "CPU"
+msgstr "CPU"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=12595
+msgid "Could not write config file"
+msgstr "Ayar dosyasına kaydedilemiyor"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=12593
+msgid "Could not open Rendering device"
+msgstr "Rendering cihazını çalıştırılamadı"
+
+# : source/configurator.cpp:977
+# | communitytranslateid=12504
+msgid "Controls"
+msgstr "Kontroller"
+
+# : source/configurator.cpp:1948
+# | communitytranslateid=12596
+msgid "Configure error"
+msgstr "Ayar hatası"
+
+# # | translated from communitytranslateid=10707
+# | communitytranslateid=16617
+msgid "Community / Support"
+msgstr "Topluluk/Destek"
+
+# # | translated from communitytranslateid=10673
+# | communitytranslateid=16622
+msgid "Commands:"
+msgstr "Kontroller"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=22245
+msgid "Command 6"
+msgstr "6.Komut"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=22034
+msgid "Command 47"
+msgstr "Komut 47"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=22252
+msgid "Command 46"
+msgstr "46.Komut"
+
+# # | translated from communitytranslateid=17252
+# | communitytranslateid=22074
+msgid "Command 43"
+msgstr "43.Komut"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=22218
+msgid "Command 4"
+msgstr "4.Komut"
+
+# # | translated from communitytranslateid=17247
+# | communitytranslateid=22227
+msgid "Command 38"
+msgstr "38.Komut"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=22240
+msgid "Command 34"
+msgstr "34.Komut"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=22204
+msgid "Command 31"
+msgstr "31.Komut"
+
+# # | translated from communitytranslateid=17238
+# | communitytranslateid=22248
+msgid "Command 29"
+msgstr "29.Komut"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=22241
+msgid "Command 28"
+msgstr "28.Komut"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=22238
+msgid "Command 26"
+msgstr "26.Komut"
+
+# # | translated from communitytranslateid=17232
+# | communitytranslateid=22220
+msgid "Command 23"
+msgstr "23.Komut"
+
+# # | translated from communitytranslateid=17229
+# | communitytranslateid=22200
+msgid "Command 20"
+msgstr "20.Komut"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=22247
+msgid "Command 16"
+msgstr "16.Komut"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=22082
+msgid "Command 13"
+msgstr "13.Komut"
+
+# # | translated from communitytranslateid=17221
+# | communitytranslateid=22214
+msgid "Command 12"
+msgstr "12.Komut"
+
+# : source/configurator.cpp:1094
+# | communitytranslateid=12537
+msgid "Cockpit options"
+msgstr "Kokpit seçenekleri"
+
+# : source/configurator.cpp:336
+# | communitytranslateid=12478
+msgid "close this dialog"
+msgstr "Pencereyi kapat"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=22044
+msgid "Click on blue hyperlinks to select a server."
+msgstr "Bir sunucu seçmek için mavi linklere tıklayın."
+
+# : source/configurator.cpp:1186
+# | communitytranslateid=12568
+msgid "Clear cache"
+msgstr "Belleği temizle"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=22040
+msgid "Choose a file"
+msgstr "Bir dosya seçin"
+
+# # | translated from communitytranslateid=15264
+# | communitytranslateid=16625
+msgid "checking for new zips in "
+msgstr "Yeni sıkıştırılmış dosyalar kontrol ediliyor."
+
+# # | translated from communitytranslateid=15265
+# | communitytranslateid=16647
+msgid "checking for new directories in "
+msgstr "Yeni dosyalar kontrol ediliyor."
+
+# # | translated from communitytranslateid=17180
+# | communitytranslateid=22197
+msgid "center the rudder"
+msgstr "Dümeni ortala"
+
+# : source/configurator.cpp:932
+# | communitytranslateid=12500
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Ayarlarda yapılan değişiklikleri iptal et ve programı kapat."
+
+# : source/configurator.cpp:327
+# | communitytranslateid=12477
+msgid "Cancel"
+msgstr "İptal"
+
+# : source/configurator.cpp:1054
+# | communitytranslateid=12522
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Caelum gökyüzü daha güzeldir ama grafik kartınız güçlü değilse performans kaybına yol açar."
+
+# # | translated from communitytranslateid=17155
+# | communitytranslateid=22079
+msgid "Cache regeneration done.\n"
+msgstr "Önbellek yenilemesi tamamlandı.\n"
+
+# # | translated from communitytranslateid=10661
+# | communitytranslateid=16628
+msgid "broken: "
+msgstr "Kırılan"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=22084
+msgid "brake"
+msgstr "Fren"
+
+# # | translated from communitytranslateid=10652
+# | communitytranslateid=16637
+msgid "Boat"
+msgstr "Tekne"
+
+# : source/configurator.cpp:1101
+# | communitytranslateid=12543
+msgid "Bloom"
+msgstr "Bloom"
+
+# | communitytranslateid=14634
+msgid "Best FPS: "
+msgstr "En iyi FPS:"
+
+# # | translated from communitytranslateid=10660
+# | communitytranslateid=16687
+msgid "beam count: "
+msgstr "Çubuk Sayısı"
+
+# # | translated from communitytranslateid=10711
+# | communitytranslateid=16651
+msgid "Balanced"
+msgstr "Dengeli"
+
+# | communitytranslateid=14637
+msgid "Bad server port"
+msgstr "Verimsiz Sunucu Portu"
+
+# # | translated from communitytranslateid=10666
+# | communitytranslateid=16632
+msgid "average stress: "
+msgstr "Ortalama Gerilim"
+
+# | communitytranslateid=14633
+msgid "Average FPS: "
+msgstr "Ortalama FPS"
+
+# # | translated from communitytranslateid=10665
+# | communitytranslateid=16640
+msgid "average deformation: "
+msgstr "Ortalama Esneme"
+
+# # | translated from communitytranslateid=10623
+# | communitytranslateid=16650
+msgid "Automatic shift"
+msgstr "Otomatik Vites"
+
+# # | translated from communitytranslateid=10643
+# | communitytranslateid=16644
+msgid "Authors: "
+msgstr "Tasarımcılar"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=22042
+msgid "Author: "
+msgstr "Yapımcı:"
+
+# : source/configurator.cpp:1027
+# : source/configurator.cpp:1029
+# | communitytranslateid=12515
+msgid "Anti-aliasing:"
+msgstr "Anti-aliasing:"
+
+# : source/configurator.cpp:1134
+# | communitytranslateid=12554
+msgid "Anonymous"
+msgstr "Anonim"
+
+# # | translated from communitytranslateid=10672
+# | communitytranslateid=16642
+msgid "Altitude:"
+msgstr "Yükseklik"
+
+# # | translated from communitytranslateid=10651
+# | communitytranslateid=16629
+msgid "Airplane"
+msgstr "Uçak"
+
+# : source/configurator.cpp:1003
+# | communitytranslateid=12510
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+# : source/configurator.cpp:326
+# : source/configurator.cpp:923
+# | communitytranslateid=12476
+msgid "Add the key"
+msgstr "Tuşu ekle"
+
+# : source/configurator.cpp:324
+# | communitytranslateid=12475
+msgid "Add"
+msgstr "Ekle"
+
+# | communitytranslateid=14638
+msgid "A network error occured"
+msgstr "Ağ hatası meydana geldi"
+
+# : source/configurator.cpp:1969
+# | communitytranslateid=12609
+msgid "5% deadzone"
+msgstr "5 % ölü bölge"
+
+# : source/configurator.cpp:1966
+# | communitytranslateid=12608
+msgid "5 %"
+msgstr "5 %"
+
+# : source/configurator.cpp:1981
+# | communitytranslateid=12617
+msgid "30% deadzone"
+msgstr "30% ölü bölge"
+
+# : source/configurator.cpp:1978
+# | communitytranslateid=12616
+msgid "30 %"
+msgstr "30 %"
+
+# : source/configurator.cpp:1978
+# | communitytranslateid=12615
+msgid "20% deadzone"
+msgstr "20% ölü bölge"
+
+# : source/configurator.cpp:1975
+# | communitytranslateid=12614
+msgid "20 %"
+msgstr "20 %"
+
+# : source/configurator.cpp:1975
+# | communitytranslateid=12613
+msgid "15% deadzone"
+msgstr "15% ölü bölge"
+
+# : source/configurator.cpp:1972
+# | communitytranslateid=12612
+msgid "15 %"
+msgstr "15% ölü bölge"
+
+# : source/configurator.cpp:1145
+# : source/configurator.cpp:1149
+# : source/configurator.cpp:1147
+# | communitytranslateid=12558
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# : source/configurator.cpp:1152
+# | communitytranslateid=12560
+msgid "12333"
+msgstr "12333"
+
+# : source/configurator.cpp:1972
+# | communitytranslateid=12611
+msgid "10% deadzone"
+msgstr "10% ölü bölge"
+
+# : source/configurator.cpp:1969
+# | communitytranslateid=12610
+msgid "10 %"
+msgstr "10 %"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=12606
+msgid "0 % (No deadzone)"
+msgstr "0 % (Ölü bölge yok)"
+
+# : source/configurator.cpp:1141
+# : source/configurator.cpp:1143
+# | communitytranslateid=12556
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Çok oyunculu modda nasıl oynanır:</p><br><ol><li><b>Güncelle</b> butonuna tıklayıp mevcut sunucuları görün.</li><li>Herhangi bir sunucu linkine tıklayın.</li><li><b>Kaydet ve Çık</b>'a tıklayarak oyunu başlatın.</li></ol>"
+
+# : source/configurator.cpp:587
+# | communitytranslateid=12488
+msgid "(Please press a key)"
+msgstr "(Bir tuşa basın)"
+
+# : source/configurator.cpp:613
+# | communitytranslateid=12489
+msgid "(Please press a Joystick Button)"
+msgstr "(Bir joystick butonuna basın)"
+
+# : source/configurator.cpp:829
+# | communitytranslateid=12490
+msgid "(Please move an Axis)\n"
+msgstr "(Bir eksende hareket yapın)\n"
+
+# # | translated from communitytranslateid=10775
+# | communitytranslateid=16704
+msgid "(No Languages found)"
+msgstr "Herhangi bir dil bulunamadı."
+
+# # | translated from communitytranslateid=10659
+# | communitytranslateid=16705
+msgid "(no author information available)"
+msgstr "Tasarımcı bilgisi mevcut değil."
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=22035
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "... yükleniyor ... (internet bağlantınızı kontrol etmeniz gerekebilir)"
+
+# # | translated from communitytranslateid=10633
+# | communitytranslateid=16706
+msgid "^1 unkown Command: "
+msgstr "^1 Bilinmeyen Komut"
+
+# # | translated from communitytranslateid=10631
+# | communitytranslateid=16710
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "RCON'a komut gönderimi sırasında bir protokol hatası oluştu."
+
+# # | translated from communitytranslateid=10628
+# | communitytranslateid=16709
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "RCON bağlantısı sırasında bir protokol hatası oluştu."
+
+# # | translated from communitytranslateid=10632
+# | communitytranslateid=16708
+msgid "^1 ERROR: not in network mode"
+msgstr "Ağ modunda değil."
+
+# # | translated from communitytranslateid=10634
+# | communitytranslateid=16711
+msgid "^1 Error Parsing command"
+msgstr "Ayrık komut hatası."
+
+# # | translated from communitytranslateid=15255
+# | communitytranslateid=16707
+msgid " not existing"
+msgstr "Böyle bir şey yok."
+
+# # | translated from communitytranslateid=15256
+# | communitytranslateid=16646
+msgid " changed"
+msgstr "Değiştirildi"
+

@@ -1,0 +1,3116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:851
+# | communitytranslateid=17291
+msgid "zoom into the overview map in interactive mode"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:311
+# | communitytranslateid=17201
+msgid "zoom camera out faster"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:305
+# | communitytranslateid=17200
+msgid "zoom camera out"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:299
+# | communitytranslateid=17199
+msgid "zoom camera in faster"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:293
+# | communitytranslateid=17198
+msgid "zoom camera in"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1618
+# | communitytranslateid=10758
+msgid "Your network name. Maximum 20 Characters."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1642
+# | communitytranslateid=10767
+msgid "Your Forum User Token."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1809
+# | communitytranslateid=10804
+msgid "You must save and restart the program to activate the new language!"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1656
+# | communitytranslateid=10769
+msgid "You do not need to change these settings unless you experience problems"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1594
+# in the configurator
+# : configurator.cpp:1596
+# | communitytranslateid=10753
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1569
+# | communitytranslateid=17141
+msgid "You can disable the default creak sound by checking this box"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:2279
+# | communitytranslateid=10619
+msgid "wrote screenshot:"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2289
+# | communitytranslateid=10810
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2480
+# | communitytranslateid=19389
+msgid "Write error"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:695
+# | communitytranslateid=17265
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:219
+# | communitytranslateid=10612
+msgid "Worst FPS: "
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:417
+# | communitytranslateid=10644
+msgid "Wheels: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1541
+# | communitytranslateid=10727
+msgid "Water type:"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1547
+# | communitytranslateid=10731
+msgid "Water spray"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1543
+# | communitytranslateid=10728
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2751
+# | communitytranslateid=17151
+msgid "Warning"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1517
+# in the configurator
+# : configurator.cpp:1519
+# | communitytranslateid=10722
+msgid "VSync"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1571
+# | communitytranslateid=10743
+msgid "Visual effects"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1496
+# in the configurator
+# : configurator.cpp:1498
+# | communitytranslateid=10717
+msgid "Video mode:"
+msgstr ""
+
+# in the game
+# : IngameConsole.cpp:308
+# | communitytranslateid=10654
+msgid "Vehicle Type: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1555
+# | communitytranslateid=10733
+msgid "Vegetation:"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1640
+# | communitytranslateid=10766
+msgid "User Token: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1691
+# : configurator.cpp:2129
+# | communitytranslateid=10774
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1659
+# | communitytranslateid=17145
+msgid "Use this to remove the whole cache and force the generation from ground up."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1675
+# | communitytranslateid=10773
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1656
+# | communitytranslateid=17144
+msgid "Use this to regenerate the cache outside of RoR. If this does not work, use the clear cache button."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2330
+# | communitytranslateid=10819
+msgid "Upper"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1455
+# in the configurator
+# : configurator.cpp:1459
+# : configurator.cpp:1468
+# | communitytranslateid=10708
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1457
+# | communitytranslateid=17138
+msgid "Updates"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1809
+# | communitytranslateid=10804
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1791
+# | communitytranslateid=17149
+msgid "Update now"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1654
+# | communitytranslateid=10768
+msgid "Update"
+msgstr ""
+
+# in the game
+# : IngameEditor.cpp:646
+# in the game
+# : Settings.cpp:93
+# | communitytranslateid=10655
+msgid "unkown encoding problem"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:410
+# | communitytranslateid=10641
+msgid "unknown.dds"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1703
+# | communitytranslateid=10778
+msgid "Uncheck in case you have a fog problem"
+msgstr ""
+
+# in the game
+# in the game
+# : ExampleFrameListener.cpp:1398
+# : ExampleFrameListener.cpp:4318
+# | communitytranslateid=10616
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr ""
+
+# in the game
+# in the game
+# : C:\data\ror-trunk\RoRdev\build\main\source/ExampleFrameListener.cpp:1342
+# : C:\data\ror-trunk\RoRdev\build\main\source/ExampleFrameListener.cpp:4302
+# | communitytranslateid=15267
+msgid "Unable to connect to server"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1834
+# | communitytranslateid=10807
+msgid "Type"
+msgstr ""
+
+# in the game
+# : C:\data\ror-trunk\RoRdev\build\main\source/ExampleFrameListener.cpp:1316
+# | communitytranslateid=15266
+msgid "Trying to connect to server ..."
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:989
+# | communitytranslateid=17313
+msgid "truck horn"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:421
+# | communitytranslateid=10650
+msgid "Truck"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:1293
+# | communitytranslateid=10613
+msgid "Triangle Count: "
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:4086
+# | communitytranslateid=10626
+msgid "tracks/CreditsOverlay"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2575
+# | communitytranslateid=19404
+msgid "Total Linear"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:421
+# | communitytranslateid=10648
+msgid "Torque: "
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:418
+# | communitytranslateid=10646
+msgid "tons"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:797
+# | communitytranslateid=17282
+msgid "toggle truck HUD"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:791
+# | communitytranslateid=17281
+msgid "toggle truck front lights"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:785
+# | communitytranslateid=17280
+msgid "toggle truck beacons"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:689
+# | communitytranslateid=17264
+msgid "toggle translucency of overview-map"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:743
+# | communitytranslateid=17273
+msgid "toggle skeleton display mode"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:971
+# | communitytranslateid=17310
+msgid "toggle right direction indicator (blinker)"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:767
+# | communitytranslateid=17277
+msgid "toggle render mode (solid, wireframe and points)"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:755
+# | communitytranslateid=17275
+msgid "toggle particle cannon"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1061
+# | communitytranslateid=17325
+msgid "toggle parking brake"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:863
+# | communitytranslateid=17292
+msgid "toggle overview map interactive mode"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:779
+# | communitytranslateid=17279
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:803
+# | communitytranslateid=17283
+msgid "toggle map modes"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:965
+# | communitytranslateid=17309
+msgid "toggle left direction indicator (blinker)"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1111
+# | communitytranslateid=17331
+msgid "toggle ignition"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1049
+# | communitytranslateid=17323
+msgid "toggle custom light 9"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1043
+# | communitytranslateid=17322
+msgid "toggle custom light 8"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1037
+# | communitytranslateid=17321
+msgid "toggle custom light 7"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1031
+# | communitytranslateid=17320
+msgid "toggle custom light 6"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1025
+# | communitytranslateid=17319
+msgid "toggle custom light 5"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1019
+# | communitytranslateid=17318
+msgid "toggle custom light 4"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1013
+# | communitytranslateid=17317
+msgid "toggle custom light 3"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1007
+# | communitytranslateid=17316
+msgid "toggle custom light 2"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1001
+# | communitytranslateid=17315
+msgid "toggle custom light 10"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:995
+# | communitytranslateid=17314
+msgid "toggle custom light 1"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1129
+# | communitytranslateid=17334
+msgid "toggle between windowed and fullscreen mode"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1103
+# | communitytranslateid=17330
+msgid "toggle between transmission modes"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1237
+# | communitytranslateid=17352
+msgid "toggle between net chat display modes"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:941
+# | communitytranslateid=17305
+msgid "toggle between available road types"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:935
+# | communitytranslateid=17304
+msgid "toggle between available objects"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:659
+# | communitytranslateid=17259
+msgid "toggle appearance of console"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:977
+# | communitytranslateid=17311
+msgid "toggle all direction indicators"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:737
+# | communitytranslateid=17272
+msgid "tie a load to the truck"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:137
+# | communitytranslateid=17174
+msgid "throttle axis. Only use this if you have fitting hardware :) (i.e. a Slider)"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1594
+# in the configurator
+# : configurator.cpp:1596
+# | communitytranslateid=10753
+msgid "Thread number:"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1700
+# | communitytranslateid=10776
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1562
+# | communitytranslateid=10737
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1739
+# in the configurator
+# : configurator.cpp:1746
+# | communitytranslateid=10801
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1723
+# | communitytranslateid=17147
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1558
+# | communitytranslateid=10734
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:578
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:590
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:605
+# | communitytranslateid=15253
+# : C:\data\ror-sf\trunk\build\main\source/CacheSystem.cpp:675
+# | communitytranslateid=17152
+msgid "The update service is currently only available for windows users."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1638
+# | communitytranslateid=10765
+msgid "The server password, if required."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1508
+# in the configurator
+# : configurator.cpp:1510
+# | communitytranslateid=10719
+msgid "Texture filtering:"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1440
+# | communitytranslateid=10704
+msgid "Test"
+msgstr ""
+
+# in the game
+# in the game
+# : ExampleFrameListener.cpp:1399
+# : ExampleFrameListener.cpp:4319
+# | communitytranslateid=10617
+msgid "Terrain not found: "
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:2244
+# | communitytranslateid=10618
+msgid "Terrain loading error"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:719
+# | communitytranslateid=17269
+msgid "teleport to rescue truck"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:731
+# | communitytranslateid=17271
+msgid "take a screenshot"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:929
+# | communitytranslateid=17303
+msgid "switch to road laying mode"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:167
+# | communitytranslateid=17179
+msgid "switch all engines on / off"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1572
+# | communitytranslateid=10744
+msgid "Sunburn"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:323
+# | communitytranslateid=17203
+msgid "step forward with the character"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:317
+# | communitytranslateid=17202
+msgid "step backwards with the character"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:197
+# | communitytranslateid=17183
+msgid "steer right a step"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:209
+# | communitytranslateid=17184
+msgid "steer right (analog value!)"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:52
+# | communitytranslateid=17161
+msgid "steer right"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:185
+# | communitytranslateid=17181
+msgid "steer left a step"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:191
+# | communitytranslateid=17182
+msgid "steer left (analog value!)"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:131
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:203
+# | communitytranslateid=17173
+msgid "steer left"
+msgstr ""
+
+# in the game
+# : Settings.cpp:101
+# | communitytranslateid=10657
+msgid "Startup error"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:749
+# | communitytranslateid=17274
+msgid "start the old truck editor"
+msgstr ""
+
+# This is a special field intended for the translator.
+# Please insert every special character (non-ASCII) of your language into this field, separated by spaces.
+# This will ensure that RoR will know all special characters in the game, so you can chat in MP :)
+# Thank you!
+# | communitytranslateid=15714
+msgid "SPECIAL_CHARACTERS"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1521
+# | communitytranslateid=10723
+msgid "Special effects"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1380
+# | communitytranslateid=10698
+msgid "Sounds"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1587
+# in the configurator
+# : configurator.cpp:1590
+# | communitytranslateid=10752
+msgid "Sound rendering:"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1525
+# | communitytranslateid=10724
+msgid "Sky type:"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/gui_loader.cpp:412
+# | communitytranslateid=17157
+msgid "Skins"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1374
+# | communitytranslateid=10696
+msgid "Simple Settings"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:359
+# | communitytranslateid=17209
+msgid "sidestep to the right"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:353
+# | communitytranslateid=17208
+msgid "sidestep to the left"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1570
+# | communitytranslateid=10742
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1712
+# | communitytranslateid=10784
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1721
+# | communitytranslateid=10790
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1117
+# | communitytranslateid=17332
+msgid "show truck tool"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:653
+# | communitytranslateid=17258
+msgid "show / hide the console"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1073
+# | communitytranslateid=17327
+msgid "shift to neutral gear in manual transmission mode"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1079
+# | communitytranslateid=17328
+msgid "shift one gear up in manual transmission mode"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1067
+# | communitytranslateid=17326
+msgid "shift one gear down in manual transmission mode"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1104
+# | communitytranslateid=19433
+msgid "shift directly to third gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1098
+# | communitytranslateid=19432
+msgid "shift directly to second gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1086
+# | communitytranslateid=19430
+msgid "shift directly to reverse gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1110
+# | communitytranslateid=19434
+msgid "shift directly to fourth gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1092
+# | communitytranslateid=19431
+msgid "shift directly to first gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1140
+# | communitytranslateid=19439
+msgid "shift directly to 9th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1134
+# | communitytranslateid=19438
+msgid "shift directly to 8th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1128
+# | communitytranslateid=19437
+msgid "shift directly to 7th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1122
+# | communitytranslateid=19436
+msgid "shift directly to 6th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1116
+# | communitytranslateid=19435
+msgid "shift directly to 5th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1195
+# | communitytranslateid=19448
+msgid "shift directly to 18th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1189
+# | communitytranslateid=19447
+msgid "shift directly to 17th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1183
+# | communitytranslateid=19446
+msgid "shift directly to 16th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1177
+# | communitytranslateid=19445
+msgid "shift directly to 15th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1171
+# | communitytranslateid=19444
+msgid "shift directly to 14th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1165
+# | communitytranslateid=19443
+msgid "shift directly to 13th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1159
+# | communitytranslateid=19442
+msgid "shift directly to 12th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1152
+# | communitytranslateid=19441
+msgid "shift directly to 11th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1146
+# | communitytranslateid=19440
+msgid "shift directly to 10th gear"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:959
+# | communitytranslateid=17308
+msgid "shift automatic transmission one gear up"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:953
+# | communitytranslateid=17307
+msgid "shift automatic transmission one gear down"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1532
+# in the configurator
+# : configurator.cpp:1534
+# | communitytranslateid=10726
+msgid "Shadow type:"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1207
+# | communitytranslateid=19450
+msgid "sets middle range (7-12) for H-shaft"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1201
+# | communitytranslateid=19449
+msgid "sets low range (1-6) for H-shaft"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1213
+# | communitytranslateid=19451
+msgid "sets high range (13-18) for H-shaft"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1461
+# : configurator.cpp:1470
+# | communitytranslateid=10709
+msgid "Sets all settings in a simple way"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1629
+# : configurator.cpp:2047
+# | communitytranslateid=10762
+msgid "Server port number: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1635
+# | communitytranslateid=10764
+msgid "Server password: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1625
+# : configurator.cpp:2045
+# | communitytranslateid=10760
+msgid "Server host name: "
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:893
+# | communitytranslateid=17297
+msgid "select previous element in current category"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:875
+# | communitytranslateid=17294
+msgid "select previous category"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:869
+# | communitytranslateid=17293
+msgid "select next element in current category"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:881
+# | communitytranslateid=17295
+msgid "select next category"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:887
+# | communitytranslateid=17296
+msgid "select focussed item and close menu"
+msgstr ""
+
+# in the game
+# in the game
+# : gui_loader.cpp:364
+# : gui_loader.cpp:376
+# | communitytranslateid=10640
+msgid "Search"
+msgstr "Suchen"
+
+# in the configurator
+# : configurator.cpp:1660
+# | communitytranslateid=10770
+msgid "Screenshot Format:"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1480
+# | communitytranslateid=10714
+msgid "Screen configuration"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1353
+# | communitytranslateid=10692
+msgid "Save the current configuration and start RoR."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1358
+# | communitytranslateid=10694
+msgid "Save the current configuration and close the configuration program."
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:3053
+# | communitytranslateid=19420
+msgid "Save Mapping to File"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1350
+# : configurator.cpp:1363
+# | communitytranslateid=10691
+msgid "Save and Play"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1354
+# | communitytranslateid=10693
+msgid "Save and Exit"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:119
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1085
+# | communitytranslateid=17172
+msgid "rudder right"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:113
+# | communitytranslateid=17171
+msgid "rudder left"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1487
+# : configurator.cpp:1492
+# in the configurator
+# : configurator.cpp:1494
+# | communitytranslateid=10716
+msgid "RTT Mode:"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1243
+# | communitytranslateid=17353
+msgid "rotate view up"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1249
+# | communitytranslateid=17354
+msgid "rotate view down"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:923
+# | communitytranslateid=17302
+msgid "rotate object right"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:917
+# | communitytranslateid=17301
+msgid "rotate object left"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:341
+# | communitytranslateid=17206
+msgid "rotate character right"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:335
+# | communitytranslateid=17205
+msgid "rotate character left"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:287
+# | communitytranslateid=17197
+msgid "rotate camera up"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:281
+# | communitytranslateid=17196
+msgid "rotate camera right"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:275
+# | communitytranslateid=17195
+msgid "rotate camera left"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:269
+# | communitytranslateid=17194
+msgid "rotate camera down"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1345
+# | communitytranslateid=10688
+msgid "Rigs of Rods configuration"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:107
+# | communitytranslateid=17170
+msgid "reverse the turboprops"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2327
+# | communitytranslateid=10817
+msgid "reverse axis"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2324
+# | communitytranslateid=10816
+msgid "Reverse"
+msgstr ""
+
+# in the configurator
+# in the configurator
+# : configurator.cpp:1349
+# : configurator.cpp:1362
+# | communitytranslateid=10690
+msgid "Restore the default configuration."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1346
+# | communitytranslateid=10689
+msgid "Restore Defaults"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:725
+# | communitytranslateid=17270
+msgid "reset truck to original starting position"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:263
+# | communitytranslateid=17193
+msgid "reset the camera position"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1578
+# | communitytranslateid=10749
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1575
+# | communitytranslateid=10747
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1573
+# | communitytranslateid=10745
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1715
+# | communitytranslateid=10786
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1713
+# | communitytranslateid=10785
+msgid "Replay Mode"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1508
+# in the configurator
+# : configurator.cpp:1510
+# | communitytranslateid=10719
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1485
+# | communitytranslateid=17139
+msgid "Render System"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1123
+# | communitytranslateid=17333
+msgid "reloads the roads (experimental)"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2336
+# | communitytranslateid=10822
+msgid "Region"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1654
+# | communitytranslateid=17143
+msgid "Regen cache"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:70
+# | communitytranslateid=17164
+msgid "pull the elevator up in an aircraft."
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:64
+# | communitytranslateid=17163
+msgid "pull the elevator down in an aircraft."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1718
+# | communitytranslateid=10788
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:648
+# | communitytranslateid=10684
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:501
+# | communitytranslateid=19386
+msgid "Please use any mapped input device in order to test."
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2942
+# | communitytranslateid=19418
+msgid "Please select what type of device to export"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:394
+# | communitytranslateid=10676
+msgid "Please select an input event."
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:55
+# | communitytranslateid=10635
+msgid "Please clear the place first"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:899
+# | communitytranslateid=17298
+msgid "place currently selected object at current position"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:911
+# | communitytranslateid=17300
+msgid "pitch object foreward"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:905
+# | communitytranslateid=17299
+msgid "pitch object backward"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1709
+# | communitytranslateid=10782
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1559
+# | communitytranslateid=10735
+msgid "Particle systems"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2283
+# | communitytranslateid=10809
+msgid "Options"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:88
+# | communitytranslateid=17167
+msgid "one step more flaps."
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:82
+# | communitytranslateid=17166
+msgid "one step less flaps."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:648
+# | communitytranslateid=10684
+msgid "ok (end test)"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:56
+# | communitytranslateid=10636
+msgid "OK"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2289
+# | communitytranslateid=10810
+msgid "Ogre config validation error"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2298
+# | communitytranslateid=10812
+msgid "Ogre config error"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1706
+# | communitytranslateid=10780
+msgid "Not much impact on speed."
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:2321
+# in the game
+# : ExampleFrameListener.cpp:2660
+# | communitytranslateid=10622
+msgid "normal camera"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:58
+# | communitytranslateid=17162
+msgid "normal brake for an aircraft"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:421
+# | communitytranslateid=10649
+msgid "Non-Driveable"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:419
+# | communitytranslateid=10647
+msgid "Nodes: "
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:184
+# | communitytranslateid=10667
+msgid "node count: "
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:155
+# | communitytranslateid=17177
+msgid "no thrust"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:94
+# | communitytranslateid=17168
+msgid "no flaps."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1549
+# | communitytranslateid=10732
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/ExampleFrameListener.cpp:3018
+# | communitytranslateid=19427
+msgid "No differential installed on current vehicle!"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2340
+# | communitytranslateid=10825
+msgid "no deadzone"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:415
+# | communitytranslateid=10642
+msgid "no author information available"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1195
+# | communitytranslateid=17345
+msgid "no airbrakes"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1609
+# : configurator.cpp:2043
+# | communitytranslateid=10756
+msgid "Nickname: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1830
+# | communitytranslateid=10805
+msgid "new Language selected"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1443
+# | communitytranslateid=10705
+msgid "Network"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1165
+# | communitytranslateid=17340
+msgid "move right mirror to the right"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1183
+# | communitytranslateid=17343
+msgid "move replay fast forward"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1189
+# | communitytranslateid=17344
+msgid "move replay fast backward"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1153
+# | communitytranslateid=17338
+msgid "move left mirror to the right"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1147
+# | communitytranslateid=17337
+msgid "move left mirror to the left"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1255
+# | communitytranslateid=17355
+msgid "move character up"
+msgstr ""
+
+# in the game
+# in the game
+# : Settings.cpp:93
+# : Settings.cpp:101
+# | communitytranslateid=10656
+# : C:\data\ror-sf\trunk\build\main\source/Settings.cpp:116
+# | communitytranslateid=17356
+msgid "move character down"
+msgstr ""
+
+# : source/configurator.cpp:498
+# | communitytranslateid=10838
+msgid "mousecfg.bmp"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1576
+# | communitytranslateid=10748
+msgid "Motion blur"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1159
+# | communitytranslateid=17339
+msgid "more right mirror to the left"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1171
+# | communitytranslateid=17341
+msgid "more replay forward"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1177
+# | communitytranslateid=17342
+msgid "more replay backward"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1213
+# | communitytranslateid=17348
+msgid "more airbrakes"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1568
+# | communitytranslateid=10741
+msgid "Mirrors"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1739
+# in the configurator
+# : configurator.cpp:1746
+# | communitytranslateid=10801
+msgid "minimum visibility range in percent"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/ExampleFrameListener.cpp:2951
+# | communitytranslateid=19425
+msgid "Mid range selected"
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:276
+# | communitytranslateid=10671
+msgid "max Speed:"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:417
+# | communitytranslateid=10645
+msgid "Mass: "
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:2662
+# | communitytranslateid=10624
+msgid "Manual shift - Auto clutch"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1055
+# | communitytranslateid=17324
+msgid "manual clutch (for manual transmission)"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:422
+# | communitytranslateid=10653
+msgid "Machine"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2334
+# | communitytranslateid=10821
+msgid "Lower"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/ExampleFrameListener.cpp:2946
+# | communitytranslateid=19424
+msgid "Low range selected"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:257
+# | communitytranslateid=17192
+msgid "look back (toggles between normal and lookback)"
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:2489
+# | communitytranslateid=15261
+msgid "loading...\n"
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:2507
+# | communitytranslateid=15262
+msgid "Loading zips in group "
+msgstr ""
+
+# in the game
+# : C:\data\ror-trunk\RoRdev\build\main\source/ExampleFrameListener.cpp:6848
+# | communitytranslateid=15268
+msgid "Loading Terrain"
+msgstr ""
+
+# in the game
+# : C:\data\ror-trunk\RoRdev\build\main\source/ExampleFrameListener.cpp:219
+# | communitytranslateid=15265
+# : C:\data\ror-sf\trunk\build\main\source/CacheSystem.cpp:2814
+# : C:\data\ror-sf\trunk\build\main\source/CacheSystem.cpp:2817
+# | communitytranslateid=17153
+msgid "loading new zip: "
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:215
+# in the game
+# : ExampleFrameListener.cpp:216
+# | communitytranslateid=10609
+# : C:\data\ror-sf\trunk\build\main\source/ExampleFrameListener.cpp:221
+# | communitytranslateid=17154
+msgid "loading new directory: "
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:2552
+# | communitytranslateid=15263
+msgid "Loading directory\n"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:58
+# | communitytranslateid=10638
+msgid "Loader"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:59
+# | communitytranslateid=10639
+msgid "List"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2911
+# | communitytranslateid=19417
+msgid "Linearity"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1669
+# in the configurator
+# : configurator.cpp:1671
+# in the configurator
+# : configurator.cpp:1673
+# | communitytranslateid=10772
+msgid "Light source effects:"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:347
+# | communitytranslateid=17207
+msgid "let the character run"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:329
+# | communitytranslateid=17204
+msgid "let the character jump"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1207
+# | communitytranslateid=17347
+msgid "less airbrakes"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1691
+# : configurator.cpp:2129
+# | communitytranslateid=10774
+msgid "Language:"
+msgstr ""
+
+# : source/configurator.cpp:504
+# | communitytranslateid=10839
+msgid "keyboardcfg.bmp"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:390
+# | communitytranslateid=10675
+msgid "Keyboard"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1836
+# | communitytranslateid=10808
+msgid "Key/Axis"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2324
+# | communitytranslateid=10815
+msgid "Joystick Options"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2328
+# | communitytranslateid=10818
+msgid "Joystick Axis Region"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2554
+# | communitytranslateid=19390
+msgid "Joystick Axis Linearity"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2337
+# | communitytranslateid=10823
+msgid "Joystick Axis Deadzones"
+msgstr ""
+
+# : source/configurator.cpp:496
+# | communitytranslateid=10837
+msgid "joycfg.bmp"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:401
+# : configurator.cpp:1422
+# | communitytranslateid=10677
+msgid "Input Type: "
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:656
+# | communitytranslateid=15257
+msgid "incremental check: processing changed zips\n"
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:664
+# | communitytranslateid=15259
+msgid "incremental check: new files\n"
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:660
+# | communitytranslateid=15258
+msgid "incremental check: new content\n"
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:742
+# | communitytranslateid=15260
+msgid "incremental check: duplicates\n"
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:590
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:604
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:605
+# | communitytranslateid=15254
+msgid "incremental check: deleted and changed files\n"
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:578
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:590
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:605
+# | communitytranslateid=15253
+msgid "incremental check: deleted and changed files"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:707
+# | communitytranslateid=17267
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:221
+# | communitytranslateid=17186
+msgid "increase throttle"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:815
+# | communitytranslateid=17285
+msgid "increase the current FOV value"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:161
+# | communitytranslateid=17178
+msgid "increase the airplane thrust"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:245
+# | communitytranslateid=17190
+msgid "increase day-time a lot faster"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:239
+# | communitytranslateid=17189
+msgid "increase day-time"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1662
+# | communitytranslateid=10771
+msgid "In what Format should screenshots be saved?"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1429
+# | communitytranslateid=10702
+msgid "Import Keymap"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1733
+# | communitytranslateid=10798
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1730
+# | communitytranslateid=10796
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1722
+# | communitytranslateid=10791
+msgid "Hydrax Water System"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1097
+# | communitytranslateid=17329
+msgid "hold to start the engine"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/ExampleFrameListener.cpp:3014
+# | communitytranslateid=19426
+msgid "High range selected"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1579
+# | communitytranslateid=10750
+msgid "High quality reflective effects"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1465
+# | communitytranslateid=10712
+msgid "High Quality"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1462
+# : configurator.cpp:1471
+# | communitytranslateid=10710
+msgid "High Performance"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:677
+# | communitytranslateid=17262
+msgid "hide all GUI elements"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1808
+# | communitytranslateid=10803
+msgid "here you can get help"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1563
+# | communitytranslateid=10738
+msgid "HeatHaze"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1566
+# | communitytranslateid=10739
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:162
+# | communitytranslateid=10662
+msgid "health: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1477
+# | communitytranslateid=10713
+msgid "Graphics Settings"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1377
+# | communitytranslateid=10697
+msgid "Graphics"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/ExampleFrameListener.cpp:2941
+# | communitytranslateid=19423
+msgid "Fully Manual: stick shift with ranges"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/ExampleFrameListener.cpp:2898
+# | communitytranslateid=19422
+msgid "Fully manual: stick shift"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/ExampleFrameListener.cpp:2897
+# | communitytranslateid=19421
+msgid "Fully Manual: sequencial shift"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:4062
+# | communitytranslateid=10625
+msgid "Fully Manual shift"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:149
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:173
+# | communitytranslateid=17176
+msgid "full thrust"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1516
+# | communitytranslateid=10721
+msgid "Full screen mode uses a bit less memory resources"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1514
+# | communitytranslateid=10720
+msgid "Full screen"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:76
+# | communitytranslateid=17165
+msgid "full flaps in an aircraft."
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1201
+# | communitytranslateid=17346
+msgid "full airbrakes"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2332
+# | communitytranslateid=10820
+msgid "Full"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:2296
+# | communitytranslateid=10621
+msgid "free camera"
+msgstr ""
+
+# in the game
+# in the game
+# : ExampleFrameListener.cpp:2284
+# : ExampleFrameListener.cpp:2303
+# | communitytranslateid=10620
+# : C:\data\ror-sf\trunk\build\main\source/ExampleFrameListener.cpp:2513
+# | communitytranslateid=17156
+msgid "FOV: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1701
+# | communitytranslateid=10777
+msgid "Fog"
+msgstr ""
+
+# in the game
+# in the game
+# : ExampleFrameListener.cpp:2284
+# : ExampleFrameListener.cpp:2303
+# | communitytranslateid=10620
+msgid "fixed free camera"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1135
+# | communitytranslateid=17335
+msgid "fix the camera to a position"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2960
+# | communitytranslateid=19419
+msgid "Export selection"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1432
+# | communitytranslateid=10703
+msgid "Export Keymap"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:833
+# | communitytranslateid=17288
+msgid "EXPERIMENTAL: set maximum amount of grass"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:845
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:857
+# | communitytranslateid=17290
+msgid "EXPERIMENTAL: save changes to the grass density image"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:821
+# | communitytranslateid=17286
+msgid "EXPERIMENTAL: remove some grass"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:839
+# | communitytranslateid=17289
+msgid "EXPERIMENTAL: remove grass completely"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:827
+# | communitytranslateid=17287
+msgid "EXPERIMENTAL: add some grass"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:713
+# | communitytranslateid=17268
+msgid "exit the game"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:472
+# | communitytranslateid=10683
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:386
+# : configurator.cpp:399
+# | communitytranslateid=10674
+msgid "Event Name: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:471
+# | communitytranslateid=10682
+msgid "Event Name"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:470
+# | communitytranslateid=10681
+msgid "Event Description: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1832
+# | communitytranslateid=10806
+msgid "Event"
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:105
+# | communitytranslateid=10658
+msgid "Error while retrieving user space path"
+msgstr ""
+
+# in the game
+# in the game
+# : Settings.cpp:93
+# : Settings.cpp:101
+# | communitytranslateid=10656
+msgid "Error while retrieving program space path"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:665
+# | communitytranslateid=17260
+msgid "enter the chat"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:671
+# | communitytranslateid=17261
+msgid "enter or exit a truck"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1704
+# | communitytranslateid=10779
+msgid "Engine smoke"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1546
+# | communitytranslateid=10730
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1724
+# | communitytranslateid=10792
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1731
+# | communitytranslateid=10797
+msgid "Enable XFire Extension"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1544
+# | communitytranslateid=10729
+msgid "Enable waves"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1734
+# | communitytranslateid=10799
+msgid "Enable Visual Beam Debug"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:774
+# | communitytranslateid=19429
+msgid "enable or disable replay mode"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:773
+# | communitytranslateid=17278
+msgid "enable of disable replay mode"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1605
+# in the configurator
+# : configurator.cpp:1608
+# | communitytranslateid=10755
+msgid "Enable network mode"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1582
+# | communitytranslateid=10751
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1721
+# | communitytranslateid=17146
+msgid "Enable Auto-Downloader"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1597
+# in the configurator
+# : configurator.cpp:1604
+# | communitytranslateid=10754
+msgid "Enable advanced wheel model"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1141
+# | communitytranslateid=17336
+msgid "enable / disable free camera mode"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1560
+# | communitytranslateid=10736
+msgid "Dust"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1736
+# | communitytranslateid=10800
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1231
+# | communitytranslateid=17351
+msgid "display or hide net chat"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1727
+# | communitytranslateid=10794
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1725
+# | communitytranslateid=10793
+msgid "Disable Overview Map"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1566
+# | communitytranslateid=17140
+msgid "disable creak sound"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1728
+# | communitytranslateid=10795
+msgid "Disable Camera Pitching"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:4086
+# | communitytranslateid=10626
+# : C:\data\ror-sf\trunk\build\main\source/ExampleFrameListener.cpp:4396
+# | communitytranslateid=19428
+msgid "Differentials switched to: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1482
+# in the configurator
+# : configurator.cpp:1485
+# : configurator.cpp:1490
+# | communitytranslateid=10715
+msgid "Device:"
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:167
+# | communitytranslateid=10663
+msgid "destruction: "
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:415
+# | communitytranslateid=10642
+# : C:\data\ror-sf\trunk\build\main\source/gui_loader.cpp:650
+# | communitytranslateid=17160
+msgid "Description: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1427
+# | communitytranslateid=10701
+msgid "Delete selected"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1225
+# | communitytranslateid=17350
+msgid "delete current truck"
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:171
+# | communitytranslateid=10664
+msgid "deformed: "
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/gui_loader.cpp:585
+# | communitytranslateid=17158
+msgid "Default Skin"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:809
+# | communitytranslateid=17284
+msgid "decreases the current FOV value"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:143
+# | communitytranslateid=17175
+msgid "decreases the airplane thrust"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:701
+# | communitytranslateid=17266
+msgid "decrease tire pressure (note: only very few trucks support this)"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:215
+# | communitytranslateid=17185
+msgid "decrease throttle"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:233
+# | communitytranslateid=17188
+msgid "decrease day-time a lot faster"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:227
+# | communitytranslateid=17187
+msgid "decrease day-time"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1716
+# | communitytranslateid=10787
+msgid "Debug Truck Mass"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:761
+# | communitytranslateid=17276
+msgid "debug purpose - dont use"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1719
+# | communitytranslateid=10789
+msgid "Debug Collision Meshes"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2650
+# : configurator.cpp:2661
+# | communitytranslateid=10836
+msgid "Deadzone"
+msgstr ""
+
+# : source/configurator.cpp:900
+# : source/configurator.cpp:902
+# : source/configurator.cpp:908
+# | communitytranslateid=10842
+msgid "data\\\\config.bmp"
+msgstr ""
+
+# : source/configurator.cpp:507
+# : source/configurator.cpp:510
+# | communitytranslateid=10840
+msgid "data\\\\"
+msgstr ""
+
+# : source/configurator.cpp:914
+# | communitytranslateid=10843
+msgid "data/config.bmp"
+msgstr ""
+
+# : source/configurator.cpp:565
+# | communitytranslateid=10841
+msgid "data/"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1710
+# | communitytranslateid=10783
+msgid "Dashboard"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1243
+# | communitytranslateid=19452
+msgid "Cycle between available differental models"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1707
+# | communitytranslateid=10781
+msgid "Custom Particles"
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:234
+# | communitytranslateid=10670
+msgid "current Speed:"
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:233
+# | communitytranslateid=10669
+msgid "current RPM:"
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:211
+# | communitytranslateid=10668
+msgid "current mass:"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:215
+# in the game
+# : ExampleFrameListener.cpp:216
+# | communitytranslateid=10609
+msgid "Current FPS: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1459
+# : configurator.cpp:1468
+# | communitytranslateid=10708
+msgid "CPU Settings"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1383
+# | communitytranslateid=10699
+msgid "CPU"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2464
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2888
+# | communitytranslateid=19388
+msgid "Could not write to input.map file"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2298
+# | communitytranslateid=10813
+msgid "Could not write config file"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2289
+# | communitytranslateid=10811
+msgid "Could not open Rendering device"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1423
+# | communitytranslateid=10700
+msgid "Controls"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:683
+# | communitytranslateid=17263
+msgid "connect hook node to a node in close proximity"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2322
+# | communitytranslateid=10814
+msgid "Configure error"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1454
+# in the configurator
+# : configurator.cpp:1456
+# | communitytranslateid=10707
+msgid "Community / Support"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:376
+# | communitytranslateid=10673
+msgid "Commands:"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:413
+# | communitytranslateid=17218
+msgid "Command 9"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:407
+# | communitytranslateid=17217
+msgid "Command 8"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:401
+# | communitytranslateid=17216
+msgid "Command 7"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:395
+# | communitytranslateid=17215
+msgid "Command 6"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:389
+# | communitytranslateid=17214
+msgid "Command 5"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:647
+# | communitytranslateid=17257
+msgid "Command 48"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:641
+# | communitytranslateid=17256
+msgid "Command 47"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:635
+# | communitytranslateid=17255
+msgid "Command 46"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:629
+# | communitytranslateid=17254
+msgid "Command 45"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:623
+# | communitytranslateid=17253
+msgid "Command 44"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:617
+# | communitytranslateid=17252
+msgid "Command 43"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:611
+# | communitytranslateid=17251
+msgid "Command 42"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:605
+# | communitytranslateid=17250
+msgid "Command 41"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:599
+# | communitytranslateid=17249
+msgid "Command 40"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:383
+# | communitytranslateid=17213
+msgid "Command 4"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:593
+# | communitytranslateid=17248
+msgid "Command 39"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:587
+# | communitytranslateid=17247
+msgid "Command 38"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:581
+# | communitytranslateid=17246
+msgid "Command 37"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:575
+# | communitytranslateid=17245
+msgid "Command 36"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:569
+# | communitytranslateid=17244
+msgid "Command 35"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:563
+# | communitytranslateid=17243
+msgid "Command 34"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:557
+# | communitytranslateid=17242
+msgid "Command 33"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:551
+# | communitytranslateid=17241
+msgid "Command 32"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:545
+# | communitytranslateid=17240
+msgid "Command 31"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:539
+# | communitytranslateid=17239
+msgid "Command 30"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:377
+# | communitytranslateid=17212
+msgid "Command 3"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:533
+# | communitytranslateid=17238
+msgid "Command 29"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:527
+# | communitytranslateid=17237
+msgid "Command 28"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:521
+# | communitytranslateid=17236
+msgid "Command 27"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:515
+# | communitytranslateid=17235
+msgid "Command 26"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:509
+# | communitytranslateid=17234
+msgid "Command 25"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:503
+# | communitytranslateid=17233
+msgid "Command 24"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:497
+# | communitytranslateid=17232
+msgid "Command 23"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:491
+# | communitytranslateid=17231
+msgid "Command 22"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:485
+# | communitytranslateid=17230
+msgid "Command 21"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:479
+# | communitytranslateid=17229
+msgid "Command 20"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:371
+# | communitytranslateid=17211
+msgid "Command 2"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:473
+# | communitytranslateid=17228
+msgid "Command 19"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:467
+# | communitytranslateid=17227
+msgid "Command 18"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:461
+# | communitytranslateid=17226
+msgid "Command 17"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:455
+# | communitytranslateid=17225
+msgid "Command 16"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:449
+# | communitytranslateid=17224
+msgid "Command 15"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:443
+# | communitytranslateid=17223
+msgid "Command 14"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:437
+# | communitytranslateid=17222
+msgid "Command 13"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:431
+# | communitytranslateid=17221
+msgid "Command 12"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:425
+# | communitytranslateid=17220
+msgid "Command 11"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:419
+# | communitytranslateid=17219
+msgid "Command 10"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:365
+# | communitytranslateid=17210
+msgid "Command 1"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1567
+# | communitytranslateid=10740
+msgid "Cockpit options"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:414
+# | communitytranslateid=10680
+msgid "close this dialog"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1625
+# : configurator.cpp:2045
+# | communitytranslateid=10760
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1603
+# | communitytranslateid=17142
+msgid "Click on blue hyperlinks to select a server."
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1675
+# | communitytranslateid=10773
+msgid "Clear cache"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2751
+# | communitytranslateid=17150
+msgid "Choose a file"
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:2571
+# | communitytranslateid=15264
+msgid "checking for new zips in "
+msgstr ""
+
+# in the game
+# : C:\data\ror-trunk\RoRdev\build\main\source/ExampleFrameListener.cpp:219
+# | communitytranslateid=15265
+msgid "checking for new directories in "
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:251
+# | communitytranslateid=17191
+msgid "change camera mode"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:179
+# | communitytranslateid=17180
+msgid "center the rudder"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1371
+# | communitytranslateid=10695
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:57
+# | communitytranslateid=10637
+msgid "Cancel"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1527
+# | communitytranslateid=10725
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/ExampleFrameListener.cpp:1046
+# in the game
+# : ExampleFrameListener.cpp:1293
+# | communitytranslateid=10614
+# : C:\data\ror-sf\trunk\build\main\source/ExampleFrameListener.cpp:1522
+# | communitytranslateid=17155
+msgid "Cache regeneration done.\n"
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:154
+# | communitytranslateid=10661
+msgid "broken: "
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:983
+# | communitytranslateid=17312
+msgid "brake"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:421
+# | communitytranslateid=10652
+msgid "Boat"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1574
+# | communitytranslateid=10746
+msgid "Bloom"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:218
+# | communitytranslateid=10611
+msgid "Best FPS: "
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:147
+# | communitytranslateid=10660
+msgid "beam count: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1463
+# : configurator.cpp:1472
+# | communitytranslateid=10711
+msgid "Balanced"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:1293
+# | communitytranslateid=10614
+msgid "Bad server port"
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:181
+# | communitytranslateid=10666
+msgid "average stress: "
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:217
+# | communitytranslateid=10610
+msgid "Average FPS: "
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:175
+# | communitytranslateid=10665
+msgid "average deformation: "
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:2661
+# | communitytranslateid=10623
+msgid "Automatic shift"
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:416
+# | communitytranslateid=10643
+msgid "Authors: "
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/gui_loader.cpp:586
+# | communitytranslateid=17159
+msgid "Author: "
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1500
+# in the configurator
+# : configurator.cpp:1502
+# | communitytranslateid=10718
+msgid "Anti-aliasing:"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1610
+# | communitytranslateid=10757
+msgid "Anonymous"
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:345
+# | communitytranslateid=10672
+msgid "Altitude:"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:1219
+# | communitytranslateid=17349
+msgid "airplane throttle"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:101
+# | communitytranslateid=17169
+msgid "airplane parking brake."
+msgstr ""
+
+# in the game
+# : gui_loader.cpp:421
+# | communitytranslateid=10651
+msgid "Airplane"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1446
+# | communitytranslateid=10706
+msgid "Advanced"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:405
+# | communitytranslateid=10679
+msgid "Add the key"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:402
+# | communitytranslateid=10678
+msgid "Add"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\main\source/InputEngine.cpp:947
+# | communitytranslateid=17306
+msgid "accelerate the truck"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:1373
+# | communitytranslateid=10615
+msgid "A network error occured"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2343
+# | communitytranslateid=10827
+msgid "5% deadzone"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2340
+# , c-format
+# | communitytranslateid=10826
+msgid "5 %"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2355
+# | communitytranslateid=10835
+msgid "30% deadzone"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2352
+# , c-format
+# | communitytranslateid=10834
+msgid "30 %"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2352
+# | communitytranslateid=10833
+msgid "20% deadzone"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2349
+# , c-format
+# | communitytranslateid=10832
+msgid "20 %"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2349
+# | communitytranslateid=10831
+msgid "15% deadzone"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2346
+# , c-format
+# | communitytranslateid=10830
+msgid "15 %"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1626
+# : configurator.cpp:1630
+# in the configurator
+# : configurator.cpp:1628
+# | communitytranslateid=10761
+msgid "127.0.0.1"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1633
+# | communitytranslateid=10763
+msgid "12333"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2346
+# | communitytranslateid=10829
+msgid "10% deadzone"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2343
+# , c-format
+# | communitytranslateid=10828
+msgid "10 %"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2572
+# | communitytranslateid=19403
+msgid "0 % (Total Linear)"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:2337
+# | communitytranslateid=10824
+msgid "0 % (No deadzone)"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1619
+# in the configurator
+# : configurator.cpp:1624
+# | communitytranslateid=10759
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr ""
+
+# in the configurator
+# : C:\data\ror-trunk\RoRdev\build\configurator/source/configurator.cpp:1748
+# | communitytranslateid=15252
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2572
+# | communitytranslateid=19402
+msgid "+5% multiplication"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2569
+# , c-format
+# | communitytranslateid=19401
+msgid "+5 %"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2557
+# | communitytranslateid=19392
+msgid "+30% multiplication"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2554
+# , c-format
+# | communitytranslateid=19391
+msgid "+30 %"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2560
+# | communitytranslateid=19394
+msgid "+25% multiplication"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2557
+# , c-format
+# | communitytranslateid=19393
+msgid "+25 %"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2563
+# | communitytranslateid=19396
+msgid "+20% multiplication"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2560
+# , c-format
+# | communitytranslateid=19395
+msgid "+20 %"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2566
+# | communitytranslateid=19398
+msgid "+15% multiplication"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2563
+# , c-format
+# | communitytranslateid=19397
+msgid "+15 %"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2569
+# | communitytranslateid=19400
+msgid "+10% multiplication"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2566
+# , c-format
+# | communitytranslateid=19399
+msgid "+10 %"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:670
+# | communitytranslateid=10685
+msgid "(Please press a key)"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:696
+# | communitytranslateid=10686
+msgid "(Please press a Joystick Button)"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1237
+# | communitytranslateid=10687
+msgid "(Please move an Axis)\n"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1345
+# | communitytranslateid=10688
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1420
+# | communitytranslateid=19387
+msgid "(Please move a Slider)\n"
+msgstr ""
+
+# in the configurator
+# : configurator.cpp:1698
+# | communitytranslateid=10775
+msgid "(No Languages found)"
+msgstr ""
+
+# in the game
+# : TruckHUD.cpp:143
+# | communitytranslateid=10659
+msgid "(no author information available)"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:1739
+# | communitytranslateid=17148
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2578
+# | communitytranslateid=19406
+msgid "-5% multiplication"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2575
+# , c-format
+# | communitytranslateid=19405
+msgid "-5 %"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2593
+# | communitytranslateid=19416
+msgid "-30% multiplication"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2590
+# , c-format
+# | communitytranslateid=19415
+msgid "-30 %"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2590
+# | communitytranslateid=19414
+msgid "-25% multiplication"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2587
+# , c-format
+# | communitytranslateid=19413
+msgid "-25 %"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2587
+# | communitytranslateid=19412
+msgid "-20% multiplication"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2584
+# , c-format
+# | communitytranslateid=19411
+msgid "-20 %"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2584
+# | communitytranslateid=19410
+msgid "-15% multiplication"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2581
+# , c-format
+# | communitytranslateid=19409
+msgid "-15 %"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2581
+# | communitytranslateid=19408
+msgid "-10% multiplication"
+msgstr ""
+
+# : C:\data\ror-sf\trunk\build\configurator\source/configurator.cpp:2578
+# , c-format
+# | communitytranslateid=19407
+msgid "-10 %"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:4118
+# | communitytranslateid=10627
+msgid "^8 Player: ^7"
+msgstr ""
+
+# in the game
+# in the game
+# in the game
+# in the game
+# : ExampleFrameListener.cpp:4143
+# : ExampleFrameListener.cpp:4154
+# : ExampleFrameListener.cpp:4167
+# : ExampleFrameListener.cpp:4182
+# | communitytranslateid=10630
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:4195
+# | communitytranslateid=10633
+msgid "^1 unkown Command: "
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:4137
+# | communitytranslateid=10629
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:4187
+# | communitytranslateid=10631
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:4132
+# | communitytranslateid=10628
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:4192
+# | communitytranslateid=10632
+msgid "^1 ERROR: not in network mode"
+msgstr ""
+
+# in the game
+# : ExampleFrameListener.cpp:6863
+# | communitytranslateid=10634
+msgid "^1 Error Parsing command"
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:623
+# | communitytranslateid=15255
+msgid " not existing"
+msgstr ""
+
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:636
+# : C:\data\ror-trunk\RoRdev\build\main\source/CacheSystem.cpp:650
+# | communitytranslateid=15256
+msgid " changed"
+msgstr ""
+

@@ -1,0 +1,25 @@
+System info:
+	OIS Version: 1.3.0
+	OIS Release Name: 1.3.0
+	Input Manager: Win32InputManager
+	Total Keyboards: 1
+	Total Mice: 1
+	Total JoySticks: 1
+
+Devices:
+	- OISKeyboard, Vendor: Win32InputManager
+	- OISMouse, Vendor: Win32InputManager
+	- OISJoyStick, Vendor: Logitech Extreme 3D
+
+
+Joystick 0:
+	Vendor: Logitech Extreme 3D
+	VendorMapFilename: Logitech_Extreme_3D.map
+	ID: 0
+	Type: [3] OISJoyStick
+	Axes: 3
+	Sliders: 1
+	POV/HATs: 1
+	Buttons: 12
+	Vector3: 0
+	Vector3Sensitivity: 2.28

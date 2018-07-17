@@ -1,0 +1,10 @@
+Package: PagedGeometry
+Section: admin
+Priority: optional
+Architecture: i386
+Essential: no
+Depends:
+Version: 1.5
+Installed-Size: 1300
+Maintainer: Johann Bauer <jhnnbr@gmail.com>
+Description: The PagedGeometry engine is an add-on to Ogre which provides highly optimized methods for rendering massive amounts of small meshes, covering a possibly infinite area.

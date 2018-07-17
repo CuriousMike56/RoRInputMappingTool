@@ -1,0 +1,2639 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=20118
+msgid "zoom into the overview map in interactive mode"
+msgstr "увеличить обзор карты в интерактивном режиме"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=17995
+msgid "zoom camera out faster"
+msgstr "отдалить камеру быстро"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=17993
+msgid "zoom camera out"
+msgstr "отдалить камеру"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=17994
+msgid "zoom camera in faster"
+msgstr "приблизить камеру быстро"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=17992
+msgid "zoom camera in"
+msgstr "приблизить камеру"
+
+# : source/configurator.cpp:1140
+# | communitytranslateid=12111
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Ваше имя в мультиплеере (максимум 20 символов)."
+
+# | communitytranslateid=12871
+msgid "Your Forum User Token."
+msgstr "Ваш форумный символ пользователя."
+
+# | communitytranslateid=12652
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Вы должны сохранить и перезапустить игру для активации нового языка!"
+
+# : source/configurator.cpp:1167
+# | communitytranslateid=12120
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Вам не нужно изменять эти установочные параметры если Вы не испытываете проблем."
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=22052
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Вы можете выключить звук скрипа по умолчанию, отметив эту опцию"
+
+# | communitytranslateid=12751
+msgid "wrote screenshot:"
+msgstr "Записан скриншот:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=20115
+msgid "Write error"
+msgstr "Ошибка записи"
+
+# # | translated from communitytranslateid=17265
+# | communitytranslateid=20140
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr "Написать текущую позицию для входа (можно открыть лог-файл и использовать положение)"
+
+# | communitytranslateid=12743
+msgid "Worst FPS: "
+msgstr "Худший FPS:"
+
+# | communitytranslateid=12653
+msgid "Wheels: "
+msgstr "Колёса:"
+
+# : source/configurator.cpp:1068
+# | communitytranslateid=12080
+msgid "Water type:"
+msgstr "Тип воды:"
+
+# : source/configurator.cpp:1074
+# | communitytranslateid=12084
+msgid "Water spray"
+msgstr "Брызги воды"
+
+# : source/configurator.cpp:1070
+# | communitytranslateid=12081
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Водное отражение медленное и требует хорошего GPU. В варианте, оптимизированном на высокую скорость, вы будете испытывать чрезмерную тряску камеры."
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=18970
+msgid "Warning"
+msgstr "Предупреждение ('внимание!' if an caution)"
+
+# : source/configurator.cpp:1044
+# : source/configurator.cpp:1046
+# | communitytranslateid=12075
+msgid "VSync"
+msgstr "Вертикальная синхронизация"
+
+# : source/configurator.cpp:1098
+# | communitytranslateid=12096
+msgid "Visual effects"
+msgstr "Визуальные эффекты"
+
+# : source/configurator.cpp:1023
+# : source/configurator.cpp:1025
+# | communitytranslateid=12070
+msgid "Video mode:"
+msgstr "Видео режим:"
+
+# | communitytranslateid=12655
+msgid "Vehicle Type: "
+msgstr "Тип техники:"
+
+# : source/configurator.cpp:1082
+# | communitytranslateid=12086
+msgid "Vegetation:"
+msgstr "Растительность:"
+
+# | communitytranslateid=12870
+msgid "User Token: "
+msgstr "Символ пользователя:"
+
+# # | translated from communitytranslateid=17145
+# | communitytranslateid=22066
+msgid "Use this to remove the whole cache and force the generation from ground up."
+msgstr "Изпользуйте это для удаления всего кэша и принудительной генерации с нуля."
+
+# # | translated from communitytranslateid=17144
+# | communitytranslateid=20139
+msgid "Use this to regenerate the cache outside of RoR. If this does not work, use the clear cache button."
+msgstr "Используйте это для оздоровления кэша вне RoR. Если это не работает, используйте кнопку Очистить кэш."
+
+# : source/configurator.cpp:1956
+# | communitytranslateid=12157
+msgid "Upper"
+msgstr "Выше"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=17996
+msgid "Updates"
+msgstr "Обновления"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=17997
+msgid "Update now"
+msgstr "Обновить сейчас"
+
+# : source/configurator.cpp:1165
+# | communitytranslateid=12119
+msgid "Update"
+msgstr "Обновить"
+
+# | communitytranslateid=12819
+msgid "unkown encoding problem"
+msgstr "Неизвестная проблема кодировки"
+
+# | communitytranslateid=12836
+msgid "unknown.dds"
+msgstr "unknown.dds"
+
+# : source/configurator.cpp:1189
+# | communitytranslateid=12126
+msgid "Uncheck in case you have a fog problem"
+msgstr "Снимите галочку если у вас проблемы с туманом."
+
+# | communitytranslateid=12672
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Невозможно подключиться к серверу. Либо он упал либо у вас проблемы со связью."
+
+# | communitytranslateid=15269
+msgid "Unable to connect to server"
+msgstr "Невозможно подключиться к серверу"
+
+# : source/configurator.cpp:1300
+# | communitytranslateid=12145
+msgid "Type"
+msgstr "Тип"
+
+# | communitytranslateid=15270
+msgid "Trying to connect to server ..."
+msgstr "Пробуем присоединиться к серверу..."
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=18961
+msgid "truck horn"
+msgstr "сигнал грузовика"
+
+# | communitytranslateid=12654
+msgid "Truck"
+msgstr "Грузовик"
+
+# | communitytranslateid=12865
+msgid "Triangle Count: "
+msgstr "Количество треугольников:"
+
+# | communitytranslateid=12816
+msgid "tracks/CreditsOverlay"
+msgstr "Дороги/Разработчики"
+
+# # | translated from communitytranslateid=19404
+# | communitytranslateid=20116
+msgid "Total Linear"
+msgstr "Полная Линейность"
+
+# | communitytranslateid=12658
+msgid "Torque: "
+msgstr "Крутящий момент:"
+
+# | communitytranslateid=12793
+msgid "tons"
+msgstr "Тонны"
+
+# # | translated from communitytranslateid=17282
+# | communitytranslateid=20051
+msgid "toggle truck HUD"
+msgstr "включить HUD грузовика"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=20062
+msgid "toggle truck front lights"
+msgstr "переключение передних фонарей у грузовика"
+
+# # | translated from communitytranslateid=17280
+# | communitytranslateid=20064
+msgid "toggle truck beacons"
+msgstr "переключение проблесковых маячков у грузовика"
+
+# # | translated from communitytranslateid=17264
+# | communitytranslateid=22067
+msgid "toggle translucency of overview-map"
+msgstr "переключение прозрачности обзорной карты"
+
+# # | translated from communitytranslateid=17273
+# | communitytranslateid=20065
+msgid "toggle skeleton display mode"
+msgstr "переключение скелетного режима"
+
+# # | translated from communitytranslateid=17310
+# | communitytranslateid=20057
+msgid "toggle right direction indicator (blinker)"
+msgstr "переключение правого указателя (поворотник)"
+
+# # | translated from communitytranslateid=17277
+# | communitytranslateid=22056
+msgid "toggle render mode (solid, wireframe and points)"
+msgstr "переключение режима отображения (сплошной, решетчатый и точечный)"
+
+# # | translated from communitytranslateid=17275
+# | communitytranslateid=20171
+msgid "toggle particle cannon"
+msgstr "переключение частицы пушки"
+
+# # | translated from communitytranslateid=17325
+# | communitytranslateid=20048
+msgid "toggle parking brake"
+msgstr "переключение стояночного тормоза"
+
+# # | translated from communitytranslateid=17292
+# | communitytranslateid=20056
+msgid "toggle overview map interactive mode"
+msgstr "схема переключения интерактивного режима"
+
+# # | translated from communitytranslateid=17279
+# | communitytranslateid=19629
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr "показать статистику Ogre (FPS и т.д.)"
+
+# # | translated from communitytranslateid=17283
+# | communitytranslateid=19630
+msgid "toggle map modes"
+msgstr "переключение режимов карт"
+
+# # | translated from communitytranslateid=17309
+# | communitytranslateid=18971
+msgid "toggle left direction indicator (blinker)"
+msgstr "переключение левого указателя (поворотник)"
+
+# # | translated from communitytranslateid=17331
+# | communitytranslateid=20046
+msgid "toggle ignition"
+msgstr "переключение зажигания"
+
+# # | translated from communitytranslateid=17323
+# | communitytranslateid=20045
+msgid "toggle custom light 9"
+msgstr "переключение пользовательского света №9"
+
+# # | translated from communitytranslateid=17322
+# | communitytranslateid=20044
+msgid "toggle custom light 8"
+msgstr "переключение пользовательского света №8"
+
+# # | translated from communitytranslateid=17321
+# | communitytranslateid=20043
+msgid "toggle custom light 7"
+msgstr "переключение пользовательского света №7"
+
+# # | translated from communitytranslateid=17320
+# | communitytranslateid=20041
+msgid "toggle custom light 6"
+msgstr "переключение пользовательского света №6"
+
+# # | translated from communitytranslateid=17319
+# | communitytranslateid=20039
+msgid "toggle custom light 5"
+msgstr "переключение пользовательского света №5"
+
+# # | translated from communitytranslateid=17318
+# | communitytranslateid=20037
+msgid "toggle custom light 4"
+msgstr "переключение пользовательского света №4"
+
+# # | translated from communitytranslateid=17317
+# | communitytranslateid=20036
+msgid "toggle custom light 3"
+msgstr "переключение пользовательского света №3"
+
+# # | translated from communitytranslateid=17316
+# | communitytranslateid=20035
+msgid "toggle custom light 2"
+msgstr "переключение пользовательского света №2"
+
+# # | translated from communitytranslateid=17315
+# | communitytranslateid=20034
+msgid "toggle custom light 10"
+msgstr "переключение пользовательского света №10"
+
+# # | translated from communitytranslateid=17314
+# | communitytranslateid=20032
+msgid "toggle custom light 1"
+msgstr "переключение пользовательского света №1"
+
+# # | translated from communitytranslateid=17334
+# | communitytranslateid=20055
+msgid "toggle between windowed and fullscreen mode"
+msgstr "переключить между оконным и полноэкранным режимом"
+
+# # | translated from communitytranslateid=17330
+# | communitytranslateid=20067
+msgid "toggle between transmission modes"
+msgstr "переключение между видом трансмиссий"
+
+# # | translated from communitytranslateid=17352
+# | communitytranslateid=20071
+msgid "toggle between net chat display modes"
+msgstr "переключаться между режимами сетевого чата"
+
+# # | translated from communitytranslateid=17305
+# | communitytranslateid=20070
+msgid "toggle between available road types"
+msgstr "переключение между доступными видами дорог"
+
+# # | translated from communitytranslateid=17304
+# | communitytranslateid=20068
+msgid "toggle between available objects"
+msgstr "переключение между имеющимися объектами"
+
+# # | translated from communitytranslateid=17259
+# | communitytranslateid=20073
+msgid "toggle appearance of console"
+msgstr "переключение внешнего вида консоли"
+
+# # | translated from communitytranslateid=17311
+# | communitytranslateid=20072
+msgid "toggle all direction indicators"
+msgstr "переключение всех указателей"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=21096
+msgid "tie a load to the truck"
+msgstr "зацепить груз за грузовик"
+
+# # | translated from communitytranslateid=17174
+# | communitytranslateid=22024
+msgid "throttle axis. Only use this if you have fitting hardware :) (i.e. a Slider)"
+msgstr "Ось дросселя. Используйте это если у вас есть соответствующее оборудование."
+
+# : source/configurator.cpp:1121
+# : source/configurator.cpp:1122
+# | communitytranslateid=12106
+msgid "Thread number:"
+msgstr "Количество ядер:"
+
+# | communitytranslateid=12857
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Эта опция отвергает стандартный язык системы. Вы должны перезапустить конфигуратор для принятия изменений."
+
+# : source/configurator.cpp:1089
+# | communitytranslateid=12090
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Это может снизить производительность на старых системах, но выглядит круто."
+
+# # | translated from communitytranslateid=17147
+# | communitytranslateid=20074
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr "Это позволяет автоматически скачивать недостающих Модов в Мультиплеере"
+
+# : source/configurator.cpp:1085
+# | communitytranslateid=12087
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Это определяет сколько будет показано травы, деревьев и других подобных объектов."
+
+# # | translated from communitytranslateid=17152
+# | communitytranslateid=20119
+msgid "The update service is currently only available for windows users."
+msgstr "Служба обновления в настоящее время доступна только для пользователей Windows."
+
+# : source/configurator.cpp:1161
+# | communitytranslateid=12118
+msgid "The server password, if required."
+msgstr "Пароль для сервера (если требуется)."
+
+# : source/configurator.cpp:1035
+# : source/configurator.cpp:1037
+# | communitytranslateid=12072
+msgid "Texture filtering:"
+msgstr "Фильтрация текстур:"
+
+# : source/configurator.cpp:994
+# | communitytranslateid=12064
+msgid "Test"
+msgstr "Тест"
+
+# | communitytranslateid=12792
+msgid "Terrain not found: "
+msgstr "Карта не найдена"
+
+# | communitytranslateid=12794
+msgid "Terrain loading error"
+msgstr "Ошибка при загрузке карты"
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=19319
+msgid "teleport to rescue truck"
+msgstr "телепортироваться к спасательному грузовику"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=18969
+msgid "take a screenshot"
+msgstr "сделать снимок экрана"
+
+# # | translated from communitytranslateid=17303
+# | communitytranslateid=20120
+msgid "switch to road laying mode"
+msgstr "перейти к режиму прокладка дороги"
+
+# # | translated from communitytranslateid=17179
+# | communitytranslateid=19586
+msgid "switch all engines on / off"
+msgstr "вкл/выкл все двигатели"
+
+# : source/configurator.cpp:1099
+# | communitytranslateid=12097
+msgid "Sunburn"
+msgstr "Интенсивность солнца"
+
+# # | translated from communitytranslateid=17203
+# | communitytranslateid=20006
+msgid "step forward with the character"
+msgstr "идти вперёд человеком"
+
+# # | translated from communitytranslateid=17202
+# | communitytranslateid=20007
+msgid "step backwards with the character"
+msgstr "идти назад человеком"
+
+# # | translated from communitytranslateid=17183
+# | communitytranslateid=20075
+msgid "steer right a step"
+msgstr "шаг поворота направо"
+
+# # | translated from communitytranslateid=17184
+# | communitytranslateid=20121
+msgid "steer right (analog value!)"
+msgstr "повернуть направо (аналоговое значение!)"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=19639
+msgid "steer right"
+msgstr "повернуть налево"
+
+# # | translated from communitytranslateid=17181
+# | communitytranslateid=20076
+msgid "steer left a step"
+msgstr "шаг поворота налево"
+
+# # | translated from communitytranslateid=17182
+# | communitytranslateid=20122
+msgid "steer left (analog value!)"
+msgstr "повернуть налево (аналоговое значение!)"
+
+# # | translated from communitytranslateid=17173
+# | communitytranslateid=19606
+msgid "steer left"
+msgstr "повернуть налево"
+
+# | communitytranslateid=12745
+msgid "Startup error"
+msgstr "Ошибка загрузки"
+
+# # | translated from communitytranslateid=17274
+# | communitytranslateid=20123
+msgid "start the old truck editor"
+msgstr "начать редактор старого грузовика"
+
+# # | translated from communitytranslateid=15714
+# | communitytranslateid=16715
+msgid "SPECIAL_CHARACTERS"
+msgstr "СПЕЦИАЛЬНЫЕ_СИМВОЛЫ"
+
+# : source/configurator.cpp:1048
+# | communitytranslateid=12076
+msgid "Special effects"
+msgstr "Специальные эффекты"
+
+# : source/configurator.cpp:938
+# | communitytranslateid=12058
+msgid "Sounds"
+msgstr "Звук"
+
+# : source/configurator.cpp:1114
+# : source/configurator.cpp:1117
+# | communitytranslateid=12105
+msgid "Sound rendering:"
+msgstr "Опции звука:"
+
+# : source/configurator.cpp:1052
+# | communitytranslateid=12077
+msgid "Sky type:"
+msgstr "Тип неба:"
+
+# # | translated from communitytranslateid=17157
+# | communitytranslateid=19589
+msgid "Skins"
+msgstr "Скины"
+
+# | communitytranslateid=12738
+msgid "Simple Settings"
+msgstr "Простые настройки"
+
+# # | translated from communitytranslateid=17209
+# | communitytranslateid=20077
+msgid "sidestep to the right"
+msgstr "уклоняться вправо"
+
+# # | translated from communitytranslateid=17208
+# | communitytranslateid=20078
+msgid "sidestep to the left"
+msgstr "уклоняться влево"
+
+# : source/configurator.cpp:1097
+# | communitytranslateid=12095
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Показать зеркала заднего обзора при виде от первого лица (могут быть проблемы на старых видеокартах)."
+
+# : source/configurator.cpp:1198
+# | communitytranslateid=12132
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Показать динамическую приборную панель при виде от первого лица (могут быть проблемы с очень старыми видеокартами)."
+
+# : source/configurator.cpp:1207
+# | communitytranslateid=12138
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Показать сетку модели грузовика красным цветом и её правильное позиционирование (используется только при отладке)."
+
+# # | translated from communitytranslateid=17332
+# | communitytranslateid=20079
+msgid "show truck tool"
+msgstr "показать инструменты грузовика"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=18963
+msgid "show / hide the console"
+msgstr "показать / скрыть консоль"
+
+# # | translated from communitytranslateid=17327
+# | communitytranslateid=19593
+msgid "shift to neutral gear in manual transmission mode"
+msgstr "переключить на нейтраль в механической коробке передач"
+
+# # | translated from communitytranslateid=17328
+# | communitytranslateid=20080
+msgid "shift one gear up in manual transmission mode"
+msgstr "переключить на одну передачу вверх в режиме механической трансмиссии"
+
+# # | translated from communitytranslateid=17326
+# | communitytranslateid=20081
+msgid "shift one gear down in manual transmission mode"
+msgstr "переключить на одну передачу вниз в режиме механической трансмиссии"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=19632
+msgid "shift directly to third gear"
+msgstr "переключить на 3-ью передачу"
+
+# # | translated from communitytranslateid=19432
+# | communitytranslateid=19633
+msgid "shift directly to second gear"
+msgstr "переключить на 2-ую передачу"
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=19634
+msgid "shift directly to reverse gear"
+msgstr "переключить на заднюю передачу"
+
+# # | translated from communitytranslateid=19434
+# | communitytranslateid=19642
+msgid "shift directly to fourth gear"
+msgstr "переключить на 4-ую передачу"
+
+# # | translated from communitytranslateid=19431
+# | communitytranslateid=20082
+msgid "shift directly to first gear"
+msgstr "переключить на 1-ую передачу"
+
+# # | translated from communitytranslateid=19439
+# | communitytranslateid=20853
+msgid "shift directly to 9th gear"
+msgstr "переключить на 9-ую передачу"
+
+# # | translated from communitytranslateid=19438
+# | communitytranslateid=20854
+msgid "shift directly to 8th gear"
+msgstr "переключить на 8-ую передачу"
+
+# # | translated from communitytranslateid=19437
+# | communitytranslateid=20857
+msgid "shift directly to 7th gear"
+msgstr "переключить на 7-ую передачу"
+
+# # | translated from communitytranslateid=19436
+# | communitytranslateid=20855
+msgid "shift directly to 6th gear"
+msgstr "переключить на 6-ую передачу"
+
+# # | translated from communitytranslateid=19435
+# | communitytranslateid=20856
+msgid "shift directly to 5th gear"
+msgstr "переключить на 5-ую передачу"
+
+# # | translated from communitytranslateid=19448
+# | communitytranslateid=20858
+msgid "shift directly to 18th gear"
+msgstr "переключить на 18-ую передачу"
+
+# # | translated from communitytranslateid=19447
+# | communitytranslateid=20859
+msgid "shift directly to 17th gear"
+msgstr "переключить на 17-ую передачу"
+
+# # | translated from communitytranslateid=19446
+# | communitytranslateid=20860
+msgid "shift directly to 16th gear"
+msgstr "переключить на 16-ую передачу"
+
+# # | translated from communitytranslateid=19445
+# | communitytranslateid=20861
+msgid "shift directly to 15th gear"
+msgstr "переключить на 15-ую передачу"
+
+# # | translated from communitytranslateid=19444
+# | communitytranslateid=20862
+msgid "shift directly to 14th gear"
+msgstr "переключить на 14-ую передачу"
+
+# # | translated from communitytranslateid=19443
+# | communitytranslateid=20863
+msgid "shift directly to 13th gear"
+msgstr "переключить на 13-ую передачу"
+
+# # | translated from communitytranslateid=19442
+# | communitytranslateid=20864
+msgid "shift directly to 12th gear"
+msgstr "переключить на 12-ую передачу"
+
+# # | translated from communitytranslateid=19441
+# | communitytranslateid=20865
+msgid "shift directly to 11th gear"
+msgstr "переключить на 11-ую передачу"
+
+# # | translated from communitytranslateid=19440
+# | communitytranslateid=20866
+msgid "shift directly to 10th gear"
+msgstr "переключить на 10-ую передачу"
+
+# # | translated from communitytranslateid=17308
+# | communitytranslateid=22050
+msgid "shift automatic transmission one gear up"
+msgstr "переключить автоматическую трансмиссию на одну передачу вверх"
+
+# # | translated from communitytranslateid=17307
+# | communitytranslateid=19628
+msgid "shift automatic transmission one gear down"
+msgstr "переключить автоматическую трансмиссию на одну передачу вниз"
+
+# : source/configurator.cpp:1059
+# : source/configurator.cpp:1061
+# | communitytranslateid=12079
+msgid "Shadow type:"
+msgstr "Тип теней:"
+
+# # | translated from communitytranslateid=19450
+# | communitytranslateid=20170
+msgid "sets middle range (7-12) for H-shaft"
+msgstr "установить средний диапазон (7-12) для Н-шифтера"
+
+# # | translated from communitytranslateid=19449
+# | communitytranslateid=19643
+msgid "sets low range (1-6) for H-shaft"
+msgstr "установить низкий диапазон (1-6) для Н-шифтера"
+
+# # | translated from communitytranslateid=19451
+# | communitytranslateid=20169
+msgid "sets high range (13-18) for H-shaft"
+msgstr "установить высокий диапазон (13-18) для Н-шифтера"
+
+# | communitytranslateid=12863
+msgid "Sets all settings in a simple way"
+msgstr "Установить простые настройки"
+
+# : source/configurator.cpp:1148
+# : source/configurator.cpp:1507
+# | communitytranslateid=12115
+msgid "Server port number: "
+msgstr "Порт сервера:"
+
+# : source/configurator.cpp:1154
+# | communitytranslateid=12117
+msgid "Server password: "
+msgstr "Пароль сервера:"
+
+# : source/configurator.cpp:1144
+# : source/configurator.cpp:1505
+# | communitytranslateid=12113
+msgid "Server host name: "
+msgstr "Имя сервера:"
+
+# # | translated from communitytranslateid=17297
+# | communitytranslateid=17998
+msgid "select previous element in current category"
+msgstr "выбрать предыдущий элемент текущей категории"
+
+# # | translated from communitytranslateid=17294
+# | communitytranslateid=18002
+msgid "select previous category"
+msgstr "выбрать предыдущую категорию"
+
+# # | translated from communitytranslateid=17293
+# | communitytranslateid=18004
+msgid "select next element in current category"
+msgstr "выбрать следующий элемент в текущей категории"
+
+# # | translated from communitytranslateid=17295
+# | communitytranslateid=19607
+msgid "select next category"
+msgstr "выбрать следующую категорию"
+
+# # | translated from communitytranslateid=17296
+# | communitytranslateid=22057
+msgid "select focussed item and close menu"
+msgstr "выбрать текущий объект и закрыть меню"
+
+# | communitytranslateid=12659
+msgid "Search"
+msgstr "Поиск"
+
+# : source/configurator.cpp:1171
+# | communitytranslateid=12121
+msgid "Screenshot Format:"
+msgstr "Формат скриншота:"
+
+# : source/configurator.cpp:1007
+# | communitytranslateid=12067
+msgid "Screen configuration"
+msgstr "Конфигурация картинки"
+
+# : source/configurator.cpp:920
+# | communitytranslateid=12053
+msgid "Save the current configuration and start RoR."
+msgstr "Сохранить текующие настройки и запустить RoR."
+
+# : source/configurator.cpp:924
+# | communitytranslateid=12055
+msgid "Save the current configuration and close the configuration program."
+msgstr "Сохранить текущуюю кофигурацию и закрыть программу настроек."
+
+# # | translated from communitytranslateid=19420
+# | communitytranslateid=22049
+msgid "Save Mapping to File"
+msgstr "Сохранить Назначение в Файл"
+
+# : source/configurator.cpp:918
+# : source/configurator.cpp:927
+# | communitytranslateid=12052
+msgid "Save and Play"
+msgstr "Сохранить и Играть"
+
+# : source/configurator.cpp:921
+# | communitytranslateid=12054
+msgid "Save and Exit"
+msgstr "Сохранить и Выйти"
+
+# # | translated from communitytranslateid=17172
+# | communitytranslateid=20124
+msgid "rudder right"
+msgstr "руль вправо"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=19631
+msgid "rudder left"
+msgstr "руль влево"
+
+# : source/configurator.cpp:1014
+# : source/configurator.cpp:1019
+# : source/configurator.cpp:1021
+# | communitytranslateid=12069
+msgid "RTT Mode:"
+msgstr "Режим RTT:"
+
+# # | translated from communitytranslateid=17353
+# | communitytranslateid=20870
+msgid "rotate view up"
+msgstr "повернуть взгляд наверх"
+
+# # | translated from communitytranslateid=17354
+# | communitytranslateid=20869
+msgid "rotate view down"
+msgstr "повернуть взгляд вниз"
+
+# # | translated from communitytranslateid=17302
+# | communitytranslateid=18006
+msgid "rotate object right"
+msgstr "повернуть объект вправо"
+
+# # | translated from communitytranslateid=17301
+# | communitytranslateid=20125
+msgid "rotate object left"
+msgstr "вращать объект влево"
+
+# # | translated from communitytranslateid=17206
+# | communitytranslateid=20868
+msgid "rotate character right"
+msgstr "повернуть игрока направо"
+
+# # | translated from communitytranslateid=17205
+# | communitytranslateid=20867
+msgid "rotate character left"
+msgstr "повернуть игрока налево"
+
+# # | translated from communitytranslateid=17197
+# | communitytranslateid=18013
+msgid "rotate camera up"
+msgstr "повернуть камеру вверх"
+
+# # | translated from communitytranslateid=17196
+# | communitytranslateid=19645
+msgid "rotate camera right"
+msgstr "вращать камеру в право"
+
+# # | translated from communitytranslateid=17195
+# | communitytranslateid=18016
+msgid "rotate camera left"
+msgstr "повернуть камеру влево"
+
+# # | translated from communitytranslateid=17194
+# | communitytranslateid=19644
+msgid "rotate camera down"
+msgstr "вращать камеру вниз"
+
+# : source/configurator.cpp:897
+# | communitytranslateid=12047
+msgid "Rigs of Rods configuration"
+msgstr "Настройка Rigs of Rods"
+
+# # | translated from communitytranslateid=17170
+# | communitytranslateid=22053
+msgid "reverse the turboprops"
+msgstr "Реверс тяги"
+
+# : source/configurator.cpp:1953
+# | communitytranslateid=12155
+msgid "reverse axis"
+msgstr "Обратная ось"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=12154
+msgid "Reverse"
+msgstr "Назад"
+
+# : source/configurator.cpp:917
+# : source/configurator.cpp:926
+# | communitytranslateid=12051
+msgid "Restore the default configuration."
+msgstr "Востановить конфигурацию по умолчанию"
+
+# : source/configurator.cpp:915
+# | communitytranslateid=12050
+msgid "Restore Defaults"
+msgstr "Восстановить по умолчанию"
+
+# # | translated from communitytranslateid=17270
+# | communitytranslateid=20126
+msgid "reset truck to original starting position"
+msgstr "вернуться к первоначальному месту грузовика"
+
+# # | translated from communitytranslateid=17193
+# | communitytranslateid=19627
+msgid "reset the camera position"
+msgstr "сбросить позицию камеры"
+
+# : source/configurator.cpp:1105
+# | communitytranslateid=12102
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Требует последние видеокарты. Добавляет эффект размытия."
+
+# : source/configurator.cpp:1102
+# | communitytranslateid=12100
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Требует последние видеокарты. Добавляет насыщенность отраженного света."
+
+# : source/configurator.cpp:1100
+# | communitytranslateid=12098
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Требует последние видеокарты. Добавляет эффект голубоватого свечения."
+
+# : source/configurator.cpp:1201
+# | communitytranslateid=12134
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Режим повтора (может снизить FPS)."
+
+# : source/configurator.cpp:1199
+# | communitytranslateid=12133
+msgid "Replay Mode"
+msgstr "Режим повтора"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=22055
+msgid "Render System"
+msgstr "Система Визуализации"
+
+# # | translated from communitytranslateid=17333
+# | communitytranslateid=20023
+msgid "reloads the roads (experimental)"
+msgstr "перезагрузки дорог (экспериментально)"
+
+# : source/configurator.cpp:1962
+# | communitytranslateid=12160
+msgid "Region"
+msgstr "Область"
+
+# # | translated from communitytranslateid=17143
+# | communitytranslateid=21097
+msgid "Regen cache"
+msgstr "REGEN кэша"
+
+# # | translated from communitytranslateid=17164
+# | communitytranslateid=22058
+msgid "pull the elevator up in an aircraft."
+msgstr "руль высоты вверх в самолёте"
+
+# # | translated from communitytranslateid=17163
+# | communitytranslateid=22059
+msgid "pull the elevator down in an aircraft."
+msgstr "руль высоты вниз в самолёте"
+
+# : source/configurator.cpp:1204
+# | communitytranslateid=12136
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Записывает все массы в RoR.log. Испотзовать только для отладки грузовика!"
+
+# # | translated from communitytranslateid=19386
+# | communitytranslateid=20127
+msgid "Please use any mapped input device in order to test."
+msgstr "Пожалуйста, используйте карту какого-либо устройства ввода в целях тестирования."
+
+# # | translated from communitytranslateid=19418
+# | communitytranslateid=20128
+msgid "Please select what type of device to export"
+msgstr "Пожалуйста, выберите, какой тип устройства для экспорта"
+
+# : source/configurator.cpp:316
+# | communitytranslateid=12029
+msgid "Please select an input event."
+msgstr "Пожалуйста, выберите название действия"
+
+# | communitytranslateid=12711
+msgid "Please clear the place first"
+msgstr "Пожалуйста, сначала очистите место"
+
+# # | translated from communitytranslateid=17298
+# | communitytranslateid=22048
+msgid "place currently selected object at current position"
+msgstr "разместить выбранный объект в текущей позиции"
+
+# # | translated from communitytranslateid=17300
+# | communitytranslateid=22064
+msgid "pitch object foreward"
+msgstr "наклонить объект вперёд"
+
+# # | translated from communitytranslateid=17299
+# | communitytranslateid=22065
+msgid "pitch object backward"
+msgstr "наклонить объект назад"
+
+# : source/configurator.cpp:1195
+# | communitytranslateid=12130
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Частицы для водных пушек (может быть использовано в мультиплеере)."
+
+# : source/configurator.cpp:1086
+# | communitytranslateid=12088
+msgid "Particle systems"
+msgstr "Система частиц"
+
+# : source/configurator.cpp:1833
+# | communitytranslateid=12147
+msgid "Options"
+msgstr "Опции"
+
+# # | translated from communitytranslateid=17167
+# | communitytranslateid=22060
+msgid "one step more flaps."
+msgstr "выпустить закрылки на один шаг"
+
+# # | translated from communitytranslateid=17166
+# | communitytranslateid=22061
+msgid "one step less flaps."
+msgstr "убрать закрылки на один шаг"
+
+# : source/configurator.cpp:494
+# : source/configurator.cpp:500
+# | communitytranslateid=12038
+msgid "ok (end test)"
+msgstr "ДА (закончить тест)"
+
+# | communitytranslateid=12661
+msgid "OK"
+msgstr "ДА"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=12148
+msgid "Ogre config validation error"
+msgstr "Ошибка правильности конфигурации OGRE"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=12150
+msgid "Ogre config error"
+msgstr "Ошибка конфигурации OGRE"
+
+# : source/configurator.cpp:1192
+# | communitytranslateid=12128
+msgid "Not much impact on speed."
+msgstr "Не сильно сказывается на производительности"
+
+# | communitytranslateid=12707
+msgid "normal camera"
+msgstr "Нормальная камера"
+
+# # | translated from communitytranslateid=17162
+# | communitytranslateid=20094
+msgid "normal brake for an aircraft"
+msgstr "нормальный тормоз для самолёта"
+
+# | communitytranslateid=12787
+msgid "Non-Driveable"
+msgstr "Ведомое"
+
+# | communitytranslateid=12848
+msgid "Nodes: "
+msgstr "Узлы:"
+
+# | communitytranslateid=12850
+msgid "node count: "
+msgstr "счёт узлов:"
+
+# # | translated from communitytranslateid=17177
+# | communitytranslateid=19654
+msgid "no thrust"
+msgstr "нет тяги"
+
+# # | translated from communitytranslateid=17168
+# | communitytranslateid=19361
+msgid "no flaps."
+msgstr "полностью убранные закрылки."
+
+# : source/configurator.cpp:1076
+# | communitytranslateid=12085
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Никакого эффекта, если вы возитесь с водой. Выглядят и так прекрасно."
+
+# # | translated from communitytranslateid=19427
+# | communitytranslateid=20873
+msgid "No differential installed on current vehicle!"
+msgstr "На этой машине диффиренциал не установлен"
+
+# : source/configurator.cpp:1966
+# | communitytranslateid=12163
+msgid "no deadzone"
+msgstr "нет мёртвой зоны"
+
+# | communitytranslateid=12838
+msgid "no author information available"
+msgstr "Отсутствует информация об авторе"
+
+# # | translated from communitytranslateid=17345
+# | communitytranslateid=19362
+msgid "no airbrakes"
+msgstr "нету воздушного тормоза"
+
+# : source/configurator.cpp:1133
+# : source/configurator.cpp:1503
+# | communitytranslateid=12109
+msgid "Nickname: "
+msgstr "Никнейм"
+
+# | communitytranslateid=12667
+msgid "new Language selected"
+msgstr "Новый язык выбран"
+
+# : source/configurator.cpp:997
+# | communitytranslateid=12065
+msgid "Network"
+msgstr "Интернет"
+
+# # | translated from communitytranslateid=17340
+# | communitytranslateid=20020
+msgid "move right mirror to the right"
+msgstr "подвинуть правое зеркало вправо"
+
+# # | translated from communitytranslateid=17343
+# | communitytranslateid=20021
+msgid "move replay fast forward"
+msgstr "быстро проиграть вперёд в режиме повтора"
+
+# # | translated from communitytranslateid=17344
+# | communitytranslateid=20874
+msgid "move replay fast backward"
+msgstr "Перемотать назад(быстро)"
+
+# # | translated from communitytranslateid=17338
+# | communitytranslateid=20095
+msgid "move left mirror to the right"
+msgstr "подвинуть левое зеркало вправо"
+
+# # | translated from communitytranslateid=17337
+# | communitytranslateid=20097
+msgid "move left mirror to the left"
+msgstr "подвинуть левое зеркало влево"
+
+# # | translated from communitytranslateid=17355
+# | communitytranslateid=20871
+msgid "move character up"
+msgstr "переместить игрока вверх"
+
+# # | translated from communitytranslateid=17356
+# | communitytranslateid=20872
+msgid "move character down"
+msgstr "переместить игрока вниз"
+
+# : source/configurator.cpp:498
+# | communitytranslateid=12040
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# : source/configurator.cpp:1103
+# | communitytranslateid=12101
+msgid "Motion blur"
+msgstr "Размытие изображения в движении"
+
+# # | translated from communitytranslateid=17339
+# | communitytranslateid=22062
+msgid "more right mirror to the left"
+msgstr "подвинуть правое зеркало влево"
+
+# # | translated from communitytranslateid=17341
+# | communitytranslateid=20875
+msgid "more replay forward"
+msgstr "Перемотать вперед(быстро)"
+
+# # | translated from communitytranslateid=17342
+# | communitytranslateid=21100
+msgid "more replay backward"
+msgstr "перемотка назад (быстро)"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=20002
+msgid "more airbrakes"
+msgstr "увеличить воздушный тормоз"
+
+# : source/configurator.cpp:1095
+# | communitytranslateid=12094
+msgid "Mirrors"
+msgstr "Зеркала"
+
+# : source/configurator.cpp:1216
+# : source/configurator.cpp:1296
+# | communitytranslateid=12143
+msgid "minimum visibility range in percent"
+msgstr "минимальная видимомость в процентах"
+
+# # | translated from communitytranslateid=19425
+# | communitytranslateid=20059
+msgid "Mid range selected"
+msgstr "Выбран средний диапазон"
+
+# | communitytranslateid=12662
+msgid "max Speed:"
+msgstr "Максимальная скорость:"
+
+# | communitytranslateid=12830
+msgid "Mass: "
+msgstr "Масса:"
+
+# | communitytranslateid=12800
+msgid "Manual shift - Auto clutch"
+msgstr "Ручное переключение - Автоматическое сцепление"
+
+# # | translated from communitytranslateid=17324
+# | communitytranslateid=18962
+msgid "manual clutch (for manual transmission)"
+msgstr "ручное сцепление (для механической КПП)"
+
+# | communitytranslateid=12861
+msgid "Machine"
+msgstr "Машина"
+
+# : source/configurator.cpp:1960
+# | communitytranslateid=12159
+msgid "Lower"
+msgstr "Ниже"
+
+# # | translated from communitytranslateid=19424
+# | communitytranslateid=20058
+msgid "Low range selected"
+msgstr "Выбран низкий диапазон"
+
+# # | translated from communitytranslateid=17192
+# | communitytranslateid=20060
+msgid "look back (toggles between normal and lookback)"
+msgstr "посмотреть назад (переключиться между обычным и просмотром назад)"
+
+# | communitytranslateid=15273
+msgid "loading...\n"
+msgstr "Загружаю...\n"
+
+# | communitytranslateid=15374
+msgid "Loading zips in group "
+msgstr "Загрузка ZIP в группу"
+
+# | communitytranslateid=15271
+msgid "Loading Terrain"
+msgstr "Загрузка ландшафта"
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=18968
+msgid "loading new zip: "
+msgstr "загружаю новый ЗИП:"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=19658
+msgid "loading new directory: "
+msgstr "загрузка новой директории:"
+
+# | communitytranslateid=15375
+msgid "Loading directory\n"
+msgstr "Загрузка директории\n"
+
+# | communitytranslateid=12841
+msgid "Loader"
+msgstr "Загрузчик"
+
+# | communitytranslateid=12843
+msgid "List"
+msgstr "Список"
+
+# # | translated from communitytranslateid=19417
+# | communitytranslateid=20061
+msgid "Linearity"
+msgstr "Линейность"
+
+# : source/configurator.cpp:1180
+# : source/configurator.cpp:1182
+# : source/configurator.cpp:1184
+# | communitytranslateid=12123
+msgid "Light source effects:"
+msgstr "Эффетк света:"
+
+# # | translated from communitytranslateid=17207
+# | communitytranslateid=19670
+msgid "let the character run"
+msgstr "бег человека"
+
+# # | translated from communitytranslateid=17204
+# | communitytranslateid=19668
+msgid "let the character jump"
+msgstr "прыжок человека"
+
+# # | translated from communitytranslateid=17347
+# | communitytranslateid=20129
+msgid "less airbrakes"
+msgstr "уменьшить воздушный тормоз"
+
+# | communitytranslateid=12664
+msgid "Language:"
+msgstr "Язык"
+
+# : source/configurator.cpp:504
+# | communitytranslateid=12041
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# : source/configurator.cpp:312
+# | communitytranslateid=12028
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+# : source/configurator.cpp:1302
+# | communitytranslateid=12146
+msgid "Key/Axis"
+msgstr "Клавиша/Ось"
+
+# : source/configurator.cpp:1950
+# | communitytranslateid=12153
+msgid "Joystick Options"
+msgstr "Опции Джойстика"
+
+# : source/configurator.cpp:1954
+# | communitytranslateid=12156
+msgid "Joystick Axis Region"
+msgstr "Область Оси Джойстика"
+
+# # | translated from communitytranslateid=19390
+# | communitytranslateid=22047
+msgid "Joystick Axis Linearity"
+msgstr "Линейность Оси Джойстика"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=12161
+msgid "Joystick Axis Deadzones"
+msgstr "Мёртвая зона оси Джойстика"
+
+# : source/configurator.cpp:496
+# | communitytranslateid=12039
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# : source/configurator.cpp:323
+# : source/configurator.cpp:976
+# | communitytranslateid=12030
+msgid "Input Type: "
+msgstr "Устройство ввода:"
+
+# | communitytranslateid=15384
+msgid "incremental check: processing changed zips\n"
+msgstr "Пошаговая проверка: процесс выбора ZIP\n"
+
+# | communitytranslateid=15385
+msgid "incremental check: new files\n"
+msgstr "Пошаговая проверка: новые файлы\n"
+
+# | communitytranslateid=15386
+msgid "incremental check: new content\n"
+msgstr "Пошаговая проверка: новый контент\n"
+
+# | communitytranslateid=15387
+msgid "incremental check: duplicates\n"
+msgstr "Пошаговая проверка: дубликаты\n"
+
+# | communitytranslateid=15388
+msgid "incremental check: deleted and changed files\n"
+msgstr "Пошаговая проверка: удаление и выбор файлов\n"
+
+# | communitytranslateid=15389
+msgid "incremental check: deleted and changed files"
+msgstr "Пошаговая проверка: удаление и выбор файлов"
+
+# # | translated from communitytranslateid=17267
+# | communitytranslateid=18014
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr "увеличить давление (заметка: только несколько грузовиков поддерживают это)"
+
+# # | translated from communitytranslateid=17186
+# | communitytranslateid=20098
+msgid "increase throttle"
+msgstr "Увеличение дросселя"
+
+# # | translated from communitytranslateid=17285
+# | communitytranslateid=20130
+msgid "increase the current FOV value"
+msgstr "Увеличение текущего значения FOV"
+
+# # | translated from communitytranslateid=17178
+# | communitytranslateid=20025
+msgid "increase the airplane thrust"
+msgstr "увеличение тяги самолета"
+
+# # | translated from communitytranslateid=17190
+# | communitytranslateid=20027
+msgid "increase day-time a lot faster"
+msgstr "ещё большее увеличение дневного времени"
+
+# # | translated from communitytranslateid=17189
+# | communitytranslateid=20131
+msgid "increase day-time"
+msgstr "увеличение дневного времени"
+
+# : source/configurator.cpp:1173
+# | communitytranslateid=12122
+msgid "In what Format should screenshots be saved?"
+msgstr "В каком формате дожен быть сохранён скриншот?"
+
+# : source/configurator.cpp:983
+# | communitytranslateid=12062
+msgid "Import Keymap"
+msgstr "Импортировать раскладку"
+
+# | communitytranslateid=12834
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Если вы используете XFire, вы можете включить эту опцию для более подробной информации об игре."
+
+# | communitytranslateid=12852
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Если вам не нравится подвижная камера в машине, вы можете выключить это здесь."
+
+# : source/configurator.cpp:1208
+# | communitytranslateid=12139
+msgid "Hydrax Water System"
+msgstr "Система воды Гидракс"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=19638
+msgid "hold to start the engine"
+msgstr "перевести для запуска двигателя"
+
+# # | translated from communitytranslateid=19426
+# | communitytranslateid=20132
+msgid "High range selected"
+msgstr "Выбран высокий диапозон"
+
+# : source/configurator.cpp:1106
+# | communitytranslateid=12103
+msgid "High quality reflective effects"
+msgstr "Высокое качество эффектов отражения"
+
+# | communitytranslateid=12673
+msgid "High Quality"
+msgstr "Высокое качество"
+
+# | communitytranslateid=12675
+msgid "High Performance"
+msgstr "Высокая производительность"
+
+# # | translated from communitytranslateid=17262
+# | communitytranslateid=18008
+msgid "hide all GUI elements"
+msgstr "спрятать все элементы интерфейса"
+
+# | communitytranslateid=12720
+msgid "here you can get help"
+msgstr "Здесь вы можете получить помощь"
+
+# : source/configurator.cpp:1090
+# | communitytranslateid=12091
+msgid "HeatHaze"
+msgstr "Тепловые лучи"
+
+# : source/configurator.cpp:1093
+# | communitytranslateid=12092
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Тепло от двигателей во время снижения (используйте только на последних видеокартах)"
+
+# | communitytranslateid=12684
+msgid "health: "
+msgstr "Здоровье:"
+
+# | communitytranslateid=12678
+msgid "Graphics Settings"
+msgstr "Настройки графики"
+
+# : source/configurator.cpp:935
+# | communitytranslateid=12057
+msgid "Graphics"
+msgstr "Графика"
+
+# # | translated from communitytranslateid=19423
+# | communitytranslateid=22092
+msgid "Fully Manual: stick shift with ranges"
+msgstr "Полностью Ручная: Рычаг Переключения с Отдельными Передачами"
+
+# # | translated from communitytranslateid=19422
+# | communitytranslateid=22093
+msgid "Fully manual: stick shift"
+msgstr "Полностью Ручная: Рычаг Переключения"
+
+# # | translated from communitytranslateid=19421
+# | communitytranslateid=19655
+msgid "Fully Manual: sequencial shift"
+msgstr "Полностью Ручная: переключение типа ВВЕРХ/ВНИЗ или секвентальное"
+
+# | communitytranslateid=12781
+msgid "Fully Manual shift"
+msgstr "Полностью ручное переключение"
+
+# # | translated from communitytranslateid=17176
+# | communitytranslateid=20024
+msgid "full thrust"
+msgstr "полная тяга"
+
+# : source/configurator.cpp:1043
+# | communitytranslateid=12074
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Полноразмерный режим использует больше ресурсов памяти"
+
+# : source/configurator.cpp:1041
+# | communitytranslateid=12073
+msgid "Full screen"
+msgstr "Полный размер"
+
+# # | translated from communitytranslateid=17165
+# | communitytranslateid=19374
+msgid "full flaps in an aircraft."
+msgstr "полностью выпущеные закрылки в самолёте."
+
+# # | translated from communitytranslateid=17346
+# | communitytranslateid=20133
+msgid "full airbrakes"
+msgstr "полный воздушный тормоз"
+
+# : source/configurator.cpp:1958
+# | communitytranslateid=12158
+msgid "Full"
+msgstr "Полный"
+
+# | communitytranslateid=12677
+msgid "free camera"
+msgstr "Свободная камера"
+
+# # | translated from communitytranslateid=17156
+# | communitytranslateid=18011
+msgid "FOV: "
+msgstr "Угол обзора:"
+
+# : source/configurator.cpp:1187
+# | communitytranslateid=12125
+msgid "Fog"
+msgstr "Туман"
+
+# | communitytranslateid=12844
+msgid "fixed free camera"
+msgstr "Фиксированная свободная камера"
+
+# # | translated from communitytranslateid=17335
+# | communitytranslateid=19637
+msgid "fix the camera to a position"
+msgstr "закрепить камеру в позиции"
+
+# # | translated from communitytranslateid=19419
+# | communitytranslateid=20100
+msgid "Export selection"
+msgstr "Экспортировать выбранное"
+
+# : source/configurator.cpp:986
+# | communitytranslateid=12063
+msgid "Export Keymap"
+msgstr "Экспортировать раскладку"
+
+# # | translated from communitytranslateid=17288
+# | communitytranslateid=20134
+msgid "EXPERIMENTAL: set maximum amount of grass"
+msgstr "ЭКСПЕРИМЕНТАЛЬНОЕ: установить максимальное количество травы"
+
+# # | translated from communitytranslateid=17290
+# | communitytranslateid=22051
+msgid "EXPERIMENTAL: save changes to the grass density image"
+msgstr "ЭКСПЕРИМЕНТАЛЬНОЕ: сохранить изменения на изображении плотности травы"
+
+# # | translated from communitytranslateid=17286
+# | communitytranslateid=18015
+msgid "EXPERIMENTAL: remove some grass"
+msgstr "ЭКСПЕРИМЕНТАЛЬНОЕ: убрать часть травы"
+
+# # | translated from communitytranslateid=17289
+# | communitytranslateid=18010
+msgid "EXPERIMENTAL: remove grass completely"
+msgstr "ЭКСПЕРИМЕНТАЛЬНОЕ: убрать траву полностью"
+
+# # | translated from communitytranslateid=17287
+# | communitytranslateid=19626
+msgid "EXPERIMENTAL: add some grass"
+msgstr "ЭКСПЕРИМЕНТАЛЬНОЕ: добавить немного травы"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=18967
+msgid "exit the game"
+msgstr "выход из игры"
+
+# : source/configurator.cpp:394
+# | communitytranslateid=12037
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Объём Действия (влево = 0%, вправо = 100%)"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# : source/configurator.cpp:298
+# : source/configurator.cpp:308
+# : source/configurator.cpp:321
+# | communitytranslateid=12027
+msgid "Event Name: "
+msgstr "Название действия:"
+
+# : source/configurator.cpp:393
+# | communitytranslateid=12036
+msgid "Event Name"
+msgstr "Название действия"
+
+# : source/configurator.cpp:392
+# | communitytranslateid=12035
+msgid "Event Description: "
+msgstr "Описания действия:"
+
+# : source/configurator.cpp:1298
+# | communitytranslateid=12144
+msgid "Event"
+msgstr "Действие"
+
+# | communitytranslateid=12887
+msgid "Error while retrieving user space path"
+msgstr "Ошибка во время восстановления пользователя"
+
+# | communitytranslateid=12885
+msgid "Error while retrieving program space path"
+msgstr "Ошибка во время восстановления программы"
+
+# # | translated from communitytranslateid=17260
+# | communitytranslateid=18001
+msgid "enter the chat"
+msgstr "войти в чат"
+
+# # | translated from communitytranslateid=17261
+# | communitytranslateid=20087
+msgid "enter or exit a truck"
+msgstr "войти или выйти из грузовика"
+
+# : source/configurator.cpp:1190
+# | communitytranslateid=12127
+msgid "Engine smoke"
+msgstr "Дым выхлопа двигателя"
+
+# : source/configurator.cpp:1073
+# | communitytranslateid=12083
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Включение волн делает приятнее управление лодками, но может ухудшить производительность."
+
+# : source/configurator.cpp:1210
+# | communitytranslateid=12140
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Включает новую систему рендеринга воды. На данный ммоент это ЭКСПЕРИМЕНТАЛЬНО. Аннулирует все параметры настройки воды."
+
+# | communitytranslateid=12868
+msgid "Enable XFire Extension"
+msgstr "Включить расширение XFire"
+
+# : source/configurator.cpp:1071
+# | communitytranslateid=12082
+msgid "Enable waves"
+msgstr "Включить волны"
+
+# | communitytranslateid=12869
+msgid "Enable Visual Beam Debug"
+msgstr "Включить визуальную отладку лучей"
+
+# # | translated from communitytranslateid=19429
+# | communitytranslateid=19636
+msgid "enable or disable replay mode"
+msgstr "включить или выключить режим повтора"
+
+# # | translated from communitytranslateid=17278
+# | communitytranslateid=20088
+msgid "enable of disable replay mode"
+msgstr "включить или выключить режим повтора"
+
+# : source/configurator.cpp:1129
+# : source/configurator.cpp:1132
+# | communitytranslateid=12108
+msgid "Enable network mode"
+msgstr "Включить мультиплеерный режим"
+
+# : source/configurator.cpp:1109
+# | communitytranslateid=12104
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Включить высокое качество эффектов отражения (ухудшает производительность)"
+
+# # | translated from communitytranslateid=17146
+# | communitytranslateid=20054
+msgid "Enable Auto-Downloader"
+msgstr "Включить Автозакачку"
+
+# : source/configurator.cpp:1123
+# : source/configurator.cpp:1128
+# | communitytranslateid=12107
+msgid "Enable advanced wheel model"
+msgstr "Включить продвинутую модель колеса"
+
+# # | translated from communitytranslateid=17336
+# | communitytranslateid=19625
+msgid "enable / disable free camera mode"
+msgstr "включить/выключить режим свободная камера"
+
+# : source/configurator.cpp:1087
+# | communitytranslateid=12089
+msgid "Dust"
+msgstr "Пыль"
+
+# | communitytranslateid=12847
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Показывает номера узлов скелета и больше информации о них и о лучах"
+
+# # | translated from communitytranslateid=17351
+# | communitytranslateid=18005
+msgid "display or hide net chat"
+msgstr "показать или скрыть сетевой чат"
+
+# : source/configurator.cpp:1213
+# | communitytranslateid=12142
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "Отключает карту. Только для тестирования, никакого прироста FPS от этого не будет."
+
+# : source/configurator.cpp:1211
+# | communitytranslateid=12141
+msgid "Disable Overview Map"
+msgstr "Отключить маленькую карту"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=20164
+msgid "disable creak sound"
+msgstr "отключить звук скрипа"
+
+# | communitytranslateid=12752
+msgid "Disable Camera Pitching"
+msgstr "Отключить тряску камеры"
+
+# # | translated from communitytranslateid=19428
+# | communitytranslateid=21106
+msgid "Differentials switched to: "
+msgstr "Дифференциалы включены в режиме:"
+
+# : source/configurator.cpp:1009
+# : source/configurator.cpp:1012
+# : source/configurator.cpp:1017
+# | communitytranslateid=12068
+msgid "Device:"
+msgstr "Устройство"
+
+# | communitytranslateid=12853
+msgid "destruction: "
+msgstr "разрушение:"
+
+# # | translated from communitytranslateid=17160
+# | communitytranslateid=19624
+msgid "Description: "
+msgstr "Описание:"
+
+# : source/configurator.cpp:981
+# | communitytranslateid=12061
+msgid "Delete selected"
+msgstr "Удалить выбранное"
+
+# # | translated from communitytranslateid=17350
+# | communitytranslateid=19623
+msgid "delete current truck"
+msgstr "удалить выбранный грузовик"
+
+# | communitytranslateid=12832
+msgid "deformed: "
+msgstr "деформировано:"
+
+# # | translated from communitytranslateid=17158
+# | communitytranslateid=19622
+msgid "Default Skin"
+msgstr "Стандартный скин"
+
+# # | translated from communitytranslateid=17284
+# | communitytranslateid=21129
+msgid "decreases the current FOV value"
+msgstr "уменьшить значение выбранного угла обзора"
+
+# # | translated from communitytranslateid=17175
+# | communitytranslateid=20053
+msgid "decreases the airplane thrust"
+msgstr "уменьшить тягу самолёта"
+
+# # | translated from communitytranslateid=17266
+# | communitytranslateid=19635
+msgid "decrease tire pressure (note: only very few trucks support this)"
+msgstr "уменьшить давление шин (к сведению: только некоторые грузовики поддерживают это)"
+
+# # | translated from communitytranslateid=17185
+# | communitytranslateid=20052
+msgid "decrease throttle"
+msgstr "уменьшить дроссель"
+
+# # | translated from communitytranslateid=17188
+# | communitytranslateid=21101
+msgid "decrease day-time a lot faster"
+msgstr "сокращение дневного времени (быстро)"
+
+# # | translated from communitytranslateid=17187
+# | communitytranslateid=21102
+msgid "decrease day-time"
+msgstr "сокращение дневного времени"
+
+# : source/configurator.cpp:1202
+# | communitytranslateid=12135
+msgid "Debug Truck Mass"
+msgstr "Отладка массы грузовика"
+
+# # | translated from communitytranslateid=17276
+# | communitytranslateid=20138
+msgid "debug purpose - dont use"
+msgstr "отладочная цель - не использовать"
+
+# : source/configurator.cpp:1205
+# | communitytranslateid=12137
+msgid "Debug Collision Meshes"
+msgstr "Отладка деформируемой сетки грузовика"
+
+# : source/configurator.cpp:2276
+# : source/configurator.cpp:2287
+# | communitytranslateid=12174
+msgid "Deadzone"
+msgstr "Мёртвая зона"
+
+# : source/configurator.cpp:900
+# : source/configurator.cpp:902
+# : source/configurator.cpp:908
+# | communitytranslateid=12048
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# : source/configurator.cpp:507
+# : source/configurator.cpp:510
+# | communitytranslateid=12042
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# : source/configurator.cpp:914
+# | communitytranslateid=12049
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# : source/configurator.cpp:565
+# | communitytranslateid=12043
+msgid "data/"
+msgstr "data/"
+
+# : source/configurator.cpp:1196
+# | communitytranslateid=12131
+msgid "Dashboard"
+msgstr "Приборная панель"
+
+# # | translated from communitytranslateid=19452
+# | communitytranslateid=22054
+msgid "Cycle between available differental models"
+msgstr "Переключение между доступными различными моделями"
+
+# : source/configurator.cpp:1193
+# | communitytranslateid=12129
+msgid "Custom Particles"
+msgstr "Изменяемые части"
+
+# | communitytranslateid=12682
+msgid "current Speed:"
+msgstr "Текущая скорость:"
+
+# | communitytranslateid=12686
+msgid "current RPM:"
+msgstr "Текущие об/мин:"
+
+# | communitytranslateid=12829
+msgid "current mass:"
+msgstr "Текущая масса:"
+
+# | communitytranslateid=12691
+msgid "Current FPS: "
+msgstr "Текущий FPS:"
+
+# | communitytranslateid=12694
+msgid "CPU Settings"
+msgstr "Настройки процессора"
+
+# : source/configurator.cpp:941
+# | communitytranslateid=12059
+msgid "CPU"
+msgstr "Процессор"
+
+# # | translated from communitytranslateid=19388
+# | communitytranslateid=20090
+msgid "Could not write to input.map file"
+msgstr "Не удалось записать в файл input.map"
+
+# : source/configurator.cpp:1854
+# | communitytranslateid=12151
+msgid "Could not write config file"
+msgstr "Невозможно записать конфигурационный файл"
+
+# : source/configurator.cpp:1838
+# | communitytranslateid=12149
+msgid "Could not open Rendering device"
+msgstr "Невозможно открыть устройство рендеринга"
+
+# : source/configurator.cpp:977
+# | communitytranslateid=12060
+msgid "Controls"
+msgstr "Управление"
+
+# # | translated from communitytranslateid=17263
+# | communitytranslateid=22063
+msgid "connect hook node to a node in close proximity"
+msgstr "подцепить крюк к узлу в непосредственной близости"
+
+# : source/configurator.cpp:1948
+# | communitytranslateid=12152
+msgid "Configure error"
+msgstr "Ошибка конфигурации"
+
+# | communitytranslateid=12756
+msgid "Community / Support"
+msgstr "Сообщество / Поддержка"
+
+# | communitytranslateid=12702
+msgid "Commands:"
+msgstr "Команды:"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=18965
+msgid "Command 9"
+msgstr "Команда №9"
+
+# # | translated from communitytranslateid=17217
+# | communitytranslateid=18966
+msgid "Command 8"
+msgstr "Команда №8"
+
+# # | translated from communitytranslateid=17216
+# | communitytranslateid=19320
+msgid "Command 7"
+msgstr "Команда №7"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=19358
+msgid "Command 6"
+msgstr "Команда №6"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=19357
+msgid "Command 5"
+msgstr "Команда №5"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=19354
+msgid "Command 48"
+msgstr "Команда №48"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=19352
+msgid "Command 47"
+msgstr "Команда №47"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=19348
+msgid "Command 46"
+msgstr "Команда №46"
+
+# # | translated from communitytranslateid=17254
+# | communitytranslateid=19347
+msgid "Command 45"
+msgstr "Команда №45"
+
+# # | translated from communitytranslateid=17253
+# | communitytranslateid=19345
+msgid "Command 44"
+msgstr "Команда №44"
+
+# # | translated from communitytranslateid=17252
+# | communitytranslateid=19343
+msgid "Command 43"
+msgstr "Команда №43"
+
+# # | translated from communitytranslateid=17251
+# | communitytranslateid=19595
+msgid "Command 42"
+msgstr "Команда №42"
+
+# # | translated from communitytranslateid=17250
+# | communitytranslateid=19621
+msgid "Command 41"
+msgstr "Команда №41"
+
+# # | translated from communitytranslateid=17249
+# | communitytranslateid=19620
+msgid "Command 40"
+msgstr "Команда №40"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=19619
+msgid "Command 4"
+msgstr "Команда №4"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=19618
+msgid "Command 39"
+msgstr "Команда №39"
+
+# # | translated from communitytranslateid=17247
+# | communitytranslateid=19617
+msgid "Command 38"
+msgstr "Команда №38"
+
+# # | translated from communitytranslateid=17246
+# | communitytranslateid=18012
+msgid "Command 37"
+msgstr "Команда №37"
+
+# # | translated from communitytranslateid=17245
+# | communitytranslateid=19616
+msgid "Command 36"
+msgstr "Команда №36"
+
+# # | translated from communitytranslateid=17244
+# | communitytranslateid=19615
+msgid "Command 35"
+msgstr "Команда №35"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=19614
+msgid "Command 34"
+msgstr "Команда №34"
+
+# # | translated from communitytranslateid=17242
+# | communitytranslateid=18003
+msgid "Command 33"
+msgstr "Команда №33"
+
+# # | translated from communitytranslateid=17241
+# | communitytranslateid=19613
+msgid "Command 32"
+msgstr "Команда №32"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=18964
+msgid "Command 31"
+msgstr "Команда №31"
+
+# # | translated from communitytranslateid=17239
+# | communitytranslateid=19612
+msgid "Command 30"
+msgstr "Команда №30"
+
+# # | translated from communitytranslateid=17212
+# | communitytranslateid=19611
+msgid "Command 3"
+msgstr "Команда №3"
+
+# # | translated from communitytranslateid=17238
+# | communitytranslateid=19610
+msgid "Command 29"
+msgstr "Команда №29"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=19609
+msgid "Command 28"
+msgstr "Команда №28"
+
+# # | translated from communitytranslateid=17236
+# | communitytranslateid=17999
+msgid "Command 27"
+msgstr "Команда №27"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=19608
+msgid "Command 26"
+msgstr "Команда №26"
+
+# # | translated from communitytranslateid=17234
+# | communitytranslateid=19605
+msgid "Command 25"
+msgstr "Команда №25"
+
+# # | translated from communitytranslateid=17233
+# | communitytranslateid=19604
+msgid "Command 24"
+msgstr "Команда №24"
+
+# # | translated from communitytranslateid=17232
+# | communitytranslateid=19602
+msgid "Command 23"
+msgstr "Команда №23"
+
+# # | translated from communitytranslateid=17231
+# | communitytranslateid=19601
+msgid "Command 22"
+msgstr "Команда №22"
+
+# # | translated from communitytranslateid=17230
+# | communitytranslateid=19599
+msgid "Command 21"
+msgstr "Команда №21"
+
+# # | translated from communitytranslateid=17229
+# | communitytranslateid=19598
+msgid "Command 20"
+msgstr "Команда №20"
+
+# # | translated from communitytranslateid=17211
+# | communitytranslateid=18007
+msgid "Command 2"
+msgstr "Команда №2"
+
+# # | translated from communitytranslateid=17228
+# | communitytranslateid=19329
+msgid "Command 19"
+msgstr "Команда №19"
+
+# # | translated from communitytranslateid=17227
+# | communitytranslateid=19331
+msgid "Command 18"
+msgstr "Команда №18"
+
+# # | translated from communitytranslateid=17226
+# | communitytranslateid=19332
+msgid "Command 17"
+msgstr "Команда №17"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=19334
+msgid "Command 16"
+msgstr "Команда №16"
+
+# # | translated from communitytranslateid=17224
+# | communitytranslateid=19335
+msgid "Command 15"
+msgstr "Команда №15"
+
+# # | translated from communitytranslateid=17223
+# | communitytranslateid=19338
+msgid "Command 14"
+msgstr "Команда №14"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=19339
+msgid "Command 13"
+msgstr "Команда №13"
+
+# # | translated from communitytranslateid=17221
+# | communitytranslateid=19341
+msgid "Command 12"
+msgstr "Команда №12"
+
+# # | translated from communitytranslateid=17220
+# | communitytranslateid=19596
+msgid "Command 11"
+msgstr "Команда №11"
+
+# # | translated from communitytranslateid=17219
+# | communitytranslateid=18009
+msgid "Command 10"
+msgstr "Команда №10"
+
+# # | translated from communitytranslateid=17210
+# | communitytranslateid=19316
+msgid "Command 1"
+msgstr "Команда №1"
+
+# : source/configurator.cpp:1094
+# | communitytranslateid=12093
+msgid "Cockpit options"
+msgstr "Опции кокпита"
+
+# : source/configurator.cpp:336
+# | communitytranslateid=12034
+msgid "close this dialog"
+msgstr "Закрыть этот диалог"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=20137
+msgid "Click on blue hyperlinks to select a server."
+msgstr "Нажмите на синей ссылке для выбора сервера."
+
+# : source/configurator.cpp:1186
+# | communitytranslateid=12124
+msgid "Clear cache"
+msgstr "Очистить кэш"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=19641
+msgid "Choose a file"
+msgstr "Выбрать файл"
+
+# | communitytranslateid=15390
+msgid "checking for new zips in "
+msgstr "Проверка новых ZIP в"
+
+# | communitytranslateid=15391
+msgid "checking for new directories in "
+msgstr "Проверка новых директорий в"
+
+# # | translated from communitytranslateid=17191
+# | communitytranslateid=19650
+msgid "change camera mode"
+msgstr "изменить режим камеры"
+
+# # | translated from communitytranslateid=17180
+# | communitytranslateid=20136
+msgid "center the rudder"
+msgstr "центр руля"
+
+# : source/configurator.cpp:932
+# | communitytranslateid=12056
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Отменить настройки изменений и закрыть программу настроек."
+
+# : source/configurator.cpp:327
+# | communitytranslateid=12033
+msgid "Cancel"
+msgstr "Отменить"
+
+# : source/configurator.cpp:1054
+# | communitytranslateid=12078
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Небо Caelum является хорошим, но весьма медленным, если у Вас нет мощного GPU."
+
+# # | translated from communitytranslateid=17155
+# | communitytranslateid=20135
+msgid "Cache regeneration done.\n"
+msgstr "Пересоздание кэша завершено.\n"
+
+# | communitytranslateid=12697
+msgid "broken: "
+msgstr "Сломано:"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=19583
+msgid "brake"
+msgstr "Тормоз"
+
+# | communitytranslateid=12715
+msgid "Boat"
+msgstr "Лодка"
+
+# : source/configurator.cpp:1101
+# | communitytranslateid=12099
+msgid "Bloom"
+msgstr "Рассвет"
+
+# | communitytranslateid=12681
+msgid "Best FPS: "
+msgstr "Лучший FPS:"
+
+# | communitytranslateid=12860
+msgid "beam count: "
+msgstr "счёт луча:"
+
+# | communitytranslateid=12802
+msgid "Balanced"
+msgstr "Сбалансировано"
+
+# | communitytranslateid=12760
+msgid "Bad server port"
+msgstr "Плохой порт сервера"
+
+# | communitytranslateid=12822
+msgid "average stress: "
+msgstr "Средний стресс:"
+
+# | communitytranslateid=12726
+msgid "Average FPS: "
+msgstr "Средний FPS:"
+
+# | communitytranslateid=12731
+msgid "average deformation: "
+msgstr "Средняя деформация:"
+
+# | communitytranslateid=12771
+msgid "Automatic shift"
+msgstr "Автоматическое переключение"
+
+# | communitytranslateid=12729
+msgid "Authors: "
+msgstr "Авторы:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=18212
+msgid "Author: "
+msgstr "Автор:"
+
+# : source/configurator.cpp:1027
+# : source/configurator.cpp:1029
+# | communitytranslateid=12071
+msgid "Anti-aliasing:"
+msgstr "Сглаживание:"
+
+# : source/configurator.cpp:1134
+# | communitytranslateid=12110
+msgid "Anonymous"
+msgstr "Анонимный"
+
+# | communitytranslateid=12700
+msgid "Altitude:"
+msgstr "Высота:"
+
+# # | translated from communitytranslateid=17349
+# | communitytranslateid=22023
+msgid "airplane throttle"
+msgstr "дроссель самолета"
+
+# # | translated from communitytranslateid=17169
+# | communitytranslateid=19640
+msgid "airplane parking brake."
+msgstr "стояночный тормоз самолёта"
+
+# | communitytranslateid=12666
+msgid "Airplane"
+msgstr "Самолёт"
+
+# : source/configurator.cpp:1003
+# | communitytranslateid=12066
+msgid "Advanced"
+msgstr "Расширено"
+
+# : source/configurator.cpp:326
+# : source/configurator.cpp:923
+# | communitytranslateid=12032
+msgid "Add the key"
+msgstr "Добавить клавишу"
+
+# : source/configurator.cpp:324
+# | communitytranslateid=12031
+msgid "Add"
+msgstr "Добавить"
+
+# # | translated from communitytranslateid=17306
+# | communitytranslateid=19652
+msgid "accelerate the truck"
+msgstr "разогнать грузовик"
+
+# | communitytranslateid=12764
+msgid "A network error occured"
+msgstr "Ошибка сети"
+
+# : source/configurator.cpp:1969
+# | communitytranslateid=12165
+msgid "5% deadzone"
+msgstr "5 % мёртвая зона"
+
+# : source/configurator.cpp:1966
+# , c-format
+# | communitytranslateid=12164
+msgid "5 %"
+msgstr "5 %"
+
+# : source/configurator.cpp:1981
+# | communitytranslateid=12173
+msgid "30% deadzone"
+msgstr "30 % мёртвая зона"
+
+# : source/configurator.cpp:1978
+# , c-format
+# | communitytranslateid=12172
+msgid "30 %"
+msgstr "30 %"
+
+# : source/configurator.cpp:1978
+# | communitytranslateid=12171
+msgid "20% deadzone"
+msgstr "20 % мёртвая зона"
+
+# : source/configurator.cpp:1975
+# , c-format
+# | communitytranslateid=12170
+msgid "20 %"
+msgstr "20 %"
+
+# : source/configurator.cpp:1975
+# | communitytranslateid=12169
+msgid "15% deadzone"
+msgstr "15 % мёртвая зона"
+
+# : source/configurator.cpp:1972
+# , c-format
+# | communitytranslateid=12168
+msgid "15 %"
+msgstr "15 %"
+
+# : source/configurator.cpp:1145
+# : source/configurator.cpp:1149
+# : source/configurator.cpp:1147
+# | communitytranslateid=12114
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# : source/configurator.cpp:1152
+# | communitytranslateid=12116
+msgid "12333"
+msgstr "12333"
+
+# : source/configurator.cpp:1972
+# | communitytranslateid=12167
+msgid "10% deadzone"
+msgstr "10 % мёртвая зона"
+
+# : source/configurator.cpp:1969
+# , c-format
+# | communitytranslateid=12166
+msgid "10 %"
+msgstr "10 %"
+
+# # | translated from communitytranslateid=19403
+# | communitytranslateid=20144
+msgid "0 % (Total Linear)"
+msgstr "0 % (Полная Линейность)"
+
+# : source/configurator.cpp:1963
+# | communitytranslateid=12162
+msgid "0 % (No deadzone)"
+msgstr "0 % (нет мёртвой зоны)"
+
+# : source/configurator.cpp:1141
+# : source/configurator.cpp:1143
+# | communitytranslateid=12112
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Как играть в мультиплеере:</p><br><ol><li>Нажмите кнопку <b>Обновить</b> для просмотра доступных серверов.</li><li>Нажмите на любой сервер из списка.</li><li>Нажмите на кнопку <b>Сохранить и играть</b> и начните игру.</li></ol>"
+
+# | communitytranslateid=15272
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Последние новости</h2>Ничего нету<h2>Поддержка / Сообщество</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>руководства</a><p/> (этот сайт будет дополняться...)"
+
+# # | translated from communitytranslateid=19402
+# | communitytranslateid=21127
+msgid "+5% multiplication"
+msgstr "увеличение +5%"
+
+# # | translated from communitytranslateid=19401
+# | communitytranslateid=20165
+msgid "+5 %"
+msgstr "+5 %"
+
+# # | translated from communitytranslateid=19392
+# | communitytranslateid=21126
+msgid "+30% multiplication"
+msgstr "увеличение +30%"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=21125
+msgid "+30 %"
+msgstr "+30 %"
+
+# # | translated from communitytranslateid=19394
+# | communitytranslateid=21123
+msgid "+25% multiplication"
+msgstr "увеличение +25%"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=21122
+msgid "+25 %"
+msgstr "+25 %"
+
+# # | translated from communitytranslateid=19396
+# | communitytranslateid=21121
+msgid "+20% multiplication"
+msgstr "увеличение +20%"
+
+# # | translated from communitytranslateid=19395
+# | communitytranslateid=21120
+msgid "+20 %"
+msgstr "+20 %"
+
+# # | translated from communitytranslateid=19398
+# | communitytranslateid=21119
+msgid "+15% multiplication"
+msgstr "увеличение +15%"
+
+# # | translated from communitytranslateid=19397
+# | communitytranslateid=21118
+msgid "+15 %"
+msgstr "+15 %"
+
+# # | translated from communitytranslateid=19400
+# | communitytranslateid=21116
+msgid "+10% multiplication"
+msgstr "увеличение +10%"
+
+# # | translated from communitytranslateid=19399
+# | communitytranslateid=21117
+msgid "+10 %"
+msgstr "+10%"
+
+# : source/configurator.cpp:587
+# | communitytranslateid=12044
+msgid "(Please press a key)"
+msgstr "(Пожалуйста нажмите клавишу)"
+
+# : source/configurator.cpp:613
+# | communitytranslateid=12045
+msgid "(Please press a Joystick Button)"
+msgstr "(Пожалуйста нажмите клавишу Джойстика)"
+
+# : source/configurator.cpp:829
+# | communitytranslateid=12046
+msgid "(Please move an Axis)\n"
+msgstr "(Пожалуйста подвигайте Ось)\n"
+
+# # | translated from communitytranslateid=19387
+# | communitytranslateid=21115
+msgid "(Please move a Slider)\n"
+msgstr "(Пожалуйста, подвиньте Ползунок)\n"
+
+# | communitytranslateid=12717
+msgid "(No Languages found)"
+msgstr "(Языки не найдены)"
+
+# | communitytranslateid=12734
+msgid "(no author information available)"
+msgstr "(информация об авторе отсутствует)"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=18000
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "... загрузка ... (возможно вам следует проверить ваше соединение с интернетом)"
+
+# # | translated from communitytranslateid=19406
+# | communitytranslateid=21113
+msgid "-5% multiplication"
+msgstr "уменьшение -5%"
+
+# # | translated from communitytranslateid=19405
+# | communitytranslateid=20143
+msgid "-5 %"
+msgstr "-5 %"
+
+# # | translated from communitytranslateid=19416
+# | communitytranslateid=21112
+msgid "-30% multiplication"
+msgstr "уменьшение -30%"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=20142
+msgid "-30 %"
+msgstr "-30 %"
+
+# # | translated from communitytranslateid=19414
+# | communitytranslateid=21110
+msgid "-25% multiplication"
+msgstr "уменьшение -25%"
+
+# # | translated from communitytranslateid=19413
+# | communitytranslateid=20141
+msgid "-25 %"
+msgstr "-25 %"
+
+# # | translated from communitytranslateid=19412
+# | communitytranslateid=21109
+msgid "-20% multiplication"
+msgstr "уменьшение -20%"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=19649
+msgid "-20 %"
+msgstr "-20 %"
+
+# # | translated from communitytranslateid=19410
+# | communitytranslateid=21108
+msgid "-15% multiplication"
+msgstr "уменьшение -15%"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=19648
+msgid "-15 %"
+msgstr "-15 %"
+
+# # | translated from communitytranslateid=19408
+# | communitytranslateid=21107
+msgid "-10% multiplication"
+msgstr "уменьшение -10%"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=19646
+msgid "-10 %"
+msgstr "-10 %"
+
+# | communitytranslateid=12821
+msgid "^8 Player: ^7"
+msgstr "^8 Игрок: ^7"
+
+# | communitytranslateid=12875
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 использования: /rcmd [команда] [опциональные аргументы]"
+
+# | communitytranslateid=12854
+msgid "^1 unkown Command: "
+msgstr "^1 Неизвестная команда:"
+
+# | communitytranslateid=12828
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 ОШИБКА: вы должны использовать /rlogin [пароль] сначала"
+
+# | communitytranslateid=12879
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 ОШИБКА: ошибка протокола во время попытки посылания команды к RCON:"
+
+# | communitytranslateid=12882
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 ОШИБКА: ошибка протокола во время попытки записи в RCON:"
+
+# | communitytranslateid=12872
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 ОШИБКА: не в мультиплеерном режиме"
+
+# | communitytranslateid=12858
+msgid "^1 Error Parsing command"
+msgstr "^1 Ошибка команды Парсинга"
+
+# | communitytranslateid=15275
+msgid " not existing"
+msgstr "не существует"
+
+# | communitytranslateid=15274
+msgid " changed"
+msgstr "Изменено"
+

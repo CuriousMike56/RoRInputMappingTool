@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# | communitytranslateid=14686
+msgid "Worst FPS: "
+msgstr "Pessime FPS:"
+
+# # | translated from communitytranslateid=10807
+# | communitytranslateid=16714
+msgid "Type"
+msgstr "Typus"
+
+# | communitytranslateid=14688
+msgid "Truck"
+msgstr "Currus per Haud Equus"
+
+# | communitytranslateid=14687
+msgid "Triangle Count: "
+msgstr "Triangle duco:"
+
+# # | translated from communitytranslateid=10724
+# | communitytranslateid=16713
+msgid "Sky type:"
+msgstr "Divum typus"
+
+# | communitytranslateid=14692
+msgid "Mass: "
+msgstr "pondus"
+
+# | communitytranslateid=14691
+msgid "Dust"
+msgstr "pulvis"
+
+# | communitytranslateid=14683
+msgid "Current FPS: "
+msgstr "Iam FPS:"
+
+# | communitytranslateid=14690
+msgid "Boat"
+msgstr "navis"
+
+# | communitytranslateid=14685
+msgid "Best FPS: "
+msgstr "Optime FPS:"
+
+# | communitytranslateid=14684
+msgid "Average FPS: "
+msgstr "Mediocris FPS:"
+
+# | communitytranslateid=14689
+msgid "Airplane"
+msgstr "Volatilis Apparatus"
+

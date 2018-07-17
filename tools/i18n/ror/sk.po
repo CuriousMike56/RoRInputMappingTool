@@ -1,0 +1,798 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# | communitytranslateid=15532
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Musíte uložiť zmeny a reštartovať program pre aktiváciu nového jazyka1"
+
+# | communitytranslateid=15672
+msgid "wrote screenshot:"
+msgstr "zapísať screenshot:"
+
+# | communitytranslateid=15469
+msgid "Worst FPS: "
+msgstr "Najhoršie FPS:"
+
+# | communitytranslateid=15472
+msgid "Wheels: "
+msgstr "Kolesá:"
+
+# | communitytranslateid=15488
+msgid "Water type:"
+msgstr "Model vody:"
+
+# | communitytranslateid=15622
+msgid "Water spray"
+msgstr "Ostrekovač"
+
+# | communitytranslateid=15494
+msgid "VSync"
+msgstr "VSync"
+
+# | communitytranslateid=15487
+msgid "Visual effects"
+msgstr "Vizuálne efekty"
+
+# | communitytranslateid=15533
+msgid "Video mode:"
+msgstr "Video mód:"
+
+# | communitytranslateid=15476
+msgid "Vehicle Type: "
+msgstr "Typ vozidla:"
+
+# | communitytranslateid=15512
+msgid "Vegetation:"
+msgstr "Rastlinstvo:"
+
+# | communitytranslateid=15618
+msgid "User Token: "
+msgstr "Užívateľský Token:"
+
+# | communitytranslateid=15555
+msgid "Upper"
+msgstr "Horný"
+
+# | communitytranslateid=15525
+msgid "Update"
+msgstr "Obnoviť"
+
+# | communitytranslateid=15673
+msgid "unkown encoding problem"
+msgstr "problém neznámeho kódovania"
+
+# | communitytranslateid=15603
+msgid "unknown.dds"
+msgstr "unknown.dds"
+
+# | communitytranslateid=15528
+msgid "Uncheck in case you have a fog problem"
+msgstr "Odškrtni v prípade problémov s hmlou"
+
+# | communitytranslateid=15667
+msgid "Unable to connect to server"
+msgstr "Nedá sa pripojiť k serveru"
+
+# | communitytranslateid=15502
+msgid "Type"
+msgstr "Typ"
+
+# | communitytranslateid=15534
+msgid "Trying to connect to server ..."
+msgstr "Pokúšam sa pripojiť na server ..."
+
+# | communitytranslateid=15621
+msgid "Truck"
+msgstr "Kamión"
+
+# | communitytranslateid=15481
+msgid "Triangle Count: "
+msgstr "Počet trojuholníkov."
+
+# | communitytranslateid=15556
+msgid "Torque: "
+msgstr "Krútiaci moment:"
+
+# | communitytranslateid=15489
+msgid "tons"
+msgstr "ton"
+
+# | communitytranslateid=15495
+msgid "Thread number:"
+msgstr "Počet vlákien:"
+
+# | communitytranslateid=15677
+msgid "The server password, if required."
+msgstr "Tento server heslo, v prípade potreby."
+
+# | communitytranslateid=15538
+msgid "Texture filtering:"
+msgstr "Filtrovanie textúr:"
+
+# | communitytranslateid=15471
+msgid "Test"
+msgstr "Test"
+
+# | communitytranslateid=15623
+msgid "Terrain not found: "
+msgstr "Terén nenájdený:"
+
+# | communitytranslateid=15620
+msgid "Terrain loading error"
+msgstr "Chyba načítavania terénu"
+
+# | communitytranslateid=15624
+msgid "Sunburn"
+msgstr "Oslnenie"
+
+# | communitytranslateid=15625
+msgid "Startup error"
+msgstr "Chyba pri spustení"
+
+# | communitytranslateid=15553
+msgid "Special effects"
+msgstr "Špeciálne efekty"
+
+# | communitytranslateid=15507
+msgid "Sounds"
+msgstr "Zvuky"
+
+# | communitytranslateid=15637
+msgid "Sound rendering:"
+msgstr "Spracovanie zvuku:"
+
+# | communitytranslateid=15657
+msgid "Sky type:"
+msgstr "Typ oblohy:"
+
+# | communitytranslateid=15535
+msgid "Simple Settings"
+msgstr "Jednoduché Nastavenia"
+
+# | communitytranslateid=15644
+msgid "Shadow type:"
+msgstr "Typ tieňov:"
+
+# | communitytranslateid=15670
+msgid "Sets all settings in a simple way"
+msgstr "Nastaví všetky nastavenia jednoduchým spôsobom"
+
+# | communitytranslateid=15589
+msgid "Server port number: "
+msgstr "Číslo portu servera:"
+
+# | communitytranslateid=15596
+msgid "Server password: "
+msgstr "Heslo servera:"
+
+# | communitytranslateid=15635
+msgid "Search"
+msgstr "Hľadať"
+
+# | communitytranslateid=15638
+msgid "Screenshot Format:"
+msgstr "Formát screenshotu:"
+
+# | communitytranslateid=15666
+msgid "Screen configuration"
+msgstr "Konfigurácia zobrazenia"
+
+# | communitytranslateid=15656
+msgid "Save the current configuration and start RoR."
+msgstr "Uložiť súčastné nastavenia a spustiť RoR."
+
+# | communitytranslateid=15690
+msgid "Save the current configuration and close the configuration program."
+msgstr "Uložiť aktuálne nastavenia a zatvorte konfiguračný program."
+
+# | communitytranslateid=15540
+msgid "Save and Play"
+msgstr "Ulož a Hraj"
+
+# | communitytranslateid=15552
+msgid "Save and Exit"
+msgstr "Ulož a Ukonči"
+
+# | communitytranslateid=15655
+msgid "RTT Mode:"
+msgstr "RTT mód:"
+
+# | communitytranslateid=15546
+msgid "Rigs of Rods configuration"
+msgstr "Nastavenie Rigs of Rods"
+
+# | communitytranslateid=15626
+msgid "reverse axis"
+msgstr "obráť osi"
+
+# | communitytranslateid=15661
+msgid "Restore the default configuration."
+msgstr "Obnoviť štandartnú konfiguráciu."
+
+# | communitytranslateid=15491
+msgid "Restore Defaults"
+msgstr "Obnoviť pôvodné"
+
+# | communitytranslateid=15676
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Určené pre najnovšie grafické karty. Pridá efekt rozmazania pohybu."
+
+# | communitytranslateid=15678
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Určené pre najnovšie grafické karty. Pridá efekt rozmazania svetla."
+
+# | communitytranslateid=15684
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Určené pre najnovšie grafické karty. Pridá modrastý oslepujúcich efekt."
+
+# | communitytranslateid=15663
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Replay režim"
+
+# | communitytranslateid=15680
+msgid "Replay Mode"
+msgstr "Replay režim"
+
+# | communitytranslateid=15639
+msgid "Region"
+msgstr "Región"
+
+# | communitytranslateid=15694
+msgid "Particle systems"
+msgstr "Časticové systémy"
+
+# | communitytranslateid=15475
+msgid "Options"
+msgstr "Nastavenia"
+
+# | communitytranslateid=15640
+msgid "ok (end test)"
+msgstr "ok (a test)"
+
+# | communitytranslateid=15499
+msgid "OK"
+msgstr "OK"
+
+# | communitytranslateid=15671
+msgid "Not much impact on speed."
+msgstr "Nič moc vplyv na rýchlosť."
+
+# | communitytranslateid=15498
+msgid "normal camera"
+msgstr "normálna kamera"
+
+# | communitytranslateid=15659
+msgid "Non-Driveable"
+msgstr "Neriaditeľné"
+
+# | communitytranslateid=15558
+msgid "Nodes: "
+msgstr "Uzly:"
+
+# | communitytranslateid=15660
+msgid "node count: "
+msgstr "počet uzlov:"
+
+# | communitytranslateid=15652
+msgid "no deadzone"
+msgstr "žiadna mŕtva zóna"
+
+# | communitytranslateid=15595
+msgid "no author information available"
+msgstr "niesu dostupné žiadne informácie o autorovi"
+
+# | communitytranslateid=15641
+msgid "Nickname: "
+msgstr "Prezývka:"
+
+# | communitytranslateid=15681
+msgid "new Language selected"
+msgstr "nový jazyk vybraný"
+
+# | communitytranslateid=15522
+msgid "Network"
+msgstr "Sieť"
+
+# | communitytranslateid=15658
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# | communitytranslateid=15523
+msgid "Motion blur"
+msgstr "Motion blur"
+
+# | communitytranslateid=15547
+msgid "Mirrors"
+msgstr "Zrkadlá"
+
+# | communitytranslateid=15687
+msgid "minimum visibility range in percent"
+msgstr "minimálny rozsah viditeľnosti v percentách"
+
+# | communitytranslateid=15529
+msgid "max Speed:"
+msgstr "maximálna rýchlosť:"
+
+# | communitytranslateid=15636
+msgid "Mass: "
+msgstr "Hmota:"
+
+# | communitytranslateid=15520
+msgid "Manual shift - Auto clutch"
+msgstr "Manuálne radenie - Autmatická spojka"
+
+# | communitytranslateid=15633
+msgid "Machine"
+msgstr "Stroj"
+
+# | communitytranslateid=15650
+msgid "loading...\n"
+msgstr "načítavam...\n"
+
+# | communitytranslateid=15527
+msgid "Loading Terrain"
+msgstr "Načítavam terén"
+
+# | communitytranslateid=15683
+msgid "Loading directory\n"
+msgstr "Načítavam adresár\n"
+
+# | communitytranslateid=15653
+msgid "Loader"
+msgstr "Nakladač"
+
+# | communitytranslateid=15543
+msgid "List"
+msgstr "Zoznam"
+
+# | communitytranslateid=15675
+msgid "Light source effects:"
+msgstr "Svetelné efekty:"
+
+# | communitytranslateid=15517
+msgid "Language:"
+msgstr "Jazyk:"
+
+# | communitytranslateid=15693
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# | communitytranslateid=15544
+msgid "Keyboard"
+msgstr "Klávesnica"
+
+# | communitytranslateid=15654
+msgid "Joystick Options"
+msgstr "Nastavenia Joysticku"
+
+# | communitytranslateid=15669
+msgid "Joystick Axis Region"
+msgstr "Kraj osi joisticku"
+
+# | communitytranslateid=15691
+msgid "Joystick Axis Deadzones"
+msgstr "Mŕtve zóny osi joysticka"
+
+# | communitytranslateid=15634
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# | communitytranslateid=15627
+msgid "Input Type: "
+msgstr "Typ vstupu:"
+
+# | communitytranslateid=15642
+msgid "incremental check: new files\n"
+msgstr "inkrementálna kontrola: nové súbory\n"
+
+# | communitytranslateid=15615
+msgid "In what Format should screenshots be saved?"
+msgstr "V akom formáte by mal byt screenshot uložený?"
+
+# | communitytranslateid=15614
+msgid "High quality reflective effects"
+msgstr "Vysoko kvalitné odzrkadľujúce efekty"
+
+# | communitytranslateid=15531
+msgid "High Quality"
+msgstr "Vysoká kvalita"
+
+# | communitytranslateid=15530
+msgid "High Performance"
+msgstr "Visoký výkon"
+
+# | communitytranslateid=15600
+msgid "here you can get help"
+msgstr "tu môžete dostať pomoc"
+
+# | communitytranslateid=15599
+msgid "HeatHaze"
+msgstr "HeatHaze"
+
+# | communitytranslateid=15526
+msgid "health: "
+msgstr "zdravie:"
+
+# | communitytranslateid=15597
+msgid "Graphics Settings"
+msgstr "Grafické Nastavenia"
+
+# | communitytranslateid=15598
+msgid "Graphics"
+msgstr "Grafika"
+
+# | communitytranslateid=15503
+msgid "Fully Manual shift"
+msgstr "Plne manuálne radenie"
+
+# | communitytranslateid=15685
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Celoobrazovkový režim používa trochu menej pamätových zdrojov"
+
+# | communitytranslateid=15516
+msgid "Full screen"
+msgstr "Plná obrazovka"
+
+# | communitytranslateid=15514
+msgid "Full"
+msgstr "Plný"
+
+# | communitytranslateid=15486
+msgid "free camera"
+msgstr "voľná kamera"
+
+# | communitytranslateid=15524
+msgid "Fog"
+msgstr "Hmla"
+
+# | communitytranslateid=15616
+msgid "fixed free camera"
+msgstr "fixná voľná kamera"
+
+# | communitytranslateid=15686
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Hodnota udaloti (vľavo = 0%, vpravo = 100%)"
+
+# | communitytranslateid=15631
+msgid "Event Name: "
+msgstr "Meno Udalosti:"
+
+# | communitytranslateid=15632
+msgid "Event Name"
+msgstr "Meno Udalosti"
+
+# | communitytranslateid=15643
+msgid "Event Description: "
+msgstr "Popis udalosti:"
+
+# | communitytranslateid=15630
+msgid "Event"
+msgstr "Udalosť"
+
+# | communitytranslateid=15695
+msgid "Error while retrieving user space path"
+msgstr "Chyba pri načítaní user space cesty"
+
+# | communitytranslateid=15515
+msgid "Engine smoke"
+msgstr "Dym motoru"
+
+# | communitytranslateid=15554
+msgid "Enable XFire Extension"
+msgstr "Povoliť rozšírenie XFire"
+
+# | communitytranslateid=15511
+msgid "Enable waves"
+msgstr "Aktivovať vlny"
+
+# | communitytranslateid=15590
+msgid "Enable Visual Beam Debug"
+msgstr "Aktivovať Visual Beam Debug"
+
+# | communitytranslateid=15662
+msgid "Enable network mode"
+msgstr "Povolit sieťový režim."
+
+# | communitytranslateid=15679
+msgid "Enable advanced wheel model"
+msgstr "Povoliť pokročilý model kolesa."
+
+# | communitytranslateid=15536
+msgid "Dust"
+msgstr "Prach"
+
+# | communitytranslateid=15696
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Zobrazuje počet uzlov a viac informácii o uzloch a lúčoch."
+
+# | communitytranslateid=15692
+msgid "Disable Overview Map"
+msgstr "Zakázať Prehľad Mapy"
+
+# | communitytranslateid=15505
+msgid "Device:"
+msgstr "Zariadenie:"
+
+# | communitytranslateid=15504
+msgid "destruction: "
+msgstr "poškodenie:"
+
+# | communitytranslateid=15521
+msgid "Delete selected"
+msgstr "Zmaž označené"
+
+# | communitytranslateid=15593
+msgid "deformed: "
+msgstr "deformovaný:"
+
+# | communitytranslateid=15601
+msgid "Deadzone"
+msgstr "Mŕtva zóna"
+
+# | communitytranslateid=15591
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# | communitytranslateid=15557
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# | communitytranslateid=15592
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# | communitytranslateid=15537
+msgid "data/"
+msgstr "data/"
+
+# | communitytranslateid=15612
+msgid "Dashboard"
+msgstr "Palubná doska"
+
+# | communitytranslateid=15668
+msgid "Custom Particles"
+msgstr "Vlastné Častice"
+
+# | communitytranslateid=15490
+msgid "current Speed:"
+msgstr "aktuálna rýchlosť:"
+
+# | communitytranslateid=15510
+msgid "current RPM:"
+msgstr "aktuálne RPM:"
+
+# | communitytranslateid=15466
+msgid "Current FPS: "
+msgstr "Aktuálne FPS:"
+
+# | communitytranslateid=15496
+msgid "CPU Settings"
+msgstr "Nastavenia CPU"
+
+# | communitytranslateid=15492
+msgid "CPU"
+msgstr "CPU"
+
+# | communitytranslateid=15513
+msgid "Could not write config file"
+msgstr "Nemôžem zapísať konfiguračý súbor"
+
+# | communitytranslateid=15594
+msgid "Could not open Rendering device"
+msgstr "Nemôžem otvoriť Vykresľovacie zariadenie"
+
+# | communitytranslateid=15506
+msgid "Controls"
+msgstr "Ovládanie"
+
+# | communitytranslateid=15541
+msgid "Configure error"
+msgstr "Chyba konfigurácie"
+
+# | communitytranslateid=15613
+msgid "Community / Support"
+msgstr "Komunita / Podpora"
+
+# | communitytranslateid=15508
+msgid "Commands:"
+msgstr "Príkazy:"
+
+# | communitytranslateid=15602
+msgid "Cockpit options"
+msgstr "Nastavenia kokpitu"
+
+# | communitytranslateid=15519
+msgid "close this dialog"
+msgstr "zatvoriť tento dialóg"
+
+# | communitytranslateid=15474
+msgid "Clear cache"
+msgstr "Vyčistiť cache"
+
+# | communitytranslateid=15551
+msgid "checking for new directories in "
+msgstr "kontrolujem nové adresáre v"
+
+# | communitytranslateid=15651
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Zrušiť zmeny v konfigurácii a ukončiť program."
+
+# | communitytranslateid=15478
+msgid "Cancel"
+msgstr "Zrušiť"
+
+# | communitytranslateid=15688
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Caelum obloha je pekná, ale celkom pomalá, pokiaľ nemáte high-powered GPU."
+
+# | communitytranslateid=15628
+msgid "Boat"
+msgstr "Loď"
+
+# | communitytranslateid=15468
+msgid "Best FPS: "
+msgstr "Najlepšie FPS:"
+
+# | communitytranslateid=15548
+msgid "beam count: "
+msgstr "počet lúčov:"
+
+# | communitytranslateid=15482
+msgid "Bad server port"
+msgstr "Zlý port servera"
+
+# | communitytranslateid=15467
+msgid "Average FPS: "
+msgstr "Priemerné FPS:"
+
+# | communitytranslateid=15619
+msgid "average deformation: "
+msgstr "priemerná deformácia:"
+
+# | communitytranslateid=15509
+msgid "Automatic shift"
+msgstr "Automatické radenie"
+
+# | communitytranslateid=15500
+msgid "Anti-aliasing:"
+msgstr "Anti-aliasing:"
+
+# | communitytranslateid=15477
+msgid "Anonymous"
+msgstr "Anonymný"
+
+# | communitytranslateid=15611
+msgid "Altitude:"
+msgstr "Výška:"
+
+# | communitytranslateid=15493
+msgid "Airplane"
+msgstr "Lietadlo"
+
+# | communitytranslateid=15497
+msgid "Add"
+msgstr "Pridať"
+
+# | communitytranslateid=15483
+msgid "A network error occured"
+msgstr "Chyba siete."
+
+# | communitytranslateid=15605
+msgid "5% deadzone"
+msgstr "5% mŕtva zóna"
+
+# | communitytranslateid=15485
+msgid "5 %"
+msgstr "5 %"
+
+# | communitytranslateid=15607
+msgid "30% deadzone"
+msgstr "30% mŕtva zóna"
+
+# | communitytranslateid=15539
+msgid "30 %"
+msgstr "30 %"
+
+# | communitytranslateid=15609
+msgid "20% deadzone"
+msgstr "20% mŕtva zóna"
+
+# | communitytranslateid=15550
+msgid "20 %"
+msgstr "20 %"
+
+# | communitytranslateid=15608
+msgid "15% deadzone"
+msgstr "15% mŕtva zóna"
+
+# | communitytranslateid=15549
+msgid "15 %"
+msgstr "15 %"
+
+# | communitytranslateid=15501
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# | communitytranslateid=15542
+msgid "12333"
+msgstr "12333"
+
+# | communitytranslateid=15606
+msgid "10% deadzone"
+msgstr "10% mŕtva zóna"
+
+# | communitytranslateid=15484
+msgid "10 %"
+msgstr "10 %"
+
+# | communitytranslateid=15610
+msgid "0 % (No deadzone)"
+msgstr "0 % (žiadna mŕtva zóna)"
+
+# | communitytranslateid=15518
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Ako hrať Multiplayer:</p><br><ol><li>Klikni na tlačidlo <b>Obnoviť</b> pre zobrazenie dostupných serverov.</li><li>Klikni na ľubovolný podčiarknutý Server v zozname.</li><li>Klikni na tlačidlo <b>Ulož a Hraj</b> pre spsutenie hry.</li></ol>"
+
+# | communitytranslateid=15473
+msgid "(Please press a key)"
+msgstr "(Stlačte klávesu prosím)"
+
+# | communitytranslateid=15699
+msgid "(Please press a Joystick Button)"
+msgstr "(Prosím, stlačte tlačidlo Joysticka)"
+
+# | communitytranslateid=15664
+msgid "(Please move an Axis)\n"
+msgstr "(Pohnite osou prosím)\n"
+
+# | communitytranslateid=15689
+msgid "(No Languages found)"
+msgstr "(jazyky nenájdené)"
+
+# | communitytranslateid=15697
+msgid "^8 Player: ^7"
+msgstr "^8 Hráč: ^7"
+
+# | communitytranslateid=15629
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 použitie: /rcmd [príkaz] [voliteľné argumenty]"
+
+# | communitytranslateid=15698
+msgid "^1 unkown Command: "
+msgstr "^1 neznámy príkaz:"
+
+# | communitytranslateid=15674
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 ERROR: musíte najprv použiť / rlogin [heslo]"
+
+# | communitytranslateid=15682
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 ERROR:  chyba protokolu pri pokuse odoslať príkaz na RCON:"
+
+# | communitytranslateid=15617
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 ERROR: chyba protokolu počas pokusu o pripojenie do RCON:"
+
+# | communitytranslateid=15665
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 ERROR: sieťový režim vpnutý"
+
+# | communitytranslateid=15480
+msgid "^1 Error Parsing command"
+msgstr "^1 Chyba spracovania prikazu"
+
+# | communitytranslateid=15470
+msgid " not existing"
+msgstr "neexistuje"
+
+# | communitytranslateid=15479
+msgid " changed"
+msgstr "zmenené"
+

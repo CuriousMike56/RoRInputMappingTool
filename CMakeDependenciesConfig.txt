@@ -1,0 +1,295 @@
+# components
+set(ROR_BUILD_VIEWER "TRUE" CACHE BOOL "build the RoR Viewer Application")
+set(ROR_USE_MYGUI   "FALSE" CACHE BOOL "use MyGUI")
+set(ROR_USE_OPENAL  "FALSE" CACHE BOOL "use OPENAL")
+set(ROR_USE_LUA     "FALSE" CACHE BOOL "use LUA")
+set(ROR_USE_SOCKETW "FALSE" CACHE BOOL "use SOCKETW")
+set(ROR_USE_MOFILEREADER "FALSE" CACHE BOOL "use mofilereader")
+set(ROR_USE_PAGED   "FALSE" CACHE BOOL "use paged geometry")
+set(ROR_USE_CAELUM  "FALSE" CACHE BOOL "use caelum sky")
+set(ROR_USE_ANGELSCRIPT  "FALSE" CACHE BOOL "use angel script")
+set(ROR_USE_LITESQL  "FALSE" CACHE BOOL "use sqlite")
+set(ROR_FEAT_TIMING  "FALSE" CACHE BOOL "enable beam statistics. For core development only")
+set(ROR_USE_OPENCL  "FALSE" CACHE BOOL "use opencl (highly experimental)")
+
+
+# set some defaults
+IF(WIN32)
+	# options only available under windows
+    set(ROR_USE_HYDRAX  "FALSE" CACHE BOOL "use hydrax water system")
+    set(ROR_USE_OIS_G27 "FALSE" CACHE BOOL "use OIS With G27 patches")
+	set(ROR_USE_CRASHRPT "FALSE" CACHE BOOL "use crash report tool")
+	# check if dependencies dir is in here
+	set(DEPENDENCIES_DIR_CHECK "${RoR_SOURCE_DIR}/dependencies")
+	set(DEPENDENCIES_DIR "")
+	if(IS_DIRECTORY ${DEPENDENCIES_DIR_CHECK})
+		set(DEPENDENCIES_DIR ${DEPENDENCIES_DIR_CHECK})
+	endif(IS_DIRECTORY ${DEPENDENCIES_DIR_CHECK})
+
+	set(ROR_DEPENDENCIES_DIR "${DEPENDENCIES_DIR}" CACHE PATH "The ROR dependency path to use")
+
+	if(NOT ROR_DEPENDENCIES_DIR)
+		message(FATAL_ERROR "Rigs of Rods dependency dir not set properly!")
+	endif(NOT ROR_DEPENDENCIES_DIR)
+
+		#### REQUIRED COMPONENTS
+		set(Ogre_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/Ogre" CACHE PATH "The ogre include path to use")
+		set(Ogre_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The ogre lib path to use")
+		set(Ogre_LIBRARIES "OgreMain" CACHE STRING "The ogre lib to link against")
+
+		set(Ogre_Terrain_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/Ogre/Paging" CACHE PATH "The ogre terrain include path to use")
+		set(Ogre_Terrain_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The ogre terrain lib path to use")
+		set(Ogre_Terrain_LIBRARIES "OgreTerrain" CACHE STRING "The ogre terrain lib to link against")
+
+		set(Ogre_Paging_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/Ogre/Terrain" CACHE PATH "The ogre Paging include path to use")
+		set(Ogre_Paging_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The ogre Paging lib path to use")
+		set(Ogre_Paging_LIBRARIES "OgrePaging" CACHE STRING "The ogre Paging lib to link against")
+
+		set(Ogre_RTShader_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/Ogre/RTShaderSystem" CACHE PATH "The ogre RTShaderSystem include path to use")
+		set(Ogre_RTShader_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The ogre RTShaderSystem lib path to use")
+		set(Ogre_RTShader_LIBRARIES "OgreRTShaderSystem" CACHE STRING "The ogre RTShaderSystem lib to link against")
+		
+		set(Ois_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/ois" CACHE PATH "The OIS include path to use")
+		set(Ois_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The OIS lib path to use")
+		set(Ois_LIBRARIES "ois" CACHE STRING "The ogre lib to link against")
+
+		set(BOOST_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/boost" CACHE PATH "The BOOST include path to use")
+		set(BOOST_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib/boost" CACHE PATH "The BOOST lib path to use")
+
+		set(CURL_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/" CACHE PATH "The curl include path to use")
+		set(CURL_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The curl lib path to use")
+		set(CURL_LIBRARIES "libcurl.lib" CACHE STRING "The curl lib to link against")
+		
+		set(PThread_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/pthread" CACHE PATH "The pthread include path to use")
+		set(PThread_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The pthread lib path to use")
+		set(PThread_LIBRARIES "pthreadVC2.lib" CACHE STRING "The pthread lib to link against")
+		include_directories(${PThread_INCLUDE_DIRS})
+		link_directories   (${PThread_LIBRARY_DIRS})
+
+		# directX
+		set(DirectX_INCLUDE_DIRS "$ENV{DXSDK_DIR}/Include" CACHE PATH "The DirectX include path to use")
+		set(DirectX_LIBRARY_DIRS "$ENV{DXSDK_DIR}/Lib/x86" CACHE PATH "The DirectX lib path to use")
+		include_directories(${DirectX_INCLUDE_DIRS})
+		link_directories   (${DirectX_LIBRARY_DIRS})
+
+
+		#### OPTIONAL COMPONENTS
+		if(ROR_USE_MYGUI)
+			set(MYGUI_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/MyGUI" CACHE PATH "The mygui include path to use")
+			set(MYGUI_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The mygui lib path to use")
+			set(MYGUI_LIBRARIES    "MyGUI.OgrePlatform.lib;MyGUIEngine.lib" CACHE STRING "The mygui libs to link against")
+		endif(ROR_USE_MYGUI)
+
+		if(ROR_USE_OPENAL)
+			set(OPENAL_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/openal-soft" CACHE PATH "The openal include path to use")
+			set(OPENAL_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The openal lib path to use")
+			set(OPENAL_LIBRARIES    "OpenAL32.lib" CACHE STRING "The openal libs to link against")
+		endif(ROR_USE_OPENAL)
+
+		if(ROR_USE_LUA)
+			set(LUA_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/lua" CACHE PATH "The lua include path to use")
+			set(LUA_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The lua lib path to use")
+			set(LUA_LIBRARIES    "lua.lib" CACHE STRING "The lua lib to link against")
+		endif(ROR_USE_LUA)
+
+		if(ROR_USE_SOCKETW)
+			set(SOCKETW_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/SocketW" CACHE PATH "The socketw include path to use")
+			set(SOCKETW_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The socketw lib path to use")
+			set(SOCKETW_LIBRARIES    "mysocketw.lib;Ws2_32.lib" CACHE STRING "The socketw lib to link against")
+		endif(ROR_USE_SOCKETW)
+
+		if(ROR_USE_MOFILEREADER)
+			set(MOFILEREADER_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/mofilereader" CACHE PATH "The mofilereader include path to use")
+			set(MOFILEREADER_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The mofilereader lib path to use")
+			set(MOFILEREADER_LIBRARIES    "moFileReader.static.lib" CACHE STRING "The mofilereader lib to link against")
+		endif(ROR_USE_MOFILEREADER)
+
+		if(ROR_USE_PAGED)
+			set(PAGED_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/PagedGeometry" CACHE PATH "The paged include path to use")
+			set(PAGED_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The paged lib path to use")
+			set(PAGED_LIBRARIES    "PagedGeometry.lib" CACHE STRING "The paged lib to link against")
+		endif(ROR_USE_PAGED)
+
+		if(ROR_USE_CAELUM)
+			set(CAELUM_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/Caelum" CACHE PATH "The caelum include path to use")
+			set(CAELUM_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The caelum lib path to use")
+			set(CAELUM_LIBRARIES    "caelum.lib" CACHE STRING "The caelum lib to link against")
+		endif(ROR_USE_CAELUM)
+
+		if(ROR_USE_CRASHRPT)
+			set(CRASHRPT_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/CrashRpt" CACHE PATH "The CrashRpt include path to use")
+			set(CRASHRPT_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The CrashRpt lib path to use")
+			set(CRASHRPT_LIBRARIES    "CrashRpt.lib" CACHE STRING "The CrashRpt lib to link against")
+		endif(ROR_USE_CRASHRPT)
+
+		if(ROR_USE_ANGELSCRIPT)
+			set(ANGELSCRIPT_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/AngelScript" CACHE PATH "The AngelScript include path to use")
+			set(ANGELSCRIPT_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The AngelScript lib path to use")
+			set(ANGELSCRIPT_LIBRARIES    "angelscript.lib" CACHE STRING "The AngelScript lib to link against")
+		endif(ROR_USE_ANGELSCRIPT)
+
+		if(ROR_USE_HYDRAX)
+			set(HYDRAX_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/Hydrax;${ROR_DEPENDENCIES_DIR}/include/" CACHE PATH "The Hydrax include paths to use")
+			set(HYDRAX_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib" CACHE PATH "The Hydrax lib path to use")
+			set(HYDRAX_LIBRARIES    "Hydrax.lib" CACHE STRING "The Hydrax lib to link against")
+		endif(ROR_USE_HYDRAX)
+
+		if(ROR_BUILD_CONFIGURATOR)
+			set(WXWIDGETS_SHARED_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/wxWidgets" CACHE PATH "The wxWidgets (shared) include paths to use")
+			set(WXWIDGETS_SHARED_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib/wx/shared" CACHE PATH "The wxWidgets (shared) lib path to use")
+			set(WXWIDGETS_SHARED_LIBRARIES    "wxbase29u.lib;wxmsw29u_core.lib;wxmsw29u_html.lib;wxbase29u_net.lib;wxmsw29u_adv.lib;wxpng.lib;wxtiff.lib;wxjpeg.lib;wxzlib.lib;wxregexu.lib;wxexpat.lib;winmm;comctl32;rpcrt4;wsock32;wxmsw29u_propgrid.lib;wxmsw29u_aui.lib" CACHE STRING "The wxWidgets(shared) libs to link against")
+		endif(ROR_BUILD_CONFIGURATOR)
+
+		if(ROR_BUILD_INSTALLER)
+			set(WXWIDGETS_STATIC_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/wxWidgets" CACHE PATH "The wxWidgets (static) include paths to use")
+			set(WXWIDGETS_STATIC_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib/wx/static" CACHE PATH "The wxWidgets (static) lib path to use")
+			set(WXWIDGETS_STATIC_LIBRARIES    "wxbase29u.lib;wxmsw29u_core.lib;wxmsw29u_html.lib;wxmsw29u_adv.lib;wxbase29u_net.lib;wxpng.lib;wxtiff.lib;wxjpeg.lib;wxzlib.lib;wxregexu.lib;wxexpat.lib;winmm;comctl32;rpcrt4;wsock32" CACHE STRING "The wxWidgets(shared) libs to link against")
+		endif(ROR_BUILD_INSTALLER)
+
+		if(ROR_USE_LITESQL)
+			set(LITESQL_INCLUDE_DIRS "${ROR_DEPENDENCIES_DIR}/include/litesql" CACHE PATH "The litesql include path to use")
+			set(LITESQL_LIBRARY_DIRS "${ROR_DEPENDENCIES_DIR}/lib/litesql" CACHE PATH "The litesql lib path to use")
+			set(LITESQL_LIBRARIES    "litesql.lib litesql-util.lib litesql_sqlite.lib" CACHE STRING "The litesql libs to link against")
+		endif(ROR_USE_LITESQL)
+		
+		
+		set(OPENCL_DIR  "C:\\ProgramData\\NVIDIA Corporation\\NVIDIA GPU Computing SDK\\" CACHE PATH "openCL path to use")
+
+		if(ROR_USE_OPENCL)
+			set(OPENCL_INCLUDE_DIRS "${OPENCL_DIR}/OpenCL/common/inc;${OPENCL_DIR}/shared/inc" CACHE PATH "The openCL include paths to use")
+			set(OPENCL_LIBRARY_DIRS "${OPENCL_DIR}/shared/lib;${OPENCL_DIR}/OpenCL/common/lib;${OPENCL_DIR}/OpenCL/common/lib/Win32" CACHE PATH "The openCL lib paths to use")
+			set(OPENCL_LIBRARIES    "oclUtils32.lib;shrUtils32.lib;OpenCL.lib" CACHE STRING "The openCL libs to link against")
+		endif(ROR_USE_OPENCL)
+		
+ELSEIF(UNIX)
+   find_package(PkgConfig)
+   PKG_CHECK_MODULES  (GTK gtk+-2.0 REQUIRED)
+   PKG_CHECK_MODULES  (GTK_PIXBUF gdk-pixbuf-2.0 REQUIRED)
+   include_directories(${GTK_INCLUDE_DIRS})
+   include_directories(${GTK_PIXBUF_INCLUDE_DIRS})
+
+   # Ogre basics
+   PKG_CHECK_MODULES  (Ogre OGRE REQUIRED)
+
+   # Ogre components
+   PKG_CHECK_MODULES  (Ogre_Terrain  OGRE-Terrain         REQUIRED)
+   PKG_CHECK_MODULES  (Ogre_Paging   OGRE-Paging          REQUIRED)
+   PKG_CHECK_MODULES  (Ogre_RTShader OGRE-RTShaderSystem  REQUIRED)
+   
+
+   PKG_CHECK_MODULES  (Ois OIS REQUIRED)
+
+   find_package(CURL)
+   if(NOT CURL_FOUND)
+     message(ERROR "curl not found, please install curl")
+   else(NOT CURL_FOUND)
+      set(CURL_INCLUDE_DIRS ${CURL_INCLUDE_DIR})
+      set(CURL_LIBRARIES ${CURL_LIBRARY})   
+   endif(NOT CURL_FOUND)
+   
+   # using cmake fingd modules
+   # Open-AL
+   find_package(OpenAL)
+   if(ROR_USE_OPENAL)
+      set(OPENAL_INCLUDE_DIRS ${OPENAL_INCLUDE_DIR})
+      set(OPENAL_LIBRARIES ${OPENAL_LIBRARY})
+   else(ROR_USE_OPENAL)
+      if(OPENAL_FOUND)
+         message(" > OpenAL found, you should enable OpenAL support by setting ROR_USE_OPENAL")
+      endif(OPENAL_FOUND)
+   endif(ROR_USE_OPENAL)
+
+   # LUA
+   find_package(Lua51)
+   if(ROR_USE_LUA)
+      set(LUA_INCLUDE_DIRS ${LUA_INCLUDE_DIR})
+      set(LUA_LIBRARIES ${LUA_LIBRARIES})
+   else(ROR_USE_LUA)
+      if(LUA51_FOUND)
+         message(" > LUA found, you should enable LUA support by setting ROR_USE_LUA")
+      endif(LUA51_FOUND)
+   endif(ROR_USE_LUA)
+
+   # using pkg-config
+   # MyGUI
+   PKG_CHECK_MODULES(MYGUI MYGUI)
+   if(ROR_USE_MYGUI)
+      find_library(MYGUI_OGRE_PLATFORM MyGUI.OgrePlatform)
+      set(MYGUI_LIBRARIES ${MYGUI_LIBRARIES} ${MYGUI_OGRE_PLATFORM})
+      # add our mygui BaseLayout
+      set(MYGUI_INCLUDE_DIRS ${MYGUI_INCLUDE_DIRS} ${RoR_SOURCE_DIR}/source/main/mygui)
+   else()
+      if(MYGUI_FOUND)
+         message(" > MyGUI found, you should enable MyGUI support by setting ROR_USE_MYGUI")
+      endif(MYGUI_FOUND)
+   endif(ROR_USE_MYGUI)
+
+   # using custom checks
+   # MoFileReader
+   find_path(MOFILEREADER_INCLUDE_DIRS "moFileReader.h")
+   if(ROR_USE_MOFILEREADER)
+      find_library(MOFILEREADER_LIBRARIES "moFileReader")
+   else(ROR_USE_MOFILEREADER)
+      if(MOFILEREADER_INCLUDE_DIRS)
+         message(" > MoFileReader found, you should enable MoFileReader support by setting ROR_USE_MOFILEREADER")
+      endif(MOFILEREADER_INCLUDE_DIRS)
+   endif(ROR_USE_MOFILEREADER)
+
+   # SocketW
+   find_path(SOCKETW_INCLUDE_DIRS "SocketW.h")
+   if(ROR_USE_SOCKETW)
+      find_library(SOCKETW_LIBRARIES "SocketW")
+   else(ROR_USE_SOCKETW)
+      if(SOCKETW_INCLUDE_DIRS)
+         message(" > SocketW found, you should enable SocketW support by setting ROR_USE_SOCKETW")
+      endif(SOCKETW_INCLUDE_DIRS)
+   endif(ROR_USE_SOCKETW)
+
+   # Paged Geometry
+   find_path(PAGED_INCLUDE_DIRS "PagedGeometry/PagedGeometry.h")
+   if(ROR_USE_PAGED)
+      set(PAGED_INCLUDE_DIRS "${PAGED_INCLUDE_DIRS};/${PAGED_INCLUDE_DIRS}/PagedGeometry")
+      find_library(PAGED_LIBRARIES "PagedGeometry")
+   else(ROR_USE_PAGED)
+      if(PAGED_INCLUDE_DIRS)
+         message(" > PagedGeometry found, you should enable PagedGeometry support by setting ROR_USE_PAGED")
+      endif(PAGED_INCLUDE_DIRS)
+   endif(ROR_USE_PAGED)
+
+   # Caelum
+   find_path(CAELUM_INCLUDE_DIRS "Caelum/Caelum.h")
+   if(ROR_USE_CAELUM)
+      set(CAELUM_INCLUDE_DIRS "${CAELUM_INCLUDE_DIRS}/Caelum")
+      find_library(CAELUM_LIBRARIES "Caelum")
+   else(ROR_USE_CAELUM)
+      if(CAELUM_INCLUDE_DIRS)
+         message(" > Caelum found, you should enable Caelum support by setting ROR_USE_CAELUM")
+      endif(CAELUM_INCLUDE_DIRS)
+   endif(ROR_USE_CAELUM)
+
+   # Hydrax
+   # WIP!
+   find_path(HYDRAX_INCLUDE_DIRS "Hyrax/Hydrax.h")
+   if(ROR_USE_HYDRAX)
+      set(HYDRAX_INCLUDE_DIRS "${CAELUM_INCLUDE_DIRS}/Hyrax")
+      find_library(HYDRAX_LIBRARIES "Hyrax")
+   else(ROR_USE_HYDRAX)
+      if(HYDRAX_INCLUDE_DIRS)
+         message(" > Hydrax found, you should enable Hydrax support by setting ROR_USE_HYDRAX")
+      endif(HYDRAX_INCLUDE_DIRS)
+   endif(ROR_USE_HYDRAX)
+
+   # Angelscript
+   find_path(ANGELSCRIPT_INCLUDE_DIRS "angelscript.h")
+   if(ROR_USE_ANGELSCRIPT)
+      find_library(ANGELSCRIPT_LIBRARIES "angelscript")
+   else(ROR_USE_ANGELSCRIPT)
+      if(ANGELSCRIPT_INCLUDE_DIRS)
+         message(" > Angelscript found, you should enable Angelscript support by setting ROR_USE_ANGELSCRIPT")
+      endif(ANGELSCRIPT_INCLUDE_DIRS)
+   endif(ROR_USE_ANGELSCRIPT)
+
+   set(ROR_USE_CRASHRPT FALSE)
+   set(ROR_USE_OIS_G27 FALSE)
+   set(ROR_USE_HYDRAX FALSE)
+ENDIF(WIN32)

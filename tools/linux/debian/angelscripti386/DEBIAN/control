@@ -1,0 +1,10 @@
+Package: Angelscript
+Section: admin
+Priority: optional
+Architecture: i386
+Essential: no
+Depends:
+Version: 2.19.0
+Installed-Size: 2400
+Maintainer: Johann Bauer <jhnnbr@gmail.com>
+Description: The AngelCode Scripting Library, or AngelScript as it is also known, is an extremely flexible cross-platform scripting library designed to allow applications to extend their functionality through external scripts.

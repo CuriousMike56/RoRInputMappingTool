@@ -1,0 +1,2449 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17291
+# | communitytranslateid=19091
+msgid "zoom into the overview map in interactive mode"
+msgstr "Zoom in de overzichtkaart in de interactieve modus"
+
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=18752
+msgid "zoom camera out faster"
+msgstr "De camera sneller uitzoomen"
+
+# # | translated from communitytranslateid=17200
+# | communitytranslateid=19092
+msgid "zoom camera out"
+msgstr "Zoom camera uit"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=18754
+msgid "zoom camera in faster"
+msgstr "Sneller inzoomen met de camera"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=19099
+msgid "zoom camera in"
+msgstr "Camera inzoomen"
+
+# | communitytranslateid=13921
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Uw netwerknaam. Maximaal 20 tekens"
+
+# | communitytranslateid=14209
+msgid "Your Forum User Token."
+msgstr "Jouw forumnaam is al in gebruik."
+
+# | communitytranslateid=14131
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Je moet opslaan en opnieuw opstarten om de nieuwe gekozen taal te activeren."
+
+# | communitytranslateid=14141
+msgid "You do not need to change these settings unless you experience problems"
+msgstr "Je hoeft deze instellingen niet te veranderen tenzij je problemen ondervind."
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=19124
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Je kan het standaard knarsende geluid uitzetten door het het vakje aan te vinken"
+
+# | communitytranslateid=14031
+msgid "wrote screenshot:"
+msgstr "Screenshot opgeslagen:"
+
+# # | translated from communitytranslateid=19389
+# | communitytranslateid=19772
+msgid "Write error"
+msgstr "Schrijf fout"
+
+# # | translated from communitytranslateid=17265
+# | communitytranslateid=19268
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr "schrijf de huidige positie in het logbestand (je kan het logbestand openen and de positie hergebruiken)"
+
+# | communitytranslateid=13783
+msgid "Worst FPS: "
+msgstr "Laagste FPS:"
+
+# | communitytranslateid=13785
+msgid "Wheels: "
+msgstr "Wielen:"
+
+# | communitytranslateid=14142
+msgid "Water type:"
+msgstr "Watersoort"
+
+# | communitytranslateid=14143
+msgid "Water spray"
+msgstr "Water druppels"
+
+# | communitytranslateid=14570
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Water reflectie is langzamer, en vereist een goede GPU. In snelheid geoptimaliseerde modus kunt u buitensporige camera schudden ervaren."
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=18753
+msgid "Warning"
+msgstr "Waarschuwing"
+
+# | communitytranslateid=14033
+msgid "VSync"
+msgstr "VSync"
+
+# | communitytranslateid=14441
+msgid "Visual effects"
+msgstr "Visuele effecten"
+
+# | communitytranslateid=14050
+msgid "Video mode:"
+msgstr "Video modus"
+
+# | communitytranslateid=14215
+msgid "Vehicle Type: "
+msgstr "Voertuig Soort:"
+
+# | communitytranslateid=14214
+msgid "Vegetation:"
+msgstr "Beplanting"
+
+# | communitytranslateid=14523
+msgid "User Token: "
+msgstr "Gebruiker Bewijs:"
+
+# # | translated from communitytranslateid=17145
+# | communitytranslateid=19312
+msgid "Use this to remove the whole cache and force the generation from ground up."
+msgstr "Gebruik dit om het volledig cache geheugen te verwijderen en een nieuw te genereren"
+
+# # | translated from communitytranslateid=17144
+# | communitytranslateid=19299
+msgid "Use this to regenerate the cache outside of RoR. If this does not work, use the clear cache button."
+msgstr "Gebruik dit om de cache te regenereren van buitenuit RoR. Indien dit niet werkt gebruik dan de Leeg cache knop."
+
+# | communitytranslateid=14521
+msgid "Upper"
+msgstr "Hoger"
+
+# # | translated from communitytranslateid=17138
+# | communitytranslateid=19145
+msgid "Updates"
+msgstr "Updates"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=18756
+msgid "Update now"
+msgstr "Nu updaten"
+
+# | communitytranslateid=14216
+msgid "Update"
+msgstr "Vernieuwen"
+
+# | communitytranslateid=14442
+msgid "unkown encoding problem"
+msgstr "Onbekend encoding probleem"
+
+# | communitytranslateid=14211
+msgid "unknown.dds"
+msgstr "onbekende.dds"
+
+# | communitytranslateid=14515
+msgid "Uncheck in case you have a fog problem"
+msgstr "Vink uit in het geval je een mist probleem hebt"
+
+# | communitytranslateid=14027
+msgid "Unable to connect to the server. It is certainly down or you have network problems."
+msgstr "Niet mogelijk om verbinding te maken met de server. Het is waarschijnlijk dat de server niet werkt of dat je netwerk probleem hebt."
+
+# | communitytranslateid=15438
+msgid "Unable to connect to server"
+msgstr "Onmogelijk de server te bereiken"
+
+# | communitytranslateid=14223
+msgid "Type"
+msgstr "Soort"
+
+# | communitytranslateid=15439
+msgid "Trying to connect to server ..."
+msgstr "Poging om de server te bereiken"
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=18758
+msgid "truck horn"
+msgstr "Claxon"
+
+# | communitytranslateid=14218
+msgid "Truck"
+msgstr "Vrachtwagen"
+
+# | communitytranslateid=13928
+msgid "Triangle Count: "
+msgstr "Aantal Driehoeken:"
+
+# | communitytranslateid=14147
+msgid "tracks/CreditsOverlay"
+msgstr "tracks/CreditsOverlay"
+
+# # | translated from communitytranslateid=19404
+# | communitytranslateid=19779
+msgid "Total Linear"
+msgstr "totaal linear"
+
+# | communitytranslateid=14034
+msgid "Torque: "
+msgstr "Trekkracht:"
+
+# | communitytranslateid=14517
+msgid "tons"
+msgstr "ton"
+
+# # | translated from communitytranslateid=17282
+# | communitytranslateid=19776
+msgid "toggle truck HUD"
+msgstr "truck HUD uit/aan"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=19120
+msgid "toggle truck front lights"
+msgstr "Koplampen aan/uit"
+
+# # | translated from communitytranslateid=17280
+# | communitytranslateid=19780
+msgid "toggle truck beacons"
+msgstr "truck zwaailichten aan/uit"
+
+# # | translated from communitytranslateid=17264
+# | communitytranslateid=19822
+msgid "toggle translucency of overview-map"
+msgstr "shakel doorzichtigheid van de overview kaart"
+
+# # | translated from communitytranslateid=17273
+# | communitytranslateid=19142
+msgid "toggle skeleton display mode"
+msgstr "schakel skelet modus"
+
+# # | translated from communitytranslateid=17310
+# | communitytranslateid=19781
+msgid "toggle right direction indicator (blinker)"
+msgstr "rechter knipperlicht uit/aan"
+
+# # | translated from communitytranslateid=17277
+# | communitytranslateid=19934
+msgid "toggle render mode (solid, wireframe and points)"
+msgstr "schakel doen modus (vast, draadframe en punten)"
+
+# # | translated from communitytranslateid=17275
+# | communitytranslateid=19786
+msgid "toggle particle cannon"
+msgstr "deeltjes kanon uit/aan"
+
+# # | translated from communitytranslateid=17325
+# | communitytranslateid=18755
+msgid "toggle parking brake"
+msgstr "Handrem"
+
+# # | translated from communitytranslateid=17292
+# | communitytranslateid=19787
+msgid "toggle overview map interactive mode"
+msgstr "overzicht kaart in interactieve mode aan/uit"
+
+# # | translated from communitytranslateid=17279
+# | communitytranslateid=19782
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr "OGRE statistieken uit/aan"
+
+# # | translated from communitytranslateid=17283
+# | communitytranslateid=19783
+msgid "toggle map modes"
+msgstr "kaart modes uit/aan"
+
+# # | translated from communitytranslateid=17309
+# | communitytranslateid=19784
+msgid "toggle left direction indicator (blinker)"
+msgstr "linker knipperlicht uit/aan"
+
+# # | translated from communitytranslateid=17331
+# | communitytranslateid=19790
+msgid "toggle ignition"
+msgstr "motorcontact aan/uit"
+
+# # | translated from communitytranslateid=17323
+# | communitytranslateid=19791
+msgid "toggle custom light 9"
+msgstr "speciaal licht 9 aan/uit"
+
+# # | translated from communitytranslateid=17322
+# | communitytranslateid=19792
+msgid "toggle custom light 8"
+msgstr "speciaal licht 8 aan/uit"
+
+# # | translated from communitytranslateid=17321
+# | communitytranslateid=19793
+msgid "toggle custom light 7"
+msgstr "speciaal licht 7 aan/uit"
+
+# # | translated from communitytranslateid=17320
+# | communitytranslateid=19110
+msgid "toggle custom light 6"
+msgstr "speciaal licht 6 aan/uit"
+
+# # | translated from communitytranslateid=17319
+# | communitytranslateid=19794
+msgid "toggle custom light 5"
+msgstr "speciaal licht 5 aan/uit"
+
+# # | translated from communitytranslateid=17318
+# | communitytranslateid=19799
+msgid "toggle custom light 4"
+msgstr "speciaal licht 4 aan/uit"
+
+# # | translated from communitytranslateid=17317
+# | communitytranslateid=19804
+msgid "toggle custom light 3"
+msgstr "speciaal licht 3 aan/uit"
+
+# # | translated from communitytranslateid=17316
+# | communitytranslateid=19811
+msgid "toggle custom light 2"
+msgstr "speciaal licht 2 aan/uit"
+
+# # | translated from communitytranslateid=17315
+# | communitytranslateid=19817
+msgid "toggle custom light 10"
+msgstr "speciaal licht 10 aan/uit"
+
+# # | translated from communitytranslateid=17314
+# | communitytranslateid=19818
+msgid "toggle custom light 1"
+msgstr "speciaal licht 1 aan/uit"
+
+# # | translated from communitytranslateid=17334
+# | communitytranslateid=19819
+msgid "toggle between windowed and fullscreen mode"
+msgstr "wissel tussen volledig scherm en in een kader mode"
+
+# # | translated from communitytranslateid=17330
+# | communitytranslateid=19130
+msgid "toggle between transmission modes"
+msgstr "wissel naar een andere versnellingsbak modus"
+
+# # | translated from communitytranslateid=17352
+# | communitytranslateid=19833
+msgid "toggle between net chat display modes"
+msgstr "wissel tussen chat scherm modes"
+
+# # | translated from communitytranslateid=17305
+# | communitytranslateid=19134
+msgid "toggle between available road types"
+msgstr "wissel tussen beschikbare weg soorten"
+
+# # | translated from communitytranslateid=17304
+# | communitytranslateid=19821
+msgid "toggle between available objects"
+msgstr "wissel tussen beschikbare objecten"
+
+# # | translated from communitytranslateid=17259
+# | communitytranslateid=19853
+msgid "toggle appearance of console"
+msgstr "schakel console zichtbaarheid"
+
+# # | translated from communitytranslateid=17311
+# | communitytranslateid=19840
+msgid "toggle all direction indicators"
+msgstr "shakel alle knipperlichten"
+
+# # | translated from communitytranslateid=17272
+# | communitytranslateid=19280
+msgid "tie a load to the truck"
+msgstr "lading vastbinden"
+
+# # | translated from communitytranslateid=17174
+# | communitytranslateid=19944
+msgid "throttle axis. Only use this if you have fitting hardware :) (i.e. a Slider)"
+msgstr "gas axis. aleen gebruiken als je passend hardware hebt :) (bv een schuiver)"
+
+# | communitytranslateid=14516
+msgid "Thread number:"
+msgstr "Draad nummer:"
+
+# | communitytranslateid=14036
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Deze optie wijzigt de standaard taal. Je moet de configurator opnieuw opstarten, om deze wijzigingen effect te laten hebben."
+
+# | communitytranslateid=14464
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Op oude systemen verminderd het de framerate, maar het ziet er goed uit."
+
+# # | translated from communitytranslateid=17147
+# | communitytranslateid=19945
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr "dit maakt het automatisch downloaden van missende mods in multiplayer mogelijk"
+
+# | communitytranslateid=14569
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Dit bepaald hoeveel gras en hoeveel bomen (en dit soort objecten) afgebeeld worden"
+
+# # | translated from communitytranslateid=17152
+# | communitytranslateid=19096
+msgid "The update service is currently only available for windows users."
+msgstr "De update service is tijdelijk alleen beschikbaar voor Windows gebruikers."
+
+# | communitytranslateid=14438
+msgid "The server password, if required."
+msgstr "Indien nodig het wachtwoord van de server."
+
+# | communitytranslateid=14522
+msgid "Texture filtering:"
+msgstr "Textuur filtering:"
+
+# | communitytranslateid=14065
+msgid "Test"
+msgstr "Test"
+
+# | communitytranslateid=14028
+msgid "Terrain not found: "
+msgstr "Terrein niet gevonden:"
+
+# | communitytranslateid=14029
+msgid "Terrain loading error"
+msgstr "Fout tijdens het laden van de terrein."
+
+# # | translated from communitytranslateid=17269
+# | communitytranslateid=19265
+msgid "teleport to rescue truck"
+msgstr "Ga naar de bergingswagen"
+
+# # | translated from communitytranslateid=17271
+# | communitytranslateid=19121
+msgid "take a screenshot"
+msgstr "Maak een screenshot"
+
+# # | translated from communitytranslateid=17303
+# | communitytranslateid=19933
+msgid "switch to road laying mode"
+msgstr "schakel naar weg leggen modus"
+
+# # | translated from communitytranslateid=17179
+# | communitytranslateid=19097
+msgid "switch all engines on / off"
+msgstr "Schakel alle motoren aan / uit"
+
+# | communitytranslateid=14518
+msgid "Sunburn"
+msgstr "Brandende Zon"
+
+# # | translated from communitytranslateid=17203
+# | communitytranslateid=19310
+msgid "step forward with the character"
+msgstr "stap naar voor met het karakter"
+
+# # | translated from communitytranslateid=17202
+# | communitytranslateid=19116
+msgid "step backwards with the character"
+msgstr "Stap terug met de character"
+
+# # | translated from communitytranslateid=17183
+# | communitytranslateid=19272
+msgid "steer right a step"
+msgstr "stuur naar rechts met één stap"
+
+# # | translated from communitytranslateid=17184
+# | communitytranslateid=19254
+msgid "steer right (analog value!)"
+msgstr "stuur rechts (analoge waarde!)"
+
+# # | translated from communitytranslateid=17161
+# | communitytranslateid=19144
+msgid "steer right"
+msgstr "stuur rechts"
+
+# # | translated from communitytranslateid=17181
+# | communitytranslateid=19279
+msgid "steer left a step"
+msgstr "stuur naar links met één stap"
+
+# # | translated from communitytranslateid=17182
+# | communitytranslateid=19136
+msgid "steer left (analog value!)"
+msgstr "stuur links (analoge waarde!)"
+
+# # | translated from communitytranslateid=17173
+# | communitytranslateid=19258
+msgid "steer left"
+msgstr "stuur links"
+
+# | communitytranslateid=14443
+msgid "Startup error"
+msgstr "Opstart foutmelding"
+
+# # | translated from communitytranslateid=17274
+# | communitytranslateid=19287
+msgid "start the old truck editor"
+msgstr "start de oude truck editor"
+
+# # | translated from communitytranslateid=15714
+# | communitytranslateid=16303
+msgid "SPECIAL_CHARACTERS"
+msgstr "speciale tekens"
+
+# | communitytranslateid=14445
+msgid "Special effects"
+msgstr "Speciale effecten"
+
+# | communitytranslateid=14212
+msgid "Sounds"
+msgstr "Geluiden"
+
+# | communitytranslateid=14446
+msgid "Sound rendering:"
+msgstr "Geluid renderen:"
+
+# | communitytranslateid=14222
+msgid "Sky type:"
+msgstr "Lucht soort"
+
+# # | translated from communitytranslateid=17157
+# | communitytranslateid=19838
+msgid "Skins"
+msgstr "verf die normale verf van een voertuig verandert"
+
+# | communitytranslateid=14444
+msgid "Simple Settings"
+msgstr "Simpele instellingen"
+
+# # | translated from communitytranslateid=17209
+# | communitytranslateid=19307
+msgid "sidestep to the right"
+msgstr "neem een stap naar rechts"
+
+# # | translated from communitytranslateid=17208
+# | communitytranslateid=19829
+msgid "sidestep to the left"
+msgstr "zijstap naar links"
+
+# | communitytranslateid=14519
+msgid "Shows the rear view mirrors in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Zet de achteruitkijkspiegels in 1e persoon gezichtshoek. Kan een compatibiliteit probleem veroorzaken voor oude videokaarten."
+
+# | communitytranslateid=14520
+msgid "Shows the dynamic dashboard in 1st person view. May cause compatibility problems for very old video cards."
+msgstr "Zet het dynamische dashboard in 1e persoons gezichtshoek. Kan een comptabiliteit probleem veroorzaken voor oude videokaarten"
+
+# | communitytranslateid=14568
+msgid "Shows all Collision meshes in Red to be able to position them correctly. Only use for debugging!"
+msgstr "Laat alle Botsing meshes in het Rood zien zodat ze makkelijker goed te positioneren zijn. Alleen voor het Debuggen!"
+
+# # | translated from communitytranslateid=17332
+# | communitytranslateid=19903
+msgid "show truck tool"
+msgstr "laat truck gereedschap zien"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=19871
+msgid "show / hide the console"
+msgstr "laat zien / verberg console"
+
+# # | translated from communitytranslateid=17327
+# | communitytranslateid=19103
+msgid "shift to neutral gear in manual transmission mode"
+msgstr "Schakel naar neutrale versnelling in handmatige versnellingsbak modus"
+
+# # | translated from communitytranslateid=17328
+# | communitytranslateid=19126
+msgid "shift one gear up in manual transmission mode"
+msgstr "Schakel 1 versnelling omhoog in handmatige versnellingsbak modus"
+
+# # | translated from communitytranslateid=17326
+# | communitytranslateid=19117
+msgid "shift one gear down in manual transmission mode"
+msgstr "Schakel 1 versnelling terug in handmatige versnellingsbak modus"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=19795
+msgid "shift directly to third gear"
+msgstr "schakel direct naar derde versnelling"
+
+# # | translated from communitytranslateid=19432
+# | communitytranslateid=19796
+msgid "shift directly to second gear"
+msgstr "schakel direct naar tweede versnelling"
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=19797
+msgid "shift directly to reverse gear"
+msgstr "schakel direct naar de achteruit"
+
+# # | translated from communitytranslateid=19434
+# | communitytranslateid=19798
+msgid "shift directly to fourth gear"
+msgstr "schakel direct naar vierde versnelling"
+
+# # | translated from communitytranslateid=19431
+# | communitytranslateid=19800
+msgid "shift directly to first gear"
+msgstr "schakel direct naar eerste versnelling"
+
+# # | translated from communitytranslateid=19439
+# | communitytranslateid=19801
+msgid "shift directly to 9th gear"
+msgstr "schakel direct naar negende versnelling"
+
+# # | translated from communitytranslateid=19438
+# | communitytranslateid=19802
+msgid "shift directly to 8th gear"
+msgstr "schakel direct naar achtste versnelling"
+
+# # | translated from communitytranslateid=19437
+# | communitytranslateid=19803
+msgid "shift directly to 7th gear"
+msgstr "schakel direct naar zevende versnelling"
+
+# # | translated from communitytranslateid=19436
+# | communitytranslateid=19805
+msgid "shift directly to 6th gear"
+msgstr "schakel direct naar zesde versnelling"
+
+# # | translated from communitytranslateid=19435
+# | communitytranslateid=19806
+msgid "shift directly to 5th gear"
+msgstr "schakel direct naar vijfde versnelling"
+
+# # | translated from communitytranslateid=19448
+# | communitytranslateid=19807
+msgid "shift directly to 18th gear"
+msgstr "schakel direct naar achtiende versnelling"
+
+# # | translated from communitytranslateid=19447
+# | communitytranslateid=19808
+msgid "shift directly to 17th gear"
+msgstr "schakel direct naar zeventiende versnelling"
+
+# # | translated from communitytranslateid=19446
+# | communitytranslateid=19809
+msgid "shift directly to 16th gear"
+msgstr "schakel direct naar zestiende versnelling"
+
+# # | translated from communitytranslateid=19445
+# | communitytranslateid=19810
+msgid "shift directly to 15th gear"
+msgstr "schakel direct naar vijftiende versnelling"
+
+# # | translated from communitytranslateid=19444
+# | communitytranslateid=19812
+msgid "shift directly to 14th gear"
+msgstr "schakel direct naar veertiende versnelling"
+
+# # | translated from communitytranslateid=19443
+# | communitytranslateid=19813
+msgid "shift directly to 13th gear"
+msgstr "schakel direct naar dertiende versnelling"
+
+# # | translated from communitytranslateid=19442
+# | communitytranslateid=19815
+msgid "shift directly to 12th gear"
+msgstr "schakel direct naar twaalfde versnelling"
+
+# # | translated from communitytranslateid=19441
+# | communitytranslateid=19814
+msgid "shift directly to 11th gear"
+msgstr "schakel direct naar de elfde versnelling"
+
+# # | translated from communitytranslateid=19440
+# | communitytranslateid=19816
+msgid "shift directly to 10th gear"
+msgstr "schakel direct naar tiende versnelling"
+
+# # | translated from communitytranslateid=17308
+# | communitytranslateid=19141
+msgid "shift automatic transmission one gear up"
+msgstr "schakel de automatische versnellingsbak een versnelling omhoog"
+
+# # | translated from communitytranslateid=17307
+# | communitytranslateid=19259
+msgid "shift automatic transmission one gear down"
+msgstr "schakel één versnelling lager bij een automaat"
+
+# | communitytranslateid=14447
+msgid "Shadow type:"
+msgstr "Schaduw type:"
+
+# # | translated from communitytranslateid=19450
+# | communitytranslateid=19885
+msgid "sets middle range (7-12) for H-shaft"
+msgstr "zet middel bereik (7-12) voor H-schacht"
+
+# # | translated from communitytranslateid=19449
+# | communitytranslateid=19862
+msgid "sets low range (1-6) for H-shaft"
+msgstr "zet laag bereik (1-6) voor h-schacht"
+
+# # | translated from communitytranslateid=19451
+# | communitytranslateid=19843
+msgid "sets high range (13-18) for H-shaft"
+msgstr "zet hoog bereik (13-18) voor h-schacht"
+
+# | communitytranslateid=14525
+msgid "Sets all settings in a simple way"
+msgstr "Zet alle instellingen in een eenvoudige manier."
+
+# | communitytranslateid=14451
+msgid "Server port number: "
+msgstr "Server poort nummer:"
+
+# | communitytranslateid=14450
+msgid "Server password: "
+msgstr "Server wachtwoord:"
+
+# | communitytranslateid=14452
+msgid "Server host name: "
+msgstr "Server hostnaam:"
+
+# # | translated from communitytranslateid=17297
+# | communitytranslateid=19894
+msgid "select previous element in current category"
+msgstr "selecteer vorig element in deze categorie"
+
+# # | translated from communitytranslateid=17294
+# | communitytranslateid=19122
+msgid "select previous category"
+msgstr "Selecteer vorige categorie"
+
+# # | translated from communitytranslateid=17293
+# | communitytranslateid=19100
+msgid "select next element in current category"
+msgstr "Selecteer het volgende element in de huidige catagorie"
+
+# # | translated from communitytranslateid=17295
+# | communitytranslateid=19123
+msgid "select next category"
+msgstr "Selecteer volgende categorie"
+
+# # | translated from communitytranslateid=17296
+# | communitytranslateid=19825
+msgid "select focussed item and close menu"
+msgstr "kies gefocust object en sluit menu"
+
+# | communitytranslateid=14133
+msgid "Search"
+msgstr "Zoeken"
+
+# | communitytranslateid=14077
+msgid "Screenshot Format:"
+msgstr "Screenshot formaat:"
+
+# | communitytranslateid=14448
+msgid "Screen configuration"
+msgstr "Scherm configuratie"
+
+# | communitytranslateid=14556
+msgid "Save the current configuration and start RoR."
+msgstr "Sla de huidige configuratie op en start RoR."
+
+# | communitytranslateid=14557
+msgid "Save the current configuration and close the configuration program."
+msgstr "Sla de huidige configuratie op en sluit het configuratie programma."
+
+# # | translated from communitytranslateid=19420
+# | communitytranslateid=19847
+msgid "Save Mapping to File"
+msgstr "sla mapping in een folder op"
+
+# | communitytranslateid=13923
+msgid "Save and Play"
+msgstr "Opslaan en Spelen"
+
+# | communitytranslateid=13924
+msgid "Save and Exit"
+msgstr "Opslaan en Afsluiten"
+
+# # | translated from communitytranslateid=17172
+# | communitytranslateid=19938
+msgid "rudder right"
+msgstr "roer rechts"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=19922
+msgid "rudder left"
+msgstr "roer links"
+
+# | communitytranslateid=14470
+msgid "RTT Mode:"
+msgstr "RTT mode:"
+
+# # | translated from communitytranslateid=17353
+# | communitytranslateid=19309
+msgid "rotate view up"
+msgstr "draai naar boven"
+
+# # | translated from communitytranslateid=17354
+# | communitytranslateid=19155
+msgid "rotate view down"
+msgstr "draai beeld omlaag"
+
+# # | translated from communitytranslateid=17302
+# | communitytranslateid=19874
+msgid "rotate object right"
+msgstr "draai object rechtsom"
+
+# # | translated from communitytranslateid=17301
+# | communitytranslateid=19256
+msgid "rotate object left"
+msgstr "draai object links"
+
+# # | translated from communitytranslateid=17206
+# | communitytranslateid=19284
+msgid "rotate character right"
+msgstr "draai het karakter naar rechts"
+
+# # | translated from communitytranslateid=17205
+# | communitytranslateid=19302
+msgid "rotate character left"
+msgstr "draai het karakter naar links"
+
+# # | translated from communitytranslateid=17197
+# | communitytranslateid=19241
+msgid "rotate camera up"
+msgstr "Camara omhoog"
+
+# # | translated from communitytranslateid=17196
+# | communitytranslateid=19298
+msgid "rotate camera right"
+msgstr "draai de camera naar rechts"
+
+# # | translated from communitytranslateid=17195
+# | communitytranslateid=19283
+msgid "rotate camera left"
+msgstr "draai de camera naar links"
+
+# # | translated from communitytranslateid=17194
+# | communitytranslateid=19095
+msgid "rotate camera down"
+msgstr "Draai de camera naar beneden"
+
+# | communitytranslateid=14449
+msgid "Rigs of Rods configuration"
+msgstr "Rigs of Rods configuratie"
+
+# # | translated from communitytranslateid=17170
+# | communitytranslateid=19877
+msgid "reverse the turboprops"
+msgstr "turboprops acteruit"
+
+# | communitytranslateid=14466
+msgid "reverse axis"
+msgstr "assen omkeren"
+
+# | communitytranslateid=14038
+msgid "Reverse"
+msgstr "Achterruit"
+
+# | communitytranslateid=14453
+msgid "Restore the default configuration."
+msgstr "Herstel de originele configuratie"
+
+# | communitytranslateid=14439
+msgid "Restore Defaults"
+msgstr "Herstel Standaard Instellingen"
+
+# # | translated from communitytranslateid=17270
+# | communitytranslateid=19260
+msgid "reset truck to original starting position"
+msgstr "Plaats het voertuig op de startpositie"
+
+# # | translated from communitytranslateid=17193
+# | communitytranslateid=19139
+msgid "reset the camera position"
+msgstr "Reset de camara positie"
+
+# | communitytranslateid=14553
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Vereist een recente videokaart. Voegt een motion blur effect toe."
+
+# | communitytranslateid=14554
+msgid "Requires a recent video card. Adds a light blurring effect."
+msgstr "Vereist een recente videokaart. Voegt een licht vervagings effect toe."
+
+# | communitytranslateid=14555
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Vereist een recente videokaart. Voegt een blauwachtig verblindende effect toe."
+
+# | communitytranslateid=14455
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Replay mode. (Kan de framerate beïnvloeden)"
+
+# | communitytranslateid=14213
+msgid "Replay Mode"
+msgstr "Herhaling Mode"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=19108
+msgid "Render System"
+msgstr "Render systeem"
+
+# # | translated from communitytranslateid=17333
+# | communitytranslateid=19114
+msgid "reloads the roads (experimental)"
+msgstr "Laad de wegen opnieuw in (experiment)"
+
+# | communitytranslateid=14454
+msgid "Region"
+msgstr "Regio"
+
+# # | translated from communitytranslateid=17143
+# | communitytranslateid=19270
+msgid "Regen cache"
+msgstr "regenereer cache"
+
+# # | translated from communitytranslateid=17164
+# | communitytranslateid=19940
+msgid "pull the elevator up in an aircraft."
+msgstr "trek de lift omhoog in een vliegtuig."
+
+# # | translated from communitytranslateid=17163
+# | communitytranslateid=19834
+msgid "pull the elevator down in an aircraft."
+msgstr "trek de lift naar beneden in een vliegtuig"
+
+# | communitytranslateid=14572
+msgid "Prints all node masses to the RoR.log. Only use for truck debugging!"
+msgstr "Zet alle Balk massa's in RoR.log. Alleen voor truck debugging!"
+
+# # | translated from communitytranslateid=19386
+# | communitytranslateid=19902
+msgid "Please use any mapped input device in order to test."
+msgstr "gebruik een mapped invoer systeem om te testen."
+
+# # | translated from communitytranslateid=19418
+# | communitytranslateid=19831
+msgid "Please select what type of device to export"
+msgstr "selecteer wat voor systeem om te exporteren"
+
+# | communitytranslateid=14524
+msgid "Please select an input event."
+msgstr "Selecteer een input gebeurtenis."
+
+# | communitytranslateid=14217
+msgid "Please clear the place first"
+msgstr "Eerst het platform leeghalen AUB"
+
+# # | translated from communitytranslateid=17298
+# | communitytranslateid=19939
+msgid "place currently selected object at current position"
+msgstr "plaats nu geselecteerd object op deze positie"
+
+# # | translated from communitytranslateid=17300
+# | communitytranslateid=19865
+msgid "pitch object foreward"
+msgstr "hel object over naar voren"
+
+# # | translated from communitytranslateid=17299
+# | communitytranslateid=19107
+msgid "pitch object backward"
+msgstr "Object achterwaarts hellen"
+
+# | communitytranslateid=14573
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Deeltjes zoals waterkannonen of effen paden. Kan worden gebruikt in Multiplayer."
+
+# | communitytranslateid=14531
+msgid "Particle systems"
+msgstr "Deeltjes systeem"
+
+# | communitytranslateid=14040
+msgid "Options"
+msgstr "Opties"
+
+# # | translated from communitytranslateid=17167
+# | communitytranslateid=19147
+msgid "one step more flaps."
+msgstr "Een stap meer flaps."
+
+# # | translated from communitytranslateid=17166
+# | communitytranslateid=19916
+msgid "one step less flaps."
+msgstr "een stap minder flappen."
+
+# | communitytranslateid=14139
+msgid "ok (end test)"
+msgstr "Oke (einde test)"
+
+# | communitytranslateid=14140
+msgid "OK"
+msgstr "Oke"
+
+# | communitytranslateid=14550
+msgid "Ogre config validation error"
+msgstr "Ogre configuratie validatie fout"
+
+# | communitytranslateid=14526
+msgid "Ogre config error"
+msgstr "Ogre configuratie fout"
+
+# | communitytranslateid=14532
+msgid "Not much impact on speed."
+msgstr "Niet veel invloed op de snelheid."
+
+# | communitytranslateid=14146
+msgid "normal camera"
+msgstr "normale camera"
+
+# # | translated from communitytranslateid=17162
+# | communitytranslateid=19143
+msgid "normal brake for an aircraft"
+msgstr "normale rem voor een vliegtuig"
+
+# | communitytranslateid=14514
+msgid "Non-Driveable"
+msgstr "Niet berijdbaar"
+
+# | communitytranslateid=14485
+msgid "Nodes: "
+msgstr "Knooppunten:"
+
+# | communitytranslateid=14513
+msgid "node count: "
+msgstr "Knoop telling:"
+
+# # | translated from communitytranslateid=17177
+# | communitytranslateid=19880
+msgid "no thrust"
+msgstr "geen gas"
+
+# # | translated from communitytranslateid=17168
+# | communitytranslateid=19906
+msgid "no flaps."
+msgstr "geen flappen."
+
+# | communitytranslateid=14474
+msgid "No effect unless you mess with water, looks pretty good also."
+msgstr "Geen effect tenzij je rommelt met water, ziet er ook best goed uit."
+
+# # | translated from communitytranslateid=19427
+# | communitytranslateid=19890
+msgid "No differential installed on current vehicle!"
+msgstr "geen differentieel geinstalleerd op nu gebruikt voertuig!"
+
+# | communitytranslateid=14527
+msgid "no deadzone"
+msgstr "Geen dode zone"
+
+# | communitytranslateid=14484
+msgid "no author information available"
+msgstr "Geen auteur informatie beschikbaar"
+
+# # | translated from communitytranslateid=17345
+# | communitytranslateid=19263
+msgid "no airbrakes"
+msgstr "geen luchtremmen"
+
+# | communitytranslateid=14471
+msgid "Nickname: "
+msgstr "Bijnaam:"
+
+# | communitytranslateid=14062
+msgid "new Language selected"
+msgstr "Nieuwe taal geselecteerd"
+
+# | communitytranslateid=14224
+msgid "Network"
+msgstr "Netwerk"
+
+# # | translated from communitytranslateid=17340
+# | communitytranslateid=19101
+msgid "move right mirror to the right"
+msgstr "Draai de rechterspiegel naar rechts"
+
+# # | translated from communitytranslateid=17343
+# | communitytranslateid=19905
+msgid "move replay fast forward"
+msgstr "verplaats herhaal snel vooruit"
+
+# # | translated from communitytranslateid=17344
+# | communitytranslateid=19093
+msgid "move replay fast backward"
+msgstr "Replay snel achteruitspoelen"
+
+# # | translated from communitytranslateid=17338
+# | communitytranslateid=19129
+msgid "move left mirror to the right"
+msgstr "Draai de linkerspiegel naar rechts"
+
+# # | translated from communitytranslateid=17337
+# | communitytranslateid=19288
+msgid "move left mirror to the left"
+msgstr "beweeg de linker spiegel naar links"
+
+# # | translated from communitytranslateid=17355
+# | communitytranslateid=19913
+msgid "move character up"
+msgstr "verplaats poppetje omhoog"
+
+# # | translated from communitytranslateid=17356
+# | communitytranslateid=19269
+msgid "move character down"
+msgstr "beweeg het karakter naar beneden"
+
+# | communitytranslateid=14506
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# | communitytranslateid=14528
+msgid "Motion blur"
+msgstr "Motion blur"
+
+# # | translated from communitytranslateid=17339
+# | communitytranslateid=19946
+msgid "more right mirror to the left"
+msgstr "meer rechtse spiegel naar links"
+
+# # | translated from communitytranslateid=17341
+# | communitytranslateid=19111
+msgid "more replay forward"
+msgstr "meer replay voorwaarts"
+
+# # | translated from communitytranslateid=17342
+# | communitytranslateid=19891
+msgid "more replay backward"
+msgstr "meer terugspelen"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=19150
+msgid "more airbrakes"
+msgstr "meer luchtremmen"
+
+# | communitytranslateid=14069
+msgid "Mirrors"
+msgstr "Spiegels"
+
+# | communitytranslateid=14064
+msgid "minimum visibility range in percent"
+msgstr "Minimale zichtbereik, in procenten"
+
+# # | translated from communitytranslateid=19425
+# | communitytranslateid=19881
+msgid "Mid range selected"
+msgstr "middelmatig bereik geselecteerd"
+
+# | communitytranslateid=14130
+msgid "max Speed:"
+msgstr "Maximale Snelheid:"
+
+# | communitytranslateid=14456
+msgid "Mass: "
+msgstr "Massa:"
+
+# | communitytranslateid=14061
+msgid "Manual shift - Auto clutch"
+msgstr "Handmatig schakelen, automatische koppeling"
+
+# # | translated from communitytranslateid=17324
+# | communitytranslateid=19900
+msgid "manual clutch (for manual transmission)"
+msgstr "handmatige koppeling (voor handmatige transmissie)"
+
+# | communitytranslateid=14487
+msgid "Machine"
+msgstr "Machine"
+
+# | communitytranslateid=14073
+msgid "Lower"
+msgstr "Lager"
+
+# # | translated from communitytranslateid=19424
+# | communitytranslateid=19912
+msgid "Low range selected"
+msgstr "laag bereik geselecteerd"
+
+# # | translated from communitytranslateid=17192
+# | communitytranslateid=19860
+msgid "look back (toggles between normal and lookback)"
+msgstr "kijk terug (schakelt tussen normaal en terugkijk)"
+
+# | communitytranslateid=15440
+msgid "loading...\n"
+msgstr "laden... \n"
+
+# | communitytranslateid=15443
+msgid "Loading zips in group "
+msgstr "Meerde zip bestanden samen laden"
+
+# | communitytranslateid=15454
+msgid "Loading Terrain"
+msgstr "Terrein laden"
+
+# # | translated from communitytranslateid=17153
+# | communitytranslateid=19858
+msgid "loading new zip: "
+msgstr "nieuwe zip aan het laden:"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=19924
+msgid "loading new directory: "
+msgstr "nieuwe bestemming laden:"
+
+# | communitytranslateid=15451
+msgid "Loading directory\n"
+msgstr "Map laden\n"
+
+# | communitytranslateid=14478
+msgid "Loader"
+msgstr "Lader"
+
+# | communitytranslateid=14074
+msgid "List"
+msgstr "Lijst"
+
+# # | translated from communitytranslateid=19417
+# | communitytranslateid=19895
+msgid "Linearity"
+msgstr "Lineariteit"
+
+# | communitytranslateid=14533
+msgid "Light source effects:"
+msgstr "Lichtbron effecten:"
+
+# # | translated from communitytranslateid=17207
+# | communitytranslateid=19873
+msgid "let the character run"
+msgstr "laat het karakter rennen"
+
+# # | translated from communitytranslateid=17204
+# | communitytranslateid=19278
+msgid "let the character jump"
+msgstr "spring met het karakter"
+
+# # | translated from communitytranslateid=17347
+# | communitytranslateid=19304
+msgid "less airbrakes"
+msgstr "minder luchtrem"
+
+# | communitytranslateid=14137
+msgid "Language:"
+msgstr "Taal:"
+
+# | communitytranslateid=14538
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# | communitytranslateid=14044
+msgid "Keyboard"
+msgstr "Toetsenbord"
+
+# | communitytranslateid=14132
+msgid "Key/Axis"
+msgstr "Toets/as"
+
+# | communitytranslateid=14539
+msgid "Joystick Options"
+msgstr "Joystick Opties"
+
+# | communitytranslateid=14545
+msgid "Joystick Axis Region"
+msgstr "Joystick As Regio"
+
+# # | translated from communitytranslateid=19390
+# | communitytranslateid=19850
+msgid "Joystick Axis Linearity"
+msgstr "joystick axis uitlijning"
+
+# | communitytranslateid=14469
+msgid "Joystick Axis Deadzones"
+msgstr "Joystick assen dode-zones"
+
+# | communitytranslateid=14505
+msgid "joycfg.bmp"
+msgstr "joycfg.bmp"
+
+# | communitytranslateid=14465
+msgid "Input Type: "
+msgstr "Input Type:"
+
+# | communitytranslateid=15447
+msgid "incremental check: processing changed zips\n"
+msgstr "Incrementele controle: verwerken van de gewijzigde zip-bestanden\n"
+
+# | communitytranslateid=15449
+msgid "incremental check: new files\n"
+msgstr "Incrementele controle: nieuwe bestanden\n"
+
+# | communitytranslateid=15448
+msgid "incremental check: new content\n"
+msgstr "Incrementele controle: nieuwe inhoud\n"
+
+# | communitytranslateid=15450
+msgid "incremental check: duplicates\n"
+msgstr "Incrementele controle: dubbele bestanden\n"
+
+# | communitytranslateid=15444
+msgid "incremental check: deleted and changed files\n"
+msgstr "Incrementele controle: bestanden gewist en gewijzigd\n"
+
+# | communitytranslateid=15442
+msgid "incremental check: deleted and changed files"
+msgstr "Incrementele controle: bestanden gewist en gewijzigd"
+
+# # | translated from communitytranslateid=17267
+# | communitytranslateid=19282
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr "verhoog de bandendruk (slechts een klein aantal voertuigen ondersteunen dit)"
+
+# # | translated from communitytranslateid=17186
+# | communitytranslateid=19118
+msgid "increase throttle"
+msgstr "Verhoogd gas geven"
+
+# # | translated from communitytranslateid=17285
+# | communitytranslateid=19898
+msgid "increase the current FOV value"
+msgstr "vergroot nu gebruikt FOV aantal"
+
+# # | translated from communitytranslateid=17178
+# | communitytranslateid=19094
+msgid "increase the airplane thrust"
+msgstr "Verhoog de stuwkracht van het vliegtuig"
+
+# # | translated from communitytranslateid=17190
+# | communitytranslateid=19926
+msgid "increase day-time a lot faster"
+msgstr "meer dag-tijd veel sneller"
+
+# # | translated from communitytranslateid=17189
+# | communitytranslateid=19257
+msgid "increase day-time"
+msgstr "dagtijd verhogen"
+
+# | communitytranslateid=14566
+msgid "In what Format should screenshots be saved?"
+msgstr "In welk Formaat moeten schermafdrukken opgeslagen worden?"
+
+# | communitytranslateid=14479
+msgid "Import Keymap"
+msgstr "Importeer Toetsenbord instellingen"
+
+# | communitytranslateid=14058
+msgid "If you use XFire, you can switch on this option to generate a more detailed game info."
+msgstr "Gebruik je Xfire, dan kun je deze optie aanzetten om een meer gedetalieerde game info te krijgen."
+
+# | communitytranslateid=14567
+msgid "If you dislike the pitching external vehicle camera, you can disable it here."
+msgstr "Als je niet van het externe voertuig pitching camera houd, dan kan je dat hier uitzetten."
+
+# | communitytranslateid=14546
+msgid "Hydrax Water System"
+msgstr "Hydrax Water Systeem"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=19306
+msgid "hold to start the engine"
+msgstr "start de motor"
+
+# # | translated from communitytranslateid=19426
+# | communitytranslateid=19886
+msgid "High range selected"
+msgstr "hoog bereik geselecteerd"
+
+# | communitytranslateid=14549
+msgid "High quality reflective effects"
+msgstr "Hoge kwaliteit reflecterende effecten"
+
+# | communitytranslateid=14066
+msgid "High Quality"
+msgstr "Hoge kwaliteit"
+
+# | communitytranslateid=14529
+msgid "High Performance"
+msgstr "Hoge Prestatie"
+
+# # | translated from communitytranslateid=17262
+# | communitytranslateid=19274
+msgid "hide all GUI elements"
+msgstr "verberg alle grafische elementen"
+
+# | communitytranslateid=14048
+msgid "here you can get help"
+msgstr "Hier kun je hulp krijgen"
+
+# | communitytranslateid=14135
+msgid "HeatHaze"
+msgstr "Warmte Damp"
+
+# | communitytranslateid=14136
+msgid "Heat Haze from engines, major slowdown. (only activate with recent hardware)"
+msgstr "Warmte damp van de motor, extreme belasting op de pc. (alleen gebruiken als je recente hardware hebt)"
+
+# | communitytranslateid=14475
+msgid "health: "
+msgstr "Gezondheid:"
+
+# | communitytranslateid=14056
+msgid "Graphics Settings"
+msgstr "Grafische instellingen"
+
+# | communitytranslateid=14501
+msgid "Graphics"
+msgstr "Grafisch"
+
+# # | translated from communitytranslateid=19423
+# | communitytranslateid=19927
+msgid "Fully Manual: stick shift with ranges"
+msgstr "volledig handmatig: staaf schakelen met bereiken"
+
+# # | translated from communitytranslateid=19422
+# | communitytranslateid=19925
+msgid "Fully manual: stick shift"
+msgstr "volledig handmatig: staaf shakelen"
+
+# # | translated from communitytranslateid=19421
+# | communitytranslateid=19909
+msgid "Fully Manual: sequencial shift"
+msgstr "volledig handmatig: opeenvolgend geschakeld"
+
+# | communitytranslateid=14071
+msgid "Fully Manual shift"
+msgstr "Volledig handmatig schakelen."
+
+# # | translated from communitytranslateid=17176
+# | communitytranslateid=19845
+msgid "full thrust"
+msgstr "vol vermogen"
+
+# | communitytranslateid=14072
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Volledig scherm gebruikt iets minder geheugen"
+
+# | communitytranslateid=14047
+msgid "Full screen"
+msgstr "Volledig scherm"
+
+# # | translated from communitytranslateid=17165
+# | communitytranslateid=19919
+msgid "full flaps in an aircraft."
+msgstr "volledige flappen in een vliegtuig."
+
+# # | translated from communitytranslateid=17346
+# | communitytranslateid=19275
+msgid "full airbrakes"
+msgstr "volledige luchtrem"
+
+# | communitytranslateid=14045
+msgid "Full"
+msgstr "Vol"
+
+# | communitytranslateid=14145
+msgid "free camera"
+msgstr "vrije camera"
+
+# # | translated from communitytranslateid=17156
+# | communitytranslateid=19146
+msgid "FOV: "
+msgstr "Gezichtsveld:"
+
+# | communitytranslateid=14053
+msgid "Fog"
+msgstr "Mist"
+
+# | communitytranslateid=14144
+msgid "fixed free camera"
+msgstr "gefixeerde vrije camera"
+
+# # | translated from communitytranslateid=17335
+# | communitytranslateid=19128
+msgid "fix the camera to a position"
+msgstr "Stel de camera op een positie vast"
+
+# # | translated from communitytranslateid=19419
+# | communitytranslateid=19896
+msgid "Export selection"
+msgstr "exporteer selectie"
+
+# | communitytranslateid=14473
+msgid "Export Keymap"
+msgstr "Exporteer Toetsenbord instellingen"
+
+# # | translated from communitytranslateid=17288
+# | communitytranslateid=19140
+msgid "EXPERIMENTAL: set maximum amount of grass"
+msgstr "EXPERIMENTEEL: Stel de maximale hoeveelheid gras in"
+
+# # | translated from communitytranslateid=17290
+# | communitytranslateid=19935
+msgid "EXPERIMENTAL: save changes to the grass density image"
+msgstr "experimentaal: sla de veranderingen van de gras dichtheid afbeelding op"
+
+# # | translated from communitytranslateid=17286
+# | communitytranslateid=19879
+msgid "EXPERIMENTAL: remove some grass"
+msgstr "experimentaal: verwijder wat gras"
+
+# # | translated from communitytranslateid=17289
+# | communitytranslateid=19151
+msgid "EXPERIMENTAL: remove grass completely"
+msgstr "EXPERIMENTEEL: verwijder het gras compleet"
+
+# # | translated from communitytranslateid=17287
+# | communitytranslateid=19264
+msgid "EXPERIMENTAL: add some grass"
+msgstr "EXPERIMENTEEL: gras toevoegen"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=18757
+msgid "exit the game"
+msgstr "Spel afsluiten"
+
+# | communitytranslateid=14552
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Gebeurtenis Waarde (links = 0%, rechts = 100%)"
+
+# | communitytranslateid=14508
+msgid "Event Name: "
+msgstr "Gebeurtenis Naam:"
+
+# | communitytranslateid=14509
+msgid "Event Name"
+msgstr "Gebeurtenis Naam"
+
+# | communitytranslateid=14530
+msgid "Event Description: "
+msgstr "Gebeurtenis Beschrijving:"
+
+# | communitytranslateid=14507
+msgid "Event"
+msgstr "Gebeurtenis"
+
+# | communitytranslateid=14563
+msgid "Error while retrieving user space path"
+msgstr "Fout bij het ophalen van gebruiker-lokatie"
+
+# | communitytranslateid=14571
+msgid "Error while retrieving program space path"
+msgstr "Fout bij het ophalen van Programma-lokatie"
+
+# # | translated from communitytranslateid=17260
+# | communitytranslateid=19273
+msgid "enter the chat"
+msgstr "begin de chatsessie"
+
+# # | translated from communitytranslateid=17261
+# | communitytranslateid=19291
+msgid "enter or exit a truck"
+msgstr "stap in of uit een voertuig"
+
+# | communitytranslateid=14043
+msgid "Engine smoke"
+msgstr "Uitlaatgas"
+
+# | communitytranslateid=14551
+msgid "Enabling waves adds a lot of fun in boats, but can have a big performance impact on some specific hardwares."
+msgstr "Zet golven aan en geeft een hoop plezier in boten, maar het kan een groot prestatie probleem geven op sommige hardware."
+
+# | communitytranslateid=14565
+msgid "Enables the new water rendering system. EXPERIMENTAL. Overrides any water settings."
+msgstr "Zet het nieuwe water renderings systeem aan. EXPIRIMENTEEL. Overbrugt alle andere water instellingen."
+
+# | communitytranslateid=14504
+msgid "Enable XFire Extension"
+msgstr "Zet XFire Extensie aan"
+
+# | communitytranslateid=14477
+msgid "Enable waves"
+msgstr "Zet golven aan"
+
+# | communitytranslateid=14548
+msgid "Enable Visual Beam Debug"
+msgstr "Zet Visuele Balk Debug aan"
+
+# # | translated from communitytranslateid=19429
+# | communitytranslateid=19883
+msgid "enable or disable replay mode"
+msgstr "maak mogelijk of zet herhaling uit"
+
+# # | translated from communitytranslateid=17278
+# | communitytranslateid=19823
+msgid "enable of disable replay mode"
+msgstr "herspeel mode aan/uit"
+
+# | communitytranslateid=14462
+msgid "Enable network mode"
+msgstr "Zet netwerk mode aan"
+
+# | communitytranslateid=14562
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Zet hoge kwaliteit reflectie effecten aan. Veroorzaakt een vertraging."
+
+# # | translated from communitytranslateid=17146
+# | communitytranslateid=19296
+msgid "Enable Auto-Downloader"
+msgstr "Schakel Auto-Dowloader in"
+
+# | communitytranslateid=14547
+msgid "Enable advanced wheel model"
+msgstr "Zet geavanceerde wiel model aan"
+
+# # | translated from communitytranslateid=17336
+# | communitytranslateid=19252
+msgid "enable / disable free camera mode"
+msgstr "inschakelen / uitschakelen vrije camera modus"
+
+# | communitytranslateid=14070
+msgid "Dust"
+msgstr "Stof"
+
+# | communitytranslateid=14564
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Geeft knooppunt nummers en meer informatie over knooppunten en balken"
+
+# # | translated from communitytranslateid=17351
+# | communitytranslateid=19104
+msgid "display or hide net chat"
+msgstr "Laat het net chat venster zien of verbergen"
+
+# | communitytranslateid=14558
+msgid "Disabled the map. This is for testing purposes only, you should not gain any FPS with that."
+msgstr "Zet de map uit. Dit is alleen voor test doeleinden, je krijgt er niet meer FPS door."
+
+# | communitytranslateid=14511
+msgid "Disable Overview Map"
+msgstr "Zet Overzicht Map uit"
+
+# # | translated from communitytranslateid=17140
+# | communitytranslateid=19887
+msgid "disable creak sound"
+msgstr "schakel kraak geluid uit"
+
+# | communitytranslateid=14486
+msgid "Disable Camera Pitching"
+msgstr "Schakel Camera Pitching uit"
+
+# # | translated from communitytranslateid=19428
+# | communitytranslateid=19856
+msgid "Differentials switched to: "
+msgstr "differenties geschakeld naar:"
+
+# | communitytranslateid=14472
+msgid "Device:"
+msgstr "Apparaat:"
+
+# | communitytranslateid=14134
+msgid "destruction: "
+msgstr "Verwoesting"
+
+# # | translated from communitytranslateid=17160
+# | communitytranslateid=18760
+msgid "Description: "
+msgstr "Omschrijving:"
+
+# | communitytranslateid=14220
+msgid "Delete selected"
+msgstr "Verwijder het geselecteerde"
+
+# # | translated from communitytranslateid=17350
+# | communitytranslateid=19830
+msgid "delete current truck"
+msgstr "verwijder nu gebruikte truck"
+
+# | communitytranslateid=14483
+msgid "deformed: "
+msgstr "Vervormd:"
+
+# # | translated from communitytranslateid=17158
+# | communitytranslateid=19154
+msgid "Default Skin"
+msgstr "Standaard uiterlijk"
+
+# # | translated from communitytranslateid=17284
+# | communitytranslateid=19937
+msgid "decreases the current FOV value"
+msgstr "verlaag de nu gebruikte FOV hoeveelheid"
+
+# # | translated from communitytranslateid=17175
+# | communitytranslateid=19920
+msgid "decreases the airplane thrust"
+msgstr "verlaag het vliegtuig zijn gas"
+
+# # | translated from communitytranslateid=17266
+# | communitytranslateid=19289
+msgid "decrease tire pressure (note: only very few trucks support this)"
+msgstr "verlaag de bandendruk (slechts een klein aantal voertuigen ondersteunen dit)"
+
+# # | translated from communitytranslateid=17185
+# | communitytranslateid=19308
+msgid "decrease throttle"
+msgstr "verlaag de gas"
+
+# # | translated from communitytranslateid=17188
+# | communitytranslateid=19907
+msgid "decrease day-time a lot faster"
+msgstr "verwijder dag-tijd een stuk sneller"
+
+# # | translated from communitytranslateid=17187
+# | communitytranslateid=19892
+msgid "decrease day-time"
+msgstr "verminder dag-tijd"
+
+# | communitytranslateid=14561
+msgid "Debug Truck Mass"
+msgstr "Debug Truck Massa"
+
+# # | translated from communitytranslateid=17276
+# | communitytranslateid=19290
+msgid "debug purpose - dont use"
+msgstr "debug doeleinden - niet gebruiken"
+
+# | communitytranslateid=14560
+msgid "Debug Collision Meshes"
+msgstr "Debug Collision Meshes"
+
+# | communitytranslateid=14503
+msgid "Deadzone"
+msgstr "Dode zone"
+
+# | communitytranslateid=14544
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# | communitytranslateid=14540
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# | communitytranslateid=14542
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# | communitytranslateid=14541
+msgid "data/"
+msgstr "data/"
+
+# | communitytranslateid=14476
+msgid "Dashboard"
+msgstr "Dashboard"
+
+# # | translated from communitytranslateid=19452
+# | communitytranslateid=19901
+msgid "Cycle between available differental models"
+msgstr "kies tussen beschikbare differentieel modellen"
+
+# | communitytranslateid=14536
+msgid "Custom Particles"
+msgstr "Aangepast Partikels"
+
+# | communitytranslateid=14067
+msgid "current Speed:"
+msgstr "Snelheid:"
+
+# | communitytranslateid=14068
+msgid "current RPM:"
+msgstr "Toerental RPM:"
+
+# | communitytranslateid=14075
+msgid "current mass:"
+msgstr "Gewicht:"
+
+# | communitytranslateid=13780
+msgid "Current FPS: "
+msgstr "FPS"
+
+# | communitytranslateid=14459
+msgid "CPU Settings"
+msgstr "CPU Instellingen"
+
+# | communitytranslateid=14052
+msgid "CPU"
+msgstr "CPU"
+
+# # | translated from communitytranslateid=19388
+# | communitytranslateid=19884
+msgid "Could not write to input.map file"
+msgstr "kon de input.map folder niet schrijven"
+
+# | communitytranslateid=14199
+msgid "Could not write config file"
+msgstr "Niet mogelijk om het configuratie bestand te maken."
+
+# | communitytranslateid=14463
+msgid "Could not open Rendering device"
+msgstr "Kan het Rendering apparaat niet openen"
+
+# | communitytranslateid=14510
+msgid "Controls"
+msgstr "Controls"
+
+# # | translated from communitytranslateid=17263
+# | communitytranslateid=19923
+msgid "connect hook node to a node in close proximity"
+msgstr "maak contact met hook node dicht bij een node dicht in de buurt"
+
+# | communitytranslateid=14210
+msgid "Configure error"
+msgstr "Configuratie error"
+
+# | communitytranslateid=14535
+msgid "Community / Support"
+msgstr "Gemeenschap / Help"
+
+# | communitytranslateid=14481
+msgid "Commands:"
+msgstr "Commando's:"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=19778
+msgid "Command 9"
+msgstr "Commando 9"
+
+# # | translated from communitytranslateid=17217
+# | communitytranslateid=19917
+msgid "Command 8"
+msgstr "Commando 8"
+
+# # | translated from communitytranslateid=17216
+# | communitytranslateid=19127
+msgid "Command 7"
+msgstr "Commando 7"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=19285
+msgid "Command 6"
+msgstr "Commando 6"
+
+# # | translated from communitytranslateid=17214
+# | communitytranslateid=19119
+msgid "Command 5"
+msgstr "Commando 5"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=19286
+msgid "Command 48"
+msgstr "Commando 48"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=19133
+msgid "Command 47"
+msgstr "Commando 47"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=19152
+msgid "Command 46"
+msgstr "Commando 46"
+
+# # | translated from communitytranslateid=17254
+# | communitytranslateid=19132
+msgid "Command 45"
+msgstr "Commando 45"
+
+# # | translated from communitytranslateid=17253
+# | communitytranslateid=19293
+msgid "Command 44"
+msgstr "Commando 44"
+
+# # | translated from communitytranslateid=17252
+# | communitytranslateid=19294
+msgid "Command 43"
+msgstr "Commando 43"
+
+# # | translated from communitytranslateid=17251
+# | communitytranslateid=19918
+msgid "Command 42"
+msgstr "Commando 42"
+
+# # | translated from communitytranslateid=17250
+# | communitytranslateid=19109
+msgid "Command 41"
+msgstr "Command0 41"
+
+# # | translated from communitytranslateid=17249
+# | communitytranslateid=19115
+msgid "Command 40"
+msgstr "Commando 40"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=19262
+msgid "Command 4"
+msgstr "Commando 4"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=19267
+msgid "Command 39"
+msgstr "Commando 39"
+
+# # | translated from communitytranslateid=17247
+# | communitytranslateid=19295
+msgid "Command 38"
+msgstr "Commando 38"
+
+# # | translated from communitytranslateid=17246
+# | communitytranslateid=19253
+msgid "Command 37"
+msgstr "Commando 37"
+
+# # | translated from communitytranslateid=17245
+# | communitytranslateid=19149
+msgid "Command 36"
+msgstr "Commando 36"
+
+# # | translated from communitytranslateid=17244
+# | communitytranslateid=19131
+msgid "Command 35"
+msgstr "Commando 35"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=19255
+msgid "Command 34"
+msgstr "Commando 34"
+
+# # | translated from communitytranslateid=17242
+# | communitytranslateid=19281
+msgid "Command 33"
+msgstr "Commando 33"
+
+# # | translated from communitytranslateid=17241
+# | communitytranslateid=19106
+msgid "Command 32"
+msgstr "Commando 32"
+
+# # | translated from communitytranslateid=17240
+# | communitytranslateid=19943
+msgid "Command 31"
+msgstr "Commando 31"
+
+# # | translated from communitytranslateid=17239
+# | communitytranslateid=19942
+msgid "Command 30"
+msgstr "Commando 30"
+
+# # | translated from communitytranslateid=17212
+# | communitytranslateid=19266
+msgid "Command 3"
+msgstr "Commando 3"
+
+# # | translated from communitytranslateid=17238
+# | communitytranslateid=19820
+msgid "Command 29"
+msgstr "Commando 29"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=19303
+msgid "Command 28"
+msgstr "Commando 28"
+
+# # | translated from communitytranslateid=17236
+# | communitytranslateid=19113
+msgid "Command 27"
+msgstr "Commando 27"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=19271
+msgid "Command 26"
+msgstr "Commando 26"
+
+# # | translated from communitytranslateid=17234
+# | communitytranslateid=19297
+msgid "Command 25"
+msgstr "Commando 25"
+
+# # | translated from communitytranslateid=17233
+# | communitytranslateid=19276
+msgid "Command 24"
+msgstr "Commando 24"
+
+# # | translated from communitytranslateid=17232
+# | communitytranslateid=19904
+msgid "Command 23"
+msgstr "Commando 23"
+
+# # | translated from communitytranslateid=17231
+# | communitytranslateid=19105
+msgid "Command 22"
+msgstr "Commando 22"
+
+# # | translated from communitytranslateid=17230
+# | communitytranslateid=19300
+msgid "Command 21"
+msgstr "Commando 21"
+
+# # | translated from communitytranslateid=17229
+# | communitytranslateid=19135
+msgid "Command 20"
+msgstr "Commando 20"
+
+# # | translated from communitytranslateid=17211
+# | communitytranslateid=19138
+msgid "Command 2"
+msgstr "Commando 2"
+
+# # | translated from communitytranslateid=17228
+# | communitytranslateid=19277
+msgid "Command 19"
+msgstr "Commando 19"
+
+# # | translated from communitytranslateid=17227
+# | communitytranslateid=19305
+msgid "Command 18"
+msgstr "Commando 18"
+
+# # | translated from communitytranslateid=17226
+# | communitytranslateid=19854
+msgid "Command 17"
+msgstr "Commando 17"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=19137
+msgid "Command 16"
+msgstr "Commando 16"
+
+# # | translated from communitytranslateid=17224
+# | communitytranslateid=19292
+msgid "Command 15"
+msgstr "Commando 15"
+
+# # | translated from communitytranslateid=17223
+# | communitytranslateid=19311
+msgid "Command 14"
+msgstr "Commando 14"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=19261
+msgid "Command 13"
+msgstr "Commando 13"
+
+# # | translated from communitytranslateid=17221
+# | communitytranslateid=19828
+msgid "Command 12"
+msgstr "Commando 12"
+
+# # | translated from communitytranslateid=17220
+# | communitytranslateid=19153
+msgid "Command 11"
+msgstr "Commando 11"
+
+# # | translated from communitytranslateid=17219
+# | communitytranslateid=19102
+msgid "Command 10"
+msgstr "Commando 10"
+
+# # | translated from communitytranslateid=17210
+# | communitytranslateid=19301
+msgid "Command 1"
+msgstr "Commando 1"
+
+# | communitytranslateid=14219
+msgid "Cockpit options"
+msgstr "Cabine opties"
+
+# | communitytranslateid=14458
+msgid "close this dialog"
+msgstr "Sluit dit Dialoog"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=19125
+msgid "Click on blue hyperlinks to select a server."
+msgstr "Klik op de blauwe hyperlink om een server te selecteren."
+
+# | communitytranslateid=14460
+msgid "Clear cache"
+msgstr "Leeg Cache"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=19148
+msgid "Choose a file"
+msgstr "kies een bestand"
+
+# | communitytranslateid=15452
+msgid "checking for new zips in "
+msgstr "controleren op nieuwe zip bestanden in"
+
+# | communitytranslateid=15453
+msgid "checking for new directories in "
+msgstr "controleren op nieuwe mappen in"
+
+# # | translated from communitytranslateid=17191
+# | communitytranslateid=19098
+msgid "change camera mode"
+msgstr "Verander de camera modus"
+
+# # | translated from communitytranslateid=17180
+# | communitytranslateid=19908
+msgid "center the rudder"
+msgstr "centreer het roer"
+
+# | communitytranslateid=14461
+msgid "Cancel the configuration changes and close the configuration program."
+msgstr "Annuleer de configuratie veranderingen en sluit het configuratie programma."
+
+# | communitytranslateid=13927
+msgid "Cancel"
+msgstr "Annuleren"
+
+# | communitytranslateid=14468
+msgid "Caelum sky is nice but quite slow unless you have a high-powered GPU."
+msgstr "Caelum lucht is mooi maar vertraagd tenzij je een sterke GPU hebt."
+
+# # | translated from communitytranslateid=17155
+# | communitytranslateid=19827
+msgid "Cache regeneration done.\n"
+msgstr "cache regeneratie gedaan.\n"
+
+# | communitytranslateid=14019
+msgid "broken: "
+msgstr "Kapot:"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=18759
+msgid "brake"
+msgstr "Rem"
+
+# | communitytranslateid=13925
+msgid "Boat"
+msgstr "Boot"
+
+# | communitytranslateid=14534
+msgid "Bloom"
+msgstr "Bloeien"
+
+# | communitytranslateid=13782
+msgid "Best FPS: "
+msgstr "Beste FPS"
+
+# | communitytranslateid=14512
+msgid "beam count: "
+msgstr "Balk telling:"
+
+# | communitytranslateid=14492
+msgid "Balanced"
+msgstr "Gebalanceerd"
+
+# | communitytranslateid=14024
+msgid "Bad server port"
+msgstr "Verkeerde server poort"
+
+# | communitytranslateid=14482
+msgid "average stress: "
+msgstr "Gemiddelde stress:"
+
+# | communitytranslateid=13781
+msgid "Average FPS: "
+msgstr "Gemiddelde FPS"
+
+# | communitytranslateid=14537
+msgid "average deformation: "
+msgstr "gemiddelde vervorming:"
+
+# | communitytranslateid=14017
+msgid "Automatic shift"
+msgstr "Automatisch schakelen"
+
+# | communitytranslateid=14480
+msgid "Authors: "
+msgstr "Auteurs:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=19929
+msgid "Author: "
+msgstr "auteur:"
+
+# | communitytranslateid=14495
+msgid "Anti-aliasing:"
+msgstr "Anti-aliasing:"
+
+# | communitytranslateid=14020
+msgid "Anonymous"
+msgstr "Anoniem"
+
+# | communitytranslateid=14023
+msgid "Altitude:"
+msgstr "Hoogte:"
+
+# # | translated from communitytranslateid=17349
+# | communitytranslateid=19849
+msgid "airplane throttle"
+msgstr "vliegtuig gas"
+
+# # | translated from communitytranslateid=17169
+# | communitytranslateid=19251
+msgid "airplane parking brake."
+msgstr "parkeerrem vliegtuig"
+
+# | communitytranslateid=13926
+msgid "Airplane"
+msgstr "Vliegtuig"
+
+# | communitytranslateid=14457
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+# | communitytranslateid=14221
+msgid "Add the key"
+msgstr "Voeg de code toe"
+
+# | communitytranslateid=14076
+msgid "Add"
+msgstr "Toevoegen"
+
+# # | translated from communitytranslateid=17306
+# | communitytranslateid=19112
+msgid "accelerate the truck"
+msgstr "Accelereert de vrachtwagen"
+
+# | communitytranslateid=14022
+msgid "A network error occured"
+msgstr "Een netwerk fout heeft plaats gevonden."
+
+# | communitytranslateid=14500
+msgid "5% deadzone"
+msgstr "5% dode zone"
+
+# | communitytranslateid=14440
+msgid "5 %"
+msgstr "5 %"
+
+# | communitytranslateid=14499
+msgid "30% deadzone"
+msgstr "30% dode zone"
+
+# | communitytranslateid=14493
+msgid "30 %"
+msgstr "30 %"
+
+# | communitytranslateid=14498
+msgid "20% deadzone"
+msgstr "20% dode zone"
+
+# | communitytranslateid=14494
+msgid "20 %"
+msgstr "20 %"
+
+# | communitytranslateid=14497
+msgid "15% deadzone"
+msgstr "15% dode zone"
+
+# | communitytranslateid=14489
+msgid "15 %"
+msgstr "15 %"
+
+# | communitytranslateid=14491
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# | communitytranslateid=14225
+msgid "12333"
+msgstr "12333"
+
+# | communitytranslateid=14490
+msgid "10% deadzone"
+msgstr "10% dode zone"
+
+# | communitytranslateid=14488
+msgid "10 %"
+msgstr "10 %"
+
+# # | translated from communitytranslateid=19403
+# | communitytranslateid=19826
+msgid "0 % (Total Linear)"
+msgstr "0 % (totaal linear)"
+
+# | communitytranslateid=14496
+msgid "0 % (No deadzone)"
+msgstr "0 % (geen dode zone)"
+
+# | communitytranslateid=13922
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Hoe moet je spelen in Twee spelers:</p><br><ol><li>Klik op de  <b> Update </b> knop om de beschikbare servers te bekijken.</li><li>Klik op een van de onderstreepte servers in de lijst.</li><li>Klik dan op de<b> Opslaan en spelen</b> toets om de sessie te starten.</li></ol>"
+
+# | communitytranslateid=15441
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>De laatste nieuwtjes</h2>Niks op dit moment<h2>Ondersteuning / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (De site zal in de toekomst verbeterd worden...)"
+
+# # | translated from communitytranslateid=19402
+# | communitytranslateid=19824
+msgid "+5% multiplication"
+msgstr "+5% verdubbeling"
+
+# # | translated from communitytranslateid=19401
+# | communitytranslateid=19930
+msgid "+5 %"
+msgstr "+5 %"
+
+# # | translated from communitytranslateid=19392
+# | communitytranslateid=19888
+msgid "+30% multiplication"
+msgstr "+30% verdubbeling"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=19910
+msgid "+30 %"
+msgstr "+30 %"
+
+# # | translated from communitytranslateid=19394
+# | communitytranslateid=19864
+msgid "+25% multiplication"
+msgstr "+25% verdubbeling"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=19941
+msgid "+25 %"
+msgstr "+25 %"
+
+# # | translated from communitytranslateid=19396
+# | communitytranslateid=19868
+msgid "+20% multiplication"
+msgstr "+20% verdubbeling"
+
+# # | translated from communitytranslateid=19395
+# | communitytranslateid=19911
+msgid "+20 %"
+msgstr "+20 %"
+
+# # | translated from communitytranslateid=19398
+# | communitytranslateid=19897
+msgid "+15% multiplication"
+msgstr "+15% verdubbeling"
+
+# # | translated from communitytranslateid=19397
+# | communitytranslateid=19915
+msgid "+15 %"
+msgstr "+15 %"
+
+# # | translated from communitytranslateid=19400
+# | communitytranslateid=19846
+msgid "+10% multiplication"
+msgstr "+10% verdubbeling"
+
+# # | translated from communitytranslateid=19399
+# | communitytranslateid=19839
+msgid "+10 %"
+msgstr "+10 %"
+
+# | communitytranslateid=14437
+msgid "(Please press a key)"
+msgstr "(Druk op een toets)"
+
+# | communitytranslateid=14467
+msgid "(Please press a Joystick Button)"
+msgstr "(Druk op een Joystick Knop)"
+
+# | communitytranslateid=14502
+msgid "(Please move an Axis)\n"
+msgstr "(Beweeg een As)\n"
+
+# # | translated from communitytranslateid=19387
+# | communitytranslateid=19928
+msgid "(Please move a Slider)\n"
+msgstr "(verplaats een schuiver)\n"
+
+# | communitytranslateid=14138
+msgid "(No Languages found)"
+msgstr "(Geen taal gevonden)"
+
+# | communitytranslateid=14543
+msgid "(no author information available)"
+msgstr "(Geen auteur informatie beschikbaar)"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=18858
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "... Laden ... (Misschien is er iets mis met je internet verbinding)"
+
+# # | translated from communitytranslateid=19406
+# | communitytranslateid=19932
+msgid "-5% multiplication"
+msgstr "-5% verdubbeling"
+
+# # | translated from communitytranslateid=19405
+# | communitytranslateid=19936
+msgid "-5 %"
+msgstr "-5 %"
+
+# # | translated from communitytranslateid=19416
+# | communitytranslateid=19889
+msgid "-30% multiplication"
+msgstr "-30% verdubbeling"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=19835
+msgid "-30 %"
+msgstr "-30 %"
+
+# # | translated from communitytranslateid=19414
+# | communitytranslateid=19931
+msgid "-25% multiplication"
+msgstr "-25% verdubbeling"
+
+# # | translated from communitytranslateid=19413
+# | communitytranslateid=19899
+msgid "-25 %"
+msgstr "-25 %"
+
+# # | translated from communitytranslateid=19412
+# | communitytranslateid=19921
+msgid "-20% multiplication"
+msgstr "-20% verdubbeling"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=19876
+msgid "-20 %"
+msgstr "-20 %"
+
+# # | translated from communitytranslateid=19410
+# | communitytranslateid=19832
+msgid "-15% multiplication"
+msgstr "-15% verdubbeling"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=19882
+msgid "-15 %"
+msgstr "-15 %"
+
+# # | translated from communitytranslateid=19408
+# | communitytranslateid=19893
+msgid "-10% multiplication"
+msgstr "-10% verdubbeling"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=19914
+msgid "-10 %"
+msgstr "-10 %"
+
+# | communitytranslateid=14148
+msgid "^8 Player: ^7"
+msgstr "^8 speler: ^7"
+
+# | communitytranslateid=14151
+msgid "^1 usage: /rcmd [command] [optional arguments]"
+msgstr "^1 gebruik: /rcmd [comando] [optioneel argument]"
+
+# | communitytranslateid=14154
+msgid "^1 unkown Command: "
+msgstr "^1 onbekend comando"
+
+# | communitytranslateid=14150
+msgid "^1 ERROR: you must use /rlogin [password] first"
+msgstr "^1 FOUT: je moet eerst /rlogin [wachtwoord] gebruiken"
+
+# | communitytranslateid=14152
+msgid "^1 ERROR: protocol error while trying to send command to RCON: "
+msgstr "^1 FOUT: protocol fout bij het versturen van comando naar RCON:"
+
+# | communitytranslateid=14149
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 fout: protocol fout bij het inloggen in RCON:"
+
+# | communitytranslateid=14153
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 FOUT: niet in netwerk modus"
+
+# | communitytranslateid=14559
+msgid "^1 Error Parsing command"
+msgstr "^1 FOUT: Parsing command"
+
+# | communitytranslateid=15445
+msgid " not existing"
+msgstr "niet bestaand"
+
+# | communitytranslateid=15446
+msgid " changed"
+msgstr "gewijzigd"
+

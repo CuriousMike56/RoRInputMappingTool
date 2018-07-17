@@ -1,0 +1,1540 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: CommunityTranslate.org\n"
+"Language-Team: CommunityTranslate.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+# # | translated from communitytranslateid=17201
+# | communitytranslateid=21872
+msgid "zoom camera out faster"
+msgstr "camara atzera azkar bota"
+
+# # | translated from communitytranslateid=17199
+# | communitytranslateid=21933
+msgid "zoom camera in faster"
+msgstr "Kamara zoom aurrera azkarrago"
+
+# # | translated from communitytranslateid=17198
+# | communitytranslateid=21956
+msgid "zoom camera in"
+msgstr "kamara gerturatu"
+
+# # | translated from communitytranslateid=10758
+# | communitytranslateid=22002
+msgid "Your network name. Maximum 20 Characters."
+msgstr "Zure izena. Gehienez 20 karaktere."
+
+# # | translated from communitytranslateid=10804
+# | communitytranslateid=21779
+msgid "You must save and restart the program to activate the new language!"
+msgstr "Izkuntza berria erabiltzeko programa berriro hasi beharko duzu! (restart)"
+
+# # | translated from communitytranslateid=17141
+# | communitytranslateid=21752
+msgid "You can disable the default creak sound by checking this box"
+msgstr "Soinu batzuk kendu ditzazkezu kasilla hau aktibatuz"
+
+# # | translated from communitytranslateid=17265
+# | communitytranslateid=21912
+msgid "write current position to log (you can open the logfile and reuse the position)"
+msgstr "oraingo posizioa log-ean idatzi"
+
+# # | translated from communitytranslateid=10644
+# | communitytranslateid=21861
+msgid "Wheels: "
+msgstr "Gurpilak:"
+
+# # | translated from communitytranslateid=10727
+# | communitytranslateid=22010
+msgid "Water type:"
+msgstr "Ur mota:"
+
+# # | translated from communitytranslateid=10731
+# | communitytranslateid=21830
+msgid "Water spray"
+msgstr "Ura spray moduan"
+
+# # | translated from communitytranslateid=10728
+# | communitytranslateid=21902
+msgid "Water reflection is slower, and requires a good GPU. In speed optimized mode you may experience excessive camera shaking."
+msgstr "Uretako islada mantsoagoa da, eta CPU on bat behar du."
+
+# # | translated from communitytranslateid=17151
+# | communitytranslateid=21985
+msgid "Warning"
+msgstr "Kontuz"
+
+# # | translated from communitytranslateid=10722
+# | communitytranslateid=22003
+msgid "VSync"
+msgstr "VSync"
+
+# # | translated from communitytranslateid=10743
+# | communitytranslateid=21792
+msgid "Visual effects"
+msgstr "Ikus efektuak"
+
+# # | translated from communitytranslateid=10654
+# | communitytranslateid=21885
+msgid "Vehicle Type: "
+msgstr "Auto mota:"
+
+# # | translated from communitytranslateid=10733
+# | communitytranslateid=21815
+msgid "Vegetation:"
+msgstr "Begetazioa:"
+
+# # | translated from communitytranslateid=10819
+# | communitytranslateid=21721
+msgid "Upper"
+msgstr "Gorago"
+
+# # | translated from communitytranslateid=17149
+# | communitytranslateid=21757
+msgid "Update now"
+msgstr "Orain eguneratu"
+
+# # | translated from communitytranslateid=10655
+# | communitytranslateid=21888
+msgid "unkown encoding problem"
+msgstr "ezezaguna den problema"
+
+# # | translated from communitytranslateid=10778
+# | communitytranslateid=21834
+msgid "Uncheck in case you have a fog problem"
+msgstr "Txuriz utzi nieblarekin problemak izanez gero"
+
+# # | translated from communitytranslateid=10807
+# | communitytranslateid=21873
+msgid "Type"
+msgstr "Mota"
+
+# # | translated from communitytranslateid=17313
+# | communitytranslateid=21856
+msgid "truck horn"
+msgstr "kamioi bozina"
+
+# # | translated from communitytranslateid=10650
+# | communitytranslateid=21907
+msgid "Truck"
+msgstr "Kamioia"
+
+# # | translated from communitytranslateid=10613
+# | communitytranslateid=21981
+msgid "Triangle Count: "
+msgstr "Hiruki kopurua:"
+
+# # | translated from communitytranslateid=19404
+# | communitytranslateid=21726
+msgid "Total Linear"
+msgstr "Guztiz lineala"
+
+# # | translated from communitytranslateid=10646
+# | communitytranslateid=21870
+msgid "tons"
+msgstr "tona"
+
+# # | translated from communitytranslateid=17281
+# | communitytranslateid=21994
+msgid "toggle truck front lights"
+msgstr "piztu\\itzali aurreko argiak"
+
+# # | translated from communitytranslateid=17277
+# | communitytranslateid=22001
+msgid "toggle render mode (solid, wireframe and points)"
+msgstr "intercambiar entre los modos de renderizado (sólido, cables y puntos)"
+
+# # | translated from communitytranslateid=17275
+# | communitytranslateid=21882
+msgid "toggle particle cannon"
+msgstr "partikulen kainoia piztu/itzali"
+
+# # | translated from communitytranslateid=17279
+# | communitytranslateid=21846
+msgid "toggle Ogre statistics (FPS etc.)"
+msgstr "aktibatu/desaktibatu Ogre-ren estadistikak (FPS etb.)"
+
+# # | translated from communitytranslateid=17283
+# | communitytranslateid=21979
+msgid "toggle map modes"
+msgstr "aldatu mapa-moduak"
+
+# # | translated from communitytranslateid=17309
+# | communitytranslateid=21973
+msgid "toggle left direction indicator (blinker)"
+msgstr "ezkerreko intermitentea piztu"
+
+# # | translated from communitytranslateid=17331
+# | communitytranslateid=21869
+msgid "toggle ignition"
+msgstr "motorra piztu/itzali"
+
+# # | translated from communitytranslateid=17323
+# | communitytranslateid=21913
+msgid "toggle custom light 9"
+msgstr "piztu\\itzali 9. argia"
+
+# # | translated from communitytranslateid=17322
+# | communitytranslateid=21751
+msgid "toggle custom light 8"
+msgstr "piztu\\itzali 8. argiak"
+
+# # | translated from communitytranslateid=17320
+# | communitytranslateid=21877
+msgid "toggle custom light 6"
+msgstr "piztu\\itzali 6. argia"
+
+# # | translated from communitytranslateid=17319
+# | communitytranslateid=21821
+msgid "toggle custom light 5"
+msgstr "piztu\\itzali 5. argia"
+
+# # | translated from communitytranslateid=17318
+# | communitytranslateid=21986
+msgid "toggle custom light 4"
+msgstr "piztu\\itzali 4. argia"
+
+# # | translated from communitytranslateid=17316
+# | communitytranslateid=21820
+msgid "toggle custom light 2"
+msgstr "piztu\\itzali 2. argia"
+
+# # | translated from communitytranslateid=17315
+# | communitytranslateid=21794
+msgid "toggle custom light 10"
+msgstr "piztu\\itzali 10. argia"
+
+# # | translated from communitytranslateid=17314
+# | communitytranslateid=21939
+msgid "toggle custom light 1"
+msgstr "piztu\\itzali 1. argia"
+
+# # | translated from communitytranslateid=17334
+# | communitytranslateid=21787
+msgid "toggle between windowed and fullscreen mode"
+msgstr "aldatu lehituta ala pantaila-osoko moduen artean"
+
+# # | translated from communitytranslateid=17352
+# | communitytranslateid=21998
+msgid "toggle between net chat display modes"
+msgstr "chat ezberdinen artean aldatu"
+
+# # | translated from communitytranslateid=17305
+# | communitytranslateid=21739
+msgid "toggle between available road types"
+msgstr "aldatu errepide mota ezberdinen artean"
+
+# # | translated from communitytranslateid=17311
+# | communitytranslateid=21809
+msgid "toggle all direction indicators"
+msgstr "larrialdietako argiak piztu/itzali"
+
+# # | translated from communitytranslateid=17174
+# | communitytranslateid=21758
+msgid "throttle axis. Only use this if you have fitting hardware :) (i.e. a Slider)"
+msgstr "azelerazio ejea. Erabilgarritasuna hardware egokiaren araberakoa da :) (Adb: Slider)"
+
+# # | translated from communitytranslateid=10753
+# | communitytranslateid=21764
+msgid "Thread number:"
+msgstr "Hari kopurua:"
+
+# # | translated from communitytranslateid=10776
+# | communitytranslateid=21806
+msgid "This setting overrides the system's default language. You need to restart the configurator to apply the changes."
+msgstr "Opzio hau asierako hizkuntzaren haurrean preferentzia du. Berriro hasi programa aldaketak aplikatzeko."
+
+# # | translated from communitytranslateid=10737
+# | communitytranslateid=21765
+msgid "This may hurt framerate a bit on old systems, but it looks pretty good."
+msgstr "Ordenagailu zarrenetan eragin handia sortu dezake, baina oso polita da"
+
+# # | translated from communitytranslateid=17147
+# | communitytranslateid=21923
+msgid "This enables the automatic downloading of missing mods when using Multiplayer"
+msgstr "Honek aukera ematen du automatikoki falta diren mod-ak deskargatzeko Online moduan jokatzean"
+
+# # | translated from communitytranslateid=10734
+# | communitytranslateid=21959
+msgid "This determines how much grass and how many trees (and such objects) should get displayed."
+msgstr "Honek adierazten du zenbat belarra eta zuhaitz (eta hainbat objectu) agertu behar diren."
+
+# # | translated from communitytranslateid=17152
+# | communitytranslateid=21740
+msgid "The update service is currently only available for windows users."
+msgstr "Aktualizazio zerbitzua dagoeneko windows erabiltzaileentzako bakarrik dago"
+
+# # | translated from communitytranslateid=10704
+# | communitytranslateid=21884
+msgid "Test"
+msgstr "Testa"
+
+# # | translated from communitytranslateid=10618
+# | communitytranslateid=21895
+msgid "Terrain loading error"
+msgstr "Lurzorua irakurtzean errorea"
+
+# # | translated from communitytranslateid=17303
+# | communitytranslateid=21980
+msgid "switch to road laying mode"
+msgstr "errepideak eraikitzeko modua aldatu"
+
+# # | translated from communitytranslateid=17179
+# | communitytranslateid=22012
+msgid "switch all engines on / off"
+msgstr "motore guztiak piztu/itzali"
+
+# # | translated from communitytranslateid=17202
+# | communitytranslateid=22009
+msgid "step backwards with the character"
+msgstr "pertsonaiak pauso bat ematen du atzerantz"
+
+# # | translated from communitytranslateid=17183
+# | communitytranslateid=21738
+msgid "steer right a step"
+msgstr "eskubira biratu"
+
+# # | translated from communitytranslateid=17184
+# | communitytranslateid=21922
+msgid "steer right (analog value!)"
+msgstr "eskubira biratu (balore analogikoa!)"
+
+# # | translated from communitytranslateid=17181
+# | communitytranslateid=21843
+msgid "steer left a step"
+msgstr "ezkerrera biratu"
+
+# # | translated from communitytranslateid=17182
+# | communitytranslateid=21866
+msgid "steer left (analog value!)"
+msgstr "ezkerrera biratu (balore analogikoa!)"
+
+# # | translated from communitytranslateid=10657
+# | communitytranslateid=22020
+msgid "Startup error"
+msgstr "Asterakoan errorea"
+
+# # | translated from communitytranslateid=15714
+# | communitytranslateid=21808
+msgid "SPECIAL_CHARACTERS"
+msgstr "?¿!"
+
+# # | translated from communitytranslateid=10752
+# | communitytranslateid=21995
+msgid "Sound rendering:"
+msgstr "Soinua:"
+
+# # | translated from communitytranslateid=17157
+# | communitytranslateid=21850
+msgid "Skins"
+msgstr "Azalak (skins)"
+
+# # | translated from communitytranslateid=10696
+# | communitytranslateid=21730
+msgid "Simple Settings"
+msgstr "Konfigurazio estandarra"
+
+# # | translated from communitytranslateid=17209
+# | communitytranslateid=22017
+msgid "sidestep to the right"
+msgstr "pertsonaiak pauso bat eskubirantz"
+
+# # | translated from communitytranslateid=17208
+# | communitytranslateid=21930
+msgid "sidestep to the left"
+msgstr "pertsonaia ezkerrera pauso bat"
+
+# # | translated from communitytranslateid=17332
+# | communitytranslateid=22005
+msgid "show truck tool"
+msgstr "kamioiaren herramientak erakutsi"
+
+# # | translated from communitytranslateid=17258
+# | communitytranslateid=21962
+msgid "show / hide the console"
+msgstr "kontsola erakutsi/ezkutatu"
+
+# # | translated from communitytranslateid=17327
+# | communitytranslateid=21909
+msgid "shift to neutral gear in manual transmission mode"
+msgstr "Martxa neutrala sartu transmisio manualaren moduan"
+
+# # | translated from communitytranslateid=17328
+# | communitytranslateid=21770
+msgid "shift one gear up in manual transmission mode"
+msgstr "martxa bat igo eskuko transmisioa erabiltzerakoan"
+
+# # | translated from communitytranslateid=19433
+# | communitytranslateid=21723
+msgid "shift directly to third gear"
+msgstr "hirugarren martxara zuzenean aldatu"
+
+# # | translated from communitytranslateid=19430
+# | communitytranslateid=21989
+msgid "shift directly to reverse gear"
+msgstr "zuzenean atzerantzko martxa sartu"
+
+# # | translated from communitytranslateid=19437
+# | communitytranslateid=21799
+msgid "shift directly to 7th gear"
+msgstr "7. martxara zuzenean aldatu"
+
+# # | translated from communitytranslateid=19435
+# | communitytranslateid=22021
+msgid "shift directly to 5th gear"
+msgstr "5. martxara zuzenean aldatu"
+
+# # | translated from communitytranslateid=19448
+# | communitytranslateid=21968
+msgid "shift directly to 18th gear"
+msgstr "18. martxara zuzenean aldatu"
+
+# # | translated from communitytranslateid=19447
+# | communitytranslateid=21880
+msgid "shift directly to 17th gear"
+msgstr "17. martxara zuzenean aldatu"
+
+# # | translated from communitytranslateid=19446
+# | communitytranslateid=22013
+msgid "shift directly to 16th gear"
+msgstr "16. martxara zuzenean aldatu"
+
+# # | translated from communitytranslateid=19444
+# | communitytranslateid=21934
+msgid "shift directly to 14th gear"
+msgstr "14. martxara zuzenean aldatu"
+
+# # | translated from communitytranslateid=19443
+# | communitytranslateid=21797
+msgid "shift directly to 13th gear"
+msgstr "13. martxara zuzenean aldatu"
+
+# # | translated from communitytranslateid=17307
+# | communitytranslateid=21965
+msgid "shift automatic transmission one gear down"
+msgstr "transmisio automatikoa martxa bat behera"
+
+# # | translated from communitytranslateid=10726
+# | communitytranslateid=21824
+msgid "Shadow type:"
+msgstr "Itzal mota:"
+
+# # | translated from communitytranslateid=10709
+# | communitytranslateid=21857
+msgid "Sets all settings in a simple way"
+msgstr "Konfigurazio guztiak simple/normal modura aldatu"
+
+# # | translated from communitytranslateid=10762
+# | communitytranslateid=21767
+msgid "Server port number: "
+msgstr "Serbidorearen portuaren zenbakia:"
+
+# # | translated from communitytranslateid=10760
+# | communitytranslateid=22019
+msgid "Server host name: "
+msgstr "Server-aren izena:"
+
+# # | translated from communitytranslateid=17293
+# | communitytranslateid=21805
+msgid "select next element in current category"
+msgstr "hurrengo elementua kategoria honetan hautatu"
+
+# # | translated from communitytranslateid=10640
+# | communitytranslateid=22004
+msgid "Search"
+msgstr "Bilatu"
+
+# # | translated from communitytranslateid=10770
+# | communitytranslateid=21945
+msgid "Screenshot Format:"
+msgstr "Pantalla kapturatzailearen formatoa"
+
+# # | translated from communitytranslateid=10691
+# | communitytranslateid=21936
+msgid "Save and Play"
+msgstr "Gorde eta Jolastu"
+
+# # | translated from communitytranslateid=10693
+# | communitytranslateid=21833
+msgid "Save and Exit"
+msgstr "Gorde eta Atera"
+
+# # | translated from communitytranslateid=17172
+# | communitytranslateid=21804
+msgid "rudder right"
+msgstr "timoia eskubira"
+
+# # | translated from communitytranslateid=17171
+# | communitytranslateid=21795
+msgid "rudder left"
+msgstr "ezkerreko timoia"
+
+# # | translated from communitytranslateid=10716
+# | communitytranslateid=21841
+msgid "RTT Mode:"
+msgstr "RTT modua:"
+
+# # | translated from communitytranslateid=17302
+# | communitytranslateid=22000
+msgid "rotate object right"
+msgstr "objektua eskubirantz biratu"
+
+# # | translated from communitytranslateid=17206
+# | communitytranslateid=21790
+msgid "rotate character right"
+msgstr "karakterea eskubira biratu"
+
+# # | translated from communitytranslateid=17196
+# | communitytranslateid=21802
+msgid "rotate camera right"
+msgstr "camara eskubira biratu"
+
+# # | translated from communitytranslateid=17194
+# | communitytranslateid=21887
+msgid "rotate camera down"
+msgstr "kamara beherantz rotatu"
+
+# # | translated from communitytranslateid=10816
+# | communitytranslateid=21988
+msgid "Reverse"
+msgstr "Alderantziz"
+
+# # | translated from communitytranslateid=17270
+# | communitytranslateid=21896
+msgid "reset truck to original starting position"
+msgstr "kamioia berriro kargatu eta asierako posiziora eraman"
+
+# # | translated from communitytranslateid=10749
+# | communitytranslateid=21747
+msgid "Requires a recent video card. Adds a motion blur effect."
+msgstr "Ordenagailu modernoa eskatzen du. Mugimenduetan efekto borroso bat sortzen du (Motion blur)."
+
+# # | translated from communitytranslateid=10745
+# | communitytranslateid=21969
+msgid "Requires a recent video card. Adds a bluish blinding effect."
+msgstr "Grafiko txartel berria behar du. Zerua oso urdina bihurtzen du."
+
+# # | translated from communitytranslateid=10786
+# | communitytranslateid=21854
+msgid "Replay mode. (Can affect your frame rate)"
+msgstr "Errepikapen modua. (FPS-an eragin dezake)"
+
+# # | translated from communitytranslateid=10785
+# | communitytranslateid=21743
+msgid "Replay Mode"
+msgstr "Errepikapen modua"
+
+# # | translated from communitytranslateid=17139
+# | communitytranslateid=21785
+msgid "Render System"
+msgstr "Render Sistema"
+
+# # | translated from communitytranslateid=10822
+# | communitytranslateid=21775
+msgid "Region"
+msgstr "Regioa (región)"
+
+# # | translated from communitytranslateid=17143
+# | communitytranslateid=21761
+msgid "Regen cache"
+msgstr "'cache'-a erregeneratu"
+
+# # | translated from communitytranslateid=19386
+# | communitytranslateid=21784
+msgid "Please use any mapped input device in order to test."
+msgstr "Arren, konfiguraturiko dispositibo bat erabili froga egiteko."
+
+# # | translated from communitytranslateid=19418
+# | communitytranslateid=21974
+msgid "Please select what type of device to export"
+msgstr "Mesedez aukera ezazu zer mota den exportatzeko"
+
+# # | translated from communitytranslateid=10676
+# | communitytranslateid=22015
+msgid "Please select an input event."
+msgstr "Mesedez aukeratu ebento bat."
+
+# # | translated from communitytranslateid=10635
+# | communitytranslateid=21897
+msgid "Please clear the place first"
+msgstr "Lehenago lekua uztu, arren"
+
+# # | translated from communitytranslateid=17298
+# | communitytranslateid=21793
+msgid "place currently selected object at current position"
+msgstr "aukeratutako objektua oraingo posizioan kokatu"
+
+# # | translated from communitytranslateid=17299
+# | communitytranslateid=21952
+msgid "pitch object backward"
+msgstr "objectua atzerantz bota"
+
+# # | translated from communitytranslateid=10782
+# | communitytranslateid=21997
+msgid "Particles like water cannons or plain trails. Can be over-used in Multiplayer."
+msgstr "Kainoiak bezalako partikulak. Online moduan asko erabili daiteke eta ez da gomendatzen."
+
+# # | translated from communitytranslateid=10735
+# | communitytranslateid=21890
+msgid "Particle systems"
+msgstr "Partikulen sistema"
+
+# # | translated from communitytranslateid=17167
+# | communitytranslateid=21777
+msgid "one step more flaps."
+msgstr "aleroiak gradu bat gehiago."
+
+# # | translated from communitytranslateid=10684
+# | communitytranslateid=21855
+msgid "ok (end test)"
+msgstr "ok (testa bukatu)"
+
+# # | translated from communitytranslateid=10812
+# | communitytranslateid=21791
+msgid "Ogre config error"
+msgstr "Ogre konfigurazioko errorea"
+
+# # | translated from communitytranslateid=10780
+# | communitytranslateid=21768
+msgid "Not much impact on speed."
+msgstr "Errendimenduan ez du eragin handirik eragiten."
+
+# # | translated from communitytranslateid=10622
+# | communitytranslateid=21964
+msgid "normal camera"
+msgstr "kamara normala"
+
+# # | translated from communitytranslateid=17162
+# | communitytranslateid=21903
+msgid "normal brake for an aircraft"
+msgstr "balazta normalak hegazkin batentzako"
+
+# # | translated from communitytranslateid=10649
+# | communitytranslateid=21826
+msgid "Non-Driveable"
+msgstr "Ezin-gidatu"
+
+# # | translated from communitytranslateid=19427
+# | communitytranslateid=21725
+msgid "No differential installed on current vehicle!"
+msgstr "Auto onek ez ditu diferentzialak instalatuta!"
+
+# # | translated from communitytranslateid=10642
+# | communitytranslateid=21741
+msgid "no author information available"
+msgstr "autorearen informaziorik gabe"
+
+# # | translated from communitytranslateid=17345
+# | communitytranslateid=21928
+msgid "no airbrakes"
+msgstr "aireko balaztarik ez"
+
+# # | translated from communitytranslateid=10705
+# | communitytranslateid=21864
+msgid "Network"
+msgstr "Online jokoa"
+
+# # | translated from communitytranslateid=17340
+# | communitytranslateid=21927
+msgid "move right mirror to the right"
+msgstr "eskubiko ispilua eskubirantz mugitu"
+
+# # | translated from communitytranslateid=17338
+# | communitytranslateid=21920
+msgid "move left mirror to the right"
+msgstr "ezkerreko ispilua eskubira mugitu"
+
+# # | translated from communitytranslateid=17337
+# | communitytranslateid=21774
+msgid "move left mirror to the left"
+msgstr "ezkerreko ispilua ezkerrera mugitu"
+
+# # | translated from communitytranslateid=17355
+# | communitytranslateid=21982
+msgid "move character up"
+msgstr "karakterea gorantz mugitu"
+
+# # | translated from communitytranslateid=17356
+# | communitytranslateid=21817
+msgid "move character down"
+msgstr "karakterea berantz mugitu"
+
+# # | translated from communitytranslateid=10838
+# | communitytranslateid=21835
+msgid "mousecfg.bmp"
+msgstr "mousecfg.bmp"
+
+# # | translated from communitytranslateid=10748
+# | communitytranslateid=21782
+msgid "Motion blur"
+msgstr "Mugimenduan borrosoa"
+
+# # | translated from communitytranslateid=17339
+# | communitytranslateid=22018
+msgid "more right mirror to the left"
+msgstr "eskuineko ispilua ezkerrerantz mugitu"
+
+# # | translated from communitytranslateid=17341
+# | communitytranslateid=21837
+msgid "more replay forward"
+msgstr "aurreratu Replay moduan"
+
+# # | translated from communitytranslateid=17342
+# | communitytranslateid=21773
+msgid "more replay backward"
+msgstr "Replay atzerantz mugitu"
+
+# # | translated from communitytranslateid=17348
+# | communitytranslateid=21848
+msgid "more airbrakes"
+msgstr "aire-freno gehiago"
+
+# # | translated from communitytranslateid=19425
+# | communitytranslateid=22011
+msgid "Mid range selected"
+msgstr "4x4 ertaina"
+
+# # | translated from communitytranslateid=10671
+# | communitytranslateid=21921
+msgid "max Speed:"
+msgstr "Abiadura max:"
+
+# # | translated from communitytranslateid=15261
+# | communitytranslateid=21724
+msgid "loading...\n"
+msgstr "irakurtzen...\n"
+
+# # | translated from communitytranslateid=15262
+# | communitytranslateid=21798
+msgid "Loading zips in group "
+msgstr "Pentsatzen... zips taldeetan"
+
+# # | translated from communitytranslateid=17154
+# | communitytranslateid=21807
+msgid "loading new directory: "
+msgstr "direktorio berria irakurtzen:"
+
+# # | translated from communitytranslateid=10638
+# | communitytranslateid=21858
+msgid "Loader"
+msgstr "Kargadorea"
+
+# # | translated from communitytranslateid=10639
+# | communitytranslateid=21908
+msgid "List"
+msgstr "Zerrenda"
+
+# # | translated from communitytranslateid=10772
+# | communitytranslateid=21983
+msgid "Light source effects:"
+msgstr "Argien asierako puntuaren efektuak:"
+
+# # | translated from communitytranslateid=17207
+# | communitytranslateid=21839
+msgid "let the character run"
+msgstr "pertsonaiak korri egiten du"
+
+# # | translated from communitytranslateid=17204
+# | communitytranslateid=21748
+msgid "let the character jump"
+msgstr "pertsonak salto egiten du"
+
+# # | translated from communitytranslateid=10839
+# | communitytranslateid=21892
+msgid "keyboardcfg.bmp"
+msgstr "keyboardcfg.bmp"
+
+# # | translated from communitytranslateid=15259
+# | communitytranslateid=21816
+msgid "incremental check: new files\n"
+msgstr "txekeo gehigarria: fitxero berriak\n"
+
+# # | translated from communitytranslateid=15258
+# | communitytranslateid=22006
+msgid "incremental check: new content\n"
+msgstr "txekeo gehigarria: objectu berriak\n"
+
+# # | translated from communitytranslateid=15260
+# | communitytranslateid=21955
+msgid "incremental check: duplicates\n"
+msgstr "txekeo gehigarria: errepikatuak\n"
+
+# # | translated from communitytranslateid=15254
+# | communitytranslateid=21831
+msgid "incremental check: deleted and changed files\n"
+msgstr "txekeo gehigarria: ezabatutako eta aldatutako fitxeroak\n"
+
+# # | translated from communitytranslateid=17267
+# | communitytranslateid=21867
+msgid "increase tire pressure (note: only very few trucks support this)"
+msgstr "gurpilen presioa handitu (oharra: oso kamioi gutxik egin dezakete)"
+
+# # | translated from communitytranslateid=17186
+# | communitytranslateid=21829
+msgid "increase throttle"
+msgstr "azelerazioa gehitu"
+
+# # | translated from communitytranslateid=17189
+# | communitytranslateid=21960
+msgid "increase day-time"
+msgstr "egun-ordua gehitu"
+
+# # | translated from communitytranslateid=17329
+# | communitytranslateid=21992
+msgid "hold to start the engine"
+msgstr "zapalduta eutsi motorra pizteko"
+
+# # | translated from communitytranslateid=10750
+# | communitytranslateid=22022
+msgid "High quality reflective effects"
+msgstr "Kalitate handiko isladen efektua"
+
+# # | translated from communitytranslateid=10803
+# | communitytranslateid=21842
+msgid "here you can get help"
+msgstr "hemen laguntza lortu dezakezu"
+
+# # | translated from communitytranslateid=10738
+# | communitytranslateid=21840
+msgid "HeatHaze"
+msgstr "Ke beroa"
+
+# # | translated from communitytranslateid=10697
+# | communitytranslateid=22016
+msgid "Graphics"
+msgstr "Grafikoak"
+
+# # | translated from communitytranslateid=17176
+# | communitytranslateid=21811
+msgid "full thrust"
+msgstr "potentzia maximoa"
+
+# # | translated from communitytranslateid=10721
+# | communitytranslateid=21987
+msgid "Full screen mode uses a bit less memory resources"
+msgstr "Pantaila osoko moduan ordenagailuak memoria gutsiago erabiltzen du"
+
+# # | translated from communitytranslateid=10720
+# | communitytranslateid=21838
+msgid "Full screen"
+msgstr "Pantaila-osoa"
+
+# # | translated from communitytranslateid=10820
+# | communitytranslateid=21961
+msgid "Full"
+msgstr "Guztia/dena"
+
+# # | translated from communitytranslateid=10621
+# | communitytranslateid=21996
+msgid "free camera"
+msgstr "Kamara librea"
+
+# # | translated from communitytranslateid=17156
+# | communitytranslateid=21735
+msgid "FOV: "
+msgstr "Ikusten den zona:"
+
+# # | translated from communitytranslateid=10777
+# | communitytranslateid=21935
+msgid "Fog"
+msgstr "Niebla"
+
+# # | translated from communitytranslateid=17335
+# | communitytranslateid=21916
+msgid "fix the camera to a position"
+msgstr "Eraman kamara posiziora"
+
+# # | translated from communitytranslateid=19419
+# | communitytranslateid=21966
+msgid "Export selection"
+msgstr "Aukeratutakoa exportatu"
+
+# # | translated from communitytranslateid=10703
+# | communitytranslateid=21717
+msgid "Export Keymap"
+msgstr "Teklen konfigurazioa exportatu"
+
+# # | translated from communitytranslateid=17288
+# | communitytranslateid=21938
+msgid "EXPERIMENTAL: set maximum amount of grass"
+msgstr "EXPERIMENTALA: belarra maximoa"
+
+# # | translated from communitytranslateid=17290
+# | communitytranslateid=21786
+msgid "EXPERIMENTAL: save changes to the grass density image"
+msgstr "EXPERIMENTALA: aldaketak gorde belarraren densitatearen marrazkian"
+
+# # | translated from communitytranslateid=17286
+# | communitytranslateid=21971
+msgid "EXPERIMENTAL: remove some grass"
+msgstr "EXPERIMENTALA: zenbait belarra ezabatzen du"
+
+# # | translated from communitytranslateid=17289
+# | communitytranslateid=21958
+msgid "EXPERIMENTAL: remove grass completely"
+msgstr "EXPERIMENTALA: belar guztia ezabatu"
+
+# # | translated from communitytranslateid=17287
+# | communitytranslateid=21906
+msgid "EXPERIMENTAL: add some grass"
+msgstr "EXPERIMENTALA: hainbat belarra gehitu"
+
+# # | translated from communitytranslateid=17268
+# | communitytranslateid=21814
+msgid "exit the game"
+msgstr "simuladoretik atera"
+
+# # | translated from communitytranslateid=10683
+# | communitytranslateid=21849
+msgid "Event Value (left = 0%, right = 100%)"
+msgstr "Ebentoaren balorea (ezkerra = 0%, eskubia = 100%)"
+
+# # | translated from communitytranslateid=10674
+# | communitytranslateid=21722
+msgid "Event Name: "
+msgstr "Ebentoaren izena:"
+
+# # | translated from communitytranslateid=10682
+# | communitytranslateid=21720
+msgid "Event Name"
+msgstr "Ebentoaren izena"
+
+# # | translated from communitytranslateid=17260
+# | communitytranslateid=21871
+msgid "enter the chat"
+msgstr "chatera sartu"
+
+# # | translated from communitytranslateid=10779
+# | communitytranslateid=21942
+msgid "Engine smoke"
+msgstr "Motor kea"
+
+# # | translated from communitytranslateid=10797
+# | communitytranslateid=21803
+msgid "Enable XFire Extension"
+msgstr "XFire extensioa piztu"
+
+# # | translated from communitytranslateid=10729
+# | communitytranslateid=21825
+msgid "Enable waves"
+msgstr "Olatuak aktibatu"
+
+# # | translated from communitytranslateid=17278
+# | communitytranslateid=21944
+msgid "enable of disable replay mode"
+msgstr "piztu/itzali errepikapen modua"
+
+# # | translated from communitytranslateid=10751
+# | communitytranslateid=21737
+msgid "Enable high quality reflective effects. Causes a slowdown."
+msgstr "Irudien kalitate handiko isladapena aktibatzen du. Errendimendua mantxotzen du."
+
+# # | translated from communitytranslateid=10754
+# | communitytranslateid=21891
+msgid "Enable advanced wheel model"
+msgstr "Aktibatu gurpil aurreratuen modua"
+
+# # | translated from communitytranslateid=10800
+# | communitytranslateid=21847
+msgid "Displays node numbers and more info along nodes and beams."
+msgstr "Nodo bakoitzaren zenbakia adierazten da eta autoaren nodoetan zenbait informazio gehigarria."
+
+# # | translated from communitytranslateid=10795
+# | communitytranslateid=21753
+msgid "Disable Camera Pitching"
+msgstr "Kamara puntua desaktibatu\\kendu"
+
+# # | translated from communitytranslateid=10663
+# | communitytranslateid=21972
+msgid "destruction: "
+msgstr "destrukzioa:"
+
+# # | translated from communitytranslateid=17350
+# | communitytranslateid=21771
+msgid "delete current truck"
+msgstr "oraingo autoa ezabatu"
+
+# # | translated from communitytranslateid=10664
+# | communitytranslateid=21947
+msgid "deformed: "
+msgstr "deformatuta:"
+
+# # | translated from communitytranslateid=17284
+# | communitytranslateid=21978
+msgid "decreases the current FOV value"
+msgstr "oraingo niebla kopurua jaitsi"
+
+# # | translated from communitytranslateid=17266
+# | communitytranslateid=21800
+msgid "decrease tire pressure (note: only very few trucks support this)"
+msgstr "gurpilen presioa handitu (hau oso auto gutxik erabili dezakete)"
+
+# # | translated from communitytranslateid=17185
+# | communitytranslateid=21746
+msgid "decrease throttle"
+msgstr "azelerazioa mantxotu"
+
+# # | translated from communitytranslateid=17187
+# | communitytranslateid=21919
+msgid "decrease day-time"
+msgstr "egun-ordua jaitsi"
+
+# # | translated from communitytranslateid=10787
+# | communitytranslateid=21772
+msgid "Debug Truck Mass"
+msgstr "Autoaren Pisua eta Masa"
+
+# # | translated from communitytranslateid=17276
+# | communitytranslateid=21862
+msgid "debug purpose - dont use"
+msgstr "depuratzeko - EZ ERABILI"
+
+# # | translated from communitytranslateid=10842
+# | communitytranslateid=21950
+msgid "data\\\\config.bmp"
+msgstr "data\\\\config.bmp"
+
+# # | translated from communitytranslateid=10840
+# | communitytranslateid=21769
+msgid "data\\\\"
+msgstr "data\\\\"
+
+# # | translated from communitytranslateid=10843
+# | communitytranslateid=21832
+msgid "data/config.bmp"
+msgstr "data/config.bmp"
+
+# # | translated from communitytranslateid=10841
+# | communitytranslateid=21954
+msgid "data/"
+msgstr "data/"
+
+# # | translated from communitytranslateid=19452
+# | communitytranslateid=21750
+msgid "Cycle between available differental models"
+msgstr "Diferentzial ezberdinen artean aldatu"
+
+# # | translated from communitytranslateid=10670
+# | communitytranslateid=21925
+msgid "current Speed:"
+msgstr "oraino Abiadura:"
+
+# # | translated from communitytranslateid=10669
+# | communitytranslateid=21948
+msgid "current RPM:"
+msgstr "oraingo RPM:"
+
+# # | translated from communitytranslateid=10668
+# | communitytranslateid=21818
+msgid "current mass:"
+msgstr "oraingo masa:"
+
+# # | translated from communitytranslateid=10609
+# | communitytranslateid=21763
+msgid "Current FPS: "
+msgstr "Oraingo FPS:"
+
+# # | translated from communitytranslateid=10708
+# | communitytranslateid=21953
+msgid "CPU Settings"
+msgstr "CPU Opzioak"
+
+# # | translated from communitytranslateid=10699
+# | communitytranslateid=21729
+msgid "CPU"
+msgstr "CPU"
+
+# # | translated from communitytranslateid=10811
+# | communitytranslateid=21851
+msgid "Could not open Rendering device"
+msgstr "Ezin liteke Errenderizazio dispositiboa ireki"
+
+# # | translated from communitytranslateid=10700
+# | communitytranslateid=21915
+msgid "Controls"
+msgstr "Kontrolak"
+
+# # | translated from communitytranslateid=17263
+# | communitytranslateid=21745
+msgid "connect hook node to a node in close proximity"
+msgstr "nodea gertu dagoen beste batekin lotu"
+
+# # | translated from communitytranslateid=10814
+# | communitytranslateid=21910
+msgid "Configure error"
+msgstr "Konfigurazioan errorea"
+
+# # | translated from communitytranslateid=10707
+# | communitytranslateid=21749
+msgid "Community / Support"
+msgstr "Komunitatea \\ Soporte teknikoa"
+
+# # | translated from communitytranslateid=17218
+# | communitytranslateid=21929
+msgid "Command 9"
+msgstr "9 komandoa"
+
+# # | translated from communitytranslateid=17217
+# | communitytranslateid=21905
+msgid "Command 8"
+msgstr "8 komandoa"
+
+# # | translated from communitytranslateid=17215
+# | communitytranslateid=21886
+msgid "Command 6"
+msgstr "6 komandoa"
+
+# # | translated from communitytranslateid=17257
+# | communitytranslateid=21878
+msgid "Command 48"
+msgstr "48 komandoa"
+
+# # | translated from communitytranslateid=17256
+# | communitytranslateid=21881
+msgid "Command 47"
+msgstr "47 komandoa"
+
+# # | translated from communitytranslateid=17255
+# | communitytranslateid=21788
+msgid "Command 46"
+msgstr "46 komandoa"
+
+# # | translated from communitytranslateid=17253
+# | communitytranslateid=21914
+msgid "Command 44"
+msgstr "44 komandoa"
+
+# # | translated from communitytranslateid=17251
+# | communitytranslateid=21941
+msgid "Command 42"
+msgstr "42 komandoa"
+
+# # | translated from communitytranslateid=17249
+# | communitytranslateid=21812
+msgid "Command 40"
+msgstr "40 komandoa"
+
+# # | translated from communitytranslateid=17213
+# | communitytranslateid=21780
+msgid "Command 4"
+msgstr "4 komandoa"
+
+# # | translated from communitytranslateid=17248
+# | communitytranslateid=21727
+msgid "Command 39"
+msgstr "39 komandoa"
+
+# # | translated from communitytranslateid=17244
+# | communitytranslateid=21836
+msgid "Command 35"
+msgstr "35 komandoa"
+
+# # | translated from communitytranslateid=17243
+# | communitytranslateid=21845
+msgid "Command 34"
+msgstr "34 komandoa"
+
+# # | translated from communitytranslateid=17242
+# | communitytranslateid=21718
+msgid "Command 33"
+msgstr "33 komandoa"
+
+# # | translated from communitytranslateid=17239
+# | communitytranslateid=21932
+msgid "Command 30"
+msgstr "30 komandoa"
+
+# # | translated from communitytranslateid=17238
+# | communitytranslateid=22008
+msgid "Command 29"
+msgstr "29 komandoa"
+
+# # | translated from communitytranslateid=17237
+# | communitytranslateid=21975
+msgid "Command 28"
+msgstr "28 komandoa"
+
+# # | translated from communitytranslateid=17236
+# | communitytranslateid=21984
+msgid "Command 27"
+msgstr "27 komandoa"
+
+# # | translated from communitytranslateid=17235
+# | communitytranslateid=21937
+msgid "Command 26"
+msgstr "26 komandoa"
+
+# # | translated from communitytranslateid=17233
+# | communitytranslateid=21911
+msgid "Command 24"
+msgstr "14 komandoa"
+
+# # | translated from communitytranslateid=17232
+# | communitytranslateid=21926
+msgid "Command 23"
+msgstr "23 komandoa"
+
+# # | translated from communitytranslateid=17231
+# | communitytranslateid=21860
+msgid "Command 22"
+msgstr "22 komandoa"
+
+# # | translated from communitytranslateid=17230
+# | communitytranslateid=21759
+msgid "Command 21"
+msgstr "21 komandoa"
+
+# # | translated from communitytranslateid=17211
+# | communitytranslateid=21999
+msgid "Command 2"
+msgstr "2 komandoa"
+
+# # | translated from communitytranslateid=17228
+# | communitytranslateid=21868
+msgid "Command 19"
+msgstr "19 komandoa"
+
+# # | translated from communitytranslateid=17227
+# | communitytranslateid=21736
+msgid "Command 18"
+msgstr "18 komandoa"
+
+# # | translated from communitytranslateid=17226
+# | communitytranslateid=21744
+msgid "Command 17"
+msgstr "17 komandoa"
+
+# # | translated from communitytranslateid=17225
+# | communitytranslateid=21946
+msgid "Command 16"
+msgstr "16 komandoa"
+
+# # | translated from communitytranslateid=17223
+# | communitytranslateid=21894
+msgid "Command 14"
+msgstr "14 komandoa"
+
+# # | translated from communitytranslateid=17222
+# | communitytranslateid=21719
+msgid "Command 13"
+msgstr "13 komandoa"
+
+# # | translated from communitytranslateid=17221
+# | communitytranslateid=21822
+msgid "Command 12"
+msgstr "12 komandoa"
+
+# # | translated from communitytranslateid=17220
+# | communitytranslateid=21789
+msgid "Command 11"
+msgstr "11 komandoa"
+
+# # | translated from communitytranslateid=17219
+# | communitytranslateid=21776
+msgid "Command 10"
+msgstr "10 komandoa"
+
+# # | translated from communitytranslateid=17142
+# | communitytranslateid=21918
+msgid "Click on blue hyperlinks to select a server."
+msgstr "Hiperbinkulo urdinetan klik egin server-ak autatzeko."
+
+# # | translated from communitytranslateid=10773
+# | communitytranslateid=21853
+msgid "Clear cache"
+msgstr "Caché garbitu"
+
+# # | translated from communitytranslateid=17150
+# | communitytranslateid=21827
+msgid "Choose a file"
+msgstr "Fitxategi bat aukeratu"
+
+# # | translated from communitytranslateid=15265
+# | communitytranslateid=21781
+msgid "checking for new directories in "
+msgstr "Karpetak txekeatzen gauza berrien bila:"
+
+# # | translated from communitytranslateid=17180
+# | communitytranslateid=21852
+msgid "center the rudder"
+msgstr "timoia zentratu"
+
+# # | translated from communitytranslateid=10637
+# | communitytranslateid=21754
+msgid "Cancel"
+msgstr "Kantzelatu"
+
+# # | translated from communitytranslateid=10661
+# | communitytranslateid=21732
+msgid "broken: "
+msgstr "puskatuta:"
+
+# # | translated from communitytranslateid=17312
+# | communitytranslateid=22007
+msgid "brake"
+msgstr "balazta"
+
+# # | translated from communitytranslateid=10652
+# | communitytranslateid=21931
+msgid "Boat"
+msgstr "Itsasontzia"
+
+# # | translated from communitytranslateid=10660
+# | communitytranslateid=21977
+msgid "beam count: "
+msgstr "biga kantitatea:"
+
+# # | translated from communitytranslateid=10711
+# | communitytranslateid=21844
+msgid "Balanced"
+msgstr "Balanceada"
+
+# # | translated from communitytranslateid=10614
+# | communitytranslateid=21899
+msgid "Bad server port"
+msgstr "Server-eko portu txarra"
+
+# # | translated from communitytranslateid=10643
+# | communitytranslateid=21951
+msgid "Authors: "
+msgstr "Autoreak:"
+
+# # | translated from communitytranslateid=17159
+# | communitytranslateid=21762
+msgid "Author: "
+msgstr "Autorea:"
+
+# # | translated from communitytranslateid=10718
+# | communitytranslateid=21900
+msgid "Anti-aliasing:"
+msgstr "Anti-aliasing:"
+
+# # | translated from communitytranslateid=10757
+# | communitytranslateid=21917
+msgid "Anonymous"
+msgstr "Ezezaguna"
+
+# # | translated from communitytranslateid=10672
+# | communitytranslateid=21957
+msgid "Altitude:"
+msgstr "Altitudea:"
+
+# # | translated from communitytranslateid=17349
+# | communitytranslateid=21828
+msgid "airplane throttle"
+msgstr "hegazkinaren azelerazioa"
+
+# # | translated from communitytranslateid=10679
+# | communitytranslateid=21813
+msgid "Add the key"
+msgstr "Tekla gehitu"
+
+# # | translated from communitytranslateid=10678
+# | communitytranslateid=21943
+msgid "Add"
+msgstr "Gehitu"
+
+# # | translated from communitytranslateid=10615
+# | communitytranslateid=21874
+msgid "A network error occured"
+msgstr "Interneteko errore bat gertatu da"
+
+# # | translated from communitytranslateid=10826
+# | communitytranslateid=21742
+msgid "5 %"
+msgstr "5 %"
+
+# # | translated from communitytranslateid=10834
+# | communitytranslateid=21796
+msgid "30 %"
+msgstr "30 %"
+
+# # | translated from communitytranslateid=10832
+# | communitytranslateid=21904
+msgid "20 %"
+msgstr "20 %"
+
+# # | translated from communitytranslateid=10831
+# | communitytranslateid=21756
+msgid "15% deadzone"
+msgstr "15% zona ilda"
+
+# # | translated from communitytranslateid=10830
+# | communitytranslateid=21783
+msgid "15 %"
+msgstr "15 %"
+
+# # | translated from communitytranslateid=10761
+# | communitytranslateid=21949
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+# # | translated from communitytranslateid=19403
+# | communitytranslateid=21859
+msgid "0 % (Total Linear)"
+msgstr "0 % (guztiz lineala)"
+
+# # | translated from communitytranslateid=10759
+# | communitytranslateid=21865
+msgid "<p>How to play in Multiplayer:</p><br><ol><li>Click on the <b>Update</b> button to see available servers here.</li><li>Click on any underlined Server in the list.</li><li>Click on <b>Save and Play</b> button to start the game.</li></ol>"
+msgstr "<p>Nola jokatu Online moduan:</p><br><ol><li>Sakatu <b>Eguneratu</b> erabili daiteken serbidoreak ikusteko.</li><li>Azpimarratutako edozein serbidorea aukeratu.</li><li>Sakatu <b>Gorde eta Jolastu</b> jokatzen asteko!</li></ol>"
+
+# # | translated from communitytranslateid=15252
+# | communitytranslateid=21819
+msgid "<h2>Latest News</h2>None atm<h2>Support / Community</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (this site is to be enhanced...)"
+msgstr "<h2>Notizia Berriak</h2>Berririk ez<h2>Soportea / Comunitatea</h2><a href='http://wiki.rigsofrods.com/index.php?title=Tutorials'>tutorials</a><p/> (leku honek hobekuntzak behar ditu...)"
+
+# # | translated from communitytranslateid=19401
+# | communitytranslateid=21863
+msgid "+5 %"
+msgstr "+5 %"
+
+# # | translated from communitytranslateid=19392
+# | communitytranslateid=21728
+msgid "+30% multiplication"
+msgstr "+30% biderkatzailea"
+
+# # | translated from communitytranslateid=19391
+# | communitytranslateid=21924
+msgid "+30 %"
+msgstr "+30 %"
+
+# # | translated from communitytranslateid=19394
+# | communitytranslateid=21940
+msgid "+25% multiplication"
+msgstr "+25% biderkatzailea"
+
+# # | translated from communitytranslateid=19393
+# | communitytranslateid=21991
+msgid "+25 %"
+msgstr "+25 %"
+
+# # | translated from communitytranslateid=19395
+# | communitytranslateid=21901
+msgid "+20 %"
+msgstr "+20 %"
+
+# # | translated from communitytranslateid=19398
+# | communitytranslateid=21875
+msgid "+15% multiplication"
+msgstr "+15% biderkatzailea"
+
+# # | translated from communitytranslateid=19397
+# | communitytranslateid=21801
+msgid "+15 %"
+msgstr "+15 %"
+
+# # | translated from communitytranslateid=19400
+# | communitytranslateid=21970
+msgid "+10% multiplication"
+msgstr "+10 % biderkatzailea"
+
+# # | translated from communitytranslateid=19399
+# | communitytranslateid=21876
+msgid "+10 %"
+msgstr "+10 %"
+
+# # | translated from communitytranslateid=10685
+# | communitytranslateid=21731
+msgid "(Please press a key)"
+msgstr "(Mesedez tekla bat sakatu)"
+
+# # | translated from communitytranslateid=10686
+# | communitytranslateid=21990
+msgid "(Please press a Joystick Button)"
+msgstr "(Mesedez Joystick-eko botoi bat sakatu)"
+
+# # | translated from communitytranslateid=19387
+# | communitytranslateid=21993
+msgid "(Please move a Slider)\n"
+msgstr "(Mesedez desplazatzeko barra mugiarazi)\n"
+
+# # | translated from communitytranslateid=10775
+# | communitytranslateid=22014
+msgid "(No Languages found)"
+msgstr "(Ez dira Hizkuntzarik aurkitu)"
+
+# # | translated from communitytranslateid=10659
+# | communitytranslateid=21967
+msgid "(no author information available)"
+msgstr "(ez dago autorearen informaziorik)"
+
+# # | translated from communitytranslateid=17148
+# | communitytranslateid=21823
+msgid "... loading ... (maybe you should check your internet connection)"
+msgstr "... irakurtzen ... (agian internet konexioa begiratu beharko zenuke)"
+
+# # | translated from communitytranslateid=19406
+# | communitytranslateid=21810
+msgid "-5% multiplication"
+msgstr "-5% biderkatzailea"
+
+# # | translated from communitytranslateid=19405
+# | communitytranslateid=21879
+msgid "-5 %"
+msgstr "-5 %"
+
+# # | translated from communitytranslateid=19416
+# | communitytranslateid=21766
+msgid "-30% multiplication"
+msgstr "-30% biderkatzailea"
+
+# # | translated from communitytranslateid=19415
+# | communitytranslateid=21963
+msgid "-30 %"
+msgstr "-30 %"
+
+# # | translated from communitytranslateid=19413
+# | communitytranslateid=21893
+msgid "-25 %"
+msgstr "-25 %"
+
+# # | translated from communitytranslateid=19412
+# | communitytranslateid=21734
+msgid "-20% multiplication"
+msgstr "-20% biderkatzailea"
+
+# # | translated from communitytranslateid=19411
+# | communitytranslateid=21778
+msgid "-20 %"
+msgstr "-20 %"
+
+# # | translated from communitytranslateid=19409
+# | communitytranslateid=21889
+msgid "-15 %"
+msgstr "-15 %"
+
+# # | translated from communitytranslateid=19407
+# | communitytranslateid=21883
+msgid "-10 %"
+msgstr "-10 %"
+
+# # | translated from communitytranslateid=10627
+# | communitytranslateid=21760
+msgid "^8 Player: ^7"
+msgstr "^8 Jugadorea: ^7"
+
+# # | translated from communitytranslateid=10633
+# | communitytranslateid=21898
+msgid "^1 unkown Command: "
+msgstr "^1 komando ezezaguna:"
+
+# # | translated from communitytranslateid=10628
+# | communitytranslateid=21733
+msgid "^1 ERROR: protocol error while trying to log into RCON: "
+msgstr "^1 ERROREA: protokoloaren errorea RCON-ko autentifikazioa frogatzean"
+
+# # | translated from communitytranslateid=10632
+# | communitytranslateid=21755
+msgid "^1 ERROR: not in network mode"
+msgstr "^1 ERROREA: ez zaude online moduan"
+
+# # | translated from communitytranslateid=15256
+# | communitytranslateid=21976
+msgid " changed"
+msgstr "aldatuta"
+
