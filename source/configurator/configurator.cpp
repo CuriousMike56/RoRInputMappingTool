@@ -1371,7 +1371,7 @@ bool MyApp::OnInit()
 
 	wxLogStatus(wxT("Creating dialog"));
 	// create the main application window
-	MyDialog *dialog = new MyDialog(_("Rigs of Rods Input Mapping Tool version 0.2"), this);
+	MyDialog *dialog = new MyDialog(_("Rigs of Rods Input Mapping Tool"), this);
 
 	// and show it (the frames, unlike simple controls, are not shown when
 	// created initially)
