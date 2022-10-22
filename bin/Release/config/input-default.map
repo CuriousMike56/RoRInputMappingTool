@@ -1,3 +1,7 @@
+; Rigs of Rods keyboard input configuration file
+; DO NOT ADD OTHER DEVICE INPUTS IN THIS FILE! Create a separate `.map` file instead.
+; See https://docs.rigsofrods.org/gameplay/controls-config/#exporting-the-keymap for more info.
+; -------------------------------
 
 ; AIRPLANE
 AIRPLANE_AIRBRAKES_FULL        Keyboard             CTRL+4 
@@ -166,7 +170,8 @@ COMMON_ENTER_PREVIOUS_TRUCK    Keyboard             EXPL+CTRL+LBRACKET
 COMMON_REMOVE_CURRENT_TRUCK    Keyboard             EXPL+CTRL+DELETE 
 COMMON_RESPAWN_LAST_TRUCK      Keyboard             EXPL+CTRL+PERIOD 
 COMMON_FULLSCREEN_TOGGLE       Keyboard             EXPL+ALT+RETURN 
-COMMON_HIDE_GUI                Keyboard             U 
+COMMON_HIDE_GUI                Keyboard             EXPL+U 
+COMMON_TOGGLE_DASHBOARD        Keyboard             EXPL+CTRL+U 
 COMMON_LOCK                    Keyboard             EXPL+L 
 COMMON_AUTOLOCK                Keyboard             EXPL+ALT+L 
 COMMON_ROPELOCK                Keyboard             EXPL+CTRL+L 
@@ -174,6 +179,8 @@ COMMON_OUTPUT_POSITION         Keyboard             H
 COMMON_GET_NEW_VEHICLE         Keyboard             EXPL+CTRL+G 
 COMMON_PRESSURE_LESS           Keyboard             LBRACKET 
 COMMON_PRESSURE_MORE           Keyboard             RBRACKET 
+COMMON_QUICKLOAD               Keyboard             MULTIPLY 
+COMMON_QUICKSAVE               Keyboard             DIVIDE 
 COMMON_QUIT_GAME               Keyboard             ESCAPE 
 COMMON_REPLAY_BACKWARD         Keyboard             EXPL+LEFT 
 COMMON_REPLAY_FAST_BACKWARD    Keyboard             EXPL+SHIFT+LEFT 
@@ -181,14 +188,17 @@ COMMON_REPLAY_FAST_FORWARD     Keyboard             EXPL+SHIFT+RIGHT
 COMMON_REPLAY_FORWARD          Keyboard             EXPL+RIGHT 
 COMMON_RESCUE_TRUCK            Keyboard             EXPL+R 
 COMMON_RESET_TRUCK             Keyboard             EXPL+I 
+COMMON_TOGGLE_RESET_MODE       Keyboard             EXPL+APOSTROPHE 
 COMMON_SCREENSHOT              Keyboard             SYSRQ 
 COMMON_SECURE_LOAD             Keyboard             O 
-COMMON_SHOW_SKELETON           Keyboard             K 
+COMMON_TOGGLE_DEBUG_VIEW       Keyboard             EXPL+K 
+COMMON_CYCLE_DEBUG_VIEWS       Keyboard             EXPL+CTRL+K 
 COMMON_TOGGLE_TERRAIN_EDITOR   Keyboard             EXPL+CTRL+Y 
 COMMON_TOGGLE_CUSTOM_PARTICLES Keyboard             G 
-COMMON_TOGGLE_MAT_DEBUG        Keyboard             EXPL+CTRL+SHIFT+F 
-COMMON_TOGGLE_RENDER_MODE      Keyboard             E 
-COMMON_TOGGLE_REPLAY_MODE      Keyboard             J 
+COMMON_TOGGLE_MAT_DEBUG        Keyboard             EXPL+CTRL+SHIFT+ALT+F 
+COMMON_TOGGLE_RENDER_MODE      None
+COMMON_TOGGLE_REPLAY_MODE      Keyboard             CTRL+J 
+COMMON_TOGGLE_PHYSICS          Keyboard             EXPL+J 
 COMMON_TOGGLE_STATS            Keyboard             EXPL+F 
 COMMON_TOGGLE_TRUCK_BEACONS    Keyboard             M 
 COMMON_TOGGLE_TRUCK_LIGHTS     Keyboard             N 
@@ -196,6 +206,7 @@ COMMON_TRUCK_INFO              Keyboard             EXPL+T
 COMMON_TRUCK_DESCRIPTION       Keyboard             EXPL+CTRL+T 
 COMMON_FOV_LESS                Keyboard             EXPL+NUMPAD7 
 COMMON_FOV_MORE                Keyboard             EXPL+CTRL+NUMPAD7
+COMMON_FOV_RESET               Keyboard             EXPL+SHIFT+NUMPAD7
 
 ; GRASS
 GRASS_LESS                     Keyboard             6 
@@ -205,11 +216,10 @@ GRASS_NONE                     Keyboard             5
 GRASS_SAVE                     Keyboard             9 
 
 ; MAP
+SURVEY_MAP_CYCLE               Keyboard             EXPL+TAB 
+SURVEY_MAP_TOGGLE              Keyboard             EXPL+CTRL+SHIFT+TAB 
 SURVEY_MAP_ZOOM_IN             Keyboard             EXPL+CTRL+TAB 
 SURVEY_MAP_ZOOM_OUT            Keyboard             EXPL+SHIFT+TAB 
-SURVEY_MAP_TOGGLE_VIEW         Keyboard             EXPL+TAB 
-SURVEY_MAP_TOGGLE_ALPHA        Keyboard             EXPL+CTRL+SHIFT+TAB 
-SURVEY_MAP_TOGGLE_ICONS        Keyboard             EXPL+CTRL+SHIFT+ALT+TAB
 
 ; MENU
 MENU_DOWN                      Keyboard             DOWN 
@@ -225,9 +235,9 @@ TRUCK_ACCELERATE_MODIFIER_50   Keyboard             CTRL+UP
 TRUCK_ANTILOCK_BRAKE           Keyboard             EXPL+SHIFT+B 
 TRUCK_AUTOSHIFT_DOWN           Keyboard             PGDOWN 
 TRUCK_AUTOSHIFT_UP             Keyboard             PGUP 
-TRUCK_BLINK_LEFT               Keyboard             COMMA 
-TRUCK_BLINK_RIGHT              Keyboard             PERIOD 
-TRUCK_BLINK_WARN               Keyboard             MINUS 
+TRUCK_BLINK_LEFT               Keyboard             EXPL+COMMA 
+TRUCK_BLINK_RIGHT              Keyboard             EXPL+PERIOD 
+TRUCK_BLINK_WARN               Keyboard             EXPL+MINUS 
 TRUCK_BRAKE                    Keyboard             DOWN 
 TRUCK_BRAKE_MODIFIER_25        Keyboard             ALT+DOWN 
 TRUCK_BRAKE_MODIFIER_50        Keyboard             CTRL+DOWN 
@@ -248,6 +258,7 @@ TRUCK_LIGHTTOGGLE9             Keyboard             EXPL+CTRL+9
 TRUCK_LIGHTTOGGLE10            Keyboard             EXPL+CTRL+0 
 TRUCK_MANUAL_CLUTCH            Keyboard             LSHIFT 
 TRUCK_PARKING_BRAKE            Keyboard             P 
+TRUCK_TRAILER_PARKING_BRAKE    Keyboard             EXPL+CTRL+P 
 TRUCK_SHIFT_DOWN               Keyboard             Z 
 TRUCK_SHIFT_NEUTRAL            Keyboard             D 
 TRUCK_SHIFT_UP                 Keyboard             A 
@@ -255,9 +266,13 @@ TRUCK_STARTER                  Keyboard             S
 TRUCK_STEER_LEFT               Keyboard             LEFT 
 TRUCK_STEER_RIGHT              Keyboard             RIGHT 
 TRUCK_SWITCH_SHIFT_MODES       Keyboard             Q 
-TRUCK_TOGGLE_AXLE_LOCK         Keyboard             W 
 TRUCK_TOGGLE_CONTACT           Keyboard             X 
 TRUCK_TOGGLE_FORWARDCOMMANDS   Keyboard             EXPL+CTRL+SHIFT+F 
 TRUCK_TOGGLE_IMPORTCOMMANDS    Keyboard             EXPL+CTRL+SHIFT+I 
+TRUCK_TOGGLE_INTER_AXLE_DIFF   Keyboard             EXPL+CTRL+W 
+TRUCK_TOGGLE_INTER_WHEEL_DIFF  Keyboard             EXPL+W 
+TRUCK_TOGGLE_PHYSICS           Keyboard             END 
+TRUCK_TOGGLE_TCASE_4WD_MODE    Keyboard             EXPL+SHIFT+W 
+TRUCK_TOGGLE_TCASE_GEAR_RATIO  Keyboard             EXPL+ALT+W 
 TRUCK_TOGGLE_VIDEOCAMERA       Keyboard             EXPL+CTRL+V 
 TRUCK_TRACTION_CONTROL         Keyboard             EXPL+SHIFT+V 
