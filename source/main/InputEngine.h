@@ -246,7 +246,7 @@ enum events
 	EV_COMMON_SCREENSHOT_BIG, //!< take a BIG screenshot
 	EV_COMMON_SAVE_TERRAIN, //!< save terrain mesh to file
 	EV_COMMON_SECURE_LOAD, //!< tie a load to the truck
-	EV_COMMON_SHOW_SKELETON, //!< toggle skeleton display mode
+	EV_COMMON_TOGGLE_DEBUG_VIEW, //!< toggle skeleton display mode
 	EV_COMMON_START_TRUCK_EDITOR, //!< start the old truck editor
 	EV_COMMON_TOGGLE_CUSTOM_PARTICLES, //!< toggle particle cannon
 	EV_COMMON_TOGGLE_MAT_DEBUG, //!< debug purpose - dont use
@@ -256,14 +256,11 @@ enum events
 	EV_COMMON_TOGGLE_TRUCK_BEACONS, //!< toggle truck beacons
 	EV_COMMON_TOGGLE_TRUCK_LIGHTS, //!< toggle truck front lights
 	EV_COMMON_TRUCK_INFO, //!< toggle truck HUD
-	EV_COMMON_VIEW_MAP, //!< toggle map modes
+	EV_SURVEY_MAP_CYCLE, //!< cycle map modes
+	EV_SURVEY_MAP_TOGGLE, //!< toggle map modes
 	EV_COMMON_FOV_LESS, //!<decreases the current FOV value
 	EV_COMMON_FOV_MORE, //!<increases the current FOV value
-	EV_GRASS_LESS, //!< EXPERIMENTAL: remove some grass
-	EV_GRASS_MORE, //!< EXPERIMENTAL: add some grass
-	EV_GRASS_MOST, //!< EXPERIMENTAL: set maximum amount of grass
-	EV_GRASS_NONE, //!< EXPERIMENTAL: remove grass completely
-	EV_GRASS_SAVE, //!< EXPERIMENTAL: save changes to the grass density image
+	EV_COMMON_FOV_RESET, //!<resets the current FOV value
 	EV_MAP_IN, //!< zoom into the overview map in interactive mode
 	EV_MAP_INTERACTIVE_TOGGLE, //!< toggle overview map interactive mode
 	EV_MAP_OUT, //!< zoom into the overview map in interactive mode
@@ -332,7 +329,8 @@ enum events
 	EV_TRUCK_STEER_RIGHT, //!< steer right
 	EV_TRUCK_SWITCH_SHIFT_MODES, //!< toggle between transmission modes
 	EV_TRUCK_TOGGLE_CONTACT, //!< toggle ignition
-	EV_TRUCK_TOGGLE_AXLE_LOCK,
+	EV_TRUCK_TOGGLE_INTER_WHEEL_DIFF,
+	EV_TRUCK_TOGGLE_INTER_AXLE_DIFF,
 
 	EV_COMMON_SHOWTRUCKTOOL,
 	EV_COMMON_RELOAD_ROADS,
@@ -360,29 +358,17 @@ enum events
 	EV_CHARACTER_ROT_DOWN,
 	EV_CHARACTER_UP,
 	EV_CHARACTER_DOWN,
+	EV_COMMON_TOGGLE_DASHBOARD,
+	EV_COMMON_TOGGLE_RESET_MODE,
+    EV_COMMON_CYCLE_DEBUG_VIEWS,
+	EV_TRUCK_TOGGLE_PHYSICS,
+	EV_TRUCK_TOGGLE_TCASE_4WD_MODE,
+	EV_TRUCK_TOGGLE_TCASE_GEAR_RATIO,
+	EV_TRUCK_TRAILER_PARKING_BRAKE,
 
-	// position storage now
-	EV_TRUCK_SAVE_POS1,
-	EV_TRUCK_SAVE_POS2,
-	EV_TRUCK_SAVE_POS3,
-	EV_TRUCK_SAVE_POS4,
-	EV_TRUCK_SAVE_POS5,
-	EV_TRUCK_SAVE_POS6,
-	EV_TRUCK_SAVE_POS7,
-	EV_TRUCK_SAVE_POS8,
-	EV_TRUCK_SAVE_POS9,
-	EV_TRUCK_SAVE_POS10,
-
-	EV_TRUCK_LOAD_POS1,
-	EV_TRUCK_LOAD_POS2,
-	EV_TRUCK_LOAD_POS3,
-	EV_TRUCK_LOAD_POS4,
-	EV_TRUCK_LOAD_POS5,
-	EV_TRUCK_LOAD_POS6,
-	EV_TRUCK_LOAD_POS7,
-	EV_TRUCK_LOAD_POS8,
-	EV_TRUCK_LOAD_POS9,
-	EV_TRUCK_LOAD_POS10,
+	//savegames
+	EV_COMMON_QUICKLOAD,
+	EV_COMMON_QUICKSAVE,
 
 	//DOF events
 	EV_DOF_TOGGLE,

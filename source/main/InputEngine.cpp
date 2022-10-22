@@ -1032,16 +1032,10 @@ eventInfo_t eventInfo[] = {
 		_L("tie a load to the truck")
 	},
 	{
-		"COMMON_SHOW_SKELETON",
-		EV_COMMON_SHOW_SKELETON,
+		"COMMON_TOGGLE_DEBUG_VIEW",
+		EV_COMMON_TOGGLE_DEBUG_VIEW,
 		"Keyboard K",
 		_L("toggle skeleton display mode")
-	},
-	{
-		"COMMON_START_TRUCK_EDITOR",
-		EV_COMMON_START_TRUCK_EDITOR,
-		"Keyboard EXPL+SHIFT+Y",
-		_L("start the old truck editor")
 	},
 	{
 		"COMMON_TOGGLE_CUSTOM_PARTICLES",
@@ -1054,12 +1048,6 @@ eventInfo_t eventInfo[] = {
 		EV_COMMON_TOGGLE_MAT_DEBUG,
 		"Keyboard EXPL+CTRL+F",
 		_L("debug purpose - dont use")
-	},
-	{
-		"COMMON_TOGGLE_RENDER_MODE",
-		EV_COMMON_TOGGLE_RENDER_MODE,
-		"Keyboard E",
-		_L("toggle render mode (solid, wireframe and points)")
 	},
 	{
 		"COMMON_TOGGLE_REPLAY_MODE",
@@ -1092,10 +1080,16 @@ eventInfo_t eventInfo[] = {
 		_L("toggle truck HUD")
 	},
 	{
-		"COMMON_VIEW_MAP",
-		EV_COMMON_VIEW_MAP,
+		"SURVEY_MAP_CYCLE",
+		EV_SURVEY_MAP_CYCLE,
 		"Keyboard EXPL+TAB",
-		_L("toggle map modes")
+		_L("cycle map modes")
+	},
+	{
+		"SURVEY_MAP_TOGGLE",
+		EV_SURVEY_MAP_TOGGLE,
+		"Keyboard EXPL+TAB",
+		_L("cycle map modes")
 	},
 	{
 		"COMMON_FOV_LESS",
@@ -1110,34 +1104,10 @@ eventInfo_t eventInfo[] = {
 		_L("increase the current FOV value")
 	},
 	{
-		"GRASS_LESS",
-		EV_GRASS_LESS,
-		"",
-		_L("EXPERIMENTAL: remove some grass")
-	},
-	{
-		"GRASS_MORE",
-		EV_GRASS_MORE,
-		"",
-		_L("EXPERIMENTAL: add some grass")
-	},
-	{
-		"GRASS_MOST",
-		EV_GRASS_MOST,
-		"",
-		_L("EXPERIMENTAL: set maximum amount of grass")
-	},
-	{
-		"GRASS_NONE",
-		EV_GRASS_NONE,
-		"",
-		_L("EXPERIMENTAL: remove grass completely")
-	},
-	{
-		"GRASS_SAVE",
-		EV_GRASS_SAVE,
-		"",
-		_L("EXPERIMENTAL: save changes to the grass density image")
+		"COMMON_FOV_RESET",
+		EV_COMMON_FOV_RESET,
+		"Keyboard EXPL+SHIFT+NUMPAD7",
+		_L("Reset the current FOV value to default")
 	},
 	{
 		"MAP_IN",
@@ -1531,10 +1501,16 @@ eventInfo_t eventInfo[] = {
 		_L("toggle between transmission modes")
 	},
 	{
-		"TRUCK_TOGGLE_AXLE_LOCK",
-		EV_TRUCK_TOGGLE_AXLE_LOCK,
+		"TRUCK_TOGGLE_INTER_WHEEL_DIFF",
+		EV_TRUCK_TOGGLE_INTER_WHEEL_DIFF,
 		"Keyboard W",
-		_L("Cycle between available differental models")
+		_L("Cycle between available wheel differental models")
+	},
+	{
+		"TRUCK_TOGGLE_INTER_AXLE_DIFF",
+		EV_TRUCK_TOGGLE_INTER_AXLE_DIFF,
+		"Keyboard EXPL+CTRL+W",
+		_L("Cycle between available axle differental models")
 	},
 	{
 		"TRUCK_TOGGLE_CONTACT",
@@ -1694,30 +1670,62 @@ eventInfo_t eventInfo[] = {
 		"Keyboard PGDOWN",
 		_L("move character down")
 	},
+	{
+		"COMMON_TOGGLE_DASHBOARD",
+		EV_COMMON_TOGGLE_DASHBOARD,
+		"Keyboard EXPL+CTRL+U",
+		_L("Toggle dashboard UI")
+	},
+	{
+		"COMMON_TOGGLE_RESET_MODE",
+		EV_COMMON_TOGGLE_RESET_MODE,
+		"Keyboard EXPL+APOSTROPHE",
+		_L("Toggles between soft and hard reset modes")
+	},
+	{
+		"COMMON_CYCLE_DEBUG_VIEWS",
+		EV_COMMON_CYCLE_DEBUG_VIEWS,
+		"Keyboard EXPL+CTRL+K",
+		_L("Cycle truck debug views")
+	},
+	{
+		"TRUCK_TOGGLE_PHYSICS",
+		EV_TRUCK_TOGGLE_PHYSICS,
+		"Keyboard END",
+		_L("Toggle physics for current vehicle")
+	},
+	{
+		"TRUCK_TOGGLE_TCASE_4WD_MODE",
+		EV_TRUCK_TOGGLE_TCASE_4WD_MODE,
+		"Keyboard EXPL+SHIFT+W",
+		_L("Toggle 4WD mode")
+	},
+	{
+		"TRUCK_TOGGLE_TCASE_GEAR_RATIO",
+		EV_TRUCK_TOGGLE_TCASE_GEAR_RATIO,
+		"Keyboard EXPL+ALT+W",
+		_L("Toggle transfer case gear ratios")
+	},
+	{
+		"TRUCK_TRAILER_PARKING_BRAKE",
+		EV_TRUCK_TRAILER_PARKING_BRAKE,
+		"Keyboard EXPL+CTRL+P",
+		_L("Toggle trailer parking brake")
+	},
 
-	// now position storage
-	{ "TRUCK_SAVE_POS1", EV_TRUCK_SAVE_POS1, "Keyboard EXPL+ALT+CTRL+1", _L("save position as slot 1") },
-	{ "TRUCK_SAVE_POS2", EV_TRUCK_SAVE_POS2, "Keyboard EXPL+ALT+CTRL+2", _L("save position as slot 2") },
-	{ "TRUCK_SAVE_POS3", EV_TRUCK_SAVE_POS3, "Keyboard EXPL+ALT+CTRL+3", _L("save position as slot 3") },
-	{ "TRUCK_SAVE_POS4", EV_TRUCK_SAVE_POS4, "Keyboard EXPL+ALT+CTRL+4", _L("save position as slot 4") },
-	{ "TRUCK_SAVE_POS5", EV_TRUCK_SAVE_POS5, "Keyboard EXPL+ALT+CTRL+5", _L("save position as slot 5") },
-	{ "TRUCK_SAVE_POS6", EV_TRUCK_SAVE_POS6, "Keyboard EXPL+ALT+CTRL+6", _L("save position as slot 6") },
-	{ "TRUCK_SAVE_POS7", EV_TRUCK_SAVE_POS7, "Keyboard EXPL+ALT+CTRL+7", _L("save position as slot 7") },
-	{ "TRUCK_SAVE_POS8", EV_TRUCK_SAVE_POS8, "Keyboard EXPL+ALT+CTRL+8", _L("save position as slot 8") },
-	{ "TRUCK_SAVE_POS9", EV_TRUCK_SAVE_POS9, "Keyboard EXPL+ALT+CTRL+9", _L("save position as slot 9") },
-	{ "TRUCK_SAVE_POS10", EV_TRUCK_SAVE_POS10, "Keyboard EXPL+ALT+CTRL+0", _L("save position as slot 10") },
-
-	{ "TRUCK_LOAD_POS1", EV_TRUCK_LOAD_POS1, "Keyboard EXPL+ALT+1", _L("load position under slot 1") },
-	{ "TRUCK_LOAD_POS2", EV_TRUCK_LOAD_POS2, "Keyboard EXPL+ALT+2", _L("load position under slot 2") },
-	{ "TRUCK_LOAD_POS3", EV_TRUCK_LOAD_POS3, "Keyboard EXPL+ALT+3", _L("load position under slot 3") },
-	{ "TRUCK_LOAD_POS4", EV_TRUCK_LOAD_POS4, "Keyboard EXPL+ALT+4", _L("load position under slot 4") },
-	{ "TRUCK_LOAD_POS5", EV_TRUCK_LOAD_POS5, "Keyboard EXPL+ALT+5", _L("load position under slot 5") },
-	{ "TRUCK_LOAD_POS6", EV_TRUCK_LOAD_POS6, "Keyboard EXPL+ALT+6", _L("load position under slot 6") },
-	{ "TRUCK_LOAD_POS7", EV_TRUCK_LOAD_POS7, "Keyboard EXPL+ALT+7", _L("load position under slot 7") },
-	{ "TRUCK_LOAD_POS8", EV_TRUCK_LOAD_POS8, "Keyboard EXPL+ALT+8", _L("load position under slot 8") },
-	{ "TRUCK_LOAD_POS9", EV_TRUCK_LOAD_POS9, "Keyboard EXPL+ALT+9", _L("load position under slot 9") },
-	{ "TRUCK_LOAD_POS10", EV_TRUCK_LOAD_POS10, "Keyboard EXPL+ALT+0", _L("load position under slot 10") },
-
+	// savegames
+	{
+		"COMMON_QUICKLOAD",
+		EV_COMMON_QUICKLOAD,
+		"Keyboard MULTIPLY",
+		_L("Quickload a savegame")
+	},
+	{
+		"COMMON_QUICKSAVE",
+		EV_COMMON_QUICKSAVE,
+		"Keyboard DIVIDE",
+		_L("Quicksave a savegame")
+	},
 
 	{ "DOF_TOGGLE", EV_DOF_TOGGLE, "Keyboard EXPL+CTRL+D", _L("turn on Depth of Field on or off") },
 	{ "DOF_DEBUG", EV_DOF_DEBUG, "Keyboard EXPL+ALT+D", _L("turn on the Depth of field debug view") },
