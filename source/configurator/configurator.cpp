@@ -2155,7 +2155,7 @@ void MyDialog::OnButSaveKeymap(wxCommandEvent& event)
 	{
 		for(int i=0;i<joyNums;i++)
 		{
-			choices[i+3] = wxT("Joystick ") + wxString::Format(_T("%d"), i) + wxT(": ") + conv(INPUTENGINE.getJoyVendor(i));
+			choices[i+3] = conv(INPUTENGINE.getJoyVendor(i));
 			choiceCounter++;
 		}
 	}
@@ -2176,9 +2176,9 @@ void MyDialog::OnButSaveKeymap(wxCommandEvent& event)
 		defaultFile.Replace(wxT(")"), wxT("_"));
 		defaultFile.Replace(wxT(":"), wxT("_"));
 		defaultFile.Replace(wxT(" "), wxT("_"));
-		defaultFile.Replace(wxT("__"), wxT("_"));
-		defaultFile.Replace(wxT("__"), wxT("_"));
-		defaultFile.Replace(wxT("_.map"), wxT(".map"));
+		//defaultFile.Replace(wxT("__"), wxT("_"));
+		//defaultFile.Replace(wxT("__"), wxT("_"));
+		//defaultFile.Replace(wxT("_.map"), wxT(".map"));
 		wxFileDialog *f = new wxFileDialog(this, _("Save Mapping to File"), wxString(), defaultFile, conv("*.map"), wxFD_SAVE || wxFD_OVERWRITE_PROMPT);
 		if(f->ShowModal() == wxID_OK)
 		{
